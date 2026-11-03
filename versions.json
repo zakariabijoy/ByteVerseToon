@@ -1,0 +1,22 @@
+{
+  "baselineObservedOn": "2026-11-04",
+  "runtime": {
+    "node": "24.22.1",
+    "python": "3.12.14",
+    "ffmpeg": "7.1",
+    "ffprobe": "2023-02-13-git-2296078397"
+  },
+  "frameworks": {
+    "remotion": "4.0.539",
+    "three": "0.187.0",
+    "reactThreeFiber": "9.8.2",
+    "hyperframesLegacy": "0.8.216"
+  },
+  "notes": [
+    "Observed local baseline, not a latest-version or licensing recommendation.",
+    "JS lockfile derived from existing 3D sample; regenerate only in a reviewed upgrade.",
+    "Python probe is stdlib-only; optional speech dependencies and model hashes need separate environment locking.",
+    "FFmpeg and FFprobe are distinct observed builds; binaries are not distributed."
+  ],
+  "packageManager": "npm@11.19.1"
+}

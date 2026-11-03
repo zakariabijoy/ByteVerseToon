@@ -1,0 +1,29 @@
+{
+  "name": "byteversetoon-remotion-three-template",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "24.22.1",
+    "npm": "11.19.1"
+  },
+  "scripts": {
+    "studio": "remotion studio src/index.tsx --no-open",
+    "check": "tsc --noEmit",
+    "render": "remotion render src/index.tsx GlassProp out/video.mp4 --codec=h264"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "@remotion/three": "4.0.539",
+    "@react-three/fiber": "9.8.2",
+    "three": "0.187.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/three": "0.187.0",
+    "typescript": "5.9.3"
+  },
+  "packageManager": "npm@11.19.1"
+}

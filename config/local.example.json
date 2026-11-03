@@ -1,0 +1,8 @@
+{
+  "workspace": "E:/ByteVerseToon",
+  "node": "node",
+  "python": "python",
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "voiceRuntime": "E:/ByteVerseToon/shared/runtime/neural-voice"
+}

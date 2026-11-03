@@ -1,0 +1,121 @@
+{
+  "channel": "ByteVerseToon",
+  "approvedOn": "2026-10-25",
+  "scope": "ByteVerseToon productions; current brief overrides defaults",
+  "guide": "quality-standard.md",
+  "defaults": {
+    "style": "2D character cartoon; phone/interface motion when requested or appropriate to the brief",
+    "voice": "Kokoro af_heart",
+    "voiceSpeed": 0.98,
+    "burnedInCaptions": false,
+    "captionDelivery": "Separate SRT by default; readable burned-in phrases when requested",
+    "cost": "free local tools",
+    "publishing": "Only on explicit authorization for the current video/version; verify actual success",
+    "visualModes": [
+      "character-cartoon",
+      "phone-interface",
+      "actual-3d-on-explicit-request",
+      "3d-glass-motion-graphics"
+    ],
+    "brandTheme": "brand-theme.json",
+    "avatar": "assets/brand/byteversetoon-profile.jpg",
+    "duration": "Follow requested target; otherwise use concise measured narration timing",
+    "shortFormat": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30
+    },
+    "regularFormat": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    },
+    "referenceStyleCaptions": "Burned-in short highlighted phrases plus SRT for the requested reference-style phone/interface mode",
+    "interfaceSurfaceStyle": "ByteVerseToon glassmorphism",
+    "preferredTechnologyShortRoute": "Approved 3D glass motion graphics when suited to the brief; retain other modes"
+  },
+  "regularStory": [
+    "visible problem",
+    "investigation",
+    "causal explanation",
+    "experiment or comparison",
+    "payoff"
+  ],
+  "shortStory": [
+    "one question",
+    "visual demonstration",
+    "answer and payoff"
+  ],
+  "shotFields": [
+    "purpose",
+    "narration",
+    "claim",
+    "sourceIds",
+    "setting",
+    "framing",
+    "characterGoal",
+    "characterAction",
+    "objectInteraction",
+    "mechanismShown",
+    "soundCue",
+    "transition",
+    "measuredTiming"
+  ],
+  "reviewCategories": [
+    "factualAccuracy",
+    "storyAndPacing",
+    "visualExplanation",
+    "characterInteraction",
+    "composition",
+    "thumbnailReadability",
+    "fullListeningReview",
+    "technicalPlayback"
+  ],
+  "reviewStates": [
+    "passed",
+    "needs_revision",
+    "pending"
+  ],
+  "reviewRule": "Record evidence separately for every category. No automatic creative or listening approval from technical checks.",
+  "listeningRule": "Listen through the complete final export when supported. Otherwise explicitly keep listening review pending for the user.",
+  "updatedOn": "2026-11-02",
+  "characterInteractionRule": "Required for character scenes; mark not applicable for a phone/interface scene and review the animated mechanism instead.",
+  "phoneInterfaceWorkflow": "phone-interface-workflow.md",
+  "cleanupRule": "Always prepare a read-only file plan, show scope/counts/estimated savings and preserved items, ask the user, and wait for explicit approval of the current plan before any deletion. Publication or a general cleanup request does not bypass confirmation; expanded scope requires another approval.",
+  "cleanupRequiresConfirmation": true,
+  "referenceStyle": {
+    "urls": [
+      "https://www.youtube.com/shorts/awdfQCKs67Y",
+      "https://www.youtube.com/shorts/er4bN1m0Yic"
+    ],
+    "direction": [
+      "Purposeful phone interactions",
+      "Progressive causal diagrams and cards",
+      "Varied framing",
+      "Short highlighted phrase captions",
+      "Original channel-branded visuals and narration"
+    ],
+    "inspectionLimit": "Opening and multiple later scenes visually inspected; full reference audio not reviewed"
+  },
+  "motionFrameworks": {
+    "preferredPhoneInterface": "HyperFrames",
+    "customScenes": "Remotion when suited to frame-driven interaction",
+    "hybrid": "Supported: silent Remotion scene assets on a HyperFrames master; one audio/caption owner",
+    "forceBothEveryTime": false,
+    "freeLocalOnly": true,
+    "real3DMotion": "Remotion + Three.js + React Three Fiber"
+  },
+  "workflow": "workflow.md",
+  "glassmorphismReview": [
+    "Match production/glassmorphism-style.md and saved palette",
+    "Keep text and diagrams sharp; preserve contrast as background moves",
+    "Check final exported frost, edges and shadows at 360 px width",
+    "Record native blur, layered simulation or glass-inspired fallback"
+  ],
+  "real3DMotionReview": [
+    "Actual frame-driven camera and mechanism motion",
+    "Preserve physical glass appearance and sharp text",
+    "Inspect decoded scene starts, seams, phone-size frames and final held ending",
+    "Keep full listening pending unless performed"
+  ]
+}

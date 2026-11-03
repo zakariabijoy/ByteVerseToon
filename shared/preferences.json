@@ -1,0 +1,176 @@
+{
+  "channel": "ByteVerseToon",
+  "voice": {
+    "engine": "Kokoro",
+    "voice": "af_heart",
+    "language": "en-us",
+    "speed": 0.98
+  },
+  "visualStyle": "Approved 3D glass motion graphics for suitable technology Shorts: flowing phone-to-chip-to-server camera movement with active isometric mechanisms; keep cartoon and phone/interface modes for other briefs",
+  "burnedInCaptions": false,
+  "bottomCaptionBar": false,
+  "separateSrt": "optional",
+  "updatedOn": "2026-11-02",
+  "reviewBeforePublishing": true,
+  "visualReviewStages": [
+    "full video review"
+  ],
+  "topicSelection": "Research current search interest, cite dated evidence, avoid published/pending repeats; no guaranteed virality",
+  "threeDPipelineStatus": "Approved Remotion/Three.js prop motion samples and full AI Short are active. The rejected USB-C character pilot remains retired.",
+  "costPolicy": "Free local workflow only: no paid services, credits, subscriptions, trials, paid assets or cloud rendering",
+  "productionTools": {
+    "modelingAnimationRendering": "Microsoft Store Blender 5.2.3 LTS; background render verified through Store launcher",
+    "speech": "Existing local Kokoro af_heart at 0.98",
+    "encoding": "Local FFmpeg",
+    "editing": "Microsoft Store CapCut detected; free features only; editor automation not tested"
+  },
+  "qualityStandard": {
+    "approvedOn": "2026-10-25",
+    "scope": "Next pair and future videos; do not remake the published earbuds pair",
+    "guide": "${BVT_WORKSPACE}/production/quality-standard.md",
+    "profile": "${BVT_WORKSPACE}/production/quality-profile.json",
+    "requiredImprovements": [
+      "Visible story hook and payoff",
+      "Varied framing and purposeful scene changes",
+      "Character acting and prop contact",
+      "Animate each causal step",
+      "Concise pacing without repetitive padding",
+      "Clear narration and action-synchronized sound",
+      "Full final-export listening review; pending if unavailable",
+      "One question per Short",
+      "Thumbnail with one subject and two to four main words"
+    ],
+    "reviewCategories": [
+      "factualAccuracy",
+      "storyAndPacing",
+      "visualExplanation",
+      "characterInteraction",
+      "composition",
+      "thumbnailReadability",
+      "fullListeningReview",
+      "technicalPlayback"
+    ],
+    "reviewRule": "Record evidence separately for every category. No automatic creative or listening approval from technical checks.",
+    "listeningRule": "Listen through the complete final export when supported. Otherwise explicitly keep listening review pending for the user.",
+    "updatedOn": "2026-10-29",
+    "characterInteractionRule": "Required for character scenes; for phone/interface scenes review the animated mechanism and mark character interaction not applicable"
+  },
+  "visualModes": [
+    "character-cartoon",
+    "phone-interface",
+    "actual-3d-on-explicit-request"
+  ],
+  "captionPolicy": "Reference-style phone explainers: concise burned-in highlighted phrase captions plus SRT; other modes: separate optional SRT unless requested. No heavy bottom bar. Record phrase timing honestly.",
+  "durationPolicy": "Follow the requested target and measured natural narration; do not force fixed scene lengths or make the published 67-second example a default",
+  "shortFormat": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "channelTheme": {
+    "background": "#050b20",
+    "electricBlue": "#1269e8",
+    "cyan": "#27dcef",
+    "lime": "#a6f51c",
+    "text": "#f4fbff"
+  },
+  "channelAvatar": "${BVT_WORKSPACE}/production/assets/brand/byteversetoon-profile.jpg",
+  "phoneInterfaceWorkflow": "${BVT_WORKSPACE}/production/phone-interface-workflow.md",
+  "publishingRule": "Explicit authorization is required for each current video/version; verify actual publication success and save public URL before cleanup",
+  "cleanupPolicy": {
+    "askBeforeEveryCleanup": true,
+    "planBeforeAsking": true,
+    "requireExplicitApprovalOfCurrentPlan": true,
+    "publicationTriggersAutomaticDeletion": false,
+    "generalCleanupRequestBypassesConfirmation": false,
+    "previousApprovalAppliesToFutureCleanup": false,
+    "includeInQuestion": [
+      "folders and file categories/counts",
+      "estimated storage savings",
+      "items preserved",
+      "local download links that will stop working"
+    ],
+    "preserve": [
+      "authored sources and scripts",
+      "shared channel assets and voice models",
+      "publication records and proof",
+      "pending thumbnails",
+      "rollback backups",
+      "videos awaiting review",
+      "scheduling configuration"
+    ]
+  },
+  "workflow": "${BVT_WORKSPACE}/production/workflow.md",
+  "motionFrameworks": {
+    "preferredPhoneInterface": "HyperFrames",
+    "customScenes": "Remotion when suited to frame-driven interaction",
+    "hybrid": "Supported: silent Remotion scene assets on a HyperFrames master; one audio/caption owner",
+    "forceBothEveryTime": false,
+    "freeLocalOnly": true,
+    "real3DMotion": "Remotion + Three.js + React Three Fiber"
+  },
+  "referenceStyle": {
+    "urls": [
+      "https://www.youtube.com/shorts/awdfQCKs67Y",
+      "https://www.youtube.com/shorts/er4bN1m0Yic"
+    ],
+    "direction": [
+      "Purposeful phone interactions",
+      "Progressive causal diagrams and cards",
+      "Varied framing",
+      "Short highlighted phrase captions",
+      "Original channel-branded visuals and narration"
+    ],
+    "inspectionLimit": "Opening and multiple later scenes visually inspected; full reference audio not reviewed"
+  },
+  "glassmorphism": {
+    "preferred": true,
+    "scope": "Preferred phone/interface and system-design surfaces in regular videos and Shorts; current brief overrides",
+    "guide": "${BVT_WORKSPACE}/production/glassmorphism-style.md",
+    "palette": "Existing channel navy, electric blue, cyan, lime and cool white",
+    "referenceUrls": [
+      "https://www.youtube.com/watch?v=CXkK7SKj-zc",
+      "https://www.youtube.com/shorts/3evj4WvbbYU",
+      "https://youtu.be/lJm6xInMQ10",
+      "https://www.youtube.com/shorts/KWZEO1jW-0k",
+      "https://www.youtube.com/shorts/UxSK6at4NTU"
+    ],
+    "inspectionLimit": "Message Queues Episode 5 published regular/Short visually sampled; underlying blur implementation unverified; no full viewing/listening review. Older CDN and battery evidence remains secondary.",
+    "primaryReferenceUrls": [
+      "https://www.youtube.com/watch?v=CXkK7SKj-zc",
+      "https://www.youtube.com/shorts/3evj4WvbbYU"
+    ]
+  },
+  "threeDMotion": {
+    "approvedOn": "2026-11-02",
+    "guide": "${BVT_WORKSPACE}/production/3d-motion-workflow.md",
+    "preferredCameraFlow": "AI3DMotion phone-to-chip-to-server journey",
+    "complementaryView": "AIIsometric active glass machine",
+    "maintainGlassmorphism": true,
+    "fullExample": "${BVT_WORKSPACE}/videos/2026-11-02-ai-behind-chatbox-3d",
+    "newCharacterApprovalNotImplied": true
+  },
+  "publishingBrowser": "Signed-in Microsoft Edge extension for YouTube, Facebook and Instagram when requested",
+  "languageVersions": {
+    "default": "English",
+    "banglaOnlyWhenRequested": true,
+    "scope": "Shorts and regular videos",
+    "englishVoice": {
+      "engine": "local Kokoro",
+      "voice": "af_heart",
+      "language": "en-us",
+      "speed": 0.98
+    },
+    "banglaVoice": {
+      "engine": "Microsoft online neural TTS",
+      "voice": "bn-BD-NabanitaNeural",
+      "gender": "female",
+      "language": "bn-BD",
+      "rate": "+0%",
+      "pitch": "+0Hz",
+      "approvedOn": "2026-11-02",
+      "note": "User approved the Nabanita preview. Requires internet; do not silently substitute offline BanglaTTS or another voice."
+    },
+    "authorization": "Voice preference only; create a Bangla version when explicitly requested. Publishing still requires its own applicable authorization."
+  }
+}

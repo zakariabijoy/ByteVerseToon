@@ -1,0 +1,47 @@
+# PC-only configuration and secrets
+/config/local.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+credentials*.json
+cookies*.json
+*token*.local.*
+# Dependencies, models, caches and builds
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.npm-cache/
+dist/
+build/
+out/
+coverage/
+*.log
+*.onnx
+*.bin
+*.safetensors
+# Local episodes and downloaded tools; curate authored sources separately
+/videos/
+/work/
+/shared/runtime/
+/shared/published.json
+/production/tools/
+/production/config.json
+# Exports, recordings and previews
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+frames/
+previews/
+Thumbs.db
+.DS_Store
+*.backup-*
+# Local validation evidence
+/.validation/

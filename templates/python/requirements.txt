@@ -1,0 +1,2 @@
+# probe_video.py uses Python's standard library only.
+# Optional narration dependencies are documented separately in the shared skill.

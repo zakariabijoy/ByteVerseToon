@@ -1,0 +1,79 @@
+{
+  "channel": "ByteVerseToon",
+  "handle": "@ByteVerseToon",
+  "updatedOn": "2026-11-02",
+  "preference": "Maintain visual theme matching the actual channel banner and robot profile picture.",
+  "palette": {
+    "background": "#050b20",
+    "electricBlue": "#1269e8",
+    "cyan": "#27dcef",
+    "lime": "#a6f51c",
+    "text": "#f4fbff"
+  },
+  "logoRule": "Use the actual channel avatar; do not recreate it.",
+  "source": "Channel banner/profile inspected in browser on 2026-10-28; user requested maintaining channel theme on 2026-10-29.",
+  "glassmorphism": {
+    "name": "ByteVerseToon glassmorphism",
+    "scope": "Preferred phone/interface and system-design surfaces in regular videos and Shorts; current brief overrides",
+    "reference": "production/glassmorphism-style.md",
+    "surfaceFill": "rgba(16,36,62,0.65)",
+    "surfaceOpacityRange": [
+      0.55,
+      0.8
+    ],
+    "backdropBlurPx": 16,
+    "backdropBlurRangePx": [
+      12,
+      20
+    ],
+    "edgeColor": "rgba(39,220,239,0.35)",
+    "edgeWidthPx": [
+      1,
+      2
+    ],
+    "cornerRadiusPx": [
+      20,
+      28
+    ],
+    "shadow": "0 16px 48px rgba(0,0,0,0.25)",
+    "contentRule": "Keep text, icons, captions and causal diagram lines sharp; blur background only",
+    "exportRule": "Verify native/simulated frost in decoded frames; describe opaque-panel fallback as glass-inspired",
+    "scaleBasis": "1080 px design canvas width; scale proportionally",
+    "referencesReviewed": [
+      {
+        "kind": "primary-regular",
+        "title": "Your Order Is Placed. Why Is Everything Still Waiting? | System Design Ep. 5",
+        "url": "https://www.youtube.com/watch?v=CXkK7SKj-zc",
+        "evidence": "Published player queue/worker and retry/idempotency scenes visually sampled; no full listening review"
+      },
+      {
+        "kind": "primary-companion-short",
+        "title": "Why Is Checkout Waiting for an Email? Message Queues #Shorts",
+        "url": "https://www.youtube.com/shorts/3evj4WvbbYU",
+        "evidence": "Published player opening, approximately 17-second scene and ending visually sampled; no full listening review"
+      },
+      {
+        "kind": "secondary-regular",
+        "title": "Why Are Images Slow Far Away? CDNs Explained | System Design Ep. 4",
+        "url": "https://youtu.be/lJm6xInMQ10",
+        "evidence": "Retained final MP4 at 80 seconds, full scene contact sheet and film.html inspected"
+      },
+      {
+        "kind": "secondary-companion-short",
+        "title": "Fast Server, Slow Pictures? What a CDN Does #Shorts",
+        "url": "https://www.youtube.com/shorts/KWZEO1jW-0k",
+        "evidence": "Retained final MP4 at 16 seconds, scene contact sheet and publication record inspected"
+      },
+      {
+        "kind": "secondary-latest-saved-short",
+        "title": "Why Does Your Phone Stop Charging at 80%? #Shorts",
+        "url": "https://www.youtube.com/shorts/UxSK6at4NTU",
+        "evidence": "Retained cover and authored sources; full local export removed in approved cleanup, so no new full playback review"
+      }
+    ],
+    "seriesAccents": "Episode 5: teal/violet ambient lighting, glossy cool-white rims and translucent rounded robot bodies; preserve channel palette",
+    "threeDGuide": "production/3d-motion-workflow.md",
+    "threeDReference": "videos/2026-11-02-ai-behind-chatbox-3d",
+    "threeDMaterial": "Physical translucent navy glass, clear pipes, glossy cool-white/cyan rims and restrained teal/violet lighting"
+  }
+}
