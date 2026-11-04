@@ -5,7 +5,19 @@ its own checkout, media workspace, tools and credentials. Work on one PC at a
 time: pull before editing, commit and push when finished, then pull on the other.
 Git does not automatically synchronize unsaved edits or uncommitted files.
 
-## Current assessment (2026-11-04, Asia/Dhaka)
+## Existing checkout
+
+The repository is populated. For an existing checkout, use the everyday
+pull/edit/push procedure below; the initial setup/import steps are historical
+bootstrap instructions. Read the repo-scoped skill for current production
+defaults. Configure each PC separately in ignored `config/local.json`.
+The older desktop media layout may keep `preferences.json`, `published.json`
+and `runtime/` directly under its workspace. Preserve those files; use this
+checkout's shared preferences as maintained defaults, retaining local-only
+cast/assets and publication history. A global skill can be a small local router
+to the canonical skill here instead of keeping a second edited workflow.
+
+## Initial setup assessment (2026-11-04, Asia/Dhaka)
 
 `E:\ByteVerseToon` contains production guides, shared preferences/publication
 history, local runtimes and existing video projects. It was not a Git repository.

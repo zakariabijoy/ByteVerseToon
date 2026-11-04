@@ -14,14 +14,15 @@ records, runtimes and episode sources. Read shared guides from this checkout
 when they are absent in the media workspace. Historical absolute paths in
 references are provenance only. Resolve this PC tools before invoking them.
 The portable narration helper is `scripts/neural_speech.py` in this checkout;
-set `BVT_VOICE_RUNTIME` before using it. No installed global skill was replaced.
+set `BVT_VOICE_RUNTIME` before using it. A global skill may route here, but
+maintained production instructions belong in this checkout.
 
 
 ## Current channel workflow (2026-11-02)
 
 Use free local tools and the actual ByteVerseToon identity. The published mind-reading Short established an additional phone/interface explainer option; it did not replace every cartoon, make every video 67 seconds, or make burned-in captions mandatory. User instructions for the current video override defaults.
 
-Read the local project `production/brand-theme.json`, `production/quality-profile.json`, and shared `${BVT_WORKSPACE}/shared/preferences.json` and `${BVT_WORKSPACE}/shared/published.json` before production. The project on this PC is `${BVT_WORKSPACE}`.
+Read this checkout's `production/brand-theme.json`, `production/quality-profile.json`, and `shared/preferences.json` before production. They hold the maintained defaults. Read publication history from `${BVT_WORKSPACE}/shared/published.json`, falling back to `${BVT_WORKSPACE}/published.json` for the older desktop layout. Preserve local-only cast, assets and episode records; reconcile newer shared defaults rather than replacing local files wholesale. Missing history is unknown, not proof that a topic is unpublished. Resolve the avatar relative to the media workspace; report a missing asset instead of inventing a replacement.
 
 ## Brand and production defaults
 
@@ -87,4 +88,4 @@ The workspace cleanup script defaults to planning. Use its deletion switches onl
 
 Keep scripts and authored animation sources, storyboard, captions, sources, upload text, technical/creative verification, publication record and a small confirmation screenshot. Preserve supplied originals, shared channel avatar, voice models, render tools, installed skills, unrelated videos, videos awaiting review, pending thumbnails, rollback backups and all scheduling configuration. Record removed filenames and total bytes; tell the user local download links to removed files will stop working.
 
-On this PC, append the publication record to `${BVT_WORKSPACE}/shared/published.json`, preserving existing entries. Historical paths from another PC are provenance, not deletion targets. This skill does not create background jobs, new chats, delegate work or change automation schedules merely because production or cleanup was requested.
+Append publication records to the active history resolved above, preserving existing entries. Do not create a second history merely because the older desktop uses `published.json` at its workspace root. Historical paths from another PC are provenance, not deletion targets. This skill does not create background jobs, new chats, delegate work or change automation schedules merely because production or cleanup was requested.

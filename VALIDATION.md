@@ -1,5 +1,17 @@
 # Setup validation — 2026-11-04
 
+## Desktop workflow update — 2026-11-04, Asia/Dhaka
+
+Validated the canonical skill and local discovery entry with the bundled
+skill-creator validator. Parsed shared preferences and ignored local configuration;
+verified every setup-manifest file exists and `git diff --check` passes.
+The local entry routes to this checkout, retaining legacy render assets and
+scripts. Maintained defaults now resolve separately from older desktop media,
+cast and publication records. These instruction changes did not render a video,
+regenerate narration, verify a missing avatar, or certify runtime readiness.
+
+## Original setup checks
+
 Passed on the personal Windows PC:
 
 - Shared skill validated by the bundled skill-creator validator.

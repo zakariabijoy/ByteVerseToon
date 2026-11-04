@@ -58,7 +58,8 @@
   "visualModes": [
     "character-cartoon",
     "phone-interface",
-    "actual-3d-on-explicit-request"
+    "3d-prop-motion-graphics",
+    "actual-3d-character-on-explicit-request"
   ],
   "captionPolicy": "Reference-style phone explainers: concise burned-in highlighted phrase captions plus SRT; other modes: separate optional SRT unless requested. No heavy bottom bar. Record phrase timing honestly.",
   "durationPolicy": "Follow the requested target and measured natural narration; do not force fixed scene lengths or make the published 67-second example a default",

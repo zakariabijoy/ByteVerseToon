@@ -37,7 +37,7 @@ Both frameworks can create either visual style. They do not automatically improv
 
 ## Production sequence
 
-1. Check saved published and pending topics. Research claims using current primary sources and map claims to sources.
+1. Read maintained preferences and production guides from this checkout. Resolve the media workspace from `BVT_WORKSPACE` or ignored `config/local.json`. Check saved published and pending topics there: use `shared/published.json`, or `published.json` on the older desktop layout. Keep local-only cast/assets and episode records; do not overwrite them during sync. Research claims using current primary sources and map claims to sources.
 2. Create a fresh episode/version folder, storyboard and SPEC with a first-three-second hook, one question, mechanism, tradeoff and payoff. Choose scene ownership and caption mode before rendering.
 3. Generate approved local narration, measure WAV files, and derive timing. Use natural speech; edit wording instead of time stretching.
 4. Build topic-specific phone interactions and diagrams. Keep every graphic that must be read inside platform-safe space, check at 360 px width, and favor short labels over tiny interface copy. Use fictional/mock interfaces only when clearly identified.
@@ -50,9 +50,9 @@ Both frameworks can create either visual style. They do not automatically improv
 
 Use existing Kokoro, FFmpeg, Remotion and HyperFrames installations. No paid generation, account credits, cloud render or API keys. Runtime locations are discovered from the desktop dependency tool and project configuration. The October 30 samples pin Remotion 4.0.539 and HyperFrames 0.8.216; preserve exact compatible versions within each episode.
 
-On this PC the system Node launcher has no active version. The local `production/scripts/hyperframes.ps1` wrapper uses the configured Node executable and adds the installed FFmpeg/ffprobe directories for the command. Run it from the intended native project with `-CommandArgs @('check','--json')` or the applicable command arguments. The normal CLI remains appropriate on machines with an already configured tool path.
+Some PCs have an inactive system Node launcher. Discover the actual executable and configure it locally. An existing media workspace may provide `production/scripts/hyperframes.ps1`, which uses its configured Node and FFmpeg/ffprobe paths; this wrapper is not shipped here. Inspect it before use and run it from the intended native project. Otherwise use the installed CLI with the verified runtime and that version's supported commands. Do not copy another PC's absolute paths.
 
-See [phone-interface-workflow.md](phone-interface-workflow.md), [quality-standard.md](quality-standard.md) and [quality-profile.json](quality-profile.json). The installed byteversetoon-video skill routes to its motion-frameworks.md reference.
+See [phone-interface-workflow.md](phone-interface-workflow.md), [quality-standard.md](quality-standard.md) and [quality-profile.json](quality-profile.json). The canonical [byteversetoon-video skill](../.agents/skills/byteversetoon-video/SKILL.md) routes to its motion-frameworks.md reference.
 
 ## Cross-platform publication through Microsoft Edge
 
