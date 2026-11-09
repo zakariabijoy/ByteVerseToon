@@ -1,6 +1,6 @@
 ---
 name: byteversetoon-video
-description: Create, revise, review and publish ByteVerseToon videos and Shorts. Use channel branding, local female narration, 3D glass motion graphics or 2D explainers, HyperFrames or Remotion, and MP4 export. Publish to YouTube or, when requested, the Facebook Page and Instagram through the Microsoft Edge extension. Always plan and ask before cleanup.
+description: Create, revise, review and publish ByteVerseToon videos, Shorts and recurring storytelling series. Use the channel identity and the chosen series voice/style with Remotion or HyperFrames. Publish only when requested; plan and ask before cleanup.
 ---
 
 # ByteVerseToon Video
@@ -51,12 +51,16 @@ For the requested reference-style mode, use meaningful phone interactions, progr
 
 ## Select the visual mode
 
+- **Recurring storytelling series:** read [storytelling-series.md](storytelling-series.md) and the selected series manifest/bible. For Nila, preserve the requested Bangla narration, Bengali character styling and supplied Ananya audio. The series is an explicit exception to channel-wide English/technology defaults, not a replacement for them. GitHub sync does not authorize YouTube publishing or paid generation.
+
 - **2D character cartoon:** retain the preferred character-led option for stories, experiments, reactions and prop interaction. Read [cartoon-production.md](cartoon-production.md). Adapt artwork and framing to the topic; do not change only the narration of the Wi-Fi example.
 - **Phone/interface explainer:** use when the brief calls for animated phones, feeds, apps, data flow, rankings or simple diagrams. Read [phone-interface-production.md](phone-interface-production.md). This is an authored 2D motion workflow with depth-inspired lighting and mockups; do not describe it as rigged or photorealistic 3D. No 3D character approval stages are required for this mode.
 - **3D prop/motion graphics:** use the approved [3d-motion-graphics.md](3d-motion-graphics.md) route for spatial technology explanations. Preserve glassmorphism and animate the causal mechanism.
 - **Actual 3D character animation:** use only for an explicit request, with [3d-production.md](3d-production.md). The rejected USB-C pilot was removed; do not resume or reconstruct it. Verify modeling/rendering capability and follow applicable look/acting review stages without repeating approvals already recorded.
 
 ## Produce and review
+
+For an existing storytelling series, continue its current episode/source and recorded review state. Do not discard supplied audio, restart narration in a default voice, or describe maquettes as finished rigged characters. When the brief requests preview review before export, preserve that review boundary. See [storytelling-series.md](storytelling-series.md) for cross-PC source/media handoff.
 
 1. Verify technical claims using current primary sources. Record which source supports each claim. Clearly identify analogies, illustrative UI, and fictional examples; do not imply a particular signal certainly caused a particular recommendation. Inspect supplied references when accessible, and state limits rather than claiming a full viewing/listening review.
 2. Write an original hook within the first three seconds, a relatable example, causal steps, and a brief payoff and subscribe invitation. Record narration, scene purpose, visual actions, framing, sound cues, transitions and source links. Clarify only real missing inputs or conflicting branding that cannot be resolved from context.

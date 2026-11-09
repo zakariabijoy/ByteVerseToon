@@ -255,3 +255,18 @@ whether commercial/team use changes licensing requirements.
 
 No company policy was available to inspect, so this setup makes no legal or
 policy determination. Use your employer's actual policy and approved workflow.
+
+## Nila Bangla storytelling Shorts
+
+The recurring series lives in [series/nilas-little-world](series/nilas-little-world/series.json).
+Read its series bible and [storytelling workflow](production/storytelling-series-workflow.md).
+Episode 01 source is `series/nilas-little-world/episodes/01-umbrella`; it includes
+an exact 60-second Remotion animatic and a separate 10-second umbrella scene.
+The current characters are development maquettes, not final rigged assets.
+
+For your other PC, read the episode's `CONTINUE-ON-ANOTHER-PC.md`. Git synchronizes
+source, lockfile, scripts, story, styling and review state. Restore the separate
+`nila-e01-media.zip` to obtain the original narration and real channel avatar;
+a Git pull alone does not include media. The supplied Ananya Bangla narration
+is specific to this series; English Heart remains the channel-wide default.
+No paid synthesis, YouTube upload or cleanup is implied by this source handoff.

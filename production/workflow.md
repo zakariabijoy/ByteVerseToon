@@ -6,6 +6,12 @@ Updated 2026-11-02: approved flowing real 3D camera animation, isometric glass m
 
 Original technology Shorts and regular videos; topic and publication-history checks; primary-source research; scripts and measured female narration; character cartoons and phone/interface explainers; channel artwork and colors; optional captions, music and action sounds; editable previews; H.264/AAC exports; factual, visual, listening and technical review; prepared YouTube metadata; explicitly requested publishing; separately approved cleanup.
 
+## Recurring storytelling series (2026-11-09)
+
+Named story series also use this repository. Follow [storytelling-series-workflow.md](storytelling-series-workflow.md) and the series manifest/bible. The current Nila series is explicitly requested in Bangla, with Bengali character styling, colorful actual 3D, and user-supplied Ananya narration. Keep the warm story world; apply ByteVerseToon's navy/cyan/lime wordmark and real avatar in brand elements and the held subscribe ending. Do not replace this story with a technology explainer or a glass interface template.
+
+Curated source, scripts, exact package versions, lockfile, storyboard, voice directions, asset checksums and review state live under series/nilas-little-world. Media remains outside Git in a separate bundle. Test restore and setup before claiming a cross-PC handoff works. Supplied Cartesia recordings need no API key or new synthesis. No paid service use is authorized by this exception. This episode is still a review-stage animatic with character maquettes; preserve the user's request to review before export. YouTube publication is separate from GitHub synchronization.
+
 ## Current phone/interface direction
 
 Use an original concrete example and show its mechanism. A phone action causes the next visual: tap a setting, change a charge threshold, expand an explanation, compare behavior, then return to the phone with the answer. Change framing at meaningful beats, usually every 2–4 seconds within a longer narrated scene. Avoid replacing scene progression with one tilted phone, a floating percentage and decorative motion.

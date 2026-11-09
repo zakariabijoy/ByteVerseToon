@@ -16,6 +16,13 @@ when requested. Keep cartoon, interface and real 3D prop modes available; adapt
 the visual mechanism to the narration. Templates demonstrate plumbing, not a
 finished episode. Never describe a technical check as full creative/listening QA.
 
+For named storytelling series, read its series.json and SERIES-BIBLE.md and
+production/storytelling-series-workflow.md. Nila is explicitly Bangla with
+user-supplied Ananya narration and Bengali character styling. Preserve that
+series choice without changing the channel-wide English default. Curated
+authored series sources live under series/; recordings and artwork remain in
+separate checksum-verified media bundles. A Git pull alone does not restore them.
+
 Use exact dependency versions and committed lockfiles. Preserve versions in
 existing episodes. Do not upgrade tools or install paid/cloud services silently.
 Keep media, credentials, browser profiles, employer material and downloaded

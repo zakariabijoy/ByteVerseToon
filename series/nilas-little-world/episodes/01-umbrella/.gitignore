@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+# Episode recordings and restored brand assets travel in a separate media bundle.
+public/audio/
+public/brand/
+*.zip
+config/local.json

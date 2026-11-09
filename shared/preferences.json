@@ -173,5 +173,19 @@
       "note": "User approved the Nabanita preview. Requires internet; do not silently substitute offline BanglaTTS or another voice."
     },
     "authorization": "Voice preference only; create a Bangla version when explicitly requested. Publishing still requires its own applicable authorization."
+  },
+  "storytellingSeries": {
+    "mediaSync": "Separate checksum-verified bundle; Git contains curated authored source only",
+    "activeSeries": [
+      {
+        "channelDefaultsUnchanged": true,
+        "id": "nilas-little-world",
+        "style": "colorful 3D with Bengali character styling",
+        "voice": "user-supplied female Cartesia Ananya recording",
+        "manifest": "series/nilas-little-world/series.json",
+        "language": "bn-BD"
+      }
+    ],
+    "guide": "production/storytelling-series-workflow.md"
   }
 }
