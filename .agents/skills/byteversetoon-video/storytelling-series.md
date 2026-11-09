@@ -1,27 +1,19 @@
 # Recurring ByteVerseToon storytelling series
 
-Use for character-led episodic stories and continuity work. Read the selected series' `series.json`, `SERIES-BIBLE.md`, episode director packet and review notes before editing. Keep existing frameworks and pinned dependencies; do not rebuild a working episode solely to follow a newer template.
+Use for episodic character-led stories and continuity work. Establish the new series identity and recurring cast with the user before assigning a title, protagonist, wardrobe or narrator. Do not carry over characters or stories from retired projects. Read the selected series bible/manifest when one exists; channel-wide defaults remain for unrelated work.
 
-## Nila / নীলার ছোট্ট পৃথিবী
+## Story-first collaboration
 
-Source: `series/nilas-little-world/episodes/01-umbrella`. Audience: teens/adults. Format: 1080×1920, 30 fps, 60 seconds for episode 01. Language: explicitly Bangla. Narrator: user-supplied female Cartesia Ananya WAV, not the English Heart or Bangla Nabanita defaults. Do not spend credits or call Cartesia, clone a voice, or regenerate speech merely to continue the project. Future voice generation needs the user's chosen route; existing clean supplied recordings can be reused.
+Draft one requested episode story at a time. Give enough scene and emotional direction for the user to review. Revise from feedback until explicit final story approval. Silence, editing requests and old audio are not approval of a changed story. Provide recording-ready copy with timing/emotion notes when needed, then wait for the user to supply its voiceover. Do not generate or commission speech, require a paid provider, clone a voice or assume API access.
 
-Nila is an aspiring artist. Preserve her teal salwar kameez, cream salwar and orna, long side braid, small earrings, coral satchel, sketchbook and yellow umbrella. Seller/daughter designs are documented in the bible. Cultural styling comes from individual clothing, hair and context. Preserve readable acting and prop contact. Current procedural models are development maquettes; user-requested edits do not by themselves certify final character quality.
+After approved story and audio arrive, measure the recording and build the storyboard/animation around natural speech. Preserve the chosen cast's appearance, proportions, wardrobe, props and acting conventions. Document accepted cast changes deliberately. Keep consistent identity while varying actions, framing and story conflicts. Do not produce additional episodes automatically.
 
-Keep the warm colorful story-world palette. Brand overlays and ending use ByteVerseToon's navy/blue/cyan/lime/cool white and verified real avatar. No invented robot/logo. The series name is a sub-brand. Avoid a long spoken channel intro. Preserve natural speech, scene-specific acting, purposeful holds and exact duration; pause-based audio cuts are draft alignment until listened to.
+## Animation and review
+
+Use the selected framework and exact pinned dependencies. ByteVerseToon wordmark, real avatar and navy/blue/cyan/lime identity belong in brand elements; the story-world treatment follows the approved series style. Do not call maquettes final characters or claim listening approval from technical checks. Return the video for user review. Story approval, voiceover delivery and GitHub sync do not authorize publication.
 
 ## Cross-PC handoff
 
-Read `production/storytelling-series-workflow.md`. Git carries curated authored source, lockfiles, cast/series bible, scripts, metadata and review state. Keep recordings, avatars, previews, exports, tools and credentials out of Git. Prepare a separate allowlisted media ZIP and a source-controlled SHA-256 manifest. Restore only declared assets, verify hashes, refuse differing existing files, then regenerate derived audio using `npm run prepare-media`. Run `npm ci`, `npm run check` and preview on the receiving PC. No absolute author-PC paths in portable scripts; use environment/ignored local config.
+Follow production/storytelling-series-workflow.md. Git carries curated authored code, lockfiles, bible, scripts and review state; recordings, avatars, exports, dependencies and credentials stay separate. Use an allowlisted media bundle and SHA-256 manifest where useful. Restore declared assets only, refuse differing existing files, verify setup and preserve original recordings. Resolve machine paths from environment/ignored local config, not another PC's absolute paths.
 
-Before syncing, use the existing safe pull workflow and inspect the Git diff. Stage only intended files, commit and push without forced history changes. GitHub sign-in may need the user; never request a token in chat or extract browser credentials. A GitHub push is not a YouTube publication. Keep any unpushed commit and media bundle available if authentication is missing.
-
-## Continue the series
-
-The user explicitly chose a story-first collaboration on 2026-11-09. Supply one episode's story at a time, in Bangla, with enough scene/emotion direction to review. Revise it from the user's feedback. Do not treat silence, a request for an edit, or a prior recording as approval of a changed story. After explicit final story approval, provide a recording-ready script with timing/emotion notes if needed and wait for the user to supply the voiceover. Do not synthesize or commission it. Only then derive actual scene timing and build/revise animation. Keep the established recurring cast consistent; record additions or approved design changes in the bible.
-
-The existing umbrella video is a design pilot only and must remain unpublished. Its supplied audio remains preserved as pilot material; do not repurpose it for a revised story automatically. Review future completed episodes with the user. Neither story approval nor voiceover delivery authorizes publishing. Publish only upon an explicit later request for that current video/version.
-
-Create a new episode folder when the user requests the next story. Reuse cast and style deliberately while preserving the earlier episode snapshot. Record new story, actual audio, shot timing, assets, review evidence and publication state. Each story needs its own goal, obstacle, choice, practical kindness and earned consequence; do not automatically repeat the umbrella rescue or add a reward for Nila. Keep channel-wide English/technology defaults for other productions.
-
-Preview review precedes final finish/export when requested. Keep factual, creative, technical and listening checks distinct. Never mark a full listen as passed from audio meters or successful renders. No cleanup or platform publication is implied by workflow maintenance.
+Use the repository's safe pull/edit/commit/push workflow. Preserve divergent work without reset, clean, forced push or automatic stashing. A GitHub push is not platform publication. Cleanup follows the canonical skill's exact-file plan and approval process; explicit removal of a retired project does not authorize deleting unrelated material.

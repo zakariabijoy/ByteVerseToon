@@ -1,39 +1,23 @@
 # ByteVerseToon storytelling series workflow
 
-## Nila's story-first collaboration
+## New series and consistent cast
 
-The user reviews and edits each episode story before production. Draft only one requested episode at a time; preserve recurring characters and show the story's emotional beats. Work through revisions until the user explicitly approves the final story. Then provide the approved narration copy with separate timing/emotion directions as needed. The user supplies the final voiceover; do not generate speech or require Cartesia/API access. A recording from an earlier draft does not automatically apply to a revised story.
+Establish the new series name, premise and recurring characters with the user. Do not reuse retired casts or assign a protagonist by default. Record accepted character reference designs, proportions, clothing, colors, props and narrator choice in a series bible before extending continuity across episodes. Keep ByteVerseToon channel branding; select the story-world visual style to fit the user's brief.
 
-After receiving the approved story's voiceover, measure it and build the storyboard/animation around natural speech. Keep timing estimates distinct from measured alignment. Review the finished episode with the user. Story approval, voiceover delivery and GitHub sync do not authorize publication. The current umbrella video is an unpublished design pilot; preserve it and its originals without treating it as the first approved release.
+## Episode order
 
-## Scope and continuity
+1. Draft one episode's story for review, with emotional beats and visual actions.
+2. Apply the user's revisions until they explicitly approve the final story.
+3. Supply recording-ready script/timing/emotion notes when useful. The user provides the voiceover; do not synthesize it or require a paid provider.
+4. Measure that recording and build a storyboard/animation to its natural pace. Do not start a new draft's animation before story approval and supplied audio.
+5. Return the video for user review. Story approval and voiceover delivery do not authorize publishing. Publish only on a later explicit request for that reviewed version.
 
-Named series supplement the existing technology routes. Choose the series from `series/<slug>/series.json`; read its bible before production. The current `nilas-little-world` series is user-requested Bangla storytelling for teens/adults, colorful 3D, Bengali character styling and a warm emotional tone. The supplied Ananya recording is a series-level choice, not a change to the channel's English Heart default or authorization for paid TTS.
+Preserve a consistent cast while varying the conflict, actions, staging and emotional consequence. Develop an acting sample before extending finish when requested. Keep unfinished model, alignment, creative and listening states honest. Technical checks do not establish full creative or listening approval.
 
-Start with a short original outline, visual guide, character reference requirements and storyboard with emotional purpose, framing, action, sound and timing. Assemble the animatic around measured narration. Develop a representative acting scene before extending finish when the user asks for staged review. The Nila sources already contain a 60-second animatic and a 10-second umbrella scene; continue them instead of making another starter. Record maquette/final-model status honestly.
+## Portable source and media
 
-Use ByteVerseToon wordmark, actual avatar, navy/cyan/lime brand treatment and a held ending. Story settings/wardrobes retain the selected series colors. Keep no-burned-caption default unless the brief changes. Prepared YouTube metadata must identify fictional stories accurately and preserve audience review; animation alone does not decide platform audience settings. Syncing code never publishes a video.
+Curate authored sources, exact dependency versions/lockfiles, scripts, series bible, episode storyboards, metadata and review state in Git. Keep supplied recordings, artwork, exports, previews, dependencies, credentials and tools outside Git. A source-only clone is incomplete until required media is restored.
 
-## Portable layout
+For a cross-PC media handoff, create an allowlisted bundle and source-controlled manifest with SHA-256 hashes, sizes and target paths. Verify hashes before copying, refuse to overwrite differing existing assets, and preserve supplied originals. Resolve per-PC runtime/media/browser paths from environment or ignored local configuration. Do not copy proprietary fonts or whole agent settings. Test locked dependency setup, media restore and preview on the receiving PC.
 
-- `series/<slug>/series.json`: audience, language, voice input, visual identity, status, episode index.
-- `series/<slug>/SERIES-BIBLE.md`: recurring cast, props, tone, story variety and continuity.
-- `series/<slug>/episodes/<id>/`: curated authored code, exact package versions/lockfile, scripts, production documents and metadata.
-- Episode `production/media-manifest.json`: required source assets, SHA-256, size and target paths.
-- Separate `nila-e01-media.zip`: episode 01 original narration and verified avatar only. Exclude credentials, personal files, tools and generated previews. Do not put this ZIP or its contents into Git.
-
-The episode's `CONTINUE-ON-ANOTHER-PC.md` has the actual commands. After source checkout and media restore, run `npm ci`, `npm run prepare-media`, `npm run check`, and `npm run studio`. A source-only clone is deliberately incomplete until its media bundle is restored. Package and restore scripts verify assets; they refuse to replace differing files. Keep the user-supplied original. The current Node helper cuts clips and creates temporary rain without Python dependencies.
-
-Resolve browser/media paths from environment or ignored local config. Preserve current dependencies; the Nila project uses Remotion 4.0.541, separately from older 4.0.539 examples. Do not upgrade existing templates to match it. Windows Nirmala UI supplies Bangla glyphs locally; use a licensed equivalent and review shaping on another OS.
-
-## Switching PCs
-
-On the sending PC, run the existing sync script before editing. Inspect the final diff, stage specific authored paths, commit and push. Transfer the separate media ZIP using the user's approved file route or GitHub attachment when separately appropriate. Do not claim the media was uploaded if only source was pushed. Record delivery location and source commit in the handoff. Do not add recordings to Git just to avoid a media handoff.
-
-On the receiving PC, pull before editing, restore the media bundle, verify hashes and preview. Keep machine-specific config ignored. No whole-home or agent-settings copy is needed; open this repo as the project so its canonical skill is available. A global discovery entry can continue routing to this checkout on its own PC. Never hard-code the sending PC's checkout in the portable skill.
-
-If Git authentication is missing, preserve the prepared commit and ask the user to sign in through the normal GitHub CLI/Git Credential Manager flow. Do not ask for secrets in chat. Resolve divergence deliberately without reset, clean, forced push or automatic stashing. Leave media and unrelated local production untouched.
-
-## Review and delivery
-
-Verify file restore, locked dependency install, TypeScript/lint, scene starts/seams, mobile framing, final held channel ending, actual audio duration and natural playback rate. Render stills for composition checks and inspect acting in motion. Technical checks are not full listening or creative QA. Preserve pending review states. Export H.264/AAC only when within the current requested scope; YouTube publishing and cleanup follow their existing separate authorization rules.
+Before editing, use scripts/Sync-Workflow.ps1. Review diffs, stage specific authored paths, commit and push. On the other PC, pull before work. Preserve both versions on conflict; no forced push, reset, clean or automatic stashing. GitHub source synchronization does not publish a video. Cleanup always follows the separate exact-file plan and approval rules.

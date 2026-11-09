@@ -16,15 +16,13 @@ when requested. Keep cartoon, interface and real 3D prop modes available; adapt
 the visual mechanism to the narration. Templates demonstrate plumbing, not a
 finished episode. Never describe a technical check as full creative/listening QA.
 
-For named storytelling series, read its series.json and SERIES-BIBLE.md and
-production/storytelling-series-workflow.md. Nila is explicitly Bangla with
-user-supplied Ananya narration and Bengali character styling. Preserve that
-series choice without changing the channel-wide English default. Curated
-authored series sources live under series/; recordings and artwork remain in
-separate checksum-verified media bundles. A Git pull alone does not restore them.
-Nila episodes follow story draft -> user revisions/final story approval ->
-user-supplied voiceover -> animation -> user video review. Keep the umbrella
-video as an unpublished design pilot. Do not generate voiceover or publish by default.
+For storytelling series, read production/storytelling-series-workflow.md and
+the canonical skill reference. Establish the new series/cast with the user.
+Draft one episode -> user revisions and final story approval -> user supplies
+voiceover -> animation -> user video review. Keep characters consistent once
+selected. Do not synthesize voiceover or publish by default. Curated authored
+series sources may live under series/; recordings and artwork remain separate
+from Git. A Git pull alone does not restore media.
 
 Use exact dependency versions and committed lockfiles. Preserve versions in
 existing episodes. Do not upgrade tools or install paid/cloud services silently.

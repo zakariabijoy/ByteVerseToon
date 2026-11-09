@@ -175,18 +175,12 @@
     "authorization": "Voice preference only; create a Bangla version when explicitly requested. Publishing still requires its own applicable authorization."
   },
   "storytellingSeries": {
-    "mediaSync": "Separate checksum-verified bundle; Git contains curated authored source only",
-    "activeSeries": [
-      {
-        "channelDefaultsUnchanged": true,
-        "id": "nilas-little-world",
-        "style": "colorful 3D with Bengali character styling",
-        "voice": "user-supplied female Cartesia Ananya recording",
-        "manifest": "series/nilas-little-world/series.json",
-        "language": "bn-BD"
-      }
-    ],
     "guide": "production/storytelling-series-workflow.md",
-    "collaboration": "One episode story draft -> user review/revisions and final story approval -> user supplies voiceover -> animation -> user video review. Existing umbrella video is an unpublished design pilot; no automatic publishing or voice generation."
+    "activeSeries": [],
+    "newSeriesStatus": "Establish a new series and consistent cast with the user",
+    "collaboration": "One episode story draft -> user review/revisions and final story approval -> user supplies voiceover -> animation -> user video review",
+    "automaticVoiceGeneration": false,
+    "automaticPublishing": false,
+    "mediaSync": "Separate verified media handoff; Git contains curated authored source only"
   }
 }

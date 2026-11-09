@@ -6,13 +6,11 @@ Updated 2026-11-02: approved flowing real 3D camera animation, isometric glass m
 
 Original technology Shorts and regular videos; topic and publication-history checks; primary-source research; scripts and measured female narration; character cartoons and phone/interface explainers; channel artwork and colors; optional captions, music and action sounds; editable previews; H.264/AAC exports; factual, visual, listening and technical review; prepared YouTube metadata; explicitly requested publishing; separately approved cleanup.
 
-## Recurring storytelling series (2026-11-09)
+## Recurring storytelling series
 
-Nila's user-directed order is: one episode story draft -> user review/revisions and explicit final story approval -> user supplies voiceover -> measured storyboard/animation -> user video review. The existing umbrella video remains an unpublished design pilot. Do not synthesize narration or begin a new story's animation before story approval and supplied audio. No release is authorized by approving a script or delivering voiceover.
+Follow [storytelling-series-workflow.md](storytelling-series-workflow.md). Establish the new series identity and recurring cast with the user rather than continuing a retired project. The user reviews one episode story at a time, requests revisions and approves the final story, then supplies the voiceover. Only then derive measured timing and build the animation. Preserve character continuity across episodes. Completed videos return to user review; publishing requires its own explicit request.
 
-Named story series also use this repository. Follow [storytelling-series-workflow.md](storytelling-series-workflow.md) and the series manifest/bible. The current Nila series is explicitly requested in Bangla, with Bengali character styling, colorful actual 3D, and user-supplied Ananya narration. Keep the warm story world; apply ByteVerseToon's navy/cyan/lime wordmark and real avatar in brand elements and the held subscribe ending. Do not replace this story with a technology explainer or a glass interface template.
-
-Curated source, scripts, exact package versions, lockfile, storyboard, voice directions, asset checksums and review state live under series/nilas-little-world. Media remains outside Git in a separate bundle. Test restore and setup before claiming a cross-PC handoff works. Supplied Cartesia recordings need no API key or new synthesis. No paid service use is authorized by this exception. This episode is still a review-stage animatic with character maquettes; preserve the user's request to review before export. YouTube publication is separate from GitHub synchronization.
+Keep ByteVerseToon identity and the selected story-world style. Series language and narrator choices are explicit per-series inputs, not automatic changes to other channel productions. Do not synthesize voiceover, spend generation credits or duplicate languages without instruction. Git carries authored sources, lockfiles, scripts and continuity documents; supplied recordings/artwork use a separate verified media handoff. Preserve technical, creative and listening review as distinct states.
 
 ## Current phone/interface direction
 
