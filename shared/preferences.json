@@ -186,6 +186,7 @@
         "language": "bn-BD"
       }
     ],
-    "guide": "production/storytelling-series-workflow.md"
+    "guide": "production/storytelling-series-workflow.md",
+    "collaboration": "One episode story draft -> user review/revisions and final story approval -> user supplies voiceover -> animation -> user video review. Existing umbrella video is an unpublished design pilot; no automatic publishing or voice generation."
   }
 }

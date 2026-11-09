@@ -5,13 +5,53 @@
   "channelHandle": "@ByteVerseToon",
   "audience": "teens and adults",
   "language": "bn-BD",
-  "format": {"type":"YouTube Short","width":1080,"height":1920,"fps":30},
+  "format": {
+    "type": "YouTube Short",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
   "visualStyle": "Colorful stylized actual 3D, Bengali characters and warm everyday settings",
-  "voice": {"name":"Ananya","provider":"Cartesia","modelFromSuppliedFilename":"sonic-3.6-2026-08-27","gender":"female","input":"user-supplied recording","regenerationAuthorized":false},
+  "voice": {
+    "name": "Ananya",
+    "provider": "Cartesia",
+    "modelFromSuppliedFilename": "sonic-3.6-2026-08-27",
+    "gender": "female",
+    "input": "user-supplied recording",
+    "regenerationAuthorized": false
+  },
   "captionMode": "no burned-in narration captions; optional separate SRT",
-  "episode01DurationSeconds":60,
-  "episodes":[{"id":"01-umbrella","title":"একটা ছাতার গল্প","source":"episodes/01-umbrella","status":"branded animatic and detailed scene for review","published":false}],
-  "review": {"finalCharacterFinish":"pending","fullListening":"pending","exactNarrationAlignment":"pending"},
-  "mediaPolicy":"Separate checksum-verified bundle; recordings and avatar are excluded from Git",
-  "updatedOn":"2026-11-09"
+  "episode01DurationSeconds": 60,
+  "episodes": [
+    {
+      "id": "01-umbrella",
+      "title": "একটা ছাতার গল্প",
+      "source": "episodes/01-umbrella",
+      "status": "unpublished design pilot; not an approved release",
+      "published": false,
+      "role": "design-pilot"
+    }
+  ],
+  "review": {
+    "finalCharacterFinish": "pending",
+    "fullListening": "pending",
+    "exactNarrationAlignment": "pending"
+  },
+  "mediaPolicy": "Separate checksum-verified bundle; recordings and avatar are excluded from Git",
+  "updatedOn": "2026-11-09",
+  "collaboration": {
+    "currentPilot": "Do not publish",
+    "automaticVoiceGeneration": false,
+    "voiceoverOwner": "user",
+    "order": [
+      "one episode story draft",
+      "user story review and revisions",
+      "explicit final story approval",
+      "user supplies voiceover",
+      "audio-timed storyboard and animation",
+      "user video review"
+    ],
+    "newAnimationBeforeApprovedStoryAndAudio": false,
+    "publishing": "Only on a later explicit request for the current reviewed video"
+  }
 }

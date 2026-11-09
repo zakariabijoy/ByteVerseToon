@@ -18,6 +18,10 @@ Before syncing, use the existing safe pull workflow and inspect the Git diff. St
 
 ## Continue the series
 
+The user explicitly chose a story-first collaboration on 2026-11-09. Supply one episode's story at a time, in Bangla, with enough scene/emotion direction to review. Revise it from the user's feedback. Do not treat silence, a request for an edit, or a prior recording as approval of a changed story. After explicit final story approval, provide a recording-ready script with timing/emotion notes if needed and wait for the user to supply the voiceover. Do not synthesize or commission it. Only then derive actual scene timing and build/revise animation. Keep the established recurring cast consistent; record additions or approved design changes in the bible.
+
+The existing umbrella video is a design pilot only and must remain unpublished. Its supplied audio remains preserved as pilot material; do not repurpose it for a revised story automatically. Review future completed episodes with the user. Neither story approval nor voiceover delivery authorizes publishing. Publish only upon an explicit later request for that current video/version.
+
 Create a new episode folder when the user requests the next story. Reuse cast and style deliberately while preserving the earlier episode snapshot. Record new story, actual audio, shot timing, assets, review evidence and publication state. Each story needs its own goal, obstacle, choice, practical kindness and earned consequence; do not automatically repeat the umbrella rescue or add a reward for Nila. Keep channel-wide English/technology defaults for other productions.
 
 Preview review precedes final finish/export when requested. Keep factual, creative, technical and listening checks distinct. Never mark a full listen as passed from audio meters or successful renders. No cleanup or platform publication is implied by workflow maintenance.

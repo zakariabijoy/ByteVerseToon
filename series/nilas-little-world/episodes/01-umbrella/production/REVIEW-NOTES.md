@@ -1,5 +1,7 @@
 # Episode 01 review state
 
+User direction (2026-11-09): do not publish this video. Preserve it as the design pilot. New episodes follow story draft -> user review/revisions and explicit final story approval -> user supplies voiceover -> animation -> user video review. Do not generate narration or automatically reuse the pilot recording for changed stories.
+
 ## Available previews
 - Episode01-Animatic: 1080 × 1920, 30 fps, exactly 1800 frames / 60 seconds.
 - Umbrella-Lookdev-10s: the same umbrella shot used in the film, 300 frames / 10 seconds.

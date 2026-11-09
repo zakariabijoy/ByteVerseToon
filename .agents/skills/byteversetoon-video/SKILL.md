@@ -53,6 +53,8 @@ For the requested reference-style mode, use meaningful phone interactions, progr
 
 - **Recurring storytelling series:** read [storytelling-series.md](storytelling-series.md) and the selected series manifest/bible. For Nila, preserve the requested Bangla narration, Bengali character styling and supplied Ananya audio. The series is an explicit exception to channel-wide English/technology defaults, not a replacement for them. GitHub sync does not authorize YouTube publishing or paid generation.
 
+For Nila, the user controls each story before production: draft one episode, revise it with the user, obtain the user's final story approval and their voiceover, then build animation to that recording. Do not auto-generate voiceover or animate a new draft before those inputs. The umbrella video is an unpublished design pilot, not an approved release.
+
 - **2D character cartoon:** retain the preferred character-led option for stories, experiments, reactions and prop interaction. Read [cartoon-production.md](cartoon-production.md). Adapt artwork and framing to the topic; do not change only the narration of the Wi-Fi example.
 - **Phone/interface explainer:** use when the brief calls for animated phones, feeds, apps, data flow, rankings or simple diagrams. Read [phone-interface-production.md](phone-interface-production.md). This is an authored 2D motion workflow with depth-inspired lighting and mockups; do not describe it as rigged or photorealistic 3D. No 3D character approval stages are required for this mode.
 - **3D prop/motion graphics:** use the approved [3d-motion-graphics.md](3d-motion-graphics.md) route for spatial technology explanations. Preserve glassmorphism and animate the causal mechanism.

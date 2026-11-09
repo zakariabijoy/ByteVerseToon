@@ -1,5 +1,11 @@
 # ByteVerseToon storytelling series workflow
 
+## Nila's story-first collaboration
+
+The user reviews and edits each episode story before production. Draft only one requested episode at a time; preserve recurring characters and show the story's emotional beats. Work through revisions until the user explicitly approves the final story. Then provide the approved narration copy with separate timing/emotion directions as needed. The user supplies the final voiceover; do not generate speech or require Cartesia/API access. A recording from an earlier draft does not automatically apply to a revised story.
+
+After receiving the approved story's voiceover, measure it and build the storyboard/animation around natural speech. Keep timing estimates distinct from measured alignment. Review the finished episode with the user. Story approval, voiceover delivery and GitHub sync do not authorize publication. The current umbrella video is an unpublished design pilot; preserve it and its originals without treating it as the first approved release.
+
 ## Scope and continuity
 
 Named series supplement the existing technology routes. Choose the series from `series/<slug>/series.json`; read its bible before production. The current `nilas-little-world` series is user-requested Bangla storytelling for teens/adults, colorful 3D, Bengali character styling and a warm emotional tone. The supplied Ananya recording is a series-level choice, not a change to the channel's English Heart default or authorization for paid TTS.

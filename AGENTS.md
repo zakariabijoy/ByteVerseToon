@@ -22,6 +22,9 @@ user-supplied Ananya narration and Bengali character styling. Preserve that
 series choice without changing the channel-wide English default. Curated
 authored series sources live under series/; recordings and artwork remain in
 separate checksum-verified media bundles. A Git pull alone does not restore them.
+Nila episodes follow story draft -> user revisions/final story approval ->
+user-supplied voiceover -> animation -> user video review. Keep the umbrella
+video as an unpublished design pilot. Do not generate voiceover or publish by default.
 
 Use exact dependency versions and committed lockfiles. Preserve versions in
 existing episodes. Do not upgrade tools or install paid/cloud services silently.

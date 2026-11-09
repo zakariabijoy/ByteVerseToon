@@ -2,6 +2,10 @@
 
 A ByteVerseToon Bangla YouTube Shorts series for teens and adults. Nila, a young aspiring artist, learns how practical small acts can affect ordinary lives. Each episode is a complete story with its own goal, obstacle, choice and consequence. Kindness is neither a magical cure nor a guaranteed reward for Nila. Preserve her ambitions, uncertainty and limits.
 
+## Collaboration order — user direction, 2026-11-09
+
+Draft one episode story, let the user review and change it, obtain explicit final story approval, then wait for the user's voiceover. Only after that should animation be produced to the actual recording. Supply narration timing/emotion notes when useful, but do not synthesize voiceover. Keep cast designs consistent across stories; update this bible deliberately when a change is accepted. The current umbrella animation is an unpublished design pilot, not an approved episode release. Do not publish it. Future releases need their own explicit publication request after video review.
+
 ## Cast and world
 
 Nila: approximately 20, medium-brown skin, side-parted black hair with one long braid, small gold earrings, teal salwar kameez with restrained geometric trim, cream salwar and orna, flat sandals, coral shoulder satchel, cream sketchbook. Signature yellow umbrella appears when the story calls for it. Keep proportions, hair, outfit colors and prop scale consistent; vary acting rather than redrawing her identity.

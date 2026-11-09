@@ -8,6 +8,8 @@ Original technology Shorts and regular videos; topic and publication-history che
 
 ## Recurring storytelling series (2026-11-09)
 
+Nila's user-directed order is: one episode story draft -> user review/revisions and explicit final story approval -> user supplies voiceover -> measured storyboard/animation -> user video review. The existing umbrella video remains an unpublished design pilot. Do not synthesize narration or begin a new story's animation before story approval and supplied audio. No release is authorized by approving a script or delivering voiceover.
+
 Named story series also use this repository. Follow [storytelling-series-workflow.md](storytelling-series-workflow.md) and the series manifest/bible. The current Nila series is explicitly requested in Bangla, with Bengali character styling, colorful actual 3D, and user-supplied Ananya narration. Keep the warm story world; apply ByteVerseToon's navy/cyan/lime wordmark and real avatar in brand elements and the held subscribe ending. Do not replace this story with a technology explainer or a glass interface template.
 
 Curated source, scripts, exact package versions, lockfile, storyboard, voice directions, asset checksums and review state live under series/nilas-little-world. Media remains outside Git in a separate bundle. Test restore and setup before claiming a cross-PC handoff works. Supplied Cartesia recordings need no API key or new synthesis. No paid service use is authorized by this exception. This episode is still a review-stage animatic with character maquettes; preserve the user's request to review before export. YouTube publication is separate from GitHub synchronization.

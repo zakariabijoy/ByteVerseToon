@@ -1,5 +1,7 @@
 # ByteVerseToon — নীলার ছোট্ট পৃথিবী — Episode 01
 
+**Design pilot only — do not publish.** The user will review each new episode story, approve revisions, and supply its voiceover before animation. Existing composition IDs are retained for source compatibility; they do not make this pilot an approved episode release.
+
 60-second vertical 3D storytelling animatic with the supplied Ananya Bangla narration, plus a separate 10-second umbrella scene for review.
 
 For another PC, start with [CONTINUE-ON-ANOTHER-PC.md](CONTINUE-ON-ANOTHER-PC.md): restore the separate media bundle, use `npm ci`, then run `npm run prepare-media` and `npm run check`. Run `npm run studio` to open Remotion Studio. Select `Episode01-Animatic` for the whole edit or `Umbrella-Lookdev-10s` for the representative scene. No video export is required to review them.
