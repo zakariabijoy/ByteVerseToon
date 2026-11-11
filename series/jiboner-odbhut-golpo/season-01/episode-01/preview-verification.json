@@ -1,0 +1,23 @@
+{
+  "scope": "interactive_preview_only",
+  "composition": "Episode01",
+  "dimensions": [1080, 1920],
+  "fps": 30,
+  "durationFrames": 2789,
+  "sourceVoiceSeconds": 92.96,
+  "voicePlaybackRate": 1,
+  "typescript": "passed",
+  "sourceAudioFullDecode": "passed",
+  "threeTrackAudioMixFullDecode": "passed",
+  "mixMaxVolumeDbfs": -1.7,
+  "mixMeanVolumeDbfs": -21.6,
+  "browserPreview": "loaded_and_sampled_in_motion",
+  "visualInspection": "opening_manager_reveal_maya_ending_sampled",
+  "framingFixes": ["Sajid moved inside the portrait frame", "Misplaced folder text removed"],
+  "animationTechnique": "limited_cutout_pose_changes_head_motion_and_camera_reframing",
+  "fullListeningReview": "pending",
+  "dialogueSynchronization": "estimated_from_script_and_pauses_requires_listening_review",
+  "creativeApproval": "pending_user_review",
+  "mp4Export": "not_exported",
+  "publication": "not_requested"
+}

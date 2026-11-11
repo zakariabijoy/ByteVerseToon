@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "description": "Allowlisted local media; restore separately from Git",
+  "voiceoverDurationSeconds": 92.96,
+  "assets": [
+    {
+      "file": "backgrounds.png",
+      "sizeBytes": 2390632,
+      "sha256": "97A4E50E39E5BA4DA1504E01B3CFD44D236C19521D075E4E04B4A6519B8B9F09"
+    },
+    {
+      "file": "byteversetoon-profile.jpg",
+      "sizeBytes": 20199,
+      "sha256": "5C0597E0600B4E5D9169E95B5B9051A7C4AB6979D815C7B13907F5CEC723941E"
+    },
+    {
+      "file": "manager.png",
+      "sizeBytes": 1415851,
+      "sha256": "06657AC88081629AB01DF576B4AB5BF5C00D7FDB978C7F3F3C571719B98216D1"
+    },
+    {
+      "file": "maya.png",
+      "sizeBytes": 1877777,
+      "sha256": "CEB13EF4FF90F768E3513E406AAFF9246D4201262799D5824A824D8969F6280D"
+    },
+    {
+      "file": "original-underscore.wav",
+      "sizeBytes": 4099580,
+      "sha256": "694DA360D49AE4E15BB30F3958D17C16C822A596B5C3E4D5A1DE5E93271F4D50"
+    },
+    {
+      "file": "rafi.png",
+      "sizeBytes": 1642126,
+      "sha256": "76B9EA0FD7A06003D756BD7C70CE118F64F6C86CA6CF8C3B1D0F0A1DC3183D2A"
+    },
+    {
+      "file": "reference-lineup.png",
+      "sizeBytes": 3205778,
+      "sha256": "4BF40903A5D8FD75873D7D10C6778D4AF90F15226BDA3B0271EF56A955D4F333"
+    },
+    {
+      "file": "reference-production.png",
+      "sizeBytes": 3202370,
+      "sha256": "E60862902A4AB2B7354A0FFDB9D0E8B704726B99376B79207277C5D8C39867F1"
+    },
+    {
+      "file": "sajid.png",
+      "sizeBytes": 1488092,
+      "sha256": "20A7CD69668CFF62C6829A10E9015B5B6B744D7A4AE6BAFE2FDAA4D78CB7D500"
+    },
+    {
+      "file": "scene-cues.wav",
+      "sizeBytes": 4099580,
+      "sha256": "798C75780DC66323F240BE07EED3F91AE45B13DBE34B145372D6234E4E8D883F"
+    },
+    {
+      "file": "voiceover-original.wav",
+      "sizeBytes": 8199116,
+      "sha256": "351ABDFB58CEC2D772C32326F1DCEA6F0429A4FC9E8F41A2708C14115125A236"
+    }
+  ]
+}
