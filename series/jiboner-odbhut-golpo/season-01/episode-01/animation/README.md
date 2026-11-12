@@ -1,8 +1,24 @@
-# Episode 01 animated review render — version 2
+# Episode 01 animated review render — version 3
 
 User-approved Bangla story and supplied final voiceover. Source voiceover is
 92.96 s, unaltered; composition is 2789 frames / 30 fps (92.9667 s). Last frame
 holds the closing scene. No speech replacement or time stretching.
+
+## Version 3 seam correction
+
+The user reported visible cuts at the neck and arms in version 2. The active
+Puppet now uses each complete original character pose on one continuous surface.
+A smooth displacement field bends the head/neck and gesturing arm together;
+face overlays are deformed with the same surface. There are no separate rotating
+neck, shoulder, elbow or wrist pieces in the final episode. The typing shot uses
+the same continuous-surface principle around keyboard contact points.
+
+Several hands cross equal-width atlas cell boundaries. `pose-bounds.ts` records
+the measured alpha-connected bounds so raised hands remain complete and adjacent
+poses cannot leak into the frame. Whole-pose expression changes ease over ten
+frames. Mouth timing remains approximate. Old rig files and artwork are retained
+as historical experiments, but Puppet no longer imports the old SkeletonBody or
+separate talking heads. Motion is deliberately restrained to preserve the art.
 
 ## Preview
 
@@ -23,7 +39,7 @@ listening socket to 127.0.0.1; Remotion's printed Network URL is not accessible.
 Use the locally installed Nirmala UI font for Bengali. No proprietary font is
 bundled; another PC must have a suitable Bengali font installed.
 
-## Version 2 treatment and review limits
+## Version 2 treatment history and continuing review limits
 
 - Nine editable scenes, warm illustrated Dhaka office/corridor/rooftop settings.
 - Four recurring characters based on user-supplied series reference sheets.

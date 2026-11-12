@@ -13,8 +13,8 @@
     "evidence": "Secret, project loss, reassignment, conversation and resolution staged separately."
   },
   "characterInteraction": {
-    "state": "passed",
-    "evidence": "Two-joint arm gestures, timed quoted-speaker mouths, listener reactions, workstation contact. Mouth shapes approximate."
+    "state": "needs_revision",
+    "evidence": "User reported visible neck/arm seams throughout version 2 on 2026-11-13; previous still-based pass did not catch the moving layer joins."
   },
   "composition": {
     "state": "passed",

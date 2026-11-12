@@ -10,6 +10,8 @@ parser.add_argument("ffmpeg")
 parser.add_argument("ffprobe")
 parser.add_argument("directory", type=Path)
 parser.add_argument("voice", type=Path)
+parser.add_argument("--version", type=int, default=2)
+parser.add_argument("--frames", default="80,1400,2788")
 args = parser.parse_args()
 video = args.directory / "video.mp4"
 
@@ -32,10 +34,13 @@ decoded = run([args.ffmpeg, "-v", "error", "-xerror", "-i", str(video), "-f", "n
 assert not decoded.stderr.strip(), decoded.stderr
 sha = hashlib.sha256(args.voice.read_bytes()).hexdigest().upper()
 assert sha == "351ABDFB58CEC2D772C32326F1DCEA6F0429A4FC9E8F41A2708C14115125A236"
-run([args.ffmpeg, "-v", "error", "-n", "-i", str(video), "-vf", "select=eq(n\\,80)+eq(n\\,1400)+eq(n\\,2788),scale=360:640", "-fps_mode", "vfr", "-frames:v", "3", str(args.directory / "decoded-mobile-%02d.png")])
+frames = sorted(set(int(value) for value in args.frames.split(",")))
+assert frames and all(0 <= frame < 2789 for frame in frames)
+selection = "+".join(f"eq(n\\,{frame})" for frame in frames)
+run([args.ffmpeg, "-v", "error", "-n", "-i", str(video), "-vf", f"select={selection},scale=360:640", "-fps_mode", "vfr", "-frames:v", str(len(frames)), str(args.directory / "decoded-mobile-%02d.png")])
 mastering = json.loads((args.directory / "audio-mastering.json").read_text())
 report = {
-    "version": 2, "composition": "Episode01", "dimensions": [1080, 1920],
+    "version": args.version, "composition": "Episode01", "dimensions": [1080, 1920],
     "fps": 30, "durationFrames": 2789, "durationSeconds": float(probe["format"]["duration"]),
     "videoCodec": picture["codec_name"], "pixelFormat": picture["pix_fmt"],
     "audioCodec": audio["codec_name"], "audioSampleRate": 48000, "audioChannels": 2,
@@ -45,7 +50,7 @@ report = {
     "truePeakDb": float(mastering["finalMeasurement"]["input_tp"]),
     "mp4Sha256": hashlib.sha256(video.read_bytes()).hexdigest().upper(),
     "mp4Bytes": video.stat().st_size,
-    "decodedMobileFrames": [80, 1400, 2788],
+    "decodedMobileFrames": frames,
     "fullListeningReview": "pending", "creativeApproval": "pending_user_review",
     "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
     "publication": "not_requested",

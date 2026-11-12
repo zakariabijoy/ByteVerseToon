@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "revision": "Repair user-reported neck/arm cuts across episode",
+  "characterInteraction": {
+    "state": "passed",
+    "evidence": "Intact illustration deformation replaces separate neck/arm/wrist pieces. Full-size samples of all four speakers, typing samples, and decoded final samples inspected."
+  },
+  "motion": {
+    "state": "passed",
+    "evidence": "Studio playback sampled through secret, reply and manager scenes; smooth restrained motion. Not a full-duration creative viewing."
+  },
+  "composition": {
+    "state": "passed",
+    "evidence": "Eight final decoded 360x640 frames inspected including the exact reported Rafi dialogue moment, other speakers, opening and ending."
+  },
+  "technicalPlayback": {
+    "state": "passed",
+    "evidence": "Complete final H264/AAC decode, 1080x1920, 2789 frames at30fps, -16.06LUFS, -1.12dBTP; original recording hash unchanged."
+  },
+  "fullListeningReview": {
+    "state": "pending",
+    "evidence": "No full listening review claimed; unchanged approved recording and sound mix."
+  },
+  "creativeApproval": {
+    "state": "pending",
+    "evidence": "Corrected version delivered for user review."
+  }
+}

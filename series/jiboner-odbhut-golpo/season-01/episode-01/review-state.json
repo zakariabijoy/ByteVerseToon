@@ -6,14 +6,16 @@
   "scriptSource": "User supplied; wording preserved",
   "storyApproval": "approved_by_user_2026-11-12",
   "voiceover": "user_supplied_final_recording_92.96_seconds",
-  "animation": "articulated_2d_version_2",
+  "animation": "version_3_continuous_intact_pose_deformation",
   "timing": "local_reference_text_forced_alignment_210_words",
   "referenceDurationSeconds": 92.96,
   "referenceDurationStatus": "measured_user_recording",
-  "videoReview": "awaiting_user_review_of_version_2",
+  "videoReview": "version_3_awaiting_user_review",
   "fullListeningReview": "pending",
   "dialogueSyncReview": "word_intervals_aligned_full_listening_pending",
-  "animationTechnique": "two_joint_cutout_arms_separate_heads_approximate_word_timed_mouth_shapes",
-  "mp4Export": "version_2_exported_technical_checks_passed",
-  "publishing": "not_requested"
+  "animationTechnique": "continuous_surface_motion_no_separate_neck_or_arm_pieces",
+  "mp4Export": "version_3_exported_technical_checks_passed",
+  "publishing": "not_requested",
+  "revisionReason": "User reported cut-looking head and hand motion throughout video",
+  "revisionDate": "2026-11-13"
 }

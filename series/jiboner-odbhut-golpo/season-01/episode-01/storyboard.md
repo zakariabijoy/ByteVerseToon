@@ -24,8 +24,11 @@ Version 2 timing uses local cross-attention forced alignment of the unchanged
 approved text, with 25 curated speech chunks and 210 word intervals. A complete
 external Bengali SRT supplements selected burned-in dialogue. Quoted speakers
 receive word-timed approximate mouth shapes; listeners do not mouth narration.
-Two-joint arm gestures, separate heads, blinks, reactions and camera changes
-provide cutout acting. This is not verified phoneme-level lip sync. Complete
+Version 3 replaces the separate head and arm rig after user-reported seams.
+Complete character poses receive continuous deformation through head, neck and
+arm regions; measured pose bounds preserve hands and remove adjacent-pose bleed.
+The typing shot also deforms intact artwork. Blinks, reactions and camera changes
+remain. This is not verified phoneme-level lip sync. Complete
 listening and final creative approval remain pending user review.
 
 Story-world palette: navy #172B45, cream #F3E8D4, mustard #D6A43B,
