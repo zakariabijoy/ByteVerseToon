@@ -15,7 +15,7 @@
   "dialogueSyncReview": "word_intervals_aligned_full_listening_pending",
   "animationTechnique": "continuous_surface_motion_no_separate_neck_or_arm_pieces",
   "mp4Export": "version_3_exported_technical_checks_passed",
-  "publishing": "not_requested",
+  "publishing": "version_3_published_and_verified_youtube_facebook_instagram_2026-11-13",
   "revisionReason": "User reported cut-looking head and hand motion throughout video",
   "revisionDate": "2026-11-13",
   "visualApproval": {
@@ -23,5 +23,6 @@
     "version": 3,
     "userFeedback": "this video look fine. will continue for next episodes.",
     "scope": "visual_reference_for_this_series"
-  }
+  },
+  "publicationRecord": "publication-v3.json"
 }
