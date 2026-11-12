@@ -22,7 +22,9 @@
     "evidence": "No full listening review claimed; unchanged approved recording and sound mix."
   },
   "creativeApproval": {
-    "state": "pending",
-    "evidence": "Corrected version delivered for user review."
+    "state": "approved_visual_reference",
+    "date": "2026-11-13",
+    "evidence": "User: this video look fine. will continue for next episodes.",
+    "scope": "Episode 01 V3 visuals; full listening remains pending."
   }
 }

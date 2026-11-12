@@ -10,12 +10,18 @@
   "timing": "local_reference_text_forced_alignment_210_words",
   "referenceDurationSeconds": 92.96,
   "referenceDurationStatus": "measured_user_recording",
-  "videoReview": "version_3_awaiting_user_review",
+  "videoReview": "version_3_visuals_approved_by_user_2026-11-13",
   "fullListeningReview": "pending",
   "dialogueSyncReview": "word_intervals_aligned_full_listening_pending",
   "animationTechnique": "continuous_surface_motion_no_separate_neck_or_arm_pieces",
   "mp4Export": "version_3_exported_technical_checks_passed",
   "publishing": "not_requested",
   "revisionReason": "User reported cut-looking head and hand motion throughout video",
-  "revisionDate": "2026-11-13"
+  "revisionDate": "2026-11-13",
+  "visualApproval": {
+    "date": "2026-11-13",
+    "version": 3,
+    "userFeedback": "this video look fine. will continue for next episodes.",
+    "scope": "visual_reference_for_this_series"
+  }
 }
