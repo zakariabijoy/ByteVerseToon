@@ -1,16 +1,36 @@
 import React from "react";
 import { useCurrentFrame } from "remotion";
-import { Actor, SceneShell, Desk, Laptop, Dialogue, Badge } from "./Stage";
+import { Actor, SceneShell, Desk, Laptop, Badge } from "./Stage";
+import { Workstation } from "./Workstation";
 export const Friends = () => {
   const f = useCurrentFrame();
   return (
-    <SceneShell panel={0} label="সফটওয়্যার কোম্পানি • বিকেল">
-      <Actor who="sajid" x={490} y={1620} w={640} absolute={217 + f} />
-      <Actor who="rafi" x={-45} y={1690} w={770} absolute={217 + f} />
-      <Desk />
-      <Laptop x={360} y={1480} />
-      <Badge text="রাফি ও সাজিদ" />
-      <Dialogue text="অফিসের সবচেয়ে কাছের মানুষ।" from={135} until={224} />
+    <SceneShell
+      panel={0}
+      label="সফটওয়্যার কোম্পানি • বিকেল"
+      shot={
+        f < 85 ? { scale: 1.025, x: 0, y: -75 } : { scale: 1.05, x: 0, y: -70 }
+      }
+    >
+      <Desk top={f < 85 ? 1620 : 1660} />
+      {f < 85 ? (
+        <Workstation />
+      ) : (
+        <>
+          <Actor
+            who="sajid"
+            x={450}
+            y={1660}
+            w={760}
+            flip
+            absolute={356 + f}
+            enter
+          />
+          <Actor who="rafi" x={-120} y={1660} w={850} absolute={356 + f} />
+          <Laptop x={365} y={1370} />
+        </>
+      )}
+      <Badge text={f < 85 ? "রাফি আহমেদ" : "অফিসের কাছের মানুষ: সাজিদ"} />
     </SceneShell>
   );
 };

@@ -8,6 +8,8 @@ export const Lesson = () => {
       <Actor
         who="rafi"
         pose={f < 120 ? 3 : 0}
+        previousPose={f >= 120 ? 3 : undefined}
+        changeAt={f >= 120 ? 120 : undefined}
         x={f < 120 ? -110 : 40}
         y={1800}
         w={f < 120 ? 1100 : 1000}
@@ -20,7 +22,7 @@ export const Lesson = () => {
           background: "linear-gradient(0deg,rgba(10,24,38,.6),transparent 60%)",
         }}
       />
-      <Dialogue text="সবাইকে সব কথা বলা যায় না।" from={26} until={120} gold />
+      <Dialogue text="সবাইকে সব কথা বলা যায় না।" from={62} until={120} gold />
       <Dialogue
         text={"নিজের ভবিষ্যৎ নিয়ে অন্য কেউ\nসিদ্ধান্ত নেওয়ার আগে…"}
         from={123}
@@ -28,7 +30,7 @@ export const Lesson = () => {
       />
       <Dialogue
         text={"নিজের কথাটা\nনিজেকেই বলতে হয়।"}
-        from={211}
+        from={224}
         until={286}
         gold
       />

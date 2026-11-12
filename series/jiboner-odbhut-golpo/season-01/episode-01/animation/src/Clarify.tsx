@@ -5,7 +5,15 @@ export const Clarify = () => {
   const f = useCurrentFrame();
   const reply = f >= 141;
   return (
-    <SceneShell panel={1} label="পরদিন • সরাসরি আলোচনা">
+    <SceneShell
+      panel={1}
+      label="পরদিন • সরাসরি আলোচনা"
+      shot={
+        reply
+          ? { scale: 1.07, x: -10, y: -60, origin: "73% 60%" }
+          : { scale: 1.055, x: 0, y: -55, origin: "30% 63%" }
+      }
+    >
       <Actor
         who="manager"
         pose={reply ? 0 : 3}
@@ -21,9 +29,11 @@ export const Clarify = () => {
         y={1690}
         w={800}
         talk={!reply}
+        enter
+        gesture={0.65}
         absolute={2139 + f}
       />
-      <Desk />
+      <Desk top={1580} />
       <Dialogue
         speaker="রাফি"
         text={"চাকরি ছাড়ার কোনো\nসিদ্ধান্ত আমি নিইনি।"}
@@ -32,7 +42,7 @@ export const Clarify = () => {
       <Dialogue
         speaker="ম্যানেজার"
         text={"আগে আমার সঙ্গে কথা বললে\nভুল বোঝাবুঝিটা হতো না।"}
-        from={142}
+        from={182}
       />
     </SceneShell>
   );

@@ -6,7 +6,17 @@ export const Manager = () => {
   const answer = f >= 140 && f < 330;
   const shock = f >= 330;
   return (
-    <SceneShell panel={1} label="ম্যানেজারের কক্ষ">
+    <SceneShell
+      panel={1}
+      label="ম্যানেজারের কক্ষ"
+      shot={
+        shock
+          ? { scale: 1.08, x: 20, y: -35, origin: "28% 60%" }
+          : answer
+            ? { scale: 1.07, x: 0, y: -55, origin: "70% 62%" }
+            : { scale: 1.055, x: 0, y: -55, origin: "30% 62%" }
+      }
+    >
       <Actor
         who="manager"
         pose={answer ? 0 : 2}
@@ -23,27 +33,29 @@ export const Manager = () => {
         y={1710}
         w={shock ? 1050 : 750}
         talk={f < 125}
+        lean={shock ? -1.5 : 0}
         absolute={1197 + f}
       />
-      <Desk />
+      <Desk top={1580} />
       <Dialogue
         speaker="রাফি"
         text="স্যার, হঠাৎ এমন সিদ্ধান্ত কেন?"
+        from={55}
         until={130}
       />
       <Dialogue
         speaker="ম্যানেজার"
         text={"শুনলাম তুমি নাকি\nঅন্য কোম্পানিতে চলে যাচ্ছ?"}
-        from={140}
+        from={179}
         until={252}
       />
       <Dialogue
         speaker="ম্যানেজার"
         text={"তাই দায়িত্বটা\nঅন্য কাউকে দিয়েছি।"}
-        from={254}
-        until={326}
+        from={264}
+        until={325}
       />
-      <Dialogue text="কথাটা শুধু সাজিদকেই বলেছিল!" from={350} gold />
+      <Dialogue text="কথাটা শুধু সাজিদকেই বলেছিল!" from={380} gold />
     </SceneShell>
   );
 };

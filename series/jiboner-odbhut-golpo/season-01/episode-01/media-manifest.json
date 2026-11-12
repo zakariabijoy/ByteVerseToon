@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "description": "Allowlisted local media; restore separately from Git",
+  "version": 2,
+  "description": "Allowlisted local media; restore separately from Git. Earlier media retained.",
   "voiceoverDurationSeconds": 92.96,
   "assets": [
     {
@@ -12,6 +12,11 @@
       "file": "byteversetoon-profile.jpg",
       "sizeBytes": 20199,
       "sha256": "5C0597E0600B4E5D9169E95B5B9051A7C4AB6979D815C7B13907F5CEC723941E"
+    },
+    {
+      "file": "foley-v2.wav",
+      "sizeBytes": 16398188,
+      "sha256": "1391FD5960AFBE50B47690C1F091581D606278AED4EFA8D09C11BB8CFB246F30"
     },
     {
       "file": "manager.png",
@@ -27,6 +32,16 @@
       "file": "original-underscore.wav",
       "sizeBytes": 4099580,
       "sha256": "694DA360D49AE4E15BB30F3958D17C16C822A596B5C3E4D5A1DE5E93271F4D50"
+    },
+    {
+      "file": "puppet-parts-v2.png",
+      "sizeBytes": 1036943,
+      "sha256": "381A6C003D62389EE1D25C102D49E765D19E6823850A8D7EAD7086EAC75CA1A3"
+    },
+    {
+      "file": "rafi-typing-v2.png",
+      "sizeBytes": 1912388,
+      "sha256": "F7BC331146C1C9FAC357D17DE5B470E96BD32C398871B3C44CCF220178A6E5AE"
     },
     {
       "file": "rafi.png",
@@ -52,6 +67,16 @@
       "file": "scene-cues.wav",
       "sizeBytes": 4099580,
       "sha256": "798C75780DC66323F240BE07EED3F91AE45B13DBE34B145372D6234E4E8D883F"
+    },
+    {
+      "file": "score-v2.wav",
+      "sizeBytes": 16398188,
+      "sha256": "BA9CA0E1FD87D1C715A026EB82BA8C7F7ABF5732F2909F59252ADD050CD43C1C"
+    },
+    {
+      "file": "talking-heads-v2.png",
+      "sizeBytes": 1301270,
+      "sha256": "F5E9A8EEA883B6B20B329DC866A5115999AC3BACCE7F026D127E2E1696C45307"
     },
     {
       "file": "voiceover-original.wav",

@@ -1,0 +1,303 @@
+[
+  {
+    "text": "জীবনের অদ্ভুত গল্প।",
+    "startMs": 0,
+    "endMs": 1600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এপিসোড শূন্য এক।",
+    "startMs": 1600,
+    "endMs": 3400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "যে কথাটা বলা উচিত ছিল না।",
+    "startMs": 3400,
+    "endMs": 5220,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি জানত না, বন্ধু ভেবে বলা একটা কথাই তার তিন",
+    "startMs": 5550,
+    "endMs": 9350,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বছরের পরিশ্রমকে বিপদে ফেলে দেবে!",
+    "startMs": 9350,
+    "endMs": 11190,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি একটা সফটওয়্যার কোম্পানিতে চাকরি করে।",
+    "startMs": 11850,
+    "endMs": 14570,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "অফিসে তার সবচেয়ে কাছের মানুষ সাজিদ।",
+    "startMs": 14570,
+    "endMs": 16810,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একদিন রাফি সাজিদকে বলল,",
+    "startMs": 17350,
+    "endMs": 18850,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দোস্ত, একটা কোম্পানি থেকে ভালো অফার পেয়েছি।",
+    "startMs": 19200,
+    "endMs": 22380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তবে এখনো সিদ্ধান্ত নিইনি।",
+    "startMs": 22380,
+    "endMs": 24040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কাউকে বলিস না।",
+    "startMs": 24040,
+    "endMs": 25060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ হেসে বলল,",
+    "startMs": 25400,
+    "endMs": 26340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আরে পাগল!",
+    "startMs": 26650,
+    "endMs": 27330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমাকে বিশ্বাস করতে পারিস।",
+    "startMs": 27570,
+    "endMs": 29110,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পরদিন অফিসে এসে রাফি শুনল, তাকে গুরুত্বপূর্ণ",
+    "startMs": 29900,
+    "endMs": 32920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একটা প্রজেক্ট থেকে সরিয়ে দেওয়া হয়েছে।",
+    "startMs": 32920,
+    "endMs": 34820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "অথচ প্রজেক্টটা পাওয়ার জন্য সে অনেক দিন ধরে",
+    "startMs": 35250,
+    "endMs": 38330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পরিশ্রম করছিল!",
+    "startMs": 38330,
+    "endMs": 39190,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি ম্যানেজারকে জিজ্ঞেস করল,",
+    "startMs": 39850,
+    "endMs": 41270,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "স্যার,",
+    "startMs": 41700,
+    "endMs": 42080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হঠাৎ এমন সিদ্ধান্ত কেন?",
+    "startMs": 42620,
+    "endMs": 43880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ম্যানেজার বললেন,",
+    "startMs": 44500,
+    "endMs": 45320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "শুনলাম তুমি নাকি অন্য কোম্পানিতে চলে যাচ্ছ?",
+    "startMs": 45850,
+    "endMs": 48110,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তাই দায়িত্বটা অন্য কাউকে দিয়েছি।",
+    "startMs": 48290,
+    "endMs": 50390,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি অবাক!",
+    "startMs": 50900,
+    "endMs": 51660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কারণ, এই কথাটা সে শুধু সাজিদকেই বলেছিল।",
+    "startMs": 51940,
+    "endMs": 55280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আরও অবাক হলো যখন জানল, নতুন প্রজেক্টের দায়িত্ব",
+    "startMs": 55700,
+    "endMs": 59100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পেয়েছে সাজিদ নিজেই!",
+    "startMs": 59100,
+    "endMs": 60280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মন খারাপ করে বসে থাকতে দেখে মায়া বলল,",
+    "startMs": 61450,
+    "endMs": 63390,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ যা করেছে, সেটা ভুল।",
+    "startMs": 64000,
+    "endMs": 66220,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কিন্তু তুমি ম্যানেজারের সঙ্গে সরাসরি কথা বলোনি",
+    "startMs": 66220,
+    "endMs": 68860,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কেন?",
+    "startMs": 68860,
+    "endMs": 69000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি চুপ করে রইল।",
+    "startMs": 69650,
+    "endMs": 70690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পরদিন সে ম্যানেজারকে জানাল, চাকরি ছাড়ার কোনো",
+    "startMs": 71250,
+    "endMs": 74270,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সিদ্ধান্ত সে নেয়নি।",
+    "startMs": 74270,
+    "endMs": 75330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ম্যানেজার বললেন,",
+    "startMs": 75950,
+    "endMs": 76790,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তাহলে আগে আমার সঙ্গে কথা বললে ভুল বোঝাবুঝিটা",
+    "startMs": 77350,
+    "endMs": 80030,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হতো না।",
+    "startMs": 80030,
+    "endMs": 80570,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সেদিন রাফি দুটো জিনিস শিখল।",
+    "startMs": 80800,
+    "endMs": 82580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সবাইকে সব কথা বলা যায় না।",
+    "startMs": 82900,
+    "endMs": 84540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আর নিজের ভবিষ্যৎ নিয়ে অন্য কেউ সিদ্ধান্ত",
+    "startMs": 84900,
+    "endMs": 87320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "নেওয়ার আগে, নিজের কথাটা নিজেকেই বলতে হয়।",
+    "startMs": 87320,
+    "endMs": 89920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কারণ, জীবন কখনোই এতটা সহজ নয়।",
+    "startMs": 90350,
+    "endMs": 92830,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

@@ -8,13 +8,15 @@ export const Removal = () => {
       <Actor
         who="rafi"
         pose={f < 70 ? 0 : f < 180 ? 2 : 3}
+        previousPose={f >= 180 ? 2 : f >= 70 ? 0 : undefined}
+        changeAt={f >= 180 ? 180 : f >= 70 ? 70 : undefined}
         x={f < 180 ? -95 : -190}
         y={1700}
         w={f < 180 ? 900 : 1080}
         absolute={899 + f}
       />
       <Desk />
-      <Laptop x={f < 180 ? 425 : 560} y={1480} />
+      <Laptop x={f < 180 ? 425 : 560} y={1390} />
       <div
         style={{
           position: "absolute",

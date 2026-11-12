@@ -7,6 +7,8 @@ import {
   useCurrentFrame,
 } from "remotion";
 import envelope from "./voice-envelope.json";
+import { Puppet } from "./Puppet";
+import { Workstation } from "./Workstation";
 export type Cast = "rafi" | "sajid" | "maya" | "manager";
 const clamp = {
   extrapolateLeft: "clamp" as const,
@@ -61,106 +63,29 @@ export const Backdrop: React.FC<{ panel: number; zoom?: number }> = ({
     </AbsoluteFill>
   );
 };
-// Limited cutout acting; pose changes are not phoneme-aligned lip sync.
-export const Actor: React.FC<{
-  who: Cast;
-  pose?: number;
-  x: number;
-  y?: number;
-  w?: number;
-  talk?: boolean;
-  absolute?: number;
-  flip?: boolean;
-  lean?: number;
-  enter?: boolean;
-}> = ({
-  who,
-  pose = 0,
-  x,
-  y = 1640,
-  w = 700,
-  talk = false,
-  absolute = 0,
-  flip = false,
-  lean = 0,
-  enter = false,
-}) => {
-  const f = useCurrentFrame();
-  const index = talk ? 1 : pose;
-  const h = (w * 4) / 3;
-  const nod =
-    (talk
-      ? Math.sin(f * 0.14) * (0.5 + amplitude(absolute) * 1.5)
-      : Math.sin(f * 0.031) * 0.35) + lean;
-  const image = (
-    <Img
-      src={staticFile(`${who}.png`)}
-      style={{
-        position: "absolute",
-        left: `-${index * 100}%`,
-        top: 0,
-        width: "400%",
-        height: "100%",
-        maxWidth: "none",
-      }}
-    />
-  );
-  return (
-    <div
-      style={{
-        position: "absolute",
-        left: x + (enter ? (1 - ease(f, 0, 18)) * 75 : 0),
-        top: y - h + Math.sin(f * 0.044 + (who === "rafi" ? 0 : 2)) * 2,
-        width: w,
-        height: h,
-        opacity: enter ? ease(f, 0, 9) : 1,
-        transform: `scaleX(${flip ? -1 : 1}) rotate(${lean * 0.2}deg)`,
-        transformOrigin: "50% 95%",
-        filter: "drop-shadow(0 12px 14px rgba(15,22,30,.22))",
-      }}
-    >
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          overflow: "hidden",
-          clipPath: "inset(34% 0 0 0)",
-        }}
-      >
-        {image}
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          overflow: "hidden",
-          clipPath: "inset(0 0 64% 0)",
-          transform: `rotate(${nod}deg)`,
-          transformOrigin: "49% 34%",
-        }}
-      >
-        {image}
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          overflow: "hidden",
-          clipPath: "inset(34% 0 64% 0)",
-        }}
-      >
-        {image}
-      </div>
-    </div>
-  );
-};
+export const Actor = Puppet;
 export const SceneShell: React.FC<{
   panel: number;
   children: React.ReactNode;
   label?: string;
   zoom?: number;
-}> = ({ panel, children, label, zoom }) => {
+  shot?: { scale: number; x?: number; y?: number; origin?: string };
+}> = ({ panel, children, label, zoom, shot }) => {
   const f = useCurrentFrame();
+  const flatten = (items: React.ReactNode): React.ReactNode[] =>
+    React.Children.toArray(items).flatMap((node) =>
+      React.isValidElement<{ children?: React.ReactNode }>(node) &&
+      node.type === React.Fragment
+        ? flatten(node.props.children)
+        : [node],
+    );
+  const nodes = flatten(children);
+  const isStaging = (node: React.ReactNode) =>
+    React.isValidElement(node) &&
+    [Puppet, Desk, Laptop, Workstation].includes(node.type as never);
+  const staging = nodes.filter(isStaging),
+    overlays = nodes.filter((node) => !isStaging(node));
+  const camera = shot || { scale: 1.035, x: 0, y: -42, origin: "50% 68%" };
   return (
     <AbsoluteFill
       style={{
@@ -170,7 +95,17 @@ export const SceneShell: React.FC<{
       }}
     >
       <Backdrop panel={panel} zoom={zoom} />
-      {children}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          transform: `translate(${camera.x || 0}px,${camera.y || 0}px) scale(${camera.scale + ease(f, 0, 210) * 0.018})`,
+          transformOrigin: camera.origin || "50% 65%",
+        }}
+      >
+        {staging}
+      </div>
+      {overlays}
       {label && (
         <div
           style={{
@@ -190,8 +125,7 @@ export const SceneShell: React.FC<{
       <AbsoluteFill
         style={{
           pointerEvents: "none",
-          background: "#172B45",
-          opacity: 1 - ease(f, 0, 7),
+          boxShadow: "inset 0 0 170px rgba(11,23,35,.14)",
         }}
       />
     </AbsoluteFill>
@@ -297,13 +231,13 @@ export const Laptop: React.FC<{ x?: number; y?: number }> = ({
     />
   </div>
 );
-export const Desk = () => (
+export const Desk = ({ top = 1690 }: { top?: number }) => (
   <div
     style={{
       position: "absolute",
       left: -50,
       right: -50,
-      top: 1690,
+      top,
       height: 230,
       background:
         "linear-gradient(#c5925a 0%,#a5683e 13%,#6e432c 15%,#805234 100%)",

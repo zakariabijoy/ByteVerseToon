@@ -6,8 +6,8 @@ has no scripted appearance in this episode; no extra scene/dialogue was added.
 
 | Frames (inclusive) | Scene | Action and emotional purpose |
 |---|---|---|
-| 0–216 | Hook | Worried Rafi; push in; title and warning about trust |
-| 217–524 | Friends | Rafi and Sajid at a workstation, relaxed introduction |
+| 0–355 | Hook | Spoken series/episode title first, then Rafi's shocked reaction and warning |
+| 356–524 | Friends | Rafi types with hands on laptop, then relaxed two-person introduction |
 | 525–898 | Secret | Rafi gestures while confiding; cut to Sajid's reassurance |
 | 899–1196 | Removal | Project roster removes Rafi; surprise gives way to hurt |
 | 1197–1672 | Manager | Question, manager's explanation, Rafi's realization |
@@ -20,10 +20,13 @@ Canvas 1080×1920, 30 fps. Audio source 92.96 s. Total 2789 frames adds 6.7 ms
 of final-frame hold, without stretching the recording. Portrait composition;
 dialogue safe area excludes the rightmost 108 px and bottom 280 px.
 
-Timing is estimated from the approved text and measured audio pauses, not ASR.
-Selected dialogue captions require listening verification; they are not a full
-verbatim subtitle track. Character acting is limited layered cutout animation,
-not a fully rigged/lip-synced production. These limits remain visible in review.
+Version 2 timing uses local cross-attention forced alignment of the unchanged
+approved text, with 25 curated speech chunks and 210 word intervals. A complete
+external Bengali SRT supplements selected burned-in dialogue. Quoted speakers
+receive word-timed approximate mouth shapes; listeners do not mouth narration.
+Two-joint arm gestures, separate heads, blinks, reactions and camera changes
+provide cutout acting. This is not verified phoneme-level lip sync. Complete
+listening and final creative approval remain pending user review.
 
 Story-world palette: navy #172B45, cream #F3E8D4, mustard #D6A43B,
 rust #B86D50, teal #537B85. Preserve the real ByteVerseToon avatar and brand name.

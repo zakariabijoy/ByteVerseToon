@@ -4,7 +4,15 @@ import { Actor, SceneShell, Dialogue } from "./Stage";
 export const Maya = () => {
   const f = useCurrentFrame();
   return (
-    <SceneShell panel={2} label="অফিসের বিরতি">
+    <SceneShell
+      panel={2}
+      label="অফিসের বিরতি"
+      shot={
+        f < 147
+          ? { scale: 1.04, x: 0, y: -58 }
+          : { scale: 1.075, x: -12, y: -60, origin: "72% 62%" }
+      }
+    >
       <Actor
         who="rafi"
         pose={3}
@@ -23,6 +31,7 @@ export const Maya = () => {
         talk={f >= 76 && f < 230}
         absolute={1845 + f}
         enter
+        gesture={0.65}
       />
       <Dialogue
         speaker="মায়া"

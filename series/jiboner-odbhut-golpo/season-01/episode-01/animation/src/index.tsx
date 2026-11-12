@@ -7,6 +7,7 @@ import {
   Audio,
   Sequence,
   staticFile,
+  Still,
 } from "remotion";
 import { Branding } from "./Stage";
 import { Hook } from "./Hook";
@@ -18,15 +19,17 @@ import { Reveal } from "./Reveal";
 import { Maya } from "./Maya";
 import { Clarify } from "./Clarify";
 import { Lesson } from "./Lesson";
+import { RigStudy, RigBodyStudy, RigHeadStudy } from "./RigStudy";
+import { Cover } from "./Cover";
 export const Episode = () => (
   <AbsoluteFill style={{ background: "#172b45" }}>
     <Audio src={staticFile("voiceover-original.wav")} volume={1} />
-    <Audio src={staticFile("original-underscore.wav")} volume={0.7} />
-    <Audio src={staticFile("scene-cues.wav")} volume={0.6} />
-    <Sequence name="01 Hook" from={0} durationInFrames={217}>
+    <Audio src={staticFile("score-v2.wav")} volume={0.9} />
+    <Audio src={staticFile("foley-v2.wav")} volume={0.8} />
+    <Sequence name="01 Hook" from={0} durationInFrames={356}>
       <Hook />
     </Sequence>
-    <Sequence name="02 Friends" from={217} durationInFrames={308}>
+    <Sequence name="02 Friends" from={356} durationInFrames={169}>
       <Friends />
     </Sequence>
     <Sequence name="03 Secret" from={525} durationInFrames={374}>
@@ -64,13 +67,38 @@ registerRoot(() => (
       durationInFrames={2789}
     />
     <Folder name="Scenes">
+      <Still id="Episode01Cover" component={Cover} width={1080} height={1920} />
+      <Composition
+        id="RigStudy"
+        component={RigStudy}
+        width={1200}
+        height={900}
+        fps={30}
+        durationInFrames={120}
+      />
+      <Composition
+        id="RigBodyStudy"
+        component={RigBodyStudy}
+        width={1200}
+        height={1700}
+        fps={30}
+        durationInFrames={1}
+      />
+      <Composition
+        id="RigHeadStudy"
+        component={RigHeadStudy}
+        width={1200}
+        height={1700}
+        fps={30}
+        durationInFrames={1}
+      />
       <Composition
         id="Hook"
         component={Hook}
         width={1080}
         height={1920}
         fps={30}
-        durationInFrames={217}
+        durationInFrames={356}
       />
       <Composition
         id="Friends"
@@ -78,7 +106,7 @@ registerRoot(() => (
         width={1080}
         height={1920}
         fps={30}
-        durationInFrames={308}
+        durationInFrames={169}
       />
       <Composition
         id="Secret"

@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "factualAccuracy": {
+    "state": "passed",
+    "evidence": "Fictional story; approved script and season bible unchanged."
+  },
+  "storyAndPacing": {
+    "state": "pending",
+    "evidence": "Nine scenes follow measured recording; final user creative review pending."
+  },
+  "visualExplanation": {
+    "state": "passed",
+    "evidence": "Secret, project loss, reassignment, conversation and resolution staged separately."
+  },
+  "characterInteraction": {
+    "state": "passed",
+    "evidence": "Two-joint arm gestures, timed quoted-speaker mouths, listener reactions, workstation contact. Mouth shapes approximate."
+  },
+  "composition": {
+    "state": "passed",
+    "evidence": "Full-size dialogue frames and decoded 360x640 opening, manager and ending inspected."
+  },
+  "thumbnailReadability": {
+    "state": "passed",
+    "evidence": "Portrait cover inspected; two-word main hook with episode title and real branding."
+  },
+  "fullListeningReview": {
+    "state": "pending",
+    "evidence": "No complete listening review claimed. User should review final sound and dialogue sync."
+  },
+  "technicalPlayback": {
+    "state": "passed",
+    "evidence": "Complete final H264/AAC decode, 2789 frames, 1080x1920 at30fps, stereo48kHz, -16.06LUFS and -1.12dBTP."
+  }
+}

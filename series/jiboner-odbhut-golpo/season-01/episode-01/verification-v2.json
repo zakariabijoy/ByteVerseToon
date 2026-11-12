@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "composition": "Episode01",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "durationFrames": 2789,
+  "durationSeconds": 92.966667,
+  "videoCodec": "h264",
+  "pixelFormat": "yuv420p",
+  "audioCodec": "aac",
+  "audioSampleRate": 48000,
+  "audioChannels": 2,
+  "completeAudioVideoDecode": "passed",
+  "sourceVoiceSha256": "351ABDFB58CEC2D772C32326F1DCEA6F0429A4FC9E8F41A2708C14115125A236",
+  "sourceVoiceUnchanged": true,
+  "voicePlaybackRate": 1,
+  "loudnessLufs": -16.06,
+  "truePeakDb": -1.12,
+  "mp4Sha256": "238BF50F76951956717F423925CD26C784B39B823EEA0F6C8AA2DB96625B2CF3",
+  "mp4Bytes": 30465572,
+  "decodedMobileFrames": [
+    80,
+    1400,
+    2788
+  ],
+  "fullListeningReview": "pending",
+  "creativeApproval": "pending_user_review",
+  "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
+  "publication": "not_requested",
+  "typescript": "passed",
+  "pythonSourceSyntax": "passed",
+  "browserPreview": "version_2_loaded_and_sampled_in_motion",
+  "visualInspection": "full_size_dialogue_samples_and_decoded_mobile_opening_manager_ending_checked",
+  "thumbnailReadability": "cover_inspected_at_portrait_size",
+  "captionMode": "selected_burned_in_dialogue_plus_complete_external_bn_srt",
+  "animationTechnique": "two_joint_cutout_arms_separate_heads_blinks_and_listener_reactions"
+}

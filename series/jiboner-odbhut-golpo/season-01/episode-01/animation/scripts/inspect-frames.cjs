@@ -20,10 +20,16 @@ require("./loopback-only.cjs");
   try {
     const composition = await selectComposition({
       serveUrl,
-      id: "Episode01",
+      id: process.argv[3] || "Episode01",
       puppeteerInstance: browser,
     });
-    for (const frame of [80, 650, 1080, 1400, 1730, 1980, 2320, 2770]) {
+    for (const frame of process.argv[4]
+      ? process.argv[4].split(",").map(Number)
+      : process.argv[3] === "RigStudy"
+        ? [0, 30, 60, 90]
+        : process.argv[3]
+          ? [0]
+          : [80, 650, 1080, 1400, 1730, 1980, 2320, 2770]) {
       const dest = path.join(output, `frame-${frame}.png`);
       await renderStill({
         serveUrl,
@@ -31,13 +37,13 @@ require("./loopback-only.cjs");
         frame,
         puppeteerInstance: browser,
         output: dest,
-        scale: 0.5,
+        scale: process.argv[3] ? 1 : 0.5,
         overwrite: false,
       });
       console.log(dest);
     }
   } finally {
-    await browser.close({ silent: true });
+    await browser.close({ silent: true }).catch(() => {});
   }
 })().catch((e) => {
   console.error(e);
