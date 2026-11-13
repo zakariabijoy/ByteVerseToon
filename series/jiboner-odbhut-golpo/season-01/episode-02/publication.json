@@ -1,0 +1,51 @@
+{
+  "episode": 2,
+  "title": "ভালো মানুষ হওয়াটাই কি ভুল?",
+  "sourceVersion": 1,
+  "sourceCommit": "142b00e",
+  "sha256": "8F108220EAF4BA1E81D3776A4905C105EC0B2D8F1FEA4EAE7F82A89C264AA343",
+  "publicationAuthorized": "user_publish_current_episode_2026-11-13",
+  "youtube": {
+    "status": "published",
+    "id": "QWpFIHTdko8",
+    "url": "https://www.youtube.com/shorts/QWpFIHTdko8",
+    "audience": "not_made_for_kids",
+    "visibility": "public",
+    "language": "Bangla",
+    "subtitles": "uploaded_captions.bn.srt",
+    "cover": "uploaded_cover.png",
+    "paidPromotion": false,
+    "aiDisclosure": true,
+    "checks": "copyright_and_community_guidelines_no_issues",
+    "proof": "youtube-published.png"
+  },
+  "facebook": {
+    "status": "published",
+    "account": "Byte Verse Toon",
+    "pageAssetId": "1379834225219247",
+    "id": "2607558610057427",
+    "url": "https://www.facebook.com/reel/2607558610057427/",
+    "businessContentId": "122110313517522982",
+    "caption": "verified_after_edit_published_post",
+    "proof": "facebook-published.png",
+    "lastHashtag": "#reelsviral"
+  },
+  "instagram": {
+    "status": "published",
+    "account": "byteversetoon",
+    "id": "DfsK2W3HFyo",
+    "url": "https://www.instagram.com/byteversetoon/reel/DfsK2W3HFyo/",
+    "caption": "verified_saved_after_native_edit",
+    "proof": "instagram-published.png"
+  },
+  "crop": "original_9:16_no_reframe",
+  "confirmedOn": "2026-11-13",
+  "timezone": "Asia/Dhaka",
+  "notes": [
+    "One upload to YouTube and one combined Meta upload; no reupload during caption correction.",
+    "Meta composer text appeared in UI but was absent after publication; existing Instagram and Facebook captions corrected and verified.",
+    "YouTube AI-use disclosure set to Yes. Descriptions disclose AI-assisted artwork/animation and synthetic narration."
+  ],
+  "localFile": "local_episode_02/exports/v1/video.mp4",
+  "verifiedAt": "2026-11-13T23:37:23+06:00"
+}

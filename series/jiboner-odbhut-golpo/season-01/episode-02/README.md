@@ -55,5 +55,7 @@ mastering measurements, decoded mobile frames and technical verification.
 Technical validation does not establish full listening or creative approval;
 their actual status is recorded in `review-state.json`.
 
-No Episode 02 publication is authorized yet. `youtube.txt` is prepared copy only.
+Published to YouTube, Facebook and Instagram at the user's explicit request on
+2026-11-13. See `publication.json` for verified links and settings. `youtube.txt`
+retains the upload copy.
 Cleanup requires a separate exact-file plan and user approval.
