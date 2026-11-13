@@ -1,0 +1,4288 @@
+{
+  "method": "local_whisper_cross_attention_forced_alignment_with_curated_speech_pause_chunks",
+  "model": {
+    "repository": "dropbox-dash/faster-whisper-large-v3-turbo",
+    "revision": "0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf"
+  },
+  "phonemeTiming": "heuristic_inside_word_intervals_not_verified_phoneme_alignment",
+  "words": [
+    {
+      "text": "জীবনের",
+      "start": 0,
+      "end": 0.62,
+      "probability": 0.8442,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "অদ্ভুত",
+      "start": 0.62,
+      "end": 1.12,
+      "probability": 0.8623,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "গল্প।",
+      "start": 1.12,
+      "end": 1.6,
+      "probability": 0.7765,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "এপিসোড",
+      "start": 1.6,
+      "end": 2.4,
+      "probability": 0.8551,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "শূন্য",
+      "start": 2.4,
+      "end": 2.78,
+      "probability": 0.7208,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "দুই।",
+      "start": 2.78,
+      "end": 3.42,
+      "probability": 0.7888,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "ভালো",
+      "start": 3.42,
+      "end": 3.92,
+      "probability": 0.9557,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "মানুষ",
+      "start": 3.92,
+      "end": 4.2,
+      "probability": 0.9034,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "হওয়াটাই",
+      "start": 4.2,
+      "end": 4.58,
+      "probability": 0.6517,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "কি",
+      "start": 4.58,
+      "end": 4.7,
+      "probability": 0.7762,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "ভুল?",
+      "start": 4.7,
+      "end": 5.0,
+      "probability": 0.9186,
+      "who": "narrator",
+      "segment": "s01"
+    },
+    {
+      "text": "সারাদিন",
+      "start": 5.3,
+      "end": 6.26,
+      "probability": 0.8877,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "সবাইকে",
+      "start": 6.26,
+      "end": 6.7,
+      "probability": 0.9128,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "সাহায্য",
+      "start": 6.7,
+      "end": 7.08,
+      "probability": 0.7798,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "করল",
+      "start": 7.08,
+      "end": 7.32,
+      "probability": 0.6288,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "রাফি।",
+      "start": 7.32,
+      "end": 8.06,
+      "probability": 0.7231,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "অথচ",
+      "start": 8.06,
+      "end": 8.52,
+      "probability": 0.7782,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "দিন",
+      "start": 8.52,
+      "end": 8.86,
+      "probability": 0.8256,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "শেষে",
+      "start": 8.86,
+      "end": 9.18,
+      "probability": 0.8574,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "অফিসে",
+      "start": 9.18,
+      "end": 9.56,
+      "probability": 0.9279,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "বকা",
+      "start": 9.56,
+      "end": 9.88,
+      "probability": 0.8964,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "খেল",
+      "start": 9.88,
+      "end": 10.1,
+      "probability": 0.9295,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "সে-ই!",
+      "start": 10.1,
+      "end": 10.58,
+      "probability": 0.6566,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "তাহলে",
+      "start": 10.82,
+      "end": 11.52,
+      "probability": 0.876,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "কি",
+      "start": 11.52,
+      "end": 11.64,
+      "probability": 0.7821,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "ভালো",
+      "start": 11.64,
+      "end": 12.02,
+      "probability": 0.9213,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "মানুষ",
+      "start": 12.02,
+      "end": 12.28,
+      "probability": 0.7024,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "হওয়াটাই",
+      "start": 12.28,
+      "end": 12.58,
+      "probability": 0.6258,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "ভুল?",
+      "start": 12.58,
+      "end": 12.9,
+      "probability": 0.9089,
+      "who": "narrator",
+      "segment": "s02"
+    },
+    {
+      "text": "অফিসে",
+      "start": 13.3,
+      "end": 14.16,
+      "probability": 0.8781,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "রাফির",
+      "start": 14.16,
+      "end": 14.46,
+      "probability": 0.9216,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "একটা",
+      "start": 14.46,
+      "end": 14.66,
+      "probability": 0.8546,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "পরিচয়",
+      "start": 14.66,
+      "end": 15.04,
+      "probability": 0.7496,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "ছিল।",
+      "start": 15.04,
+      "end": 15.46,
+      "probability": 0.5363,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "কোনো",
+      "start": 15.46,
+      "end": 16.22,
+      "probability": 0.7934,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "কাজ",
+      "start": 16.22,
+      "end": 16.52,
+      "probability": 0.9536,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "আটকে",
+      "start": 16.52,
+      "end": 16.84,
+      "probability": 0.9173,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "গেলে,",
+      "start": 16.84,
+      "end": 17.12,
+      "probability": 0.9499,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "ওকে",
+      "start": 17.24,
+      "end": 17.66,
+      "probability": 0.9112,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "বললেই",
+      "start": 17.66,
+      "end": 18.08,
+      "probability": 0.889,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "হয়।",
+      "start": 18.08,
+      "end": 18.74,
+      "probability": 0.5752,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "সেদিন",
+      "start": 18.74,
+      "end": 19.34,
+      "probability": 0.892,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "সকালে",
+      "start": 19.34,
+      "end": 19.76,
+      "probability": 0.7418,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "সাজিদ",
+      "start": 19.76,
+      "end": 20.1,
+      "probability": 0.9224,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "বলল,",
+      "start": 20.1,
+      "end": 20.38,
+      "probability": 0.8253,
+      "who": "narrator",
+      "segment": "s03"
+    },
+    {
+      "text": "দোস্ত,",
+      "start": 20.5,
+      "end": 21.16,
+      "probability": 0.8539,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "প্রেজেন্টেশনটা",
+      "start": 21.38,
+      "end": 21.96,
+      "probability": 0.7536,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "একটু",
+      "start": 21.96,
+      "end": 22.1,
+      "probability": 0.5096,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "গুছিয়ে",
+      "start": 22.1,
+      "end": 22.44,
+      "probability": 0.7053,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "দিবি?",
+      "start": 22.44,
+      "end": 22.68,
+      "probability": 0.6886,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "তোর",
+      "start": 22.82,
+      "end": 23.34,
+      "probability": 0.8622,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "তো",
+      "start": 23.34,
+      "end": 23.46,
+      "probability": 0.7814,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "এসব",
+      "start": 23.46,
+      "end": 23.66,
+      "probability": 0.6244,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "করতে",
+      "start": 23.66,
+      "end": 23.96,
+      "probability": 0.9361,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "বেশি",
+      "start": 23.96,
+      "end": 24.18,
+      "probability": 0.9392,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "সময়",
+      "start": 24.18,
+      "end": 24.46,
+      "probability": 0.6283,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "লাগে",
+      "start": 24.46,
+      "end": 24.76,
+      "probability": 0.8105,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "না।",
+      "start": 24.76,
+      "end": 25.02,
+      "probability": 0.786,
+      "who": "sajid",
+      "segment": "s04"
+    },
+    {
+      "text": "রাফি",
+      "start": 25.4,
+      "end": 25.74,
+      "probability": 0.6142,
+      "who": "narrator",
+      "segment": "s05"
+    },
+    {
+      "text": "বলল,",
+      "start": 25.74,
+      "end": 25.98,
+      "probability": 0.3773,
+      "who": "narrator",
+      "segment": "s05"
+    },
+    {
+      "text": "দে,",
+      "start": 26.3,
+      "end": 26.48,
+      "probability": 0.7018,
+      "who": "rafi",
+      "segment": "s06"
+    },
+    {
+      "text": "করে",
+      "start": 26.6,
+      "end": 27.04,
+      "probability": 0.8248,
+      "who": "rafi",
+      "segment": "s06"
+    },
+    {
+      "text": "দিচ্ছি।",
+      "start": 27.04,
+      "end": 27.3,
+      "probability": 0.4691,
+      "who": "rafi",
+      "segment": "s06"
+    },
+    {
+      "text": "কিছুক্ষণ",
+      "start": 27.7,
+      "end": 28.22,
+      "probability": 0.7416,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "পর",
+      "start": 28.22,
+      "end": 28.5,
+      "probability": 0.8802,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "আরেক",
+      "start": 28.5,
+      "end": 28.92,
+      "probability": 0.9305,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "সহকর্মীর",
+      "start": 28.92,
+      "end": 29.48,
+      "probability": 0.7709,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "কম্পিউটারে",
+      "start": 29.48,
+      "end": 30.0,
+      "probability": 0.8355,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "সমস্যা।",
+      "start": 30.0,
+      "end": 30.88,
+      "probability": 0.8018,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "তারপর",
+      "start": 30.88,
+      "end": 31.2,
+      "probability": 0.8328,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "একটা",
+      "start": 31.2,
+      "end": 31.42,
+      "probability": 0.7704,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "রিপোর্টের",
+      "start": 31.42,
+      "end": 31.88,
+      "probability": 0.8673,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "হিসাব",
+      "start": 31.88,
+      "end": 32.2,
+      "probability": 0.8861,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "মেলানোর",
+      "start": 32.2,
+      "end": 32.6,
+      "probability": 0.8822,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "অনুরোধ।",
+      "start": 32.6,
+      "end": 33.1,
+      "probability": 0.8069,
+      "who": "narrator",
+      "segment": "s07"
+    },
+    {
+      "text": "সবাইকে",
+      "start": 33.4,
+      "end": 33.98,
+      "probability": 0.497,
+      "who": "narrator",
+      "segment": "s08"
+    },
+    {
+      "text": "রাফির",
+      "start": 33.98,
+      "end": 34.28,
+      "probability": 0.6887,
+      "who": "narrator",
+      "segment": "s08"
+    },
+    {
+      "text": "একই",
+      "start": 34.28,
+      "end": 34.5,
+      "probability": 0.4978,
+      "who": "narrator",
+      "segment": "s08"
+    },
+    {
+      "text": "উত্তর—",
+      "start": 34.5,
+      "end": 34.78,
+      "probability": 0.5089,
+      "who": "narrator",
+      "segment": "s08"
+    },
+    {
+      "text": "আচ্ছা,",
+      "start": 34.8,
+      "end": 35.62,
+      "probability": 0.539,
+      "who": "rafi",
+      "segment": "s09"
+    },
+    {
+      "text": "দেখছি।",
+      "start": 35.88,
+      "end": 36.28,
+      "probability": 0.5582,
+      "who": "rafi",
+      "segment": "s09"
+    },
+    {
+      "text": "দুপুর",
+      "start": 36.35,
+      "end": 37.03,
+      "probability": 0.8905,
+      "who": "narrator",
+      "segment": "s10"
+    },
+    {
+      "text": "গড়িয়ে",
+      "start": 37.03,
+      "end": 37.33,
+      "probability": 0.5449,
+      "who": "narrator",
+      "segment": "s10"
+    },
+    {
+      "text": "বিকেল",
+      "start": 37.33,
+      "end": 37.67,
+      "probability": 0.7758,
+      "who": "narrator",
+      "segment": "s10"
+    },
+    {
+      "text": "হলো।",
+      "start": 37.67,
+      "end": 37.89,
+      "probability": 0.7759,
+      "who": "narrator",
+      "segment": "s10"
+    },
+    {
+      "text": "সাজিদের",
+      "start": 37.9,
+      "end": 38.6,
+      "probability": 0.944,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "প্রেজেন্টেশন",
+      "start": 38.6,
+      "end": 39.14,
+      "probability": 0.8686,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "শেষ।",
+      "start": 39.14,
+      "end": 40.0,
+      "probability": 0.801,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "অন্যদের",
+      "start": 40.0,
+      "end": 40.5,
+      "probability": 0.8133,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "সমস্যাও",
+      "start": 40.5,
+      "end": 40.98,
+      "probability": 0.6746,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "মিটে",
+      "start": 40.98,
+      "end": 41.2,
+      "probability": 0.8493,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "গেছে।",
+      "start": 41.2,
+      "end": 41.86,
+      "probability": 0.732,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "শুধু",
+      "start": 41.86,
+      "end": 42.24,
+      "probability": 0.7732,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "রাফির",
+      "start": 42.24,
+      "end": 42.54,
+      "probability": 0.9642,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "নিজের",
+      "start": 42.54,
+      "end": 42.88,
+      "probability": 0.9793,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "কাজটাই",
+      "start": 42.88,
+      "end": 43.26,
+      "probability": 0.8717,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "পড়ে",
+      "start": 43.26,
+      "end": 43.5,
+      "probability": 0.7458,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "আছে।",
+      "start": 43.5,
+      "end": 43.78,
+      "probability": 0.7958,
+      "who": "narrator",
+      "segment": "s11"
+    },
+    {
+      "text": "ম্যানেজার",
+      "start": 43.8,
+      "end": 44.76,
+      "probability": 0.6531,
+      "who": "narrator",
+      "segment": "s12"
+    },
+    {
+      "text": "এসে",
+      "start": 44.76,
+      "end": 44.88,
+      "probability": 0.7069,
+      "who": "narrator",
+      "segment": "s12"
+    },
+    {
+      "text": "জিজ্ঞেস",
+      "start": 44.88,
+      "end": 45.2,
+      "probability": 0.6962,
+      "who": "narrator",
+      "segment": "s12"
+    },
+    {
+      "text": "করলেন,",
+      "start": 45.2,
+      "end": 45.58,
+      "probability": 0.7979,
+      "who": "narrator",
+      "segment": "s12"
+    },
+    {
+      "text": "রাফি,",
+      "start": 45.6,
+      "end": 46.46,
+      "probability": 0.8394,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "তোমার",
+      "start": 46.56,
+      "end": 47.02,
+      "probability": 0.8143,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "কাজটা",
+      "start": 47.02,
+      "end": 47.38,
+      "probability": 0.7842,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "তো",
+      "start": 47.38,
+      "end": 47.46,
+      "probability": 0.9114,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "আজ",
+      "start": 47.46,
+      "end": 47.62,
+      "probability": 0.7192,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "জমা",
+      "start": 47.62,
+      "end": 47.88,
+      "probability": 0.8668,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "দেওয়ার",
+      "start": 47.88,
+      "end": 48.06,
+      "probability": 0.5363,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "কথা",
+      "start": 48.06,
+      "end": 48.26,
+      "probability": 0.6097,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "ছিল?",
+      "start": 48.26,
+      "end": 48.48,
+      "probability": 0.9217,
+      "who": "manager",
+      "segment": "s13"
+    },
+    {
+      "text": "রাফি",
+      "start": 49.2,
+      "end": 49.46,
+      "probability": 0.8691,
+      "who": "narrator",
+      "segment": "s14"
+    },
+    {
+      "text": "মাথা",
+      "start": 49.46,
+      "end": 49.76,
+      "probability": 0.9091,
+      "who": "narrator",
+      "segment": "s14"
+    },
+    {
+      "text": "নিচু",
+      "start": 49.76,
+      "end": 50.0,
+      "probability": 0.889,
+      "who": "narrator",
+      "segment": "s14"
+    },
+    {
+      "text": "করে",
+      "start": 50.0,
+      "end": 50.22,
+      "probability": 0.9116,
+      "who": "narrator",
+      "segment": "s14"
+    },
+    {
+      "text": "বলল,",
+      "start": 50.22,
+      "end": 50.5,
+      "probability": 0.7613,
+      "who": "narrator",
+      "segment": "s14"
+    },
+    {
+      "text": "স্যার,",
+      "start": 51.1,
+      "end": 51.56,
+      "probability": 0.7024,
+      "who": "rafi",
+      "segment": "s15"
+    },
+    {
+      "text": "সবার",
+      "start": 51.86,
+      "end": 52.26,
+      "probability": 0.7494,
+      "who": "rafi",
+      "segment": "s15"
+    },
+    {
+      "text": "কাজ",
+      "start": 52.26,
+      "end": 52.5,
+      "probability": 0.8538,
+      "who": "rafi",
+      "segment": "s15"
+    },
+    {
+      "text": "করতে",
+      "start": 52.5,
+      "end": 52.86,
+      "probability": 0.8414,
+      "who": "rafi",
+      "segment": "s15"
+    },
+    {
+      "text": "গিয়ে…",
+      "start": 52.86,
+      "end": 53.08,
+      "probability": 0.6041,
+      "who": "rafi",
+      "segment": "s15"
+    },
+    {
+      "text": "ম্যানেজার",
+      "start": 53.1,
+      "end": 54.22,
+      "probability": 0.6665,
+      "who": "narrator",
+      "segment": "s16"
+    },
+    {
+      "text": "বললেন,",
+      "start": 54.22,
+      "end": 54.6,
+      "probability": 0.6787,
+      "who": "narrator",
+      "segment": "s16"
+    },
+    {
+      "text": "সময়",
+      "start": 54.8,
+      "end": 55.34,
+      "probability": 0.6261,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "লাগবে,",
+      "start": 55.34,
+      "end": 55.74,
+      "probability": 0.7678,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "সেটা",
+      "start": 55.92,
+      "end": 56.36,
+      "probability": 0.9,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "আগে",
+      "start": 56.36,
+      "end": 56.54,
+      "probability": 0.9759,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "জানাতে",
+      "start": 56.54,
+      "end": 56.9,
+      "probability": 0.9792,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "পারতে।",
+      "start": 56.9,
+      "end": 57.56,
+      "probability": 0.7951,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "তোমার",
+      "start": 57.56,
+      "end": 57.86,
+      "probability": 0.8569,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "কাজটার",
+      "start": 57.86,
+      "end": 58.3,
+      "probability": 0.8405,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "জন্যও",
+      "start": 58.3,
+      "end": 58.62,
+      "probability": 0.6637,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "তো",
+      "start": 58.62,
+      "end": 58.78,
+      "probability": 0.9529,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "অন্য",
+      "start": 58.78,
+      "end": 59.04,
+      "probability": 0.836,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "একজন",
+      "start": 59.04,
+      "end": 59.28,
+      "probability": 0.4741,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "অপেক্ষা",
+      "start": 59.28,
+      "end": 59.62,
+      "probability": 0.7724,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "করছে।",
+      "start": 59.62,
+      "end": 60.08,
+      "probability": 0.9644,
+      "who": "manager",
+      "segment": "s17"
+    },
+    {
+      "text": "সন্ধ্যায়",
+      "start": 60.1,
+      "end": 61.24,
+      "probability": 0.5783,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "করিম",
+      "start": 61.24,
+      "end": 61.64,
+      "probability": 0.8648,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "চাচার",
+      "start": 61.64,
+      "end": 61.94,
+      "probability": 0.9518,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "দোকানে",
+      "start": 61.94,
+      "end": 62.3,
+      "probability": 0.9252,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "বসে",
+      "start": 62.3,
+      "end": 62.54,
+      "probability": 0.8436,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "রাফি",
+      "start": 62.54,
+      "end": 62.8,
+      "probability": 0.9357,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "বলল,",
+      "start": 62.8,
+      "end": 63.08,
+      "probability": 0.8202,
+      "who": "narrator",
+      "segment": "s18"
+    },
+    {
+      "text": "চাচা,",
+      "start": 63.15,
+      "end": 64.03,
+      "probability": 0.9441,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "কাউকে",
+      "start": 64.15,
+      "end": 64.87,
+      "probability": 0.825,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "না",
+      "start": 64.87,
+      "end": 65.11,
+      "probability": 0.9867,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "বলতে",
+      "start": 65.11,
+      "end": 65.39,
+      "probability": 0.8007,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "পারি",
+      "start": 65.39,
+      "end": 65.59,
+      "probability": 0.9284,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "না।",
+      "start": 65.59,
+      "end": 65.93,
+      "probability": 0.696,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "মনে",
+      "start": 65.93,
+      "end": 66.31,
+      "probability": 0.8628,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "হয়,",
+      "start": 66.31,
+      "end": 66.67,
+      "probability": 0.4847,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "খারাপ",
+      "start": 66.67,
+      "end": 67.39,
+      "probability": 0.7257,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "ভাববে।",
+      "start": 67.39,
+      "end": 67.79,
+      "probability": 0.7974,
+      "who": "rafi",
+      "segment": "s19"
+    },
+    {
+      "text": "চাচা",
+      "start": 67.8,
+      "end": 68.6,
+      "probability": 0.9365,
+      "who": "narrator",
+      "segment": "s20"
+    },
+    {
+      "text": "চায়ের",
+      "start": 68.6,
+      "end": 68.88,
+      "probability": 0.6653,
+      "who": "narrator",
+      "segment": "s20"
+    },
+    {
+      "text": "কাপটা",
+      "start": 68.88,
+      "end": 69.26,
+      "probability": 0.8741,
+      "who": "narrator",
+      "segment": "s20"
+    },
+    {
+      "text": "এগিয়ে",
+      "start": 69.26,
+      "end": 69.64,
+      "probability": 0.5844,
+      "who": "narrator",
+      "segment": "s20"
+    },
+    {
+      "text": "দিলেন।",
+      "start": 69.64,
+      "end": 69.88,
+      "probability": 0.7434,
+      "who": "narrator",
+      "segment": "s20"
+    },
+    {
+      "text": "তুই",
+      "start": 69.9,
+      "end": 70.78,
+      "probability": 0.8176,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "কখন",
+      "start": 70.78,
+      "end": 71.12,
+      "probability": 0.7574,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "পারবি,",
+      "start": 71.12,
+      "end": 71.62,
+      "probability": 0.8261,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "সেটা",
+      "start": 71.76,
+      "end": 72.32,
+      "probability": 0.8738,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "না",
+      "start": 72.32,
+      "end": 72.58,
+      "probability": 0.8798,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "বললে",
+      "start": 72.58,
+      "end": 72.9,
+      "probability": 0.7811,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "মানুষ",
+      "start": 72.9,
+      "end": 73.16,
+      "probability": 0.8965,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "বুঝবে",
+      "start": 73.16,
+      "end": 73.58,
+      "probability": 0.7935,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "কীভাবে?",
+      "start": 73.58,
+      "end": 73.96,
+      "probability": 0.8231,
+      "who": "karim",
+      "segment": "s21"
+    },
+    {
+      "text": "রাফি",
+      "start": 74.6,
+      "end": 74.88,
+      "probability": 0.7514,
+      "who": "narrator",
+      "segment": "s22"
+    },
+    {
+      "text": "কিছুক্ষণ",
+      "start": 74.88,
+      "end": 75.24,
+      "probability": 0.474,
+      "who": "narrator",
+      "segment": "s22"
+    },
+    {
+      "text": "চুপ",
+      "start": 75.24,
+      "end": 75.5,
+      "probability": 0.8283,
+      "who": "narrator",
+      "segment": "s22"
+    },
+    {
+      "text": "করে",
+      "start": 75.5,
+      "end": 75.7,
+      "probability": 0.7431,
+      "who": "narrator",
+      "segment": "s22"
+    },
+    {
+      "text": "রইল।",
+      "start": 75.7,
+      "end": 76.04,
+      "probability": 0.5218,
+      "who": "narrator",
+      "segment": "s22"
+    },
+    {
+      "text": "পরদিন",
+      "start": 76.3,
+      "end": 76.88,
+      "probability": 0.8631,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "সাজিদ",
+      "start": 76.88,
+      "end": 77.26,
+      "probability": 0.9215,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "আবার",
+      "start": 77.26,
+      "end": 77.6,
+      "probability": 0.9341,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "সাহায্য",
+      "start": 77.6,
+      "end": 77.98,
+      "probability": 0.7294,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "চাইতে",
+      "start": 77.98,
+      "end": 78.36,
+      "probability": 0.8732,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "এল।",
+      "start": 78.36,
+      "end": 78.58,
+      "probability": 0.4867,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "এবার",
+      "start": 78.58,
+      "end": 79.16,
+      "probability": 0.8981,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "রাফি",
+      "start": 79.16,
+      "end": 79.42,
+      "probability": 0.931,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "বলল,",
+      "start": 79.42,
+      "end": 79.68,
+      "probability": 0.7836,
+      "who": "narrator",
+      "segment": "s23"
+    },
+    {
+      "text": "আমার",
+      "start": 80,
+      "end": 80.24,
+      "probability": 0.9635,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "কাজটা",
+      "start": 80.24,
+      "end": 80.62,
+      "probability": 0.8472,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "আগে",
+      "start": 80.62,
+      "end": 80.78,
+      "probability": 0.9677,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "জমা",
+      "start": 80.78,
+      "end": 81.04,
+      "probability": 0.8539,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "দিতে",
+      "start": 81.04,
+      "end": 81.26,
+      "probability": 0.8879,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "হবে।",
+      "start": 81.26,
+      "end": 81.66,
+      "probability": 0.6501,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "তারপর",
+      "start": 81.66,
+      "end": 82.02,
+      "probability": 0.81,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "দশ",
+      "start": 82.02,
+      "end": 82.22,
+      "probability": 0.7226,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "মিনিট",
+      "start": 82.22,
+      "end": 82.5,
+      "probability": 0.961,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "দেখব।",
+      "start": 82.5,
+      "end": 82.9,
+      "probability": 0.8017,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "পুরোটা",
+      "start": 82.9,
+      "end": 83.44,
+      "probability": 0.9114,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "করে",
+      "start": 83.44,
+      "end": 83.62,
+      "probability": 0.8335,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "দিতে",
+      "start": 83.62,
+      "end": 83.8,
+      "probability": 0.9681,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "পারব",
+      "start": 83.8,
+      "end": 84.04,
+      "probability": 0.949,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "না।",
+      "start": 84.04,
+      "end": 84.62,
+      "probability": 0.552,
+      "who": "rafi",
+      "segment": "s24"
+    },
+    {
+      "text": "সাজিদ",
+      "start": 84.65,
+      "end": 85.05,
+      "probability": 0.8538,
+      "who": "narrator",
+      "segment": "s25"
+    },
+    {
+      "text": "একটু",
+      "start": 85.05,
+      "end": 85.25,
+      "probability": 0.4838,
+      "who": "narrator",
+      "segment": "s25"
+    },
+    {
+      "text": "থামল।",
+      "start": 85.25,
+      "end": 85.73,
+      "probability": 0.7434,
+      "who": "narrator",
+      "segment": "s25"
+    },
+    {
+      "text": "তারপর",
+      "start": 85.73,
+      "end": 86.39,
+      "probability": 0.7806,
+      "who": "narrator",
+      "segment": "s25"
+    },
+    {
+      "text": "বলল,",
+      "start": 86.39,
+      "end": 86.69,
+      "probability": 0.7255,
+      "who": "narrator",
+      "segment": "s25"
+    },
+    {
+      "text": "ঠিক",
+      "start": 86.9,
+      "end": 87.38,
+      "probability": 0.8507,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "আছে।",
+      "start": 87.38,
+      "end": 87.92,
+      "probability": 0.7675,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "তুই",
+      "start": 87.92,
+      "end": 88.28,
+      "probability": 0.8508,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "শুধু",
+      "start": 88.28,
+      "end": 88.4,
+      "probability": 0.6307,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "বুঝিয়ে",
+      "start": 88.4,
+      "end": 88.78,
+      "probability": 0.6009,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "দিস,",
+      "start": 88.78,
+      "end": 89.06,
+      "probability": 0.6629,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "বাকিটা",
+      "start": 89.2,
+      "end": 89.7,
+      "probability": 0.8674,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "আমি",
+      "start": 89.7,
+      "end": 89.84,
+      "probability": 0.8769,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "করব।",
+      "start": 89.84,
+      "end": 90.18,
+      "probability": 0.6618,
+      "who": "sajid",
+      "segment": "s26"
+    },
+    {
+      "text": "রাফি",
+      "start": 91.1,
+      "end": 91.22,
+      "probability": 0.5704,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "অবাক",
+      "start": 91.22,
+      "end": 91.54,
+      "probability": 0.8484,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "হয়ে",
+      "start": 91.54,
+      "end": 91.66,
+      "probability": 0.5691,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "দেখল—",
+      "start": 91.66,
+      "end": 92.16,
+      "probability": 0.7722,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "পৃথিবী",
+      "start": 92.16,
+      "end": 92.88,
+      "probability": 0.6958,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "থেমে",
+      "start": 92.88,
+      "end": 93.16,
+      "probability": 0.9613,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "যায়নি।",
+      "start": 93.16,
+      "end": 93.82,
+      "probability": 0.5276,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "বন্ধুত্বও",
+      "start": 93.82,
+      "end": 94.46,
+      "probability": 0.7196,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "শেষ",
+      "start": 94.46,
+      "end": 94.78,
+      "probability": 0.8196,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "হয়ে",
+      "start": 94.78,
+      "end": 94.9,
+      "probability": 0.4726,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "যায়নি।",
+      "start": 94.9,
+      "end": 95.28,
+      "probability": 0.807,
+      "who": "narrator",
+      "segment": "s27"
+    },
+    {
+      "text": "সেদিন",
+      "start": 95.3,
+      "end": 96.02,
+      "probability": 0.9392,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "রাফি",
+      "start": 96.02,
+      "end": 96.3,
+      "probability": 0.97,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "শিখল—",
+      "start": 96.3,
+      "end": 96.82,
+      "probability": 0.791,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "সাহায্য",
+      "start": 96.82,
+      "end": 97.72,
+      "probability": 0.7916,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "করতে",
+      "start": 97.72,
+      "end": 98.02,
+      "probability": 0.8949,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "চাওয়া",
+      "start": 98.02,
+      "end": 98.36,
+      "probability": 0.5909,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "আর",
+      "start": 98.36,
+      "end": 98.72,
+      "probability": 0.9296,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "সব",
+      "start": 98.72,
+      "end": 99.06,
+      "probability": 0.8638,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "দায়িত্ব",
+      "start": 99.06,
+      "end": 99.5,
+      "probability": 0.5058,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "নিজের",
+      "start": 99.5,
+      "end": 99.8,
+      "probability": 0.9353,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "কাঁধে",
+      "start": 99.8,
+      "end": 100.14,
+      "probability": 0.8704,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "নেওয়া",
+      "start": 100.14,
+      "end": 100.44,
+      "probability": 0.6005,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "এক",
+      "start": 100.44,
+      "end": 100.72,
+      "probability": 0.9597,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "কথা",
+      "start": 100.72,
+      "end": 101.02,
+      "probability": 0.817,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "নয়।",
+      "start": 101.02,
+      "end": 101.2,
+      "probability": 0.4876,
+      "who": "narrator",
+      "segment": "s28"
+    },
+    {
+      "text": "কখন",
+      "start": 101.3,
+      "end": 101.9,
+      "probability": 0.8975,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "পারবে,",
+      "start": 101.9,
+      "end": 102.34,
+      "probability": 0.9626,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "কতটা",
+      "start": 102.52,
+      "end": 103.04,
+      "probability": 0.9153,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "পারবে—সেটা",
+      "start": 103.04,
+      "end": 104.28,
+      "probability": 0.8794,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "স্পষ্ট",
+      "start": 104.28,
+      "end": 104.68,
+      "probability": 0.7847,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "করে",
+      "start": 104.68,
+      "end": 104.92,
+      "probability": 0.8738,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "বলাও",
+      "start": 104.92,
+      "end": 105.24,
+      "probability": 0.9054,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "ভালো",
+      "start": 105.24,
+      "end": 105.62,
+      "probability": 0.928,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "ব্যবহারের",
+      "start": 105.62,
+      "end": 106.06,
+      "probability": 0.7232,
+      "who": "narrator",
+      "segment": "s29"
+    },
+    {
+      "text": "অংশ।",
+      "start": 106.06,
+      "end": 106.42,
+      "probability": 0.5362,
+      "who": "narrator",
+      "segment": "s29"
+    }
+  ],
+  "cues": [
+    {
+      "who": "sajid",
+      "start": 20.5,
+      "end": 25.02,
+      "text": "দোস্ত, প্রেজেন্টেশনটা একটু গুছিয়ে দিবি? তোর তো এসব করতে বেশি সময় লাগে না।"
+    },
+    {
+      "who": "rafi",
+      "start": 26.3,
+      "end": 27.3,
+      "text": "দে, করে দিচ্ছি।"
+    },
+    {
+      "who": "rafi",
+      "start": 34.8,
+      "end": 36.28,
+      "text": "আচ্ছা, দেখছি।"
+    },
+    {
+      "who": "manager",
+      "start": 45.6,
+      "end": 48.48,
+      "text": "রাফি, তোমার কাজটা তো আজ জমা দেওয়ার কথা ছিল?"
+    },
+    {
+      "who": "rafi",
+      "start": 51.1,
+      "end": 53.08,
+      "text": "স্যার, সবার কাজ করতে গিয়ে…"
+    },
+    {
+      "who": "manager",
+      "start": 54.8,
+      "end": 60.08,
+      "text": "সময় লাগবে, সেটা আগে জানাতে পারতে। তোমার কাজটার জন্যও তো অন্য একজন অপেক্ষা করছে।"
+    },
+    {
+      "who": "rafi",
+      "start": 63.15,
+      "end": 67.79,
+      "text": "চাচা, কাউকে না বলতে পারি না। মনে হয়, খারাপ ভাববে।"
+    },
+    {
+      "who": "karim",
+      "start": 69.9,
+      "end": 73.96,
+      "text": "তুই কখন পারবি, সেটা না বললে মানুষ বুঝবে কীভাবে?"
+    },
+    {
+      "who": "rafi",
+      "start": 80,
+      "end": 84.62,
+      "text": "আমার কাজটা আগে জমা দিতে হবে। তারপর দশ মিনিট দেখব। পুরোটা করে দিতে পারব না।"
+    },
+    {
+      "who": "sajid",
+      "start": 86.9,
+      "end": 90.18,
+      "text": "ঠিক আছে। তুই শুধু বুঝিয়ে দিস, বাকিটা আমি করব।"
+    }
+  ],
+  "segments": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 5.3,
+      "who": "narrator",
+      "text": "জীবনের অদ্ভুত গল্প। এপিসোড শূন্য দুই। ভালো মানুষ হওয়াটাই কি ভুল?",
+      "words": [
+        {
+          "text": "জীবনের",
+          "start": 0,
+          "end": 0.62,
+          "probability": 0.8442,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "অদ্ভুত",
+          "start": 0.62,
+          "end": 1.12,
+          "probability": 0.8623,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "গল্প।",
+          "start": 1.12,
+          "end": 1.6,
+          "probability": 0.7765,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "এপিসোড",
+          "start": 1.6,
+          "end": 2.4,
+          "probability": 0.8551,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "শূন্য",
+          "start": 2.4,
+          "end": 2.78,
+          "probability": 0.7208,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "দুই।",
+          "start": 2.78,
+          "end": 3.42,
+          "probability": 0.7888,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "ভালো",
+          "start": 3.42,
+          "end": 3.92,
+          "probability": 0.9557,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "মানুষ",
+          "start": 3.92,
+          "end": 4.2,
+          "probability": 0.9034,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "হওয়াটাই",
+          "start": 4.2,
+          "end": 4.58,
+          "probability": 0.6517,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "কি",
+          "start": 4.58,
+          "end": 4.7,
+          "probability": 0.7762,
+          "who": "narrator",
+          "segment": "s01"
+        },
+        {
+          "text": "ভুল?",
+          "start": 4.7,
+          "end": 5.0,
+          "probability": 0.9186,
+          "who": "narrator",
+          "segment": "s01"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "start": 5.3,
+      "end": 13.3,
+      "who": "narrator",
+      "text": "সারাদিন সবাইকে সাহায্য করল রাফি। অথচ দিন শেষে অফিসে বকা খেল সে-ই! তাহলে কি ভালো মানুষ হওয়াটাই ভুল?",
+      "words": [
+        {
+          "text": "সারাদিন",
+          "start": 5.3,
+          "end": 6.26,
+          "probability": 0.8877,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "সবাইকে",
+          "start": 6.26,
+          "end": 6.7,
+          "probability": 0.9128,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "সাহায্য",
+          "start": 6.7,
+          "end": 7.08,
+          "probability": 0.7798,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "করল",
+          "start": 7.08,
+          "end": 7.32,
+          "probability": 0.6288,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "রাফি।",
+          "start": 7.32,
+          "end": 8.06,
+          "probability": 0.7231,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "অথচ",
+          "start": 8.06,
+          "end": 8.52,
+          "probability": 0.7782,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "দিন",
+          "start": 8.52,
+          "end": 8.86,
+          "probability": 0.8256,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "শেষে",
+          "start": 8.86,
+          "end": 9.18,
+          "probability": 0.8574,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "অফিসে",
+          "start": 9.18,
+          "end": 9.56,
+          "probability": 0.9279,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "বকা",
+          "start": 9.56,
+          "end": 9.88,
+          "probability": 0.8964,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "খেল",
+          "start": 9.88,
+          "end": 10.1,
+          "probability": 0.9295,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "সে-ই!",
+          "start": 10.1,
+          "end": 10.58,
+          "probability": 0.6566,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "তাহলে",
+          "start": 10.82,
+          "end": 11.52,
+          "probability": 0.876,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "কি",
+          "start": 11.52,
+          "end": 11.64,
+          "probability": 0.7821,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "ভালো",
+          "start": 11.64,
+          "end": 12.02,
+          "probability": 0.9213,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "মানুষ",
+          "start": 12.02,
+          "end": 12.28,
+          "probability": 0.7024,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "হওয়াটাই",
+          "start": 12.28,
+          "end": 12.58,
+          "probability": 0.6258,
+          "who": "narrator",
+          "segment": "s02"
+        },
+        {
+          "text": "ভুল?",
+          "start": 12.58,
+          "end": 12.9,
+          "probability": 0.9089,
+          "who": "narrator",
+          "segment": "s02"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "start": 13.3,
+      "end": 20.5,
+      "who": "narrator",
+      "text": "অফিসে রাফির একটা পরিচয় ছিল। কোনো কাজ আটকে গেলে, ওকে বললেই হয়। সেদিন সকালে সাজিদ বলল,",
+      "words": [
+        {
+          "text": "অফিসে",
+          "start": 13.3,
+          "end": 14.16,
+          "probability": 0.8781,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "রাফির",
+          "start": 14.16,
+          "end": 14.46,
+          "probability": 0.9216,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "একটা",
+          "start": 14.46,
+          "end": 14.66,
+          "probability": 0.8546,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "পরিচয়",
+          "start": 14.66,
+          "end": 15.04,
+          "probability": 0.7496,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "ছিল।",
+          "start": 15.04,
+          "end": 15.46,
+          "probability": 0.5363,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "কোনো",
+          "start": 15.46,
+          "end": 16.22,
+          "probability": 0.7934,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "কাজ",
+          "start": 16.22,
+          "end": 16.52,
+          "probability": 0.9536,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "আটকে",
+          "start": 16.52,
+          "end": 16.84,
+          "probability": 0.9173,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "গেলে,",
+          "start": 16.84,
+          "end": 17.12,
+          "probability": 0.9499,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "ওকে",
+          "start": 17.24,
+          "end": 17.66,
+          "probability": 0.9112,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "বললেই",
+          "start": 17.66,
+          "end": 18.08,
+          "probability": 0.889,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "হয়।",
+          "start": 18.08,
+          "end": 18.74,
+          "probability": 0.5752,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "সেদিন",
+          "start": 18.74,
+          "end": 19.34,
+          "probability": 0.892,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "সকালে",
+          "start": 19.34,
+          "end": 19.76,
+          "probability": 0.7418,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "সাজিদ",
+          "start": 19.76,
+          "end": 20.1,
+          "probability": 0.9224,
+          "who": "narrator",
+          "segment": "s03"
+        },
+        {
+          "text": "বলল,",
+          "start": 20.1,
+          "end": 20.38,
+          "probability": 0.8253,
+          "who": "narrator",
+          "segment": "s03"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "start": 20.5,
+      "end": 25.4,
+      "who": "sajid",
+      "text": "দোস্ত, প্রেজেন্টেশনটা একটু গুছিয়ে দিবি? তোর তো এসব করতে বেশি সময় লাগে না।",
+      "words": [
+        {
+          "text": "দোস্ত,",
+          "start": 20.5,
+          "end": 21.16,
+          "probability": 0.8539,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "প্রেজেন্টেশনটা",
+          "start": 21.38,
+          "end": 21.96,
+          "probability": 0.7536,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "একটু",
+          "start": 21.96,
+          "end": 22.1,
+          "probability": 0.5096,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "গুছিয়ে",
+          "start": 22.1,
+          "end": 22.44,
+          "probability": 0.7053,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "দিবি?",
+          "start": 22.44,
+          "end": 22.68,
+          "probability": 0.6886,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "তোর",
+          "start": 22.82,
+          "end": 23.34,
+          "probability": 0.8622,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "তো",
+          "start": 23.34,
+          "end": 23.46,
+          "probability": 0.7814,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "এসব",
+          "start": 23.46,
+          "end": 23.66,
+          "probability": 0.6244,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "করতে",
+          "start": 23.66,
+          "end": 23.96,
+          "probability": 0.9361,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "বেশি",
+          "start": 23.96,
+          "end": 24.18,
+          "probability": 0.9392,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "সময়",
+          "start": 24.18,
+          "end": 24.46,
+          "probability": 0.6283,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "লাগে",
+          "start": 24.46,
+          "end": 24.76,
+          "probability": 0.8105,
+          "who": "sajid",
+          "segment": "s04"
+        },
+        {
+          "text": "না।",
+          "start": 24.76,
+          "end": 25.02,
+          "probability": 0.786,
+          "who": "sajid",
+          "segment": "s04"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "start": 25.4,
+      "end": 26.3,
+      "who": "narrator",
+      "text": "রাফি বলল,",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 25.4,
+          "end": 25.74,
+          "probability": 0.6142,
+          "who": "narrator",
+          "segment": "s05"
+        },
+        {
+          "text": "বলল,",
+          "start": 25.74,
+          "end": 25.98,
+          "probability": 0.3773,
+          "who": "narrator",
+          "segment": "s05"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "start": 26.3,
+      "end": 27.7,
+      "who": "rafi",
+      "text": "দে, করে দিচ্ছি।",
+      "words": [
+        {
+          "text": "দে,",
+          "start": 26.3,
+          "end": 26.48,
+          "probability": 0.7018,
+          "who": "rafi",
+          "segment": "s06"
+        },
+        {
+          "text": "করে",
+          "start": 26.6,
+          "end": 27.04,
+          "probability": 0.8248,
+          "who": "rafi",
+          "segment": "s06"
+        },
+        {
+          "text": "দিচ্ছি।",
+          "start": 27.04,
+          "end": 27.3,
+          "probability": 0.4691,
+          "who": "rafi",
+          "segment": "s06"
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "start": 27.7,
+      "end": 33.4,
+      "who": "narrator",
+      "text": "কিছুক্ষণ পর আরেক সহকর্মীর কম্পিউটারে সমস্যা। তারপর একটা রিপোর্টের হিসাব মেলানোর অনুরোধ।",
+      "words": [
+        {
+          "text": "কিছুক্ষণ",
+          "start": 27.7,
+          "end": 28.22,
+          "probability": 0.7416,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "পর",
+          "start": 28.22,
+          "end": 28.5,
+          "probability": 0.8802,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "আরেক",
+          "start": 28.5,
+          "end": 28.92,
+          "probability": 0.9305,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "সহকর্মীর",
+          "start": 28.92,
+          "end": 29.48,
+          "probability": 0.7709,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "কম্পিউটারে",
+          "start": 29.48,
+          "end": 30.0,
+          "probability": 0.8355,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "সমস্যা।",
+          "start": 30.0,
+          "end": 30.88,
+          "probability": 0.8018,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "তারপর",
+          "start": 30.88,
+          "end": 31.2,
+          "probability": 0.8328,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "একটা",
+          "start": 31.2,
+          "end": 31.42,
+          "probability": 0.7704,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "রিপোর্টের",
+          "start": 31.42,
+          "end": 31.88,
+          "probability": 0.8673,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "হিসাব",
+          "start": 31.88,
+          "end": 32.2,
+          "probability": 0.8861,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "মেলানোর",
+          "start": 32.2,
+          "end": 32.6,
+          "probability": 0.8822,
+          "who": "narrator",
+          "segment": "s07"
+        },
+        {
+          "text": "অনুরোধ।",
+          "start": 32.6,
+          "end": 33.1,
+          "probability": 0.8069,
+          "who": "narrator",
+          "segment": "s07"
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "start": 33.4,
+      "end": 34.8,
+      "who": "narrator",
+      "text": "সবাইকে রাফির একই উত্তর—",
+      "words": [
+        {
+          "text": "সবাইকে",
+          "start": 33.4,
+          "end": 33.98,
+          "probability": 0.497,
+          "who": "narrator",
+          "segment": "s08"
+        },
+        {
+          "text": "রাফির",
+          "start": 33.98,
+          "end": 34.28,
+          "probability": 0.6887,
+          "who": "narrator",
+          "segment": "s08"
+        },
+        {
+          "text": "একই",
+          "start": 34.28,
+          "end": 34.5,
+          "probability": 0.4978,
+          "who": "narrator",
+          "segment": "s08"
+        },
+        {
+          "text": "উত্তর—",
+          "start": 34.5,
+          "end": 34.78,
+          "probability": 0.5089,
+          "who": "narrator",
+          "segment": "s08"
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "start": 34.8,
+      "end": 36.35,
+      "who": "rafi",
+      "text": "আচ্ছা, দেখছি।",
+      "words": [
+        {
+          "text": "আচ্ছা,",
+          "start": 34.8,
+          "end": 35.62,
+          "probability": 0.539,
+          "who": "rafi",
+          "segment": "s09"
+        },
+        {
+          "text": "দেখছি।",
+          "start": 35.88,
+          "end": 36.28,
+          "probability": 0.5582,
+          "who": "rafi",
+          "segment": "s09"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "start": 36.35,
+      "end": 37.9,
+      "who": "narrator",
+      "text": "দুপুর গড়িয়ে বিকেল হলো।",
+      "words": [
+        {
+          "text": "দুপুর",
+          "start": 36.35,
+          "end": 37.03,
+          "probability": 0.8905,
+          "who": "narrator",
+          "segment": "s10"
+        },
+        {
+          "text": "গড়িয়ে",
+          "start": 37.03,
+          "end": 37.33,
+          "probability": 0.5449,
+          "who": "narrator",
+          "segment": "s10"
+        },
+        {
+          "text": "বিকেল",
+          "start": 37.33,
+          "end": 37.67,
+          "probability": 0.7758,
+          "who": "narrator",
+          "segment": "s10"
+        },
+        {
+          "text": "হলো।",
+          "start": 37.67,
+          "end": 37.89,
+          "probability": 0.7759,
+          "who": "narrator",
+          "segment": "s10"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "start": 37.9,
+      "end": 43.8,
+      "who": "narrator",
+      "text": "সাজিদের প্রেজেন্টেশন শেষ। অন্যদের সমস্যাও মিটে গেছে। শুধু রাফির নিজের কাজটাই পড়ে আছে।",
+      "words": [
+        {
+          "text": "সাজিদের",
+          "start": 37.9,
+          "end": 38.6,
+          "probability": 0.944,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "প্রেজেন্টেশন",
+          "start": 38.6,
+          "end": 39.14,
+          "probability": 0.8686,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "শেষ।",
+          "start": 39.14,
+          "end": 40.0,
+          "probability": 0.801,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "অন্যদের",
+          "start": 40.0,
+          "end": 40.5,
+          "probability": 0.8133,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "সমস্যাও",
+          "start": 40.5,
+          "end": 40.98,
+          "probability": 0.6746,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "মিটে",
+          "start": 40.98,
+          "end": 41.2,
+          "probability": 0.8493,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "গেছে।",
+          "start": 41.2,
+          "end": 41.86,
+          "probability": 0.732,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "শুধু",
+          "start": 41.86,
+          "end": 42.24,
+          "probability": 0.7732,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "রাফির",
+          "start": 42.24,
+          "end": 42.54,
+          "probability": 0.9642,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "নিজের",
+          "start": 42.54,
+          "end": 42.88,
+          "probability": 0.9793,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "কাজটাই",
+          "start": 42.88,
+          "end": 43.26,
+          "probability": 0.8717,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "পড়ে",
+          "start": 43.26,
+          "end": 43.5,
+          "probability": 0.7458,
+          "who": "narrator",
+          "segment": "s11"
+        },
+        {
+          "text": "আছে।",
+          "start": 43.5,
+          "end": 43.78,
+          "probability": 0.7958,
+          "who": "narrator",
+          "segment": "s11"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "start": 43.8,
+      "end": 45.6,
+      "who": "narrator",
+      "text": "ম্যানেজার এসে জিজ্ঞেস করলেন,",
+      "words": [
+        {
+          "text": "ম্যানেজার",
+          "start": 43.8,
+          "end": 44.76,
+          "probability": 0.6531,
+          "who": "narrator",
+          "segment": "s12"
+        },
+        {
+          "text": "এসে",
+          "start": 44.76,
+          "end": 44.88,
+          "probability": 0.7069,
+          "who": "narrator",
+          "segment": "s12"
+        },
+        {
+          "text": "জিজ্ঞেস",
+          "start": 44.88,
+          "end": 45.2,
+          "probability": 0.6962,
+          "who": "narrator",
+          "segment": "s12"
+        },
+        {
+          "text": "করলেন,",
+          "start": 45.2,
+          "end": 45.58,
+          "probability": 0.7979,
+          "who": "narrator",
+          "segment": "s12"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "start": 45.6,
+      "end": 49.2,
+      "who": "manager",
+      "text": "রাফি, তোমার কাজটা তো আজ জমা দেওয়ার কথা ছিল?",
+      "words": [
+        {
+          "text": "রাফি,",
+          "start": 45.6,
+          "end": 46.46,
+          "probability": 0.8394,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "তোমার",
+          "start": 46.56,
+          "end": 47.02,
+          "probability": 0.8143,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "কাজটা",
+          "start": 47.02,
+          "end": 47.38,
+          "probability": 0.7842,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "তো",
+          "start": 47.38,
+          "end": 47.46,
+          "probability": 0.9114,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "আজ",
+          "start": 47.46,
+          "end": 47.62,
+          "probability": 0.7192,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "জমা",
+          "start": 47.62,
+          "end": 47.88,
+          "probability": 0.8668,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "দেওয়ার",
+          "start": 47.88,
+          "end": 48.06,
+          "probability": 0.5363,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "কথা",
+          "start": 48.06,
+          "end": 48.26,
+          "probability": 0.6097,
+          "who": "manager",
+          "segment": "s13"
+        },
+        {
+          "text": "ছিল?",
+          "start": 48.26,
+          "end": 48.48,
+          "probability": 0.9217,
+          "who": "manager",
+          "segment": "s13"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "start": 49.2,
+      "end": 51.1,
+      "who": "narrator",
+      "text": "রাফি মাথা নিচু করে বলল,",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 49.2,
+          "end": 49.46,
+          "probability": 0.8691,
+          "who": "narrator",
+          "segment": "s14"
+        },
+        {
+          "text": "মাথা",
+          "start": 49.46,
+          "end": 49.76,
+          "probability": 0.9091,
+          "who": "narrator",
+          "segment": "s14"
+        },
+        {
+          "text": "নিচু",
+          "start": 49.76,
+          "end": 50.0,
+          "probability": 0.889,
+          "who": "narrator",
+          "segment": "s14"
+        },
+        {
+          "text": "করে",
+          "start": 50.0,
+          "end": 50.22,
+          "probability": 0.9116,
+          "who": "narrator",
+          "segment": "s14"
+        },
+        {
+          "text": "বলল,",
+          "start": 50.22,
+          "end": 50.5,
+          "probability": 0.7613,
+          "who": "narrator",
+          "segment": "s14"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "start": 51.1,
+      "end": 53.1,
+      "who": "rafi",
+      "text": "স্যার, সবার কাজ করতে গিয়ে…",
+      "words": [
+        {
+          "text": "স্যার,",
+          "start": 51.1,
+          "end": 51.56,
+          "probability": 0.7024,
+          "who": "rafi",
+          "segment": "s15"
+        },
+        {
+          "text": "সবার",
+          "start": 51.86,
+          "end": 52.26,
+          "probability": 0.7494,
+          "who": "rafi",
+          "segment": "s15"
+        },
+        {
+          "text": "কাজ",
+          "start": 52.26,
+          "end": 52.5,
+          "probability": 0.8538,
+          "who": "rafi",
+          "segment": "s15"
+        },
+        {
+          "text": "করতে",
+          "start": 52.5,
+          "end": 52.86,
+          "probability": 0.8414,
+          "who": "rafi",
+          "segment": "s15"
+        },
+        {
+          "text": "গিয়ে…",
+          "start": 52.86,
+          "end": 53.08,
+          "probability": 0.6041,
+          "who": "rafi",
+          "segment": "s15"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "start": 53.1,
+      "end": 54.8,
+      "who": "narrator",
+      "text": "ম্যানেজার বললেন,",
+      "words": [
+        {
+          "text": "ম্যানেজার",
+          "start": 53.1,
+          "end": 54.22,
+          "probability": 0.6665,
+          "who": "narrator",
+          "segment": "s16"
+        },
+        {
+          "text": "বললেন,",
+          "start": 54.22,
+          "end": 54.6,
+          "probability": 0.6787,
+          "who": "narrator",
+          "segment": "s16"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "start": 54.8,
+      "end": 60.1,
+      "who": "manager",
+      "text": "সময় লাগবে, সেটা আগে জানাতে পারতে। তোমার কাজটার জন্যও তো অন্য একজন অপেক্ষা করছে।",
+      "words": [
+        {
+          "text": "সময়",
+          "start": 54.8,
+          "end": 55.34,
+          "probability": 0.6261,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "লাগবে,",
+          "start": 55.34,
+          "end": 55.74,
+          "probability": 0.7678,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "সেটা",
+          "start": 55.92,
+          "end": 56.36,
+          "probability": 0.9,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "আগে",
+          "start": 56.36,
+          "end": 56.54,
+          "probability": 0.9759,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "জানাতে",
+          "start": 56.54,
+          "end": 56.9,
+          "probability": 0.9792,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "পারতে।",
+          "start": 56.9,
+          "end": 57.56,
+          "probability": 0.7951,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "তোমার",
+          "start": 57.56,
+          "end": 57.86,
+          "probability": 0.8569,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "কাজটার",
+          "start": 57.86,
+          "end": 58.3,
+          "probability": 0.8405,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "জন্যও",
+          "start": 58.3,
+          "end": 58.62,
+          "probability": 0.6637,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "তো",
+          "start": 58.62,
+          "end": 58.78,
+          "probability": 0.9529,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "অন্য",
+          "start": 58.78,
+          "end": 59.04,
+          "probability": 0.836,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "একজন",
+          "start": 59.04,
+          "end": 59.28,
+          "probability": 0.4741,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "অপেক্ষা",
+          "start": 59.28,
+          "end": 59.62,
+          "probability": 0.7724,
+          "who": "manager",
+          "segment": "s17"
+        },
+        {
+          "text": "করছে।",
+          "start": 59.62,
+          "end": 60.08,
+          "probability": 0.9644,
+          "who": "manager",
+          "segment": "s17"
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "start": 60.1,
+      "end": 63.15,
+      "who": "narrator",
+      "text": "সন্ধ্যায় করিম চাচার দোকানে বসে রাফি বলল,",
+      "words": [
+        {
+          "text": "সন্ধ্যায়",
+          "start": 60.1,
+          "end": 61.24,
+          "probability": 0.5783,
+          "who": "narrator",
+          "segment": "s18"
+        },
+        {
+          "text": "করিম",
+          "start": 61.24,
+          "end": 61.64,
+          "probability": 0.8648,
+          "who": "narrator",
+          "segment": "s18"
+        },
+        {
+          "text": "চাচার",
+          "start": 61.64,
+          "end": 61.94,
+          "probability": 0.9518,
+          "who": "narrator",
+          "segment": "s18"
+        },
+        {
+          "text": "দোকানে",
+          "start": 61.94,
+          "end": 62.3,
+          "probability": 0.9252,
+          "who": "narrator",
+          "segment": "s18"
+        },
+        {
+          "text": "বসে",
+          "start": 62.3,
+          "end": 62.54,
+          "probability": 0.8436,
+          "who": "narrator",
+          "segment": "s18"
+        },
+        {
+          "text": "রাফি",
+          "start": 62.54,
+          "end": 62.8,
+          "probability": 0.9357,
+          "who": "narrator",
+          "segment": "s18"
+        },
+        {
+          "text": "বলল,",
+          "start": 62.8,
+          "end": 63.08,
+          "probability": 0.8202,
+          "who": "narrator",
+          "segment": "s18"
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "start": 63.15,
+      "end": 67.8,
+      "who": "rafi",
+      "text": "চাচা, কাউকে না বলতে পারি না। মনে হয়, খারাপ ভাববে।",
+      "words": [
+        {
+          "text": "চাচা,",
+          "start": 63.15,
+          "end": 64.03,
+          "probability": 0.9441,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "কাউকে",
+          "start": 64.15,
+          "end": 64.87,
+          "probability": 0.825,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "না",
+          "start": 64.87,
+          "end": 65.11,
+          "probability": 0.9867,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "বলতে",
+          "start": 65.11,
+          "end": 65.39,
+          "probability": 0.8007,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "পারি",
+          "start": 65.39,
+          "end": 65.59,
+          "probability": 0.9284,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "না।",
+          "start": 65.59,
+          "end": 65.93,
+          "probability": 0.696,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "মনে",
+          "start": 65.93,
+          "end": 66.31,
+          "probability": 0.8628,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "হয়,",
+          "start": 66.31,
+          "end": 66.67,
+          "probability": 0.4847,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "খারাপ",
+          "start": 66.67,
+          "end": 67.39,
+          "probability": 0.7257,
+          "who": "rafi",
+          "segment": "s19"
+        },
+        {
+          "text": "ভাববে।",
+          "start": 67.39,
+          "end": 67.79,
+          "probability": 0.7974,
+          "who": "rafi",
+          "segment": "s19"
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "start": 67.8,
+      "end": 69.9,
+      "who": "narrator",
+      "text": "চাচা চায়ের কাপটা এগিয়ে দিলেন।",
+      "words": [
+        {
+          "text": "চাচা",
+          "start": 67.8,
+          "end": 68.6,
+          "probability": 0.9365,
+          "who": "narrator",
+          "segment": "s20"
+        },
+        {
+          "text": "চায়ের",
+          "start": 68.6,
+          "end": 68.88,
+          "probability": 0.6653,
+          "who": "narrator",
+          "segment": "s20"
+        },
+        {
+          "text": "কাপটা",
+          "start": 68.88,
+          "end": 69.26,
+          "probability": 0.8741,
+          "who": "narrator",
+          "segment": "s20"
+        },
+        {
+          "text": "এগিয়ে",
+          "start": 69.26,
+          "end": 69.64,
+          "probability": 0.5844,
+          "who": "narrator",
+          "segment": "s20"
+        },
+        {
+          "text": "দিলেন।",
+          "start": 69.64,
+          "end": 69.88,
+          "probability": 0.7434,
+          "who": "narrator",
+          "segment": "s20"
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "start": 69.9,
+      "end": 74.6,
+      "who": "karim",
+      "text": "তুই কখন পারবি, সেটা না বললে মানুষ বুঝবে কীভাবে?",
+      "words": [
+        {
+          "text": "তুই",
+          "start": 69.9,
+          "end": 70.78,
+          "probability": 0.8176,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "কখন",
+          "start": 70.78,
+          "end": 71.12,
+          "probability": 0.7574,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "পারবি,",
+          "start": 71.12,
+          "end": 71.62,
+          "probability": 0.8261,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "সেটা",
+          "start": 71.76,
+          "end": 72.32,
+          "probability": 0.8738,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "না",
+          "start": 72.32,
+          "end": 72.58,
+          "probability": 0.8798,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "বললে",
+          "start": 72.58,
+          "end": 72.9,
+          "probability": 0.7811,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "মানুষ",
+          "start": 72.9,
+          "end": 73.16,
+          "probability": 0.8965,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "বুঝবে",
+          "start": 73.16,
+          "end": 73.58,
+          "probability": 0.7935,
+          "who": "karim",
+          "segment": "s21"
+        },
+        {
+          "text": "কীভাবে?",
+          "start": 73.58,
+          "end": 73.96,
+          "probability": 0.8231,
+          "who": "karim",
+          "segment": "s21"
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "start": 74.6,
+      "end": 76.3,
+      "who": "narrator",
+      "text": "রাফি কিছুক্ষণ চুপ করে রইল।",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 74.6,
+          "end": 74.88,
+          "probability": 0.7514,
+          "who": "narrator",
+          "segment": "s22"
+        },
+        {
+          "text": "কিছুক্ষণ",
+          "start": 74.88,
+          "end": 75.24,
+          "probability": 0.474,
+          "who": "narrator",
+          "segment": "s22"
+        },
+        {
+          "text": "চুপ",
+          "start": 75.24,
+          "end": 75.5,
+          "probability": 0.8283,
+          "who": "narrator",
+          "segment": "s22"
+        },
+        {
+          "text": "করে",
+          "start": 75.5,
+          "end": 75.7,
+          "probability": 0.7431,
+          "who": "narrator",
+          "segment": "s22"
+        },
+        {
+          "text": "রইল।",
+          "start": 75.7,
+          "end": 76.04,
+          "probability": 0.5218,
+          "who": "narrator",
+          "segment": "s22"
+        }
+      ]
+    },
+    {
+      "id": "s23",
+      "start": 76.3,
+      "end": 80,
+      "who": "narrator",
+      "text": "পরদিন সাজিদ আবার সাহায্য চাইতে এল। এবার রাফি বলল,",
+      "words": [
+        {
+          "text": "পরদিন",
+          "start": 76.3,
+          "end": 76.88,
+          "probability": 0.8631,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "সাজিদ",
+          "start": 76.88,
+          "end": 77.26,
+          "probability": 0.9215,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "আবার",
+          "start": 77.26,
+          "end": 77.6,
+          "probability": 0.9341,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "সাহায্য",
+          "start": 77.6,
+          "end": 77.98,
+          "probability": 0.7294,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "চাইতে",
+          "start": 77.98,
+          "end": 78.36,
+          "probability": 0.8732,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "এল।",
+          "start": 78.36,
+          "end": 78.58,
+          "probability": 0.4867,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "এবার",
+          "start": 78.58,
+          "end": 79.16,
+          "probability": 0.8981,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "রাফি",
+          "start": 79.16,
+          "end": 79.42,
+          "probability": 0.931,
+          "who": "narrator",
+          "segment": "s23"
+        },
+        {
+          "text": "বলল,",
+          "start": 79.42,
+          "end": 79.68,
+          "probability": 0.7836,
+          "who": "narrator",
+          "segment": "s23"
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "start": 80,
+      "end": 86,
+      "who": "rafi",
+      "text": "আমার কাজটা আগে জমা দিতে হবে। তারপর দশ মিনিট দেখব। পুরোটা করে দিতে পারব না।",
+      "words": [
+        {
+          "text": "আমার",
+          "start": 80,
+          "end": 80.24,
+          "probability": 0.9635,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "কাজটা",
+          "start": 80.24,
+          "end": 80.62,
+          "probability": 0.8472,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "আগে",
+          "start": 80.62,
+          "end": 80.78,
+          "probability": 0.9677,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "জমা",
+          "start": 80.78,
+          "end": 81.04,
+          "probability": 0.8539,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "দিতে",
+          "start": 81.04,
+          "end": 81.26,
+          "probability": 0.8879,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "হবে।",
+          "start": 81.26,
+          "end": 81.66,
+          "probability": 0.6501,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "তারপর",
+          "start": 81.66,
+          "end": 82.02,
+          "probability": 0.81,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "দশ",
+          "start": 82.02,
+          "end": 82.22,
+          "probability": 0.7226,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "মিনিট",
+          "start": 82.22,
+          "end": 82.5,
+          "probability": 0.961,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "দেখব।",
+          "start": 82.5,
+          "end": 82.9,
+          "probability": 0.8017,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "পুরোটা",
+          "start": 82.9,
+          "end": 83.44,
+          "probability": 0.9114,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "করে",
+          "start": 83.44,
+          "end": 83.62,
+          "probability": 0.8335,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "দিতে",
+          "start": 83.62,
+          "end": 83.8,
+          "probability": 0.9681,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "পারব",
+          "start": 83.8,
+          "end": 84.04,
+          "probability": 0.949,
+          "who": "rafi",
+          "segment": "s24"
+        },
+        {
+          "text": "না।",
+          "start": 84.04,
+          "end": 84.62,
+          "probability": 0.552,
+          "who": "rafi",
+          "segment": "s24"
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "start": 84.65,
+      "end": 86.9,
+      "who": "narrator",
+      "text": "সাজিদ একটু থামল। তারপর বলল,",
+      "words": [
+        {
+          "text": "সাজিদ",
+          "start": 84.65,
+          "end": 85.05,
+          "probability": 0.8538,
+          "who": "narrator",
+          "segment": "s25"
+        },
+        {
+          "text": "একটু",
+          "start": 85.05,
+          "end": 85.25,
+          "probability": 0.4838,
+          "who": "narrator",
+          "segment": "s25"
+        },
+        {
+          "text": "থামল।",
+          "start": 85.25,
+          "end": 85.73,
+          "probability": 0.7434,
+          "who": "narrator",
+          "segment": "s25"
+        },
+        {
+          "text": "তারপর",
+          "start": 85.73,
+          "end": 86.39,
+          "probability": 0.7806,
+          "who": "narrator",
+          "segment": "s25"
+        },
+        {
+          "text": "বলল,",
+          "start": 86.39,
+          "end": 86.69,
+          "probability": 0.7255,
+          "who": "narrator",
+          "segment": "s25"
+        }
+      ]
+    },
+    {
+      "id": "s26",
+      "start": 86.9,
+      "end": 91.1,
+      "who": "sajid",
+      "text": "ঠিক আছে। তুই শুধু বুঝিয়ে দিস, বাকিটা আমি করব।",
+      "words": [
+        {
+          "text": "ঠিক",
+          "start": 86.9,
+          "end": 87.38,
+          "probability": 0.8507,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "আছে।",
+          "start": 87.38,
+          "end": 87.92,
+          "probability": 0.7675,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "তুই",
+          "start": 87.92,
+          "end": 88.28,
+          "probability": 0.8508,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "শুধু",
+          "start": 88.28,
+          "end": 88.4,
+          "probability": 0.6307,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "বুঝিয়ে",
+          "start": 88.4,
+          "end": 88.78,
+          "probability": 0.6009,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "দিস,",
+          "start": 88.78,
+          "end": 89.06,
+          "probability": 0.6629,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "বাকিটা",
+          "start": 89.2,
+          "end": 89.7,
+          "probability": 0.8674,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "আমি",
+          "start": 89.7,
+          "end": 89.84,
+          "probability": 0.8769,
+          "who": "sajid",
+          "segment": "s26"
+        },
+        {
+          "text": "করব।",
+          "start": 89.84,
+          "end": 90.18,
+          "probability": 0.6618,
+          "who": "sajid",
+          "segment": "s26"
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "start": 91.1,
+      "end": 95.3,
+      "who": "narrator",
+      "text": "রাফি অবাক হয়ে দেখল— পৃথিবী থেমে যায়নি। বন্ধুত্বও শেষ হয়ে যায়নি।",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 91.1,
+          "end": 91.22,
+          "probability": 0.5704,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "অবাক",
+          "start": 91.22,
+          "end": 91.54,
+          "probability": 0.8484,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "হয়ে",
+          "start": 91.54,
+          "end": 91.66,
+          "probability": 0.5691,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "দেখল—",
+          "start": 91.66,
+          "end": 92.16,
+          "probability": 0.7722,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "পৃথিবী",
+          "start": 92.16,
+          "end": 92.88,
+          "probability": 0.6958,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "থেমে",
+          "start": 92.88,
+          "end": 93.16,
+          "probability": 0.9613,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "যায়নি।",
+          "start": 93.16,
+          "end": 93.82,
+          "probability": 0.5276,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "বন্ধুত্বও",
+          "start": 93.82,
+          "end": 94.46,
+          "probability": 0.7196,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "শেষ",
+          "start": 94.46,
+          "end": 94.78,
+          "probability": 0.8196,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "হয়ে",
+          "start": 94.78,
+          "end": 94.9,
+          "probability": 0.4726,
+          "who": "narrator",
+          "segment": "s27"
+        },
+        {
+          "text": "যায়নি।",
+          "start": 94.9,
+          "end": 95.28,
+          "probability": 0.807,
+          "who": "narrator",
+          "segment": "s27"
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "start": 95.3,
+      "end": 101.3,
+      "who": "narrator",
+      "text": "সেদিন রাফি শিখল— সাহায্য করতে চাওয়া আর সব দায়িত্ব নিজের কাঁধে নেওয়া এক কথা নয়।",
+      "words": [
+        {
+          "text": "সেদিন",
+          "start": 95.3,
+          "end": 96.02,
+          "probability": 0.9392,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "রাফি",
+          "start": 96.02,
+          "end": 96.3,
+          "probability": 0.97,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "শিখল—",
+          "start": 96.3,
+          "end": 96.82,
+          "probability": 0.791,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "সাহায্য",
+          "start": 96.82,
+          "end": 97.72,
+          "probability": 0.7916,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "করতে",
+          "start": 97.72,
+          "end": 98.02,
+          "probability": 0.8949,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "চাওয়া",
+          "start": 98.02,
+          "end": 98.36,
+          "probability": 0.5909,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "আর",
+          "start": 98.36,
+          "end": 98.72,
+          "probability": 0.9296,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "সব",
+          "start": 98.72,
+          "end": 99.06,
+          "probability": 0.8638,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "দায়িত্ব",
+          "start": 99.06,
+          "end": 99.5,
+          "probability": 0.5058,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "নিজের",
+          "start": 99.5,
+          "end": 99.8,
+          "probability": 0.9353,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "কাঁধে",
+          "start": 99.8,
+          "end": 100.14,
+          "probability": 0.8704,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "নেওয়া",
+          "start": 100.14,
+          "end": 100.44,
+          "probability": 0.6005,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "এক",
+          "start": 100.44,
+          "end": 100.72,
+          "probability": 0.9597,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "কথা",
+          "start": 100.72,
+          "end": 101.02,
+          "probability": 0.817,
+          "who": "narrator",
+          "segment": "s28"
+        },
+        {
+          "text": "নয়।",
+          "start": 101.02,
+          "end": 101.2,
+          "probability": 0.4876,
+          "who": "narrator",
+          "segment": "s28"
+        }
+      ]
+    },
+    {
+      "id": "s29",
+      "start": 101.3,
+      "end": 106.56,
+      "who": "narrator",
+      "text": "কখন পারবে, কতটা পারবে—সেটা স্পষ্ট করে বলাও ভালো ব্যবহারের অংশ।",
+      "words": [
+        {
+          "text": "কখন",
+          "start": 101.3,
+          "end": 101.9,
+          "probability": 0.8975,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "পারবে,",
+          "start": 101.9,
+          "end": 102.34,
+          "probability": 0.9626,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "কতটা",
+          "start": 102.52,
+          "end": 103.04,
+          "probability": 0.9153,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "পারবে—সেটা",
+          "start": 103.04,
+          "end": 104.28,
+          "probability": 0.8794,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "স্পষ্ট",
+          "start": 104.28,
+          "end": 104.68,
+          "probability": 0.7847,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "করে",
+          "start": 104.68,
+          "end": 104.92,
+          "probability": 0.8738,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "বলাও",
+          "start": 104.92,
+          "end": 105.24,
+          "probability": 0.9054,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "ভালো",
+          "start": 105.24,
+          "end": 105.62,
+          "probability": 0.928,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "ব্যবহারের",
+          "start": 105.62,
+          "end": 106.06,
+          "probability": 0.7232,
+          "who": "narrator",
+          "segment": "s29"
+        },
+        {
+          "text": "অংশ।",
+          "start": 106.06,
+          "end": 106.42,
+          "probability": 0.5362,
+          "who": "narrator",
+          "segment": "s29"
+        }
+      ]
+    }
+  ],
+  "orthography": "canonical_user_script_and_spoken_title"
+}

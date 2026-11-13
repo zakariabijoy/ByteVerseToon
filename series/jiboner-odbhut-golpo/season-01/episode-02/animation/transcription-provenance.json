@@ -1,0 +1,16 @@
+{
+  "purpose": "Local reference-text forced alignment; audio never uploaded",
+  "runtime": "Python 3.12",
+  "fasterWhisper": "1.2.1",
+  "pyavCompatibility": "15.1.0",
+  "usedModel": {
+    "repository": "mobiuslabsgmbh/faster-whisper-large-v3-turbo",
+    "revision": "0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf"
+  },
+  "diagnosticModel": {
+    "repository": "Systran/faster-whisper-small",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120"
+  },
+  "finalText": "approved reference script; not free-form ASR output",
+  "mouthTiming": "word-aligned grapheme heuristic, not verified phonemes"
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "composition": "Episode02",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "durationFrames": 3197,
+  "durationSeconds": 106.566667,
+  "videoCodec": "h264",
+  "pixelFormat": "yuv420p",
+  "audioCodec": "aac",
+  "audioSampleRate": 48000,
+  "audioChannels": 2,
+  "completeAudioVideoDecode": "passed",
+  "sourceVoiceSha256": "C5ACEB6E7181F44DCE259C5649F14843CE5966FA1A2706D9C1A9564CAF593342",
+  "sourceVoiceUnchanged": true,
+  "voicePlaybackRate": 1,
+  "loudnessLufs": -16.05,
+  "truePeakDb": -1.08,
+  "mp4Sha256": "8F108220EAF4BA1E81D3776A4905C105EC0B2D8F1FEA4EAE7F82A89C264AA343",
+  "mp4Bytes": 35962238,
+  "decodedMobileFrames": [
+    80,
+    660,
+    1280,
+    1650,
+    2140,
+    2660,
+    3100,
+    3196
+  ],
+  "fullListeningReview": "pending",
+  "creativeApproval": "pending_user_review",
+  "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
+  "publication": "not_requested"
+}

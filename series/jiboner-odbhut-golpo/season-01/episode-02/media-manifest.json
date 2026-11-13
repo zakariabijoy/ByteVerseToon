@@ -1,0 +1,68 @@
+{
+  "episode": 2,
+  "version": 1,
+  "description": "Allowlisted local-only media. Restore separately from Git; preserve original recording.",
+  "voiceoverDurationSeconds": 106.56,
+  "assets": [
+    {
+      "file": "backgrounds.png",
+      "sizeBytes": 2390632,
+      "sha256": "97A4E50E39E5BA4DA1504E01B3CFD44D236C19521D075E4E04B4A6519B8B9F09"
+    },
+    {
+      "file": "byteversetoon-profile.jpg",
+      "sizeBytes": 20199,
+      "sha256": "5C0597E0600B4E5D9169E95B5B9051A7C4AB6979D815C7B13907F5CEC723941E"
+    },
+    {
+      "file": "foley.wav",
+      "sizeBytes": 18797228,
+      "sha256": "41E6C1582977ED1DE5B13F9C10A4682DE090D4AA21240CB933C5541BA11B0211"
+    },
+    {
+      "file": "karim.png",
+      "sizeBytes": 1537818,
+      "sha256": "8CB4463D97D9F923A7EF80FA4F5064977591E664BE41B9D1FE5957ECDEE7B960"
+    },
+    {
+      "file": "manager.png",
+      "sizeBytes": 1415851,
+      "sha256": "06657AC88081629AB01DF576B4AB5BF5C00D7FDB978C7F3F3C571719B98216D1"
+    },
+    {
+      "file": "rafi-typing-v2.png",
+      "sizeBytes": 1912388,
+      "sha256": "F7BC331146C1C9FAC357D17DE5B470E96BD32C398871B3C44CCF220178A6E5AE"
+    },
+    {
+      "file": "rafi.png",
+      "sizeBytes": 1642126,
+      "sha256": "76B9EA0FD7A06003D756BD7C70CE118F64F6C86CA6CF8C3B1D0F0A1DC3183D2A"
+    },
+    {
+      "file": "reference-lineup.png",
+      "sizeBytes": 3205778,
+      "sha256": "4BF40903A5D8FD75873D7D10C6778D4AF90F15226BDA3B0271EF56A955D4F333"
+    },
+    {
+      "file": "sajid.png",
+      "sizeBytes": 1488092,
+      "sha256": "20A7CD69668CFF62C6829A10E9015B5B6B744D7A4AE6BAFE2FDAA4D78CB7D500"
+    },
+    {
+      "file": "score.wav",
+      "sizeBytes": 18797228,
+      "sha256": "93076A4F929220D049BD40FDDA25B06EE5F699E917F4B1D793B56A8DA55944E4"
+    },
+    {
+      "file": "tea-stall.png",
+      "sizeBytes": 2347582,
+      "sha256": "B95DF68A34205CD5570C53AFA9AAC8BB519A362B08A0677E8C2129A7FF963587"
+    },
+    {
+      "file": "voiceover-original.wav",
+      "sizeBytes": 9398636,
+      "sha256": "C5ACEB6E7181F44DCE259C5649F14843CE5966FA1A2706D9C1A9564CAF593342"
+    }
+  ]
+}

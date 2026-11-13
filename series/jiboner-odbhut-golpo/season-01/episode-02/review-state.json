@@ -1,0 +1,40 @@
+{
+  "episode": 2,
+  "title": "ভালো মানুষ হওয়াটাই কি ভুল?",
+  "scriptApproval": "approved_by_user_with_final_recording",
+  "voiceoverApproval": "explicit_final_recording_animation_start",
+  "approvalDate": "2026-11-13",
+  "voiceSeconds": 106.56,
+  "voiceSha256": "C5ACEB6E7181F44DCE259C5649F14843CE5966FA1A2706D9C1A9564CAF593342",
+  "animation": "rendered_v1_for_user_review",
+  "videoReview": "pending_user_approval",
+  "fullListeningReview": "pending",
+  "publication": "not_requested_for_episode_02",
+  "export": "local_episode_02/exports/v1/video.mp4",
+  "cover": "local_episode_02/exports/v1/cover.png",
+  "durationFrames": 3197,
+  "renderedSeconds": 106.566667,
+  "technicalChecks": "passed_full_decode_format_voice_hash",
+  "typescript": "passed",
+  "timingChecks": "passed_247_words_29_chunks_contiguous_10_scenes",
+  "visualReview": {
+    "representativeFullResolutionFrames": "inspected",
+    "decodedMobileFrames": [
+      80,
+      660,
+      1280,
+      1650,
+      2140,
+      2660,
+      3100,
+      3196
+    ],
+    "decodedMobileInspection": "opening_deadline_tea_stall_ending_inspected",
+    "cover": "inspected",
+    "motionPreview": "opening_and_tea_stall_playback_reviewed_in_local_browser",
+    "scope": "representative_visual_review_not_complete_frame_by_frame_or_listening_review"
+  },
+  "mouthTiming": "approximate_word_aligned_grapheme_shapes_not_verified_phonemes",
+  "mp4Sha256": "8F108220EAF4BA1E81D3776A4905C105EC0B2D8F1FEA4EAE7F82A89C264AA343",
+  "cleanup": "not_performed"
+}
