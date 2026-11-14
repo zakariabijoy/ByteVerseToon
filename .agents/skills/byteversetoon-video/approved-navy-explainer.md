@@ -30,6 +30,8 @@ The approved city scene demonstrates the principle: traffic moves, most building
 
 Use purposeful framing and progressive reveals, and allow a readable hold after an important result. Sync restrained action sounds to requests, state changes, impacts or reveals; keep them under narration. Retain the real ByteVerseToon avatar in the ending. Do not copy another creator's identity.
 
+For thumbnail and title work, follow [thumbnails-and-titles.md](thumbnails-and-titles.md): bright topic-related thumbnail backgrounds are distinct from this navy in-video stage.
+
 ## Regular videos, Shorts and Reels
 
 | Format | Starting delivery | Composition |

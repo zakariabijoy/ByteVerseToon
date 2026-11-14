@@ -16,6 +16,10 @@ Keep ByteVerseToon identity and the selected story-world style. Series language 
 
 For new technology topics, use the [approved battery revision 03 direction](../.agents/skills/byteversetoon-video/approved-navy-explainer.md) unless the brief chooses another style. Preserve navy illustrated depth, white/cyan/lime typography, external text clearance and responsive causal animation; create topic-specific actions instead of relabeling the old film. Regular videos use independently composed 16:9; requested Reels/Shorts use independently composed 9:16 with platform-safe text. Keep supplied narration and requested language. This direction is scoped to tech explainers, not the storytelling series or every visual mode. Read its authored source reference and full-timeline review guidance. Git sync carries code/instructions; media transfer remains separate.
 
+## Tech explainer thumbnails and titles (2026-11-15)
+
+Read the [thumbnail and title guide](../.agents/skills/byteversetoon-video/thumbnails-and-titles.md). Create topic-related bright high-contrast artwork, oversized bold mobile-readable text and genuinely distinct alternatives when requested. Use the selected yellow/blue battery comparison as a design reference, while the video keeps its separately approved navy style. Write an accurate curiosity-led title that complements the thumbnail. Preserve the user's chosen pair; workflow updates do not authorize altering published metadata. Generated artwork remains in the media workspace; Git carries the portable guidance.
+
 ## Current phone/interface direction
 
 Use an original concrete example and show its mechanism. A phone action causes the next visual: tap a setting, change a charge threshold, expand an explanation, compare behavior, then return to the phone with the answer. Change framing at meaningful beats, usually every 2–4 seconds within a longer narrated scene. Avoid replacing scene progression with one tilted phone, a floating percentage and decorative motion.

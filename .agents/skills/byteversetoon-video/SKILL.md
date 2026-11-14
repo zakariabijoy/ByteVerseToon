@@ -1,6 +1,6 @@
 ---
 name: byteversetoon-video
-description: Create, revise and review ByteVerseToon tech explainer videos, Reels, Shorts and recurring storytelling series. Reuse the approved navy explainer style for new technology topics with HyperFrames or Remotion. Publish only when requested; plan and ask before cleanup.
+description: Create, revise and review ByteVerseToon tech explainer videos, Reels, Shorts, thumbnails, titles and recurring storytelling series. Reuse the approved navy explainer style for new technology topics with HyperFrames or Remotion. Publish only when requested; plan and ask before cleanup.
 ---
 
 # ByteVerseToon Video
@@ -52,6 +52,10 @@ For the requested reference-style mode, use meaningful phone interactions, progr
 ## Approved tech explainer style (2026-11-14)
 
 For technology explainers, regular videos, Reels and Shorts, read [approved-navy-explainer.md](approved-navy-explainer.md). The latest user-approved battery revision 03 is the style baseline: navy illustrated depth, crisp white/cyan/lime type, deliberate text-to-device spacing and narration-driven causal animations. Reuse the style for new topics; author new mechanisms and independently compose 16:9 or 9:16 as requested. This scoped tech direction takes precedence over older tech style examples when the brief does not select another look. Keep storytelling series, cartoon/actual 3D alternatives and voice defaults available. Preserve supplied narration over generation defaults. The shared authored reference contains no recordings or rendered media.
+
+## Tech explainer thumbnails and titles (2026-11-15)
+
+For thumbnails, cover alternatives or titles, read [thumbnails-and-titles.md](thumbnails-and-titles.md). Use topic-related backgrounds, bright colors, high contrast and very large bold text that remains readable on mobile. The selected yellow/blue overnight comparison is a reference for design principles, not fixed copy for every topic. Pair an accurate curiosity-led title with concise thumbnail text. This thumbnail direction does not replace the approved navy video style. Preserve user selections; skill maintenance does not authorize changing published metadata.
 
 ## Select the visual mode
 

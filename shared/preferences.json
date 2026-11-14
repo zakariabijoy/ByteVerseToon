@@ -10,7 +10,7 @@
   "burnedInCaptions": false,
   "bottomCaptionBar": false,
   "separateSrt": "optional",
-  "updatedOn": "2026-11-14",
+  "updatedOn": "2026-11-15",
   "reviewBeforePublishing": true,
   "visualReviewStages": [
     "full video review"
@@ -207,6 +207,19 @@
     "narration": "Supplied recording/language overrides generation defaults; no automatic voice replacement",
     "review": "Full-timeline visual and geometry review, mobile-size checks, seam checks and full decode; full listening only if actually heard",
     "automaticExtraFormats": false,
-    "automaticPublishing": false
+    "automaticPublishing": false,
+    "thumbnailAndTitle": {
+      "savedOn": "2026-11-15",
+      "guide": ".agents/skills/byteversetoon-video/thumbnails-and-titles.md",
+      "background": "Directly related to the current video topic; bright and high contrast",
+      "text": "Very large bold short headline, accurate Bengali shaping when applicable; inspect at mobile width",
+      "selectedReference": "Yellow/blue illustrated overnight battery comparison: রাতেই ১৫% গায়েব!",
+      "reuse": "Adapt the design to each topic; do not reuse battery-specific claims or force dark video backgrounds into thumbnails",
+      "variants": "Requested count, meaningfully different visual styles rather than recolors",
+      "title": "Accurate curiosity-led topic-first title, complementary to thumbnail, natural language and no unsupported promises",
+      "formats": "Wide 16:9 for regular YouTube thumbnails; independently compose requested vertical covers",
+      "publishedReference": "https://www.youtube.com/watch?v=HYJ4dOdBtmM",
+      "automaticPublishedMetadataChanges": false
+    }
   }
 }
