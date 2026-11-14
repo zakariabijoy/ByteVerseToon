@@ -12,6 +12,10 @@ Follow [storytelling-series-workflow.md](storytelling-series-workflow.md). Estab
 
 Keep ByteVerseToon identity and the selected story-world style. Series language and narrator choices are explicit per-series inputs, not automatic changes to other channel productions. Do not synthesize voiceover, spend generation credits or duplicate languages without instruction. Git carries authored sources, lockfiles, scripts and continuity documents; supplied recordings/artwork use a separate verified media handoff. Preserve technical, creative and listening review as distinct states.
 
+## Tech explainers: current approved style (2026-11-14)
+
+For new technology topics, use the [approved battery revision 03 direction](../.agents/skills/byteversetoon-video/approved-navy-explainer.md) unless the brief chooses another style. Preserve navy illustrated depth, white/cyan/lime typography, external text clearance and responsive causal animation; create topic-specific actions instead of relabeling the old film. Regular videos use independently composed 16:9; requested Reels/Shorts use independently composed 9:16 with platform-safe text. Keep supplied narration and requested language. This direction is scoped to tech explainers, not the storytelling series or every visual mode. Read its authored source reference and full-timeline review guidance. Git sync carries code/instructions; media transfer remains separate.
+
 ## Current phone/interface direction
 
 Use an original concrete example and show its mechanism. A phone action causes the next visual: tap a setting, change a charge threshold, expand an explanation, compare behavior, then return to the phone with the answer. Change framing at meaningful beats, usually every 2–4 seconds within a longer narrated scene. Avoid replacing scene progression with one tilted phone, a floating percentage and decorative motion.

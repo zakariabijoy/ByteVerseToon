@@ -6,11 +6,11 @@
     "language": "en-us",
     "speed": 0.98
   },
-  "visualStyle": "Approved 3D glass motion graphics for suitable technology Shorts: flowing phone-to-chip-to-server camera movement with active isometric mechanisms; keep cartoon and phone/interface modes for other briefs",
+  "visualStyle": "Technology explainers: approved battery revision 03 navy illustrated motion, crisp white/cyan/lime type and responsive causal diagrams; adapt to new topics and requested 16:9 or 9:16 format. Keep storytelling, cartoon and real 3D routes for briefs that choose them.",
   "burnedInCaptions": false,
   "bottomCaptionBar": false,
   "separateSrt": "optional",
-  "updatedOn": "2026-11-02",
+  "updatedOn": "2026-11-14",
   "reviewBeforePublishing": true,
   "visualReviewStages": [
     "full video review"
@@ -182,5 +182,31 @@
     "automaticVoiceGeneration": false,
     "automaticPublishing": false,
     "mediaSync": "Separate verified media handoff; Git contains curated authored source only"
+  },
+  "techExplainer": {
+    "approvedOn": "2026-11-14",
+    "reference": "Battery explainer revision 03, user approved as perfect video",
+    "guide": ".agents/skills/byteversetoon-video/approved-navy-explainer.md",
+    "authoredReference": "templates/tech-explainer/approved-battery-reference/",
+    "scope": "Technology explainers across regular videos, Reels and Shorts; other series retain their chosen style",
+    "reuse": "Keep style; create new topic-specific causal animation. Do not reuse battery/city actions as unrelated filler.",
+    "regularFormat": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    },
+    "verticalFormat": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30
+    },
+    "composition": "Independently compose each requested aspect ratio; do not crop or stretch the main video",
+    "typography": "White primary headings, lime emphasis, cyan secondary labels; avoid red/pink headings",
+    "textDeviceClearanceAt1080p": 32,
+    "captionMode": "Short phrase captions with timed lime emphasis in this reference-style mode; explicit brief overrides",
+    "narration": "Supplied recording/language overrides generation defaults; no automatic voice replacement",
+    "review": "Full-timeline visual and geometry review, mobile-size checks, seam checks and full decode; full listening only if actually heard",
+    "automaticExtraFormats": false,
+    "automaticPublishing": false
   }
 }

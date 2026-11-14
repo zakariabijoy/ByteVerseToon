@@ -157,6 +157,10 @@ explicitly provide this checkout's AGENTS.md and skill paths; a sibling checkout
 does not automatically supply instructions to another project. New projects can
 live in ignored `work/` under this checkout, keeping shared guidance in scope.
 
+## Reusing the approved tech explainer style
+
+Use `.agents/skills/byteversetoon-video/SKILL.md` for new technology topics and ask for the style of the approved battery revision 03. It covers regular videos, Reels and Shorts with independent aspect-ratio composition. The [style guide](.agents/skills/byteversetoon-video/approved-navy-explainer.md) and [authored source snapshot](templates/tech-explainer/approved-battery-reference/README.md) travel with Git; recordings and rendered media do not. Existing storytelling series keep their separate workflow and style.
+
 ## Everyday pull / edit / push
 
 ```powershell

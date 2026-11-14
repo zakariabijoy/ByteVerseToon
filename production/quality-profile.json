@@ -32,7 +32,8 @@
     },
     "referenceStyleCaptions": "Burned-in short highlighted phrases plus SRT for the requested reference-style phone/interface mode",
     "interfaceSurfaceStyle": "ByteVerseToon glassmorphism",
-    "preferredTechnologyShortRoute": "Approved 3D glass motion graphics when suited to the brief; retain other modes"
+    "preferredTechnologyShortRoute": "Approved battery revision 03 navy illustrated causal animation for technology Shorts; keep real 3D, cartoon and other modes when the brief selects them",
+    "techExplainerStyle": "Approved battery revision 03 navy illustrated causal animation, independently composed for requested regular video, Reel or Short; current brief can override"
   },
   "regularStory": [
     "visible problem",
@@ -78,7 +79,7 @@
   ],
   "reviewRule": "Record evidence separately for every category. No automatic creative or listening approval from technical checks.",
   "listeningRule": "Listen through the complete final export when supported. Otherwise explicitly keep listening review pending for the user.",
-  "updatedOn": "2026-11-02",
+  "updatedOn": "2026-11-14",
   "characterInteractionRule": "Required for character scenes; mark not applicable for a phone/interface scene and review the animated mechanism instead.",
   "phoneInterfaceWorkflow": "phone-interface-workflow.md",
   "cleanupRule": "Always prepare a read-only file plan, show scope/counts/estimated savings and preserved items, ask the user, and wait for explicit approval of the current plan before any deletion. Publication or a general cleanup request does not bypass confirmation; expanded scope requires another approval.",

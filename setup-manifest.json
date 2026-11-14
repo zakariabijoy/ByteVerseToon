@@ -3,6 +3,7 @@
     ".agents/skills/byteversetoon-video/3d-motion-graphics.md",
     ".agents/skills/byteversetoon-video/3d-production.md",
     ".agents/skills/byteversetoon-video/SKILL.md",
+    ".agents/skills/byteversetoon-video/approved-navy-explainer.md",
     ".agents/skills/byteversetoon-video/cartoon-production.md",
     ".agents/skills/byteversetoon-video/glassmorphism.md",
     ".agents/skills/byteversetoon-video/motion-frameworks.md",
@@ -40,6 +41,11 @@
     "templates/remotion-three/src/Root.tsx",
     "templates/remotion-three/src/index.tsx",
     "templates/remotion-three/tsconfig.json",
+    "templates/tech-explainer/approved-battery-reference/README.md",
+    "templates/tech-explainer/approved-battery-reference/STORYBOARD.md",
+    "templates/tech-explainer/approved-battery-reference/film.js",
+    "templates/tech-explainer/approved-battery-reference/media-manifest.json",
+    "templates/tech-explainer/approved-battery-reference/words.json",
     "versions.json"
   ]
 }

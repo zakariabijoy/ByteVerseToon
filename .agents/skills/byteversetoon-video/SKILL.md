@@ -1,6 +1,6 @@
 ---
 name: byteversetoon-video
-description: Create, revise, review and publish ByteVerseToon videos, Shorts and recurring storytelling series. Use the channel identity and the chosen series voice/style with Remotion or HyperFrames. Publish only when requested; plan and ask before cleanup.
+description: Create, revise and review ByteVerseToon tech explainer videos, Reels, Shorts and recurring storytelling series. Reuse the approved navy explainer style for new technology topics with HyperFrames or Remotion. Publish only when requested; plan and ask before cleanup.
 ---
 
 # ByteVerseToon Video
@@ -48,6 +48,10 @@ For technology Shorts matching the approved AI explainer direction, prefer [3d-m
 Read [motion-frameworks.md](motion-frameworks.md) for reference-style phone explainers or Remotion/HyperFrames work, and the project `production/workflow.md` for the maintained production route. HyperFrames is preferred for the current phone/interface direction; Remotion is available for custom frame-driven scenes, and a hybrid is supported when each tool has a concrete role. The two frameworks are not fixed visual styles. Use the existing cartoon route when suited to the story.
 
 For the requested reference-style mode, use meaningful phone interactions, progressive causal diagrams, varied framing, concise highlighted phrase captions, measured female narration, and restrained action sound. Preserve no-burned-caption defaults for other modes unless requested. Do not copy the reference creator's branding or infer a full listening review from visual inspection.
+
+## Approved tech explainer style (2026-11-14)
+
+For technology explainers, regular videos, Reels and Shorts, read [approved-navy-explainer.md](approved-navy-explainer.md). The latest user-approved battery revision 03 is the style baseline: navy illustrated depth, crisp white/cyan/lime type, deliberate text-to-device spacing and narration-driven causal animations. Reuse the style for new topics; author new mechanisms and independently compose 16:9 or 9:16 as requested. This scoped tech direction takes precedence over older tech style examples when the brief does not select another look. Keep storytelling series, cartoon/actual 3D alternatives and voice defaults available. Preserve supplied narration over generation defaults. The shared authored reference contains no recordings or rendered media.
 
 ## Select the visual mode
 

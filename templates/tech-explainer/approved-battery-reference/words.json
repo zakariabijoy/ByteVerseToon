@@ -1,0 +1,5681 @@
+[
+  {
+    "text": "তোমার",
+    "line": 0,
+    "start": 0.0,
+    "end": 0.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 0,
+    "start": 0.28,
+    "end": 0.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 0,
+    "start": 0.7,
+    "end": 1.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "চুরি",
+    "line": 0,
+    "start": 1.14,
+    "end": 1.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "হচ্ছে!",
+    "line": 0,
+    "start": 1.38,
+    "end": 1.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 1,
+    "start": 1.74,
+    "end": 2.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "চোরটা",
+    "line": 1,
+    "start": 2.42,
+    "end": 3.0,
+    "method": "asr-match"
+  },
+  {
+    "text": "হয়তো...",
+    "line": 1,
+    "start": 3.0,
+    "end": 3.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 1,
+    "start": 3.24,
+    "end": 4.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "পকেটেই",
+    "line": 1,
+    "start": 4.22,
+    "end": 4.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "লুকিয়ে",
+    "line": 1,
+    "start": 4.78,
+    "end": 5.1,
+    "method": "asr-match"
+  },
+  {
+    "text": "আছে!",
+    "line": 1,
+    "start": 5.1,
+    "end": 5.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "বিশ্বাস",
+    "line": 2,
+    "start": 5.79,
+    "end": 6.199999999999999,
+    "method": "interpolated"
+  },
+  {
+    "text": "হচ্ছে",
+    "line": 2,
+    "start": 6.199999999999999,
+    "end": 6.609999999999999,
+    "method": "interpolated"
+  },
+  {
+    "text": "না?",
+    "line": 2,
+    "start": 6.609999999999999,
+    "end": 7.02,
+    "method": "interpolated"
+  },
+  {
+    "text": "ধরো,",
+    "line": 3,
+    "start": 7.02,
+    "end": 7.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "রাতে",
+    "line": 3,
+    "start": 7.64,
+    "end": 8.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঘুমানোর",
+    "line": 3,
+    "start": 8.38,
+    "end": 8.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "আগে",
+    "line": 3,
+    "start": 8.86,
+    "end": 9.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 3,
+    "start": 9.14,
+    "end": 9.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনে",
+    "line": 3,
+    "start": 9.46,
+    "end": 9.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 3,
+    "start": 9.9,
+    "end": 10.0,
+    "method": "interpolated"
+  },
+  {
+    "text": "ছিল",
+    "line": 3,
+    "start": 10.0,
+    "end": 10.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "৮০",
+    "line": 3,
+    "start": 10.68,
+    "end": 10.9,
+    "method": "interpolated"
+  },
+  {
+    "text": "পার্সেন্ট।",
+    "line": 3,
+    "start": 10.9,
+    "end": 11.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "সকালে",
+    "line": 4,
+    "start": 11.36,
+    "end": 12.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঘুম",
+    "line": 4,
+    "start": 12.28,
+    "end": 12.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "থেকে",
+    "line": 4,
+    "start": 12.52,
+    "end": 12.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "উঠে",
+    "line": 4,
+    "start": 12.74,
+    "end": 12.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখলে...",
+    "line": 4,
+    "start": 12.96,
+    "end": 13.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "মাত্র",
+    "line": 4,
+    "start": 13.3,
+    "end": 14.0,
+    "method": "asr-match"
+  },
+  {
+    "text": "৬৫",
+    "line": 4,
+    "start": 14.34,
+    "end": 14.68,
+    "method": "interpolated"
+  },
+  {
+    "text": "পার্সেন্ট!",
+    "line": 4,
+    "start": 14.68,
+    "end": 15.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "অথচ",
+    "line": 5,
+    "start": 15.14,
+    "end": 16.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "সারারাত",
+    "line": 5,
+    "start": 16.58,
+    "end": 16.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 5,
+    "start": 16.94,
+    "end": 17.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনটা",
+    "line": 5,
+    "start": 17.18,
+    "end": 17.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "ছুঁয়েও",
+    "line": 5,
+    "start": 17.52,
+    "end": 17.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখোনি!",
+    "line": 5,
+    "start": 17.96,
+    "end": 18.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "তাহলে",
+    "line": 6,
+    "start": 18.4,
+    "end": 19.240000000000002,
+    "method": "asr-match"
+  },
+  {
+    "text": "বাকি",
+    "line": 6,
+    "start": 19.240000000000002,
+    "end": 19.619999999999997,
+    "method": "asr-match"
+  },
+  {
+    "text": "১৫",
+    "line": 6,
+    "start": 19.81,
+    "end": 20.0,
+    "method": "interpolated"
+  },
+  {
+    "text": "পার্সেন্ট",
+    "line": 6,
+    "start": 20.0,
+    "end": 20.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 6,
+    "start": 20.46,
+    "end": 20.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "গেল",
+    "line": 6,
+    "start": 20.8,
+    "end": 21.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "কোথায়?",
+    "line": 6,
+    "start": 21.32,
+    "end": 21.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 7,
+    "start": 21.56,
+    "end": 22.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "সবচেয়ে",
+    "line": 7,
+    "start": 22.32,
+    "end": 22.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "অবাক",
+    "line": 7,
+    "start": 22.88,
+    "end": 23.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "করা",
+    "line": 7,
+    "start": 23.3,
+    "end": 23.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাপার",
+    "line": 7,
+    "start": 23.54,
+    "end": 23.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "হলো,",
+    "line": 7,
+    "start": 23.8,
+    "end": 24.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 7,
+    "start": 24.06,
+    "end": 24.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "দ্রুত",
+    "line": 7,
+    "start": 24.9,
+    "end": 25.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "শেষ",
+    "line": 7,
+    "start": 25.38,
+    "end": 25.38,
+    "method": "interpolated"
+  },
+  {
+    "text": "হওয়ার",
+    "line": 7,
+    "start": 25.38,
+    "end": 25.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "জন্য",
+    "line": 7,
+    "start": 25.86,
+    "end": 26.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "সবসময়",
+    "line": 7,
+    "start": 26.16,
+    "end": 26.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারিটাই",
+    "line": 7,
+    "start": 26.84,
+    "end": 27.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "দায়ী",
+    "line": 7,
+    "start": 27.52,
+    "end": 27.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "নয়!",
+    "line": 7,
+    "start": 27.72,
+    "end": 27.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 8,
+    "start": 28.560000000000002,
+    "end": 28.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 8,
+    "start": 28.8,
+    "end": 29.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভেতরে",
+    "line": 8,
+    "start": 29.22,
+    "end": 29.619999999999997,
+    "method": "asr-match"
+  },
+  {
+    "text": "এমন",
+    "line": 8,
+    "start": 29.619999999999997,
+    "end": 29.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "তিনটি",
+    "line": 8,
+    "start": 30.0,
+    "end": 30.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "জিনিস",
+    "line": 8,
+    "start": 30.36,
+    "end": 30.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "আছে,",
+    "line": 8,
+    "start": 30.94,
+    "end": 30.94,
+    "method": "interpolated"
+  },
+  {
+    "text": "যেগুলো",
+    "line": 8,
+    "start": 30.94,
+    "end": 31.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 8,
+    "start": 31.64,
+    "end": 31.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "অজান্তেই",
+    "line": 8,
+    "start": 31.88,
+    "end": 32.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 8,
+    "start": 32.56,
+    "end": 32.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "খরচ",
+    "line": 8,
+    "start": 32.98,
+    "end": 33.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "করতে",
+    "line": 8,
+    "start": 33.42,
+    "end": 33.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "পারে।",
+    "line": 8,
+    "start": 33.54,
+    "end": 33.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "আজ",
+    "line": 9,
+    "start": 33.82,
+    "end": 33.82,
+    "method": "interpolated"
+  },
+  {
+    "text": "আমরা",
+    "line": 9,
+    "start": 33.82,
+    "end": 34.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "সেই",
+    "line": 9,
+    "start": 34.86,
+    "end": 35.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "তিনটি",
+    "line": 9,
+    "start": 35.16,
+    "end": 35.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "রহস্যের",
+    "line": 9,
+    "start": 35.58,
+    "end": 36.019999999999996,
+    "method": "asr-match"
+  },
+  {
+    "text": "সমাধান",
+    "line": 9,
+    "start": 36.019999999999996,
+    "end": 36.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "করব।",
+    "line": 9,
+    "start": 36.5,
+    "end": 36.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 10,
+    "start": 36.86,
+    "end": 37.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "শেষে",
+    "line": 10,
+    "start": 37.36,
+    "end": 37.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখব,",
+    "line": 10,
+    "start": 37.7,
+    "end": 38.04,
+    "method": "asr-match"
+  },
+  {
+    "text": "কীভাবে",
+    "line": 10,
+    "start": 38.56,
+    "end": 38.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "মাত্র",
+    "line": 10,
+    "start": 38.82,
+    "end": 39.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "এক",
+    "line": 10,
+    "start": 39.24,
+    "end": 39.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "মিনিটে",
+    "line": 10,
+    "start": 39.54,
+    "end": 39.980000000000004,
+    "method": "asr-match"
+  },
+  {
+    "text": "নিজের",
+    "line": 10,
+    "start": 40.0,
+    "end": 40.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 10,
+    "start": 40.46,
+    "end": 40.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "আসল",
+    "line": 10,
+    "start": 40.78,
+    "end": 41.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "সমস্যাটা",
+    "line": 10,
+    "start": 41.28,
+    "end": 41.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "খুঁজে",
+    "line": 10,
+    "start": 41.88,
+    "end": 42.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "বের",
+    "line": 10,
+    "start": 42.2,
+    "end": 42.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "করা",
+    "line": 10,
+    "start": 42.36,
+    "end": 42.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "যায়।",
+    "line": 10,
+    "start": 42.58,
+    "end": 42.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলো,",
+    "line": 11,
+    "start": 42.76,
+    "end": 43.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রথমে",
+    "line": 11,
+    "start": 43.56,
+    "end": 44.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঢুকে",
+    "line": 11,
+    "start": 44.2,
+    "end": 44.519999999999996,
+    "method": "asr-match"
+  },
+  {
+    "text": "পড়ি",
+    "line": 11,
+    "start": 44.519999999999996,
+    "end": 44.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 11,
+    "start": 44.78,
+    "end": 45.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 11,
+    "start": 45.08,
+    "end": 45.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভেতরে!",
+    "line": 11,
+    "start": 45.54,
+    "end": 45.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "কল্পনা",
+    "line": 12,
+    "start": 45.94,
+    "end": 47.1,
+    "method": "asr-match"
+  },
+  {
+    "text": "করো,",
+    "line": 12,
+    "start": 47.1,
+    "end": 47.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 12,
+    "start": 47.34,
+    "end": 47.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্মার্টফোন",
+    "line": 12,
+    "start": 47.72,
+    "end": 48.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "আসলে",
+    "line": 12,
+    "start": 48.38,
+    "end": 48.38,
+    "method": "interpolated"
+  },
+  {
+    "text": "একটা",
+    "line": 12,
+    "start": 48.38,
+    "end": 49.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "ছোট্ট",
+    "line": 12,
+    "start": 49.08,
+    "end": 49.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "শহর।",
+    "line": 12,
+    "start": 49.56,
+    "end": 49.980000000000004,
+    "method": "asr-match"
+  },
+  {
+    "text": "যেখানে",
+    "line": 13,
+    "start": 50.0,
+    "end": 50.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রতিনিয়ত",
+    "line": 13,
+    "start": 50.78,
+    "end": 51.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "অসংখ্য",
+    "line": 13,
+    "start": 51.52,
+    "end": 52.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাজ",
+    "line": 13,
+    "start": 52.18,
+    "end": 52.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলছে।",
+    "line": 13,
+    "start": 52.42,
+    "end": 52.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 14,
+    "start": 52.8,
+    "end": 53.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "পুরো",
+    "line": 14,
+    "start": 53.38,
+    "end": 53.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "শহরটাকে",
+    "line": 14,
+    "start": 53.78,
+    "end": 54.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "শক্তি",
+    "line": 14,
+    "start": 54.36,
+    "end": 54.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "জোগাচ্ছে",
+    "line": 14,
+    "start": 54.74,
+    "end": 55.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "একটা",
+    "line": 14,
+    "start": 55.22,
+    "end": 55.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "মাত্র",
+    "line": 14,
+    "start": 55.86,
+    "end": 56.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "পাওয়ার",
+    "line": 14,
+    "start": 56.18,
+    "end": 56.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্টেশন।",
+    "line": 14,
+    "start": 56.54,
+    "end": 56.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 15,
+    "start": 56.92,
+    "end": 57.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি!",
+    "line": 15,
+    "start": 57.66,
+    "end": 58.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "এবার",
+    "line": 16,
+    "start": 58.22,
+    "end": 59.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 16,
+    "start": 59.08,
+    "end": 59.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 16,
+    "start": 59.3,
+    "end": 59.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্ক্রিন",
+    "line": 16,
+    "start": 59.68,
+    "end": 59.980000000000004,
+    "method": "asr-match"
+  },
+  {
+    "text": "বন্ধ",
+    "line": 16,
+    "start": 60.0,
+    "end": 60.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "করলে।",
+    "line": 16,
+    "start": 60.46,
+    "end": 60.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 17,
+    "start": 60.8,
+    "end": 61.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভাবলে,",
+    "line": 17,
+    "start": 61.4,
+    "end": 61.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "শহরটা",
+    "line": 17,
+    "start": 61.8,
+    "end": 62.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঘুমিয়ে",
+    "line": 17,
+    "start": 62.52,
+    "end": 62.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "পড়েছে।",
+    "line": 17,
+    "start": 62.92,
+    "end": 63.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু...",
+    "line": 18,
+    "start": 63.34,
+    "end": 64.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "না!",
+    "line": 18,
+    "start": 64.14,
+    "end": 64.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভেতরে",
+    "line": 19,
+    "start": 64.76,
+    "end": 65.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিছু",
+    "line": 19,
+    "start": 65.72,
+    "end": 66.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাজ",
+    "line": 19,
+    "start": 66.06,
+    "end": 66.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "তখনও",
+    "line": 19,
+    "start": 66.32,
+    "end": 66.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলছে।",
+    "line": 19,
+    "start": 66.86,
+    "end": 67.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "হোয়াটসঅ্যাপে",
+    "line": 20,
+    "start": 67.28,
+    "end": 68.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "মেসেজ",
+    "line": 20,
+    "start": 68.3,
+    "end": 68.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "আসছে।",
+    "line": 20,
+    "start": 68.7,
+    "end": 69.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "ইমেইল",
+    "line": 21,
+    "start": 69.08,
+    "end": 69.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "আপডেট",
+    "line": 21,
+    "start": 70.0,
+    "end": 70.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "হচ্ছে।",
+    "line": 21,
+    "start": 70.28,
+    "end": 70.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "কোনো",
+    "line": 22,
+    "start": 70.64,
+    "end": 71.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 22,
+    "start": 71.39,
+    "end": 71.58,
+    "method": "interpolated"
+  },
+  {
+    "text": "লোকেশন",
+    "line": 22,
+    "start": 71.58,
+    "end": 72.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যবহার",
+    "line": 22,
+    "start": 72.34,
+    "end": 72.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "করছে।",
+    "line": 22,
+    "start": 72.54,
+    "end": 72.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "আবার",
+    "line": 23,
+    "start": 72.88,
+    "end": 73.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "কখনো",
+    "line": 23,
+    "start": 73.52,
+    "end": 74.0,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 23,
+    "start": 74.0,
+    "end": 74.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "ছবি",
+    "line": 23,
+    "start": 74.32,
+    "end": 74.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "ক্লাউডে",
+    "line": 23,
+    "start": 74.78,
+    "end": 75.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাকআপ",
+    "line": 23,
+    "start": 75.28,
+    "end": 75.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "হচ্ছে।",
+    "line": 23,
+    "start": 75.72,
+    "end": 76.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাপারটা",
+    "line": 24,
+    "start": 76.06,
+    "end": 77.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "অনেকটা",
+    "line": 24,
+    "start": 77.06,
+    "end": 77.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "রাতের",
+    "line": 24,
+    "start": 77.72,
+    "end": 78.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঢাকা",
+    "line": 24,
+    "start": 78.16,
+    "end": 78.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "শহরের",
+    "line": 24,
+    "start": 78.58,
+    "end": 78.96000000000001,
+    "method": "asr-match"
+  },
+  {
+    "text": "মতো।",
+    "line": 24,
+    "start": 78.96000000000001,
+    "end": 78.96000000000001,
+    "method": "interpolated"
+  },
+  {
+    "text": "তুমি",
+    "line": 25,
+    "start": 78.96000000000001,
+    "end": 79.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঘুমিয়ে",
+    "line": 25,
+    "start": 80.0,
+    "end": 80.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "পড়েছ।",
+    "line": 25,
+    "start": 80.28,
+    "end": 80.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 25,
+    "start": 80.68,
+    "end": 81.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "হাসপাতাল,",
+    "line": 25,
+    "start": 81.26,
+    "end": 82.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "নিরাপত্তাব্যবস্থা",
+    "line": 25,
+    "start": 82.68,
+    "end": 83.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 25,
+    "start": 83.16,
+    "end": 83.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "জরুরি",
+    "line": 25,
+    "start": 83.6,
+    "end": 84.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "সেবাগুলো",
+    "line": 25,
+    "start": 84.08,
+    "end": 84.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "কি",
+    "line": 25,
+    "start": 84.58,
+    "end": 84.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "বন্ধ",
+    "line": 25,
+    "start": 84.7,
+    "end": 85.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "হয়ে",
+    "line": 25,
+    "start": 85.06,
+    "end": 85.06,
+    "method": "interpolated"
+  },
+  {
+    "text": "গেছে?",
+    "line": 25,
+    "start": 85.06,
+    "end": 85.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "একদম",
+    "line": 26,
+    "start": 85.52,
+    "end": 86.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "না!",
+    "line": 26,
+    "start": 86.28,
+    "end": 86.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 27,
+    "start": 86.9,
+    "end": 87.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনও",
+    "line": 27,
+    "start": 87.54,
+    "end": 88.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "অনেকটা",
+    "line": 27,
+    "start": 88.06,
+    "end": 88.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "এমন।",
+    "line": 27,
+    "start": 88.5,
+    "end": 88.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "অবশ্য",
+    "line": 28,
+    "start": 88.4,
+    "end": 89.88,
+    "method": "whisper-forced-alignment",
+    "probability": 0.663
+  },
+  {
+    "text": "সব",
+    "line": 28,
+    "start": 89.88,
+    "end": 90.38,
+    "method": "whisper-forced-alignment",
+    "probability": 0.598
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 28,
+    "start": 90.38,
+    "end": 90.68,
+    "method": "whisper-forced-alignment",
+    "probability": 0.57
+  },
+  {
+    "text": "সবসময়",
+    "line": 28,
+    "start": 90.68,
+    "end": 91.36,
+    "method": "whisper-forced-alignment",
+    "probability": 0.562
+  },
+  {
+    "text": "কাজ",
+    "line": 28,
+    "start": 91.36,
+    "end": 91.56,
+    "method": "whisper-forced-alignment",
+    "probability": 0.777
+  },
+  {
+    "text": "করে",
+    "line": 28,
+    "start": 91.56,
+    "end": 91.82,
+    "method": "whisper-forced-alignment",
+    "probability": 0.907
+  },
+  {
+    "text": "না।",
+    "line": 28,
+    "start": 91.82,
+    "end": 92.34,
+    "method": "whisper-forced-alignment",
+    "probability": 0.81
+  },
+  {
+    "text": "ফোন",
+    "line": 28,
+    "start": 92.34,
+    "end": 92.66,
+    "method": "whisper-forced-alignment",
+    "probability": 0.893
+  },
+  {
+    "text": "নিজেই",
+    "line": 28,
+    "start": 92.66,
+    "end": 93.12,
+    "method": "whisper-forced-alignment",
+    "probability": 0.949
+  },
+  {
+    "text": "অনেক",
+    "line": 28,
+    "start": 93.12,
+    "end": 93.6,
+    "method": "whisper-forced-alignment",
+    "probability": 0.929
+  },
+  {
+    "text": "কাজ",
+    "line": 28,
+    "start": 93.6,
+    "end": 93.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.969
+  },
+  {
+    "text": "নিয়ন্ত্রণ",
+    "line": 28,
+    "start": 93.84,
+    "end": 94.38,
+    "method": "whisper-forced-alignment",
+    "probability": 0.626
+  },
+  {
+    "text": "করে।",
+    "line": 28,
+    "start": 94.38,
+    "end": 95.04,
+    "method": "whisper-forced-alignment",
+    "probability": 0.905
+  },
+  {
+    "text": "কিন্তু",
+    "line": 29,
+    "start": 95.04,
+    "end": 95.34,
+    "method": "whisper-forced-alignment",
+    "probability": 0.827
+  },
+  {
+    "text": "কোনো",
+    "line": 29,
+    "start": 95.34,
+    "end": 95.74,
+    "method": "whisper-forced-alignment",
+    "probability": 0.826
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 29,
+    "start": 95.74,
+    "end": 96.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.724
+  },
+  {
+    "text": "যদি",
+    "line": 29,
+    "start": 96.08,
+    "end": 96.42,
+    "method": "whisper-forced-alignment",
+    "probability": 0.757
+  },
+  {
+    "text": "অস্বাভাবিকভাবে",
+    "line": 29,
+    "start": 96.42,
+    "end": 97.4,
+    "method": "whisper-forced-alignment",
+    "probability": 0.772
+  },
+  {
+    "text": "বেশি",
+    "line": 29,
+    "start": 97.4,
+    "end": 97.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.937
+  },
+  {
+    "text": "কাজ",
+    "line": 29,
+    "start": 97.84,
+    "end": 98.04,
+    "method": "whisper-forced-alignment",
+    "probability": 0.949
+  },
+  {
+    "text": "করতে",
+    "line": 29,
+    "start": 98.04,
+    "end": 98.32,
+    "method": "whisper-forced-alignment",
+    "probability": 0.902
+  },
+  {
+    "text": "থাকে,",
+    "line": 29,
+    "start": 98.32,
+    "end": 98.74,
+    "method": "whisper-forced-alignment",
+    "probability": 0.798
+  },
+  {
+    "text": "তাহলে",
+    "line": 29,
+    "start": 98.74,
+    "end": 99.24,
+    "method": "whisper-forced-alignment",
+    "probability": 0.932
+  },
+  {
+    "text": "স্ক্রিন",
+    "line": 29,
+    "start": 99.24,
+    "end": 99.62,
+    "method": "whisper-forced-alignment",
+    "probability": 0.876
+  },
+  {
+    "text": "বন্ধ",
+    "line": 29,
+    "start": 99.62,
+    "end": 100.02,
+    "method": "whisper-forced-alignment",
+    "probability": 0.913
+  },
+  {
+    "text": "থাকলেও",
+    "line": 29,
+    "start": 100.02,
+    "end": 100.5,
+    "method": "whisper-forced-alignment",
+    "probability": 0.868
+  },
+  {
+    "text": "চার্জ",
+    "line": 29,
+    "start": 100.5,
+    "end": 100.94,
+    "method": "whisper-forced-alignment",
+    "probability": 0.892
+  },
+  {
+    "text": "কমতে",
+    "line": 29,
+    "start": 100.94,
+    "end": 101.26,
+    "method": "whisper-forced-alignment",
+    "probability": 0.898
+  },
+  {
+    "text": "পারে।",
+    "line": 29,
+    "start": 101.26,
+    "end": 101.76,
+    "method": "whisper-forced-alignment",
+    "probability": 0.985
+  },
+  {
+    "text": "এটাই",
+    "line": 30,
+    "start": 101.52,
+    "end": 102.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রথম",
+    "line": 30,
+    "start": 102.32,
+    "end": 102.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "অদৃশ্য",
+    "line": 30,
+    "start": 103.19,
+    "end": 103.52,
+    "method": "interpolated"
+  },
+  {
+    "text": "শক্তিখোর!",
+    "line": 30,
+    "start": 103.52,
+    "end": 104.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাকগ্রাউন্ড",
+    "line": 31,
+    "start": 104.08,
+    "end": 105.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "অ্যাক্টিভিটি!",
+    "line": 31,
+    "start": 105.08,
+    "end": 105.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 32,
+    "start": 105.62,
+    "end": 106.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "দ্বিতীয়",
+    "line": 32,
+    "start": 106.46,
+    "end": 106.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "শক্তিখোরকে",
+    "line": 32,
+    "start": 106.94,
+    "end": 107.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "ধরতে",
+    "line": 32,
+    "start": 107.6,
+    "end": 107.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "হলে...",
+    "line": 32,
+    "start": 107.94,
+    "end": 108.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "আমাদের",
+    "line": 32,
+    "start": 108.62,
+    "end": 108.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঘর",
+    "line": 32,
+    "start": 108.8,
+    "end": 109.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "থেকে",
+    "line": 32,
+    "start": 109.34,
+    "end": 109.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "বাইরে",
+    "line": 32,
+    "start": 109.5,
+    "end": 109.96000000000001,
+    "method": "asr-match"
+  },
+  {
+    "text": "যেতে",
+    "line": 32,
+    "start": 109.97333333333334,
+    "end": 109.98666666666666,
+    "method": "interpolated"
+  },
+  {
+    "text": "হবে।",
+    "line": 32,
+    "start": 109.98666666666666,
+    "end": 110.0,
+    "method": "interpolated"
+  },
+  {
+    "text": "ধরো,",
+    "line": 33,
+    "start": 110.0,
+    "end": 110.45,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 33,
+    "start": 111.4,
+    "end": 111.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "বাসায়",
+    "line": 33,
+    "start": 111.86,
+    "end": 112.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "বসে",
+    "line": 33,
+    "start": 112.28,
+    "end": 112.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "ইউটিউবে",
+    "line": 33,
+    "start": 112.9,
+    "end": 113.22,
+    "method": "interpolated"
+  },
+  {
+    "text": "ভিডিও",
+    "line": 33,
+    "start": 113.22,
+    "end": 113.54,
+    "method": "interpolated"
+  },
+  {
+    "text": "দেখছ।",
+    "line": 33,
+    "start": 113.54,
+    "end": 113.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "ওয়াইফাই",
+    "line": 34,
+    "start": 113.94,
+    "end": 114.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভালো।",
+    "line": 34,
+    "start": 114.7,
+    "end": 115.1,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভিডিও",
+    "line": 34,
+    "start": 115.39,
+    "end": 115.68,
+    "method": "interpolated"
+  },
+  {
+    "text": "সুন্দর",
+    "line": 34,
+    "start": 115.68,
+    "end": 116.12,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলছে।",
+    "line": 34,
+    "start": 116.12,
+    "end": 116.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনও",
+    "line": 34,
+    "start": 116.52,
+    "end": 117.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্বাভাবিক।",
+    "line": 34,
+    "start": 117.24,
+    "end": 117.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "এবার",
+    "line": 35,
+    "start": 117.74,
+    "end": 118.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 35,
+    "start": 118.52,
+    "end": 118.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "বাসা",
+    "line": 35,
+    "start": 118.74,
+    "end": 118.74,
+    "method": "interpolated"
+  },
+  {
+    "text": "থেকে",
+    "line": 35,
+    "start": 118.74,
+    "end": 119.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "বের",
+    "line": 35,
+    "start": 119.38,
+    "end": 119.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "হলে।",
+    "line": 35,
+    "start": 119.68,
+    "end": 119.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "লিফটে",
+    "line": 36,
+    "start": 120.0,
+    "end": 120.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "উঠলে।",
+    "line": 36,
+    "start": 120.76,
+    "end": 121.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "তারপর",
+    "line": 36,
+    "start": 121.62,
+    "end": 121.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "গাড়িতে",
+    "line": 36,
+    "start": 121.76,
+    "end": 122.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "বসলে।",
+    "line": 36,
+    "start": 122.22,
+    "end": 122.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "হঠাৎ",
+    "line": 37,
+    "start": 123.03999999999999,
+    "end": 123.46,
+    "method": "interpolated"
+  },
+  {
+    "text": "দেখলে,",
+    "line": 37,
+    "start": 123.46,
+    "end": 123.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "নেটওয়ার্কের",
+    "line": 37,
+    "start": 123.84,
+    "end": 124.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "সিগন্যাল",
+    "line": 37,
+    "start": 124.72,
+    "end": 125.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "দুর্বল",
+    "line": 37,
+    "start": 125.14,
+    "end": 125.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "হয়ে",
+    "line": 37,
+    "start": 125.6,
+    "end": 125.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "যাচ্ছে!",
+    "line": 37,
+    "start": 125.93,
+    "end": 126.12,
+    "method": "interpolated"
+  },
+  {
+    "text": "কখনো",
+    "line": 38,
+    "start": 126.12,
+    "end": 126.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফাইভ",
+    "line": 38,
+    "start": 127.09333333333333,
+    "end": 127.26666666666667,
+    "method": "interpolated"
+  },
+  {
+    "text": "জি।",
+    "line": 38,
+    "start": 127.26666666666667,
+    "end": 127.44,
+    "method": "interpolated"
+  },
+  {
+    "text": "কখনো",
+    "line": 39,
+    "start": 127.44,
+    "end": 128.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোর",
+    "line": 39,
+    "start": 128.29333333333332,
+    "end": 128.44666666666666,
+    "method": "interpolated"
+  },
+  {
+    "text": "জি।",
+    "line": 39,
+    "start": 128.44666666666666,
+    "end": 128.6,
+    "method": "interpolated"
+  },
+  {
+    "text": "আবার",
+    "line": 40,
+    "start": 128.6,
+    "end": 129.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "কখনো...",
+    "line": 40,
+    "start": 129.24,
+    "end": 129.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "মাত্র",
+    "line": 40,
+    "start": 130.01,
+    "end": 130.3,
+    "method": "interpolated"
+  },
+  {
+    "text": "এক",
+    "line": 40,
+    "start": 130.3,
+    "end": 130.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "দাগ",
+    "line": 40,
+    "start": 130.72,
+    "end": 131.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "সিগন্যাল!",
+    "line": 40,
+    "start": 131.06,
+    "end": 131.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "এখন",
+    "line": 41,
+    "start": 131.52,
+    "end": 132.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 41,
+    "start": 132.36,
+    "end": 132.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোন",
+    "line": 41,
+    "start": 132.62,
+    "end": 132.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "কী",
+    "line": 41,
+    "start": 132.92,
+    "end": 133.12,
+    "method": "asr-match"
+  },
+  {
+    "text": "করছে",
+    "line": 41,
+    "start": 133.12,
+    "end": 133.44,
+    "method": "asr-match"
+  },
+  {
+    "text": "জানো?",
+    "line": 41,
+    "start": 133.44,
+    "end": 133.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভালো",
+    "line": 42,
+    "start": 133.74,
+    "end": 134.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "কানেকশন",
+    "line": 42,
+    "start": 134.66,
+    "end": 135.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "ধরে",
+    "line": 42,
+    "start": 135.14,
+    "end": 135.14,
+    "method": "interpolated"
+  },
+  {
+    "text": "রাখার",
+    "line": 42,
+    "start": 135.14,
+    "end": 135.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "জন্য",
+    "line": 42,
+    "start": 135.72,
+    "end": 136.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "বারবার",
+    "line": 42,
+    "start": 136.4,
+    "end": 136.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "চেষ্টা",
+    "line": 42,
+    "start": 136.7,
+    "end": 137.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "করছে।",
+    "line": 42,
+    "start": 137.08,
+    "end": 137.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "কখনো",
+    "line": 43,
+    "start": 137.0,
+    "end": 138.22,
+    "method": "whisper-forced-alignment",
+    "probability": 0.712
+  },
+  {
+    "text": "নতুন",
+    "line": 43,
+    "start": 138.22,
+    "end": 138.6,
+    "method": "whisper-forced-alignment",
+    "probability": 0.887
+  },
+  {
+    "text": "মোবাইল",
+    "line": 43,
+    "start": 138.6,
+    "end": 138.98,
+    "method": "whisper-forced-alignment",
+    "probability": 0.909
+  },
+  {
+    "text": "টাওয়ারের",
+    "line": 43,
+    "start": 138.98,
+    "end": 139.38,
+    "method": "whisper-forced-alignment",
+    "probability": 0.723
+  },
+  {
+    "text": "সঙ্গে",
+    "line": 43,
+    "start": 139.38,
+    "end": 139.66,
+    "method": "whisper-forced-alignment",
+    "probability": 0.775
+  },
+  {
+    "text": "সংযোগ",
+    "line": 43,
+    "start": 139.66,
+    "end": 140.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.635
+  },
+  {
+    "text": "তৈরি",
+    "line": 43,
+    "start": 140.08,
+    "end": 140.32,
+    "method": "whisper-forced-alignment",
+    "probability": 0.596
+  },
+  {
+    "text": "করছে।",
+    "line": 43,
+    "start": 140.32,
+    "end": 141.02,
+    "method": "whisper-forced-alignment",
+    "probability": 0.863
+  },
+  {
+    "text": "আবার",
+    "line": 44,
+    "start": 141.02,
+    "end": 141.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.836
+  },
+  {
+    "text": "দুর্বল",
+    "line": 44,
+    "start": 141.3,
+    "end": 141.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.837
+  },
+  {
+    "text": "সিগন্যালের",
+    "line": 44,
+    "start": 141.78,
+    "end": 142.28,
+    "method": "whisper-forced-alignment",
+    "probability": 0.85
+  },
+  {
+    "text": "কারণে",
+    "line": 44,
+    "start": 142.28,
+    "end": 142.64,
+    "method": "whisper-forced-alignment",
+    "probability": 0.896
+  },
+  {
+    "text": "কখনো",
+    "line": 44,
+    "start": 142.64,
+    "end": 143.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.705
+  },
+  {
+    "text": "বেশি",
+    "line": 44,
+    "start": 143.08,
+    "end": 143.48,
+    "method": "whisper-forced-alignment",
+    "probability": 0.956
+  },
+  {
+    "text": "শক্তি",
+    "line": 44,
+    "start": 143.48,
+    "end": 143.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.827
+  },
+  {
+    "text": "খরচ",
+    "line": 44,
+    "start": 143.84,
+    "end": 144.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.829
+  },
+  {
+    "text": "করছে।",
+    "line": 44,
+    "start": 144.08,
+    "end": 145.04,
+    "method": "whisper-forced-alignment",
+    "probability": 0.943
+  },
+  {
+    "text": "একটা",
+    "line": 45,
+    "start": 145.04,
+    "end": 145.32,
+    "method": "whisper-forced-alignment",
+    "probability": 0.957
+  },
+  {
+    "text": "সহজ",
+    "line": 45,
+    "start": 145.32,
+    "end": 145.7,
+    "method": "whisper-forced-alignment",
+    "probability": 0.928
+  },
+  {
+    "text": "উদাহরণ",
+    "line": 45,
+    "start": 145.7,
+    "end": 146.1,
+    "method": "whisper-forced-alignment",
+    "probability": 0.562
+  },
+  {
+    "text": "দিই।",
+    "line": 45,
+    "start": 146.1,
+    "end": 146.76,
+    "method": "whisper-forced-alignment",
+    "probability": 0.67
+  },
+  {
+    "text": "ধরো,",
+    "line": 46,
+    "start": 146.2,
+    "end": 147.22,
+    "method": "whisper-forced-alignment",
+    "probability": 0.557
+  },
+  {
+    "text": "তোমার",
+    "line": 46,
+    "start": 147.22,
+    "end": 147.66,
+    "method": "whisper-forced-alignment",
+    "probability": 0.896
+  },
+  {
+    "text": "বন্ধু",
+    "line": 46,
+    "start": 147.66,
+    "end": 148.12,
+    "method": "whisper-forced-alignment",
+    "probability": 0.883
+  },
+  {
+    "text": "তোমার",
+    "line": 46,
+    "start": 148.12,
+    "end": 148.44,
+    "method": "whisper-forced-alignment",
+    "probability": 0.931
+  },
+  {
+    "text": "পাশেই",
+    "line": 46,
+    "start": 148.44,
+    "end": 148.94,
+    "method": "whisper-forced-alignment",
+    "probability": 0.924
+  },
+  {
+    "text": "দাঁড়িয়ে",
+    "line": 46,
+    "start": 148.94,
+    "end": 149.26,
+    "method": "whisper-forced-alignment",
+    "probability": 0.492
+  },
+  {
+    "text": "আছে।",
+    "line": 46,
+    "start": 149.26,
+    "end": 149.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.771
+  },
+  {
+    "text": "তাকে",
+    "line": 47,
+    "start": 149.8,
+    "end": 150.12,
+    "method": "whisper-forced-alignment",
+    "probability": 0.977
+  },
+  {
+    "text": "ডাকতে",
+    "line": 47,
+    "start": 150.12,
+    "end": 150.54,
+    "method": "whisper-forced-alignment",
+    "probability": 0.892
+  },
+  {
+    "text": "কতটুকু",
+    "line": 47,
+    "start": 150.54,
+    "end": 151.06,
+    "method": "whisper-forced-alignment",
+    "probability": 0.745
+  },
+  {
+    "text": "শক্তি",
+    "line": 47,
+    "start": 151.06,
+    "end": 151.38,
+    "method": "whisper-forced-alignment",
+    "probability": 0.794
+  },
+  {
+    "text": "লাগে?",
+    "line": 47,
+    "start": 151.38,
+    "end": 151.76,
+    "method": "whisper-forced-alignment",
+    "probability": 0.856
+  },
+  {
+    "text": "খুব",
+    "line": 48,
+    "start": 151.76,
+    "end": 152.32,
+    "method": "whisper-forced-alignment",
+    "probability": 0.831
+  },
+  {
+    "text": "কম!",
+    "line": 48,
+    "start": 152.32,
+    "end": 152.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.597
+  },
+  {
+    "text": "এবার",
+    "line": 49,
+    "start": 152.58,
+    "end": 153.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভাবো,",
+    "line": 49,
+    "start": 153.42,
+    "end": 153.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "সে",
+    "line": 49,
+    "start": 153.74,
+    "end": 154.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "অনেক",
+    "line": 49,
+    "start": 154.16,
+    "end": 154.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "দূরে",
+    "line": 49,
+    "start": 154.66,
+    "end": 154.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "দাঁড়িয়ে",
+    "line": 49,
+    "start": 154.92,
+    "end": 155.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "আছে।",
+    "line": 49,
+    "start": 155.5,
+    "end": 155.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 50,
+    "start": 155.94,
+    "end": 156.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "চারপাশে",
+    "line": 50,
+    "start": 156.28,
+    "end": 156.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রচণ্ড",
+    "line": 50,
+    "start": 156.64,
+    "end": 157.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "শব্দ!",
+    "line": 50,
+    "start": 157.51,
+    "end": 157.76,
+    "method": "interpolated"
+  },
+  {
+    "text": "তখন",
+    "line": 51,
+    "start": 157.76,
+    "end": 158.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমাকে",
+    "line": 51,
+    "start": 158.5,
+    "end": 158.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "আরও",
+    "line": 51,
+    "start": 158.94,
+    "end": 159.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "জোরে",
+    "line": 51,
+    "start": 159.46,
+    "end": 159.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "ডাকতে",
+    "line": 51,
+    "start": 159.6,
+    "end": 159.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "হবে,",
+    "line": 51,
+    "start": 159.86,
+    "end": 159.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "তাই",
+    "line": 51,
+    "start": 160.0,
+    "end": 160.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "না?",
+    "line": 51,
+    "start": 160.42,
+    "end": 160.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "মোবাইল",
+    "line": 52,
+    "start": 160.62,
+    "end": 161.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "নেটওয়ার্কের",
+    "line": 52,
+    "start": 161.52,
+    "end": 162.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "ক্ষেত্রেও",
+    "line": 52,
+    "start": 162.02,
+    "end": 162.44,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিছুটা",
+    "line": 52,
+    "start": 162.44,
+    "end": 162.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "একই",
+    "line": 52,
+    "start": 162.92,
+    "end": 163.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাপার",
+    "line": 52,
+    "start": 163.3,
+    "end": 163.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "ঘটে।",
+    "line": 52,
+    "start": 163.6,
+    "end": 163.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "তাই",
+    "line": 53,
+    "start": 163.9,
+    "end": 164.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "একই",
+    "line": 53,
+    "start": 164.5,
+    "end": 164.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনে,",
+    "line": 53,
+    "start": 164.94,
+    "end": 165.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "একই",
+    "line": 53,
+    "start": 165.3,
+    "end": 165.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভিডিও",
+    "line": 53,
+    "start": 165.82,
+    "end": 166.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখলেও,",
+    "line": 53,
+    "start": 166.16,
+    "end": 166.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "দুর্বল",
+    "line": 53,
+    "start": 166.62,
+    "end": 167.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "নেটওয়ার্কে",
+    "line": 53,
+    "start": 167.36,
+    "end": 167.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "বেশি",
+    "line": 53,
+    "start": 167.9,
+    "end": 168.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 53,
+    "start": 168.32,
+    "end": 168.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "খরচ",
+    "line": 53,
+    "start": 168.64,
+    "end": 168.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "হতে",
+    "line": 53,
+    "start": 168.86,
+    "end": 169.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "পারে।",
+    "line": 53,
+    "start": 169.14,
+    "end": 169.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "এটাই",
+    "line": 54,
+    "start": 169.79,
+    "end": 170.2,
+    "method": "interpolated"
+  },
+  {
+    "text": "দ্বিতীয়",
+    "line": 54,
+    "start": 170.2,
+    "end": 170.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "অদৃশ্য",
+    "line": 54,
+    "start": 170.82,
+    "end": 171.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "শক্তিখোর!",
+    "line": 54,
+    "start": 171.42,
+    "end": 172.0,
+    "method": "asr-match"
+  },
+  {
+    "text": "দুর্বল",
+    "line": 55,
+    "start": 172.0,
+    "end": 172.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "নেটওয়ার্ক",
+    "line": 55,
+    "start": 172.86,
+    "end": 173.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "সিগন্যাল!",
+    "line": 55,
+    "start": 173.34,
+    "end": 173.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 56,
+    "start": 173.74,
+    "end": 174.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "তৃতীয়জন?",
+    "line": 56,
+    "start": 174.26,
+    "end": 174.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "তাকে",
+    "line": 57,
+    "start": 174.94,
+    "end": 175.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 57,
+    "start": 175.74,
+    "end": 175.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রতিদিন",
+    "line": 57,
+    "start": 175.96,
+    "end": 176.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "নিজের",
+    "line": 57,
+    "start": 176.48,
+    "end": 176.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "চোখেই",
+    "line": 57,
+    "start": 176.84,
+    "end": 177.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখো!",
+    "line": 57,
+    "start": 177.18,
+    "end": 177.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 58,
+    "start": 177.48,
+    "end": 178.1,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 58,
+    "start": 178.1,
+    "end": 178.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্ক্রিন!",
+    "line": 58,
+    "start": 178.56,
+    "end": 179.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "ধরো,",
+    "line": 59,
+    "start": 179.06,
+    "end": 179.51,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 59,
+    "start": 180.0,
+    "end": 180.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "রাতে",
+    "line": 59,
+    "start": 180.48,
+    "end": 180.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "কম",
+    "line": 59,
+    "start": 180.74,
+    "end": 181.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্রাইটনেসে",
+    "line": 59,
+    "start": 181.08,
+    "end": 181.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "একটা",
+    "line": 59,
+    "start": 181.7,
+    "end": 182.04,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভিডিও",
+    "line": 59,
+    "start": 182.04,
+    "end": 182.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখছ।",
+    "line": 59,
+    "start": 182.36,
+    "end": 182.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "এবার",
+    "line": 60,
+    "start": 182.8,
+    "end": 183.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "একই",
+    "line": 60,
+    "start": 183.42,
+    "end": 183.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভিডিও",
+    "line": 60,
+    "start": 183.88,
+    "end": 184.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখছ",
+    "line": 60,
+    "start": 184.2,
+    "end": 184.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "দুপুরের",
+    "line": 60,
+    "start": 184.66,
+    "end": 185.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "কড়া",
+    "line": 60,
+    "start": 185.24,
+    "end": 185.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "রোদে।",
+    "line": 60,
+    "start": 185.68,
+    "end": 185.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্ক্রিন",
+    "line": 61,
+    "start": 185.96,
+    "end": 186.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখা",
+    "line": 61,
+    "start": 186.72,
+    "end": 186.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "যাচ্ছে",
+    "line": 61,
+    "start": 186.98,
+    "end": 186.98,
+    "method": "interpolated"
+  },
+  {
+    "text": "না।",
+    "line": 61,
+    "start": 186.98,
+    "end": 187.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "তাই",
+    "line": 61,
+    "start": 187.36,
+    "end": 187.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্রাইটনেস",
+    "line": 61,
+    "start": 187.88,
+    "end": 188.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "বাড়িয়ে",
+    "line": 61,
+    "start": 188.38,
+    "end": 188.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "দিলে।",
+    "line": 61,
+    "start": 188.76,
+    "end": 189.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 62,
+    "start": 188.4,
+    "end": 189.68,
+    "method": "whisper-forced-alignment",
+    "probability": 0.838
+  },
+  {
+    "text": "এই",
+    "line": 62,
+    "start": 189.68,
+    "end": 189.96,
+    "method": "whisper-forced-alignment",
+    "probability": 0.961
+  },
+  {
+    "text": "অতিরিক্ত",
+    "line": 62,
+    "start": 189.96,
+    "end": 190.6,
+    "method": "whisper-forced-alignment",
+    "probability": 0.831
+  },
+  {
+    "text": "আলো",
+    "line": 62,
+    "start": 190.6,
+    "end": 191.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.804
+  },
+  {
+    "text": "তৈরির",
+    "line": 62,
+    "start": 191.08,
+    "end": 191.42,
+    "method": "whisper-forced-alignment",
+    "probability": 0.512
+  },
+  {
+    "text": "শক্তি",
+    "line": 62,
+    "start": 191.42,
+    "end": 191.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.73
+  },
+  {
+    "text": "কোথা",
+    "line": 62,
+    "start": 191.84,
+    "end": 192.14,
+    "method": "whisper-forced-alignment",
+    "probability": 0.819
+  },
+  {
+    "text": "থেকে",
+    "line": 62,
+    "start": 192.14,
+    "end": 192.28,
+    "method": "whisper-forced-alignment",
+    "probability": 0.902
+  },
+  {
+    "text": "আসছে?",
+    "line": 62,
+    "start": 192.28,
+    "end": 192.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.71
+  },
+  {
+    "text": "তোমার",
+    "line": 63,
+    "start": 192.8,
+    "end": 193.36,
+    "method": "whisper-forced-alignment",
+    "probability": 0.86
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 63,
+    "start": 193.36,
+    "end": 193.88,
+    "method": "whisper-forced-alignment",
+    "probability": 0.707
+  },
+  {
+    "text": "থেকে!",
+    "line": 63,
+    "start": 193.88,
+    "end": 194.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.793
+  },
+  {
+    "text": "তার",
+    "line": 64,
+    "start": 194.3,
+    "end": 194.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.955
+  },
+  {
+    "text": "ওপর",
+    "line": 64,
+    "start": 194.8,
+    "end": 194.98,
+    "method": "whisper-forced-alignment",
+    "probability": 0.636
+  },
+  {
+    "text": "তুমি",
+    "line": 64,
+    "start": 194.98,
+    "end": 195.18,
+    "method": "whisper-forced-alignment",
+    "probability": 0.908
+  },
+  {
+    "text": "যদি",
+    "line": 64,
+    "start": 195.18,
+    "end": 195.42,
+    "method": "whisper-forced-alignment",
+    "probability": 0.577
+  },
+  {
+    "text": "ভারী",
+    "line": 64,
+    "start": 195.42,
+    "end": 195.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.775
+  },
+  {
+    "text": "গেম",
+    "line": 64,
+    "start": 195.84,
+    "end": 196.18,
+    "method": "whisper-forced-alignment",
+    "probability": 0.974
+  },
+  {
+    "text": "খেলো,",
+    "line": 64,
+    "start": 196.18,
+    "end": 196.66,
+    "method": "whisper-forced-alignment",
+    "probability": 0.767
+  },
+  {
+    "text": "কিংবা",
+    "line": 64,
+    "start": 196.66,
+    "end": 197.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.869
+  },
+  {
+    "text": "ভিডিও",
+    "line": 64,
+    "start": 197.08,
+    "end": 197.5,
+    "method": "whisper-forced-alignment",
+    "probability": 0.724
+  },
+  {
+    "text": "এডিট",
+    "line": 64,
+    "start": 197.5,
+    "end": 197.76,
+    "method": "whisper-forced-alignment",
+    "probability": 0.927
+  },
+  {
+    "text": "করো,",
+    "line": 64,
+    "start": 197.76,
+    "end": 198.22,
+    "method": "whisper-forced-alignment",
+    "probability": 0.825
+  },
+  {
+    "text": "তাহলে",
+    "line": 64,
+    "start": 198.22,
+    "end": 198.66,
+    "method": "whisper-forced-alignment",
+    "probability": 0.937
+  },
+  {
+    "text": "ফোনের",
+    "line": 64,
+    "start": 198.66,
+    "end": 199.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.94
+  },
+  {
+    "text": "প্রসেসর",
+    "line": 64,
+    "start": 199.08,
+    "end": 199.68,
+    "method": "whisper-forced-alignment",
+    "probability": 0.87
+  },
+  {
+    "text": "আর",
+    "line": 64,
+    "start": 199.68,
+    "end": 199.94,
+    "method": "whisper-forced-alignment",
+    "probability": 0.892
+  },
+  {
+    "text": "গ্রাফিক্স",
+    "line": 64,
+    "start": 199.94,
+    "end": 200.46,
+    "method": "whisper-forced-alignment",
+    "probability": 0.927
+  },
+  {
+    "text": "চিপকে",
+    "line": 64,
+    "start": 200.46,
+    "end": 200.9,
+    "method": "whisper-forced-alignment",
+    "probability": 0.847
+  },
+  {
+    "text": "আরও",
+    "line": 64,
+    "start": 200.9,
+    "end": 201.38,
+    "method": "whisper-forced-alignment",
+    "probability": 0.746
+  },
+  {
+    "text": "বেশি",
+    "line": 64,
+    "start": 201.38,
+    "end": 201.64,
+    "method": "whisper-forced-alignment",
+    "probability": 0.963
+  },
+  {
+    "text": "কাজ",
+    "line": 64,
+    "start": 201.64,
+    "end": 201.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.778
+  },
+  {
+    "text": "করতে",
+    "line": 64,
+    "start": 201.84,
+    "end": 202.14,
+    "method": "whisper-forced-alignment",
+    "probability": 0.864
+  },
+  {
+    "text": "হয়।",
+    "line": 64,
+    "start": 202.14,
+    "end": 203.18,
+    "method": "whisper-forced-alignment",
+    "probability": 0.519
+  },
+  {
+    "text": "আর",
+    "line": 65,
+    "start": 202.46176470588236,
+    "end": 202.84,
+    "method": "interpolated"
+  },
+  {
+    "text": "বেশি",
+    "line": 65,
+    "start": 202.84,
+    "end": 203.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাজ",
+    "line": 65,
+    "start": 203.22,
+    "end": 203.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "মানেই",
+    "line": 65,
+    "start": 203.42,
+    "end": 203.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "সাধারণত",
+    "line": 65,
+    "start": 203.78,
+    "end": 204.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "বেশি",
+    "line": 65,
+    "start": 204.52,
+    "end": 204.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "শক্তি",
+    "line": 65,
+    "start": 204.94,
+    "end": 205.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "খরচ।",
+    "line": 65,
+    "start": 205.28,
+    "end": 205.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাপারটা",
+    "line": 66,
+    "start": 205.1,
+    "end": 206.5,
+    "method": "whisper-forced-alignment",
+    "probability": 0.521
+  },
+  {
+    "text": "অনেকটা",
+    "line": 66,
+    "start": 206.5,
+    "end": 207.1,
+    "method": "whisper-forced-alignment",
+    "probability": 0.903
+  },
+  {
+    "text": "মোটরসাইকেলের",
+    "line": 66,
+    "start": 207.1,
+    "end": 207.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.874
+  },
+  {
+    "text": "মতো।",
+    "line": 66,
+    "start": 207.78,
+    "end": 208.36,
+    "method": "whisper-forced-alignment",
+    "probability": 0.863
+  },
+  {
+    "text": "স্বাভাবিক",
+    "line": 67,
+    "start": 208.36,
+    "end": 209.0,
+    "method": "whisper-forced-alignment",
+    "probability": 0.74
+  },
+  {
+    "text": "গতিতে",
+    "line": 67,
+    "start": 209.0,
+    "end": 209.36,
+    "method": "whisper-forced-alignment",
+    "probability": 0.888
+  },
+  {
+    "text": "চালালে",
+    "line": 67,
+    "start": 209.36,
+    "end": 209.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.967
+  },
+  {
+    "text": "এক",
+    "line": 67,
+    "start": 209.8,
+    "end": 210.2,
+    "method": "whisper-forced-alignment",
+    "probability": 0.962
+  },
+  {
+    "text": "রকম",
+    "line": 67,
+    "start": 210.2,
+    "end": 210.46,
+    "method": "whisper-forced-alignment",
+    "probability": 0.828
+  },
+  {
+    "text": "জ্বালানি",
+    "line": 67,
+    "start": 210.46,
+    "end": 210.82,
+    "method": "whisper-forced-alignment",
+    "probability": 0.739
+  },
+  {
+    "text": "লাগে।",
+    "line": 67,
+    "start": 210.82,
+    "end": 211.4,
+    "method": "whisper-forced-alignment",
+    "probability": 0.932
+  },
+  {
+    "text": "কিন্তু",
+    "line": 68,
+    "start": 211.4,
+    "end": 211.72,
+    "method": "whisper-forced-alignment",
+    "probability": 0.932
+  },
+  {
+    "text": "বারবার",
+    "line": 68,
+    "start": 211.72,
+    "end": 212.24,
+    "method": "whisper-forced-alignment",
+    "probability": 0.881
+  },
+  {
+    "text": "দ্রুত",
+    "line": 68,
+    "start": 212.24,
+    "end": 212.56,
+    "method": "whisper-forced-alignment",
+    "probability": 0.876
+  },
+  {
+    "text": "গতি",
+    "line": 68,
+    "start": 212.56,
+    "end": 212.86,
+    "method": "whisper-forced-alignment",
+    "probability": 0.793
+  },
+  {
+    "text": "বাড়ালে?",
+    "line": 68,
+    "start": 212.86,
+    "end": 213.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.645
+  },
+  {
+    "text": "জ্বালানি",
+    "line": 69,
+    "start": 213.3,
+    "end": 214.06,
+    "method": "whisper-forced-alignment",
+    "probability": 0.856
+  },
+  {
+    "text": "খরচও",
+    "line": 69,
+    "start": 214.06,
+    "end": 214.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.49
+  },
+  {
+    "text": "বেড়ে",
+    "line": 69,
+    "start": 214.08,
+    "end": 214.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.315
+  },
+  {
+    "text": "যেতে",
+    "line": 69,
+    "start": 214.08,
+    "end": 214.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.496
+  },
+  {
+    "text": "পারে!",
+    "line": 69,
+    "start": 214.08,
+    "end": 214.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.504
+  },
+  {
+    "text": "তোমার",
+    "line": 70,
+    "start": 213.55923076923077,
+    "end": 214.1030769230769,
+    "method": "interpolated"
+  },
+  {
+    "text": "ফোনও",
+    "line": 70,
+    "start": 214.1030769230769,
+    "end": 214.6469230769231,
+    "method": "interpolated"
+  },
+  {
+    "text": "অনেকটা",
+    "line": 70,
+    "start": 214.6469230769231,
+    "end": 215.19076923076923,
+    "method": "interpolated"
+  },
+  {
+    "text": "তেমন।",
+    "line": 70,
+    "start": 215.19076923076923,
+    "end": 215.73461538461538,
+    "method": "interpolated"
+  },
+  {
+    "text": "এটাই",
+    "line": 71,
+    "start": 215.73461538461538,
+    "end": 216.27846153846153,
+    "method": "interpolated"
+  },
+  {
+    "text": "তৃতীয়",
+    "line": 71,
+    "start": 216.27846153846153,
+    "end": 216.8223076923077,
+    "method": "interpolated"
+  },
+  {
+    "text": "শক্তিখোর!",
+    "line": 71,
+    "start": 216.8223076923077,
+    "end": 217.36615384615385,
+    "method": "interpolated"
+  },
+  {
+    "text": "ডিসপ্লে",
+    "line": 72,
+    "start": 217.36615384615385,
+    "end": 217.91,
+    "method": "interpolated"
+  },
+  {
+    "text": "আর",
+    "line": 72,
+    "start": 217.91,
+    "end": 218.45384615384614,
+    "method": "interpolated"
+  },
+  {
+    "text": "প্রসেসিং",
+    "line": 72,
+    "start": 218.45384615384614,
+    "end": 218.9976923076923,
+    "method": "interpolated"
+  },
+  {
+    "text": "পাওয়ার!",
+    "line": 72,
+    "start": 218.9976923076923,
+    "end": 219.54153846153847,
+    "method": "interpolated"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 73,
+    "start": 219.54153846153847,
+    "end": 220.0853846153846,
+    "method": "interpolated"
+  },
+  {
+    "text": "দাঁড়াও!",
+    "line": 73,
+    "start": 220.0853846153846,
+    "end": 220.62923076923076,
+    "method": "interpolated"
+  },
+  {
+    "text": "এখানে",
+    "line": 74,
+    "start": 220.62923076923076,
+    "end": 221.1730769230769,
+    "method": "interpolated"
+  },
+  {
+    "text": "একটা",
+    "line": 74,
+    "start": 221.1730769230769,
+    "end": 221.71692307692308,
+    "method": "interpolated"
+  },
+  {
+    "text": "বড়",
+    "line": 74,
+    "start": 221.71692307692308,
+    "end": 222.26076923076923,
+    "method": "interpolated"
+  },
+  {
+    "text": "টুইস্ট",
+    "line": 74,
+    "start": 222.26076923076923,
+    "end": 222.80461538461537,
+    "method": "interpolated"
+  },
+  {
+    "text": "আছে।",
+    "line": 74,
+    "start": 222.80461538461537,
+    "end": 223.34846153846152,
+    "method": "interpolated"
+  },
+  {
+    "text": "কখনো",
+    "line": 75,
+    "start": 223.34846153846152,
+    "end": 223.89230769230767,
+    "method": "interpolated"
+  },
+  {
+    "text": "কখনো",
+    "line": 75,
+    "start": 223.8923076923077,
+    "end": 224.43615384615384,
+    "method": "interpolated"
+  },
+  {
+    "text": "সমস্যা",
+    "line": 75,
+    "start": 224.43615384615384,
+    "end": 224.98,
+    "method": "interpolated"
+  },
+  {
+    "text": "এই",
+    "line": 75,
+    "start": 224.98,
+    "end": 225.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "তিনটির",
+    "line": 75,
+    "start": 225.48,
+    "end": 225.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "কোনোটাই",
+    "line": 75,
+    "start": 225.92,
+    "end": 226.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "নয়!",
+    "line": 75,
+    "start": 226.54,
+    "end": 227.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "সমস্যা",
+    "line": 76,
+    "start": 227.06,
+    "end": 227.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "লুকিয়ে",
+    "line": 76,
+    "start": 227.64,
+    "end": 227.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "থাকে",
+    "line": 76,
+    "start": 227.96,
+    "end": 228.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "পাওয়ার",
+    "line": 76,
+    "start": 228.26,
+    "end": 228.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্টেশনের",
+    "line": 76,
+    "start": 228.78,
+    "end": 229.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভেতরেই!",
+    "line": 76,
+    "start": 229.3,
+    "end": 229.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "মানে...",
+    "line": 77,
+    "start": 229.88,
+    "end": 230.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 77,
+    "start": 230.52,
+    "end": 231.1,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারিতে!",
+    "line": 77,
+    "start": 231.1,
+    "end": 231.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 78,
+    "start": 231.4,
+    "end": 232.48,
+    "method": "whisper-forced-alignment",
+    "probability": 0.92
+  },
+  {
+    "text": "স্মার্টফোনে",
+    "line": 78,
+    "start": 232.48,
+    "end": 233.16,
+    "method": "whisper-forced-alignment",
+    "probability": 0.842
+  },
+  {
+    "text": "সাধারণত",
+    "line": 78,
+    "start": 233.16,
+    "end": 233.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.826
+  },
+  {
+    "text": "থাকে",
+    "line": 78,
+    "start": 233.8,
+    "end": 234.16,
+    "method": "whisper-forced-alignment",
+    "probability": 0.912
+  },
+  {
+    "text": "লিথিয়াম",
+    "line": 78,
+    "start": 234.16,
+    "end": 234.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.749
+  },
+  {
+    "text": "আয়ন",
+    "line": 78,
+    "start": 234.78,
+    "end": 235.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.525
+  },
+  {
+    "text": "ব্যাটারি।",
+    "line": 78,
+    "start": 235.08,
+    "end": 235.74,
+    "method": "whisper-forced-alignment",
+    "probability": 0.654
+  },
+  {
+    "text": "যেখানে",
+    "line": 79,
+    "start": 235.74,
+    "end": 236.16,
+    "method": "whisper-forced-alignment",
+    "probability": 0.831
+  },
+  {
+    "text": "চার্জ",
+    "line": 79,
+    "start": 236.16,
+    "end": 236.66,
+    "method": "whisper-forced-alignment",
+    "probability": 0.909
+  },
+  {
+    "text": "আর",
+    "line": 79,
+    "start": 236.66,
+    "end": 236.92,
+    "method": "whisper-forced-alignment",
+    "probability": 0.791
+  },
+  {
+    "text": "ডিসচার্জের",
+    "line": 79,
+    "start": 236.92,
+    "end": 237.58,
+    "method": "whisper-forced-alignment",
+    "probability": 0.911
+  },
+  {
+    "text": "সময়",
+    "line": 79,
+    "start": 237.58,
+    "end": 237.92,
+    "method": "whisper-forced-alignment",
+    "probability": 0.621
+  },
+  {
+    "text": "লিথিয়াম",
+    "line": 79,
+    "start": 237.92,
+    "end": 238.76,
+    "method": "whisper-forced-alignment",
+    "probability": 0.812
+  },
+  {
+    "text": "আয়ন",
+    "line": 79,
+    "start": 238.76,
+    "end": 239.04,
+    "method": "whisper-forced-alignment",
+    "probability": 0.629
+  },
+  {
+    "text": "ব্যাটারির",
+    "line": 79,
+    "start": 239.04,
+    "end": 239.5,
+    "method": "whisper-forced-alignment",
+    "probability": 0.789
+  },
+  {
+    "text": "দুই",
+    "line": 79,
+    "start": 239.5,
+    "end": 239.9,
+    "method": "whisper-forced-alignment",
+    "probability": 0.93
+  },
+  {
+    "text": "ইলেকট্রোডের",
+    "line": 79,
+    "start": 239.9,
+    "end": 240.5,
+    "method": "whisper-forced-alignment",
+    "probability": 0.878
+  },
+  {
+    "text": "মধ্যে",
+    "line": 79,
+    "start": 240.5,
+    "end": 240.82,
+    "method": "whisper-forced-alignment",
+    "probability": 0.779
+  },
+  {
+    "text": "চলাচল",
+    "line": 79,
+    "start": 240.82,
+    "end": 241.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.92
+  },
+  {
+    "text": "করে।",
+    "line": 79,
+    "start": 241.3,
+    "end": 241.82,
+    "method": "whisper-forced-alignment",
+    "probability": 0.932
+  },
+  {
+    "text": "কিন্তু",
+    "line": 80,
+    "start": 243.3,
+    "end": 243.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.464
+  },
+  {
+    "text": "দীর্ঘদিন",
+    "line": 80,
+    "start": 243.3,
+    "end": 243.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.412
+  },
+  {
+    "text": "ব্যবহার,",
+    "line": 80,
+    "start": 243.3,
+    "end": 243.48,
+    "method": "whisper-forced-alignment",
+    "probability": 0.378
+  },
+  {
+    "text": "চার্জিং",
+    "line": 80,
+    "start": 243.48,
+    "end": 244.12,
+    "method": "whisper-forced-alignment",
+    "probability": 0.871
+  },
+  {
+    "text": "আর",
+    "line": 80,
+    "start": 244.12,
+    "end": 244.42,
+    "method": "whisper-forced-alignment",
+    "probability": 0.783
+  },
+  {
+    "text": "বিশেষ",
+    "line": 80,
+    "start": 244.42,
+    "end": 244.84,
+    "method": "whisper-forced-alignment",
+    "probability": 0.906
+  },
+  {
+    "text": "করে",
+    "line": 80,
+    "start": 244.84,
+    "end": 245.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.859
+  },
+  {
+    "text": "অতিরিক্ত",
+    "line": 80,
+    "start": 245.08,
+    "end": 245.72,
+    "method": "whisper-forced-alignment",
+    "probability": 0.82
+  },
+  {
+    "text": "তাপের",
+    "line": 80,
+    "start": 245.72,
+    "end": 246.2,
+    "method": "whisper-forced-alignment",
+    "probability": 0.936
+  },
+  {
+    "text": "কারণে",
+    "line": 80,
+    "start": 246.2,
+    "end": 246.6,
+    "method": "whisper-forced-alignment",
+    "probability": 0.884
+  },
+  {
+    "text": "ব্যাটারির",
+    "line": 80,
+    "start": 246.6,
+    "end": 247.46,
+    "method": "whisper-forced-alignment",
+    "probability": 0.753
+  },
+  {
+    "text": "ভেতরের",
+    "line": 80,
+    "start": 247.46,
+    "end": 247.92,
+    "method": "whisper-forced-alignment",
+    "probability": 0.872
+  },
+  {
+    "text": "রাসায়নিক",
+    "line": 80,
+    "start": 247.92,
+    "end": 248.48,
+    "method": "whisper-forced-alignment",
+    "probability": 0.695
+  },
+  {
+    "text": "অবস্থার",
+    "line": 80,
+    "start": 248.48,
+    "end": 248.96,
+    "method": "whisper-forced-alignment",
+    "probability": 0.937
+  },
+  {
+    "text": "পরিবর্তন",
+    "line": 80,
+    "start": 248.96,
+    "end": 249.62,
+    "method": "whisper-forced-alignment",
+    "probability": 0.85
+  },
+  {
+    "text": "হয়।",
+    "line": 80,
+    "start": 249.62,
+    "end": 249.88,
+    "method": "whisper-forced-alignment",
+    "probability": 0.546
+  },
+  {
+    "text": "ফলে",
+    "line": 81,
+    "start": 249.88,
+    "end": 250.52,
+    "method": "whisper-forced-alignment",
+    "probability": 0.869
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 81,
+    "start": 250.52,
+    "end": 251.06,
+    "method": "whisper-forced-alignment",
+    "probability": 0.863
+  },
+  {
+    "text": "ধীরে",
+    "line": 81,
+    "start": 251.06,
+    "end": 251.48,
+    "method": "whisper-forced-alignment",
+    "probability": 0.885
+  },
+  {
+    "text": "ধীরে",
+    "line": 81,
+    "start": 251.48,
+    "end": 251.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.89
+  },
+  {
+    "text": "আগের",
+    "line": 81,
+    "start": 251.8,
+    "end": 252.28,
+    "method": "whisper-forced-alignment",
+    "probability": 0.893
+  },
+  {
+    "text": "মতো",
+    "line": 81,
+    "start": 252.28,
+    "end": 252.54,
+    "method": "whisper-forced-alignment",
+    "probability": 0.893
+  },
+  {
+    "text": "চার্জ",
+    "line": 81,
+    "start": 252.54,
+    "end": 252.96,
+    "method": "whisper-forced-alignment",
+    "probability": 0.946
+  },
+  {
+    "text": "ধরে",
+    "line": 81,
+    "start": 252.96,
+    "end": 253.22,
+    "method": "whisper-forced-alignment",
+    "probability": 0.879
+  },
+  {
+    "text": "রাখার",
+    "line": 81,
+    "start": 253.22,
+    "end": 253.5,
+    "method": "whisper-forced-alignment",
+    "probability": 0.941
+  },
+  {
+    "text": "ক্ষমতা",
+    "line": 81,
+    "start": 253.5,
+    "end": 254.02,
+    "method": "whisper-forced-alignment",
+    "probability": 0.709
+  },
+  {
+    "text": "হারায়।",
+    "line": 81,
+    "start": 254.02,
+    "end": 254.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.683
+  },
+  {
+    "text": "ধরো,",
+    "line": 82,
+    "start": 254.3,
+    "end": 254.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "নতুন",
+    "line": 82,
+    "start": 254.96,
+    "end": 255.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "অবস্থায়",
+    "line": 82,
+    "start": 255.64,
+    "end": 256.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 82,
+    "start": 256.2,
+    "end": 256.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 82,
+    "start": 256.48,
+    "end": 256.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 82,
+    "start": 256.88,
+    "end": 257.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "ছিল",
+    "line": 82,
+    "start": 257.3,
+    "end": 257.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "একটা",
+    "line": 82,
+    "start": 257.62,
+    "end": 258.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "বড়",
+    "line": 82,
+    "start": 258.02,
+    "end": 258.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "পানির",
+    "line": 82,
+    "start": 258.52,
+    "end": 258.94,
+    "method": "asr-match"
+  },
+  {
+    "text": "ট্যাংক।",
+    "line": 82,
+    "start": 258.94,
+    "end": 259.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 83,
+    "start": 259.36,
+    "end": 259.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "সময়ের",
+    "line": 83,
+    "start": 259.9,
+    "end": 260.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "সঙ্গে",
+    "line": 83,
+    "start": 260.38,
+    "end": 260.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "সঙ্গে",
+    "line": 83,
+    "start": 260.9,
+    "end": 261.08,
+    "method": "interpolated"
+  },
+  {
+    "text": "সেই",
+    "line": 83,
+    "start": 261.08,
+    "end": 261.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "ট্যাংকের",
+    "line": 83,
+    "start": 261.38,
+    "end": 261.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যবহারযোগ্য",
+    "line": 83,
+    "start": 261.84,
+    "end": 262.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "ধারণক্ষমতা",
+    "line": 83,
+    "start": 262.94,
+    "end": 263.52,
+    "method": "interpolated"
+  },
+  {
+    "text": "ছোট",
+    "line": 83,
+    "start": 263.52,
+    "end": 264.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "হয়ে",
+    "line": 83,
+    "start": 264.06,
+    "end": 264.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "যাচ্ছে।",
+    "line": 83,
+    "start": 264.46,
+    "end": 264.64,
+    "method": "interpolated"
+  },
+  {
+    "text": "এখন",
+    "line": 84,
+    "start": 264.64,
+    "end": 265.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "১০০",
+    "line": 84,
+    "start": 265.26,
+    "end": 265.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "পার্সেন্ট",
+    "line": 84,
+    "start": 265.91999999999996,
+    "end": 266.14,
+    "method": "interpolated"
+  },
+  {
+    "text": "চার্জ",
+    "line": 84,
+    "start": 266.14,
+    "end": 266.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখালেও,",
+    "line": 84,
+    "start": 266.5,
+    "end": 267.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "আগের",
+    "line": 84,
+    "start": 267.02,
+    "end": 267.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "মতো",
+    "line": 84,
+    "start": 267.56,
+    "end": 267.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "একই",
+    "line": 84,
+    "start": 267.86,
+    "end": 268.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "পরিমাণ",
+    "line": 84,
+    "start": 268.26,
+    "end": 268.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "শক্তি",
+    "line": 84,
+    "start": 268.66,
+    "end": 269.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "ধরে",
+    "line": 84,
+    "start": 269.08,
+    "end": 269.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "রাখতে",
+    "line": 84,
+    "start": 269.3,
+    "end": 269.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "পারছে",
+    "line": 84,
+    "start": 269.62,
+    "end": 270.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "না!",
+    "line": 84,
+    "start": 270.06,
+    "end": 270.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "এটাকেই",
+    "line": 85,
+    "start": 270.24,
+    "end": 271.04,
+    "method": "asr-match"
+  },
+  {
+    "text": "বলে",
+    "line": 85,
+    "start": 271.3,
+    "end": 271.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 85,
+    "start": 271.42,
+    "end": 271.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "এজিং।",
+    "line": 85,
+    "start": 271.92,
+    "end": 272.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 86,
+    "start": 272.36,
+    "end": 272.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "এবার",
+    "line": 86,
+    "start": 272.98,
+    "end": 273.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "সবচেয়ে",
+    "line": 86,
+    "start": 273.46,
+    "end": 273.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "গুরুত্বপূর্ণ",
+    "line": 86,
+    "start": 274.12,
+    "end": 274.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রশ্ন!",
+    "line": 86,
+    "start": 274.82,
+    "end": 275.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 87,
+    "start": 275.2,
+    "end": 276.04,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনে",
+    "line": 87,
+    "start": 276.04,
+    "end": 276.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "আসল",
+    "line": 87,
+    "start": 276.42,
+    "end": 276.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "সমস্যা",
+    "line": 87,
+    "start": 276.96,
+    "end": 277.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "কোনটা?",
+    "line": 87,
+    "start": 277.48,
+    "end": 277.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলো,",
+    "line": 88,
+    "start": 277.88,
+    "end": 278.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "এবার",
+    "line": 88,
+    "start": 278.86,
+    "end": 279.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "গোয়েন্দার",
+    "line": 88,
+    "start": 279.46,
+    "end": 279.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "মতো",
+    "line": 88,
+    "start": 279.96,
+    "end": 280.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "তদন্ত",
+    "line": 88,
+    "start": 280.22,
+    "end": 280.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "করি!",
+    "line": 88,
+    "start": 280.7,
+    "end": 280.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রথমে",
+    "line": 89,
+    "start": 280.98,
+    "end": 281.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনের",
+    "line": 89,
+    "start": 281.84,
+    "end": 282.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "সেটিংসে",
+    "line": 89,
+    "start": 282.34,
+    "end": 282.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "গিয়ে",
+    "line": 89,
+    "start": 282.88,
+    "end": 283.12,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 89,
+    "start": 283.12,
+    "end": 283.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "ইউসেজ",
+    "line": 89,
+    "start": 283.72,
+    "end": 284.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখো।",
+    "line": 89,
+    "start": 284.14,
+    "end": 284.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "কোন",
+    "line": 90,
+    "start": 284.48,
+    "end": 285.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 90,
+    "start": 285.35,
+    "end": 285.52,
+    "method": "interpolated"
+  },
+  {
+    "text": "বেশি",
+    "line": 90,
+    "start": 285.52,
+    "end": 285.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 90,
+    "start": 285.9,
+    "end": 286.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "খরচ",
+    "line": 90,
+    "start": 286.18,
+    "end": 286.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "করছে?",
+    "line": 90,
+    "start": 286.48,
+    "end": 286.86,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্ক্রিন",
+    "line": 91,
+    "start": 286.86,
+    "end": 287.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "কতক্ষণ",
+    "line": 91,
+    "start": 287.76,
+    "end": 288.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "অন",
+    "line": 91,
+    "start": 288.34,
+    "end": 288.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "ছিল?",
+    "line": 91,
+    "start": 288.5,
+    "end": 288.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "কোনো",
+    "line": 92,
+    "start": 288.82,
+    "end": 289.44,
+    "method": "asr-match"
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 92,
+    "start": 289.65999999999997,
+    "end": 289.88,
+    "method": "interpolated"
+  },
+  {
+    "text": "অস্বাভাবিকভাবে",
+    "line": 92,
+    "start": 289.88,
+    "end": 290.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাকগ্রাউন্ডে",
+    "line": 92,
+    "start": 290.86,
+    "end": 291.44,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাজ",
+    "line": 92,
+    "start": 291.44,
+    "end": 291.7,
+    "method": "asr-match"
+  },
+  {
+    "text": "করছে",
+    "line": 92,
+    "start": 291.7,
+    "end": 292.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "কি",
+    "line": 92,
+    "start": 292.08,
+    "end": 292.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "না?",
+    "line": 92,
+    "start": 292.62,
+    "end": 292.9,
+    "method": "interpolated"
+  },
+  {
+    "text": "এসব",
+    "line": 93,
+    "start": 292.9,
+    "end": 293.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "খেয়াল",
+    "line": 93,
+    "start": 293.08,
+    "end": 293.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "করো।",
+    "line": 93,
+    "start": 293.4,
+    "end": 293.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "তবে",
+    "line": 94,
+    "start": 293.68,
+    "end": 294.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 94,
+    "start": 294.38,
+    "end": 294.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "যে",
+    "line": 94,
+    "start": 294.8933333333333,
+    "end": 295.0466666666667,
+    "method": "interpolated"
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 94,
+    "start": 295.0466666666667,
+    "end": 295.2,
+    "method": "interpolated"
+  },
+  {
+    "text": "বেশি",
+    "line": 94,
+    "start": 295.2,
+    "end": 295.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যবহার",
+    "line": 94,
+    "start": 295.6,
+    "end": 295.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "করো,",
+    "line": 94,
+    "start": 295.98,
+    "end": 296.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "তার",
+    "line": 94,
+    "start": 296.26,
+    "end": 296.66,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 94,
+    "start": 296.66,
+    "end": 297.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "খরচ",
+    "line": 94,
+    "start": 297.06,
+    "end": 297.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "বেশি",
+    "line": 94,
+    "start": 297.4,
+    "end": 297.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখানো",
+    "line": 94,
+    "start": 297.82,
+    "end": 298.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্বাভাবিক।",
+    "line": 94,
+    "start": 298.18,
+    "end": 298.72,
+    "method": "asr-match"
+  },
+  {
+    "text": "এবার",
+    "line": 95,
+    "start": 298.72,
+    "end": 299.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাটারি",
+    "line": 95,
+    "start": 299.38,
+    "end": 299.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "বাঁচানোর",
+    "line": 95,
+    "start": 299.92,
+    "end": 300.4,
+    "method": "asr-match"
+  },
+  {
+    "text": "তিনটা",
+    "line": 95,
+    "start": 300.4,
+    "end": 300.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "সহজ",
+    "line": 95,
+    "start": 300.9,
+    "end": 301.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "উপায়",
+    "line": 95,
+    "start": 301.36,
+    "end": 301.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "জেনে",
+    "line": 95,
+    "start": 301.78,
+    "end": 301.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "নাও।",
+    "line": 95,
+    "start": 301.98,
+    "end": 302.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রথমত,",
+    "line": 96,
+    "start": 302.16,
+    "end": 303.12,
+    "method": "asr-match"
+  },
+  {
+    "text": "অপ্রয়োজনে",
+    "line": 96,
+    "start": 303.12,
+    "end": 304.06,
+    "method": "asr-match"
+  },
+  {
+    "text": "স্ক্রিনের",
+    "line": 96,
+    "start": 304.06,
+    "end": 304.52,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্রাইটনেস",
+    "line": 96,
+    "start": 304.52,
+    "end": 305.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "বেশি",
+    "line": 96,
+    "start": 305.08,
+    "end": 305.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "রেখো",
+    "line": 96,
+    "start": 305.5,
+    "end": 305.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "না।",
+    "line": 96,
+    "start": 305.92,
+    "end": 305.92,
+    "method": "interpolated"
+  },
+  {
+    "text": "অটো",
+    "line": 96,
+    "start": 305.92,
+    "end": 306.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্রাইটনেস",
+    "line": 96,
+    "start": 306.68,
+    "end": 307.12,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যবহার",
+    "line": 96,
+    "start": 307.12,
+    "end": 307.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "করো।",
+    "line": 96,
+    "start": 307.46,
+    "end": 307.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "দ্বিতীয়ত,",
+    "line": 97,
+    "start": 307.74,
+    "end": 308.44,
+    "method": "asr-match"
+  },
+  {
+    "text": "যেসব",
+    "line": 97,
+    "start": 309.12,
+    "end": 309.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "অ্যাপ",
+    "line": 97,
+    "start": 309.52,
+    "end": 309.68,
+    "method": "interpolated"
+  },
+  {
+    "text": "অস্বাভাবিকভাবে",
+    "line": 97,
+    "start": 309.68,
+    "end": 310.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যাকগ্রাউন্ডে",
+    "line": 97,
+    "start": 310.78,
+    "end": 311.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 97,
+    "start": 311.22,
+    "end": 311.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "খরচ",
+    "line": 97,
+    "start": 311.6,
+    "end": 311.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "করছে,",
+    "line": 97,
+    "start": 311.92,
+    "end": 312.3,
+    "method": "asr-match"
+  },
+  {
+    "text": "সেগুলোর",
+    "line": 97,
+    "start": 312.3,
+    "end": 313.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "সেটিংস",
+    "line": 97,
+    "start": 313.08,
+    "end": 313.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "পরীক্ষা",
+    "line": 97,
+    "start": 313.5,
+    "end": 313.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "করো।",
+    "line": 97,
+    "start": 313.88,
+    "end": 314.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "তৃতীয়ত,",
+    "line": 98,
+    "start": 314.14,
+    "end": 314.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "নেটওয়ার্ক",
+    "line": 98,
+    "start": 315.1,
+    "end": 315.96,
+    "method": "asr-match"
+  },
+  {
+    "text": "দুর্বল",
+    "line": 98,
+    "start": 315.96,
+    "end": 316.24,
+    "method": "asr-match"
+  },
+  {
+    "text": "হলে",
+    "line": 98,
+    "start": 316.24,
+    "end": 316.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "সম্ভব",
+    "line": 98,
+    "start": 316.5,
+    "end": 317.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "হলে",
+    "line": 98,
+    "start": 317.08,
+    "end": 317.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "ভালো",
+    "line": 98,
+    "start": 317.32,
+    "end": 317.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "ওয়াইফাই",
+    "line": 98,
+    "start": 317.84,
+    "end": 318.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "ব্যবহার",
+    "line": 98,
+    "start": 318.51,
+    "end": 318.7,
+    "method": "interpolated"
+  },
+  {
+    "text": "করো।",
+    "line": 98,
+    "start": 318.7,
+    "end": 318.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 98,
+    "start": 318.98,
+    "end": 319.46,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোন",
+    "line": 98,
+    "start": 319.46,
+    "end": 319.8,
+    "method": "asr-match"
+  },
+  {
+    "text": "অতিরিক্ত",
+    "line": 98,
+    "start": 319.8,
+    "end": 320.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "গরম",
+    "line": 98,
+    "start": 320.5,
+    "end": 320.98,
+    "method": "asr-match"
+  },
+  {
+    "text": "হওয়া",
+    "line": 98,
+    "start": 320.98,
+    "end": 321.26,
+    "method": "asr-match"
+  },
+  {
+    "text": "এড়িয়ে",
+    "line": 98,
+    "start": 321.26,
+    "end": 321.74,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলো।",
+    "line": 98,
+    "start": 321.74,
+    "end": 322.0,
+    "method": "asr-match"
+  },
+  {
+    "text": "মনে",
+    "line": 99,
+    "start": 322.0,
+    "end": 322.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "রেখো,",
+    "line": 99,
+    "start": 322.64,
+    "end": 322.92,
+    "method": "asr-match"
+  },
+  {
+    "text": "সব",
+    "line": 99,
+    "start": 322.92,
+    "end": 323.42,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনে",
+    "line": 99,
+    "start": 323.42,
+    "end": 323.78,
+    "method": "asr-match"
+  },
+  {
+    "text": "একই",
+    "line": 99,
+    "start": 323.78,
+    "end": 324.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "সমাধান",
+    "line": 99,
+    "start": 324.18,
+    "end": 324.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাজ",
+    "line": 99,
+    "start": 324.62,
+    "end": 324.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "করবে",
+    "line": 99,
+    "start": 324.88,
+    "end": 325.28,
+    "method": "asr-match"
+  },
+  {
+    "text": "না।",
+    "line": 99,
+    "start": 325.28,
+    "end": 325.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "কিন্তু",
+    "line": 100,
+    "start": 325.48,
+    "end": 326.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "এই",
+    "line": 100,
+    "start": 326.16,
+    "end": 326.48,
+    "method": "asr-match"
+  },
+  {
+    "text": "তিনটি",
+    "line": 100,
+    "start": 326.48,
+    "end": 326.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "বিষয়",
+    "line": 100,
+    "start": 326.88,
+    "end": 327.08,
+    "method": "interpolated"
+  },
+  {
+    "text": "পরীক্ষা",
+    "line": 100,
+    "start": 327.08,
+    "end": 327.56,
+    "method": "asr-match"
+  },
+  {
+    "text": "করলে",
+    "line": 100,
+    "start": 327.56,
+    "end": 327.84,
+    "method": "asr-match"
+  },
+  {
+    "text": "তুমি",
+    "line": 100,
+    "start": 327.84,
+    "end": 328.16,
+    "method": "asr-match"
+  },
+  {
+    "text": "আসল",
+    "line": 100,
+    "start": 328.16,
+    "end": 328.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "সমস্যার",
+    "line": 100,
+    "start": 328.68,
+    "end": 329.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাছাকাছি",
+    "line": 100,
+    "start": 329.22,
+    "end": 329.22,
+    "method": "interpolated"
+  },
+  {
+    "text": "পৌঁছাতে",
+    "line": 100,
+    "start": 329.22,
+    "end": 329.22,
+    "method": "interpolated"
+  },
+  {
+    "text": "পারবে।",
+    "line": 100,
+    "start": 329.22,
+    "end": 329.22,
+    "method": "interpolated"
+  },
+  {
+    "text": "এবার",
+    "line": 101,
+    "start": 328.6,
+    "end": 331.16,
+    "method": "whisper-forced-alignment",
+    "probability": 0.76
+  },
+  {
+    "text": "ভাবো",
+    "line": 101,
+    "start": 331.16,
+    "end": 331.56,
+    "method": "whisper-forced-alignment",
+    "probability": 0.872
+  },
+  {
+    "text": "তো!",
+    "line": 101,
+    "start": 331.56,
+    "end": 331.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.558
+  },
+  {
+    "text": "তোমার",
+    "line": 102,
+    "start": 331.78,
+    "end": 332.36,
+    "method": "whisper-forced-alignment",
+    "probability": 0.954
+  },
+  {
+    "text": "ফোনের",
+    "line": 102,
+    "start": 332.36,
+    "end": 332.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.944
+  },
+  {
+    "text": "ভেতরে",
+    "line": 102,
+    "start": 332.78,
+    "end": 333.18,
+    "method": "whisper-forced-alignment",
+    "probability": 0.892
+  },
+  {
+    "text": "প্রতিদিন",
+    "line": 102,
+    "start": 333.18,
+    "end": 333.74,
+    "method": "whisper-forced-alignment",
+    "probability": 0.9
+  },
+  {
+    "text": "কত",
+    "line": 102,
+    "start": 333.74,
+    "end": 334.12,
+    "method": "whisper-forced-alignment",
+    "probability": 0.965
+  },
+  {
+    "text": "কিছু",
+    "line": 102,
+    "start": 334.12,
+    "end": 334.48,
+    "method": "whisper-forced-alignment",
+    "probability": 0.848
+  },
+  {
+    "text": "ঘটে,",
+    "line": 102,
+    "start": 334.48,
+    "end": 334.94,
+    "method": "whisper-forced-alignment",
+    "probability": 0.717
+  },
+  {
+    "text": "অথচ",
+    "line": 102,
+    "start": 334.94,
+    "end": 335.52,
+    "method": "whisper-forced-alignment",
+    "probability": 0.868
+  },
+  {
+    "text": "আমরা",
+    "line": 102,
+    "start": 335.52,
+    "end": 335.98,
+    "method": "whisper-forced-alignment",
+    "probability": 0.768
+  },
+  {
+    "text": "তার",
+    "line": 102,
+    "start": 335.98,
+    "end": 336.1,
+    "method": "whisper-forced-alignment",
+    "probability": 0.857
+  },
+  {
+    "text": "বেশিরভাগই",
+    "line": 102,
+    "start": 336.1,
+    "end": 336.8,
+    "method": "whisper-forced-alignment",
+    "probability": 0.84
+  },
+  {
+    "text": "দেখতে",
+    "line": 102,
+    "start": 336.8,
+    "end": 337.22,
+    "method": "whisper-forced-alignment",
+    "probability": 0.931
+  },
+  {
+    "text": "পাই",
+    "line": 102,
+    "start": 337.22,
+    "end": 337.42,
+    "method": "whisper-forced-alignment",
+    "probability": 0.99
+  },
+  {
+    "text": "না!",
+    "line": 102,
+    "start": 337.42,
+    "end": 337.72,
+    "method": "whisper-forced-alignment",
+    "probability": 0.68
+  },
+  {
+    "text": "আর",
+    "line": 103,
+    "start": 337.72,
+    "end": 338.08,
+    "method": "whisper-forced-alignment",
+    "probability": 0.908
+  },
+  {
+    "text": "শুধু",
+    "line": 103,
+    "start": 338.08,
+    "end": 338.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.811
+  },
+  {
+    "text": "ফোন",
+    "line": 103,
+    "start": 338.3,
+    "end": 338.62,
+    "method": "whisper-forced-alignment",
+    "probability": 0.929
+  },
+  {
+    "text": "কেন?",
+    "line": 103,
+    "start": 338.62,
+    "end": 338.98,
+    "method": "whisper-forced-alignment",
+    "probability": 0.652
+  },
+  {
+    "text": "তোমার",
+    "line": 104,
+    "start": 338.98,
+    "end": 339.64,
+    "method": "whisper-forced-alignment",
+    "probability": 0.973
+  },
+  {
+    "text": "চারপাশের",
+    "line": 104,
+    "start": 339.64,
+    "end": 340.3,
+    "method": "whisper-forced-alignment",
+    "probability": 0.884
+  },
+  {
+    "text": "প্রযুক্তির",
+    "line": 104,
+    "start": 340.3,
+    "end": 340.86,
+    "method": "whisper-forced-alignment",
+    "probability": 0.869
+  },
+  {
+    "text": "ভেতরেও",
+    "line": 104,
+    "start": 340.86,
+    "end": 341.36,
+    "method": "whisper-forced-alignment",
+    "probability": 0.909
+  },
+  {
+    "text": "লুকিয়ে",
+    "line": 104,
+    "start": 341.36,
+    "end": 341.72,
+    "method": "whisper-forced-alignment",
+    "probability": 0.699
+  },
+  {
+    "text": "আছে",
+    "line": 104,
+    "start": 341.72,
+    "end": 342.04,
+    "method": "whisper-forced-alignment",
+    "probability": 0.921
+  },
+  {
+    "text": "এমন",
+    "line": 104,
+    "start": 342.04,
+    "end": 342.46,
+    "method": "whisper-forced-alignment",
+    "probability": 0.925
+  },
+  {
+    "text": "হাজারো",
+    "line": 104,
+    "start": 342.46,
+    "end": 343.14,
+    "method": "whisper-forced-alignment",
+    "probability": 0.924
+  },
+  {
+    "text": "অবাক",
+    "line": 104,
+    "start": 343.14,
+    "end": 343.52,
+    "method": "whisper-forced-alignment",
+    "probability": 0.923
+  },
+  {
+    "text": "করা",
+    "line": 104,
+    "start": 343.52,
+    "end": 343.78,
+    "method": "whisper-forced-alignment",
+    "probability": 0.919
+  },
+  {
+    "text": "গল্প!",
+    "line": 104,
+    "start": 343.78,
+    "end": 344.16,
+    "method": "whisper-forced-alignment",
+    "probability": 0.74
+  },
+  {
+    "text": "প্রযুক্তির",
+    "line": 105,
+    "start": 343.98,
+    "end": 345.08,
+    "method": "asr-match"
+  },
+  {
+    "text": "জাদু",
+    "line": 105,
+    "start": 345.08,
+    "end": 345.44,
+    "method": "asr-match"
+  },
+  {
+    "text": "সবাই",
+    "line": 105,
+    "start": 345.44,
+    "end": 345.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখে।",
+    "line": 105,
+    "start": 345.9,
+    "end": 346.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "আমরা",
+    "line": 106,
+    "start": 346.22,
+    "end": 347.02,
+    "method": "asr-match"
+  },
+  {
+    "text": "দেখাই...",
+    "line": 106,
+    "start": 347.02,
+    "end": 347.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "জাদুটা",
+    "line": 106,
+    "start": 347.36,
+    "end": 348.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "আসলে",
+    "line": 106,
+    "start": 348.14,
+    "end": 348.5,
+    "method": "asr-match"
+  },
+  {
+    "text": "কীভাবে",
+    "line": 106,
+    "start": 348.5,
+    "end": 348.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "কাজ",
+    "line": 106,
+    "start": 349.1,
+    "end": 349.34,
+    "method": "asr-match"
+  },
+  {
+    "text": "করে!",
+    "line": 106,
+    "start": 349.34,
+    "end": 349.62,
+    "method": "asr-match"
+  },
+  {
+    "text": "এমন",
+    "line": 107,
+    "start": 349.62,
+    "end": 350.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "আরও",
+    "line": 107,
+    "start": 350.22,
+    "end": 350.68,
+    "method": "asr-match"
+  },
+  {
+    "text": "অজানা",
+    "line": 107,
+    "start": 350.68,
+    "end": 351.14,
+    "method": "asr-match"
+  },
+  {
+    "text": "প্রযুক্তির",
+    "line": 107,
+    "start": 351.14,
+    "end": 351.6,
+    "method": "asr-match"
+  },
+  {
+    "text": "গল্প",
+    "line": 107,
+    "start": 351.6,
+    "end": 351.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "জানতে",
+    "line": 107,
+    "start": 351.88,
+    "end": 352.32,
+    "method": "asr-match"
+  },
+  {
+    "text": "চ্যানেলটা",
+    "line": 107,
+    "start": 352.32,
+    "end": 352.76,
+    "method": "asr-match"
+  },
+  {
+    "text": "সাবস্ক্রাইব",
+    "line": 107,
+    "start": 352.76,
+    "end": 353.36,
+    "method": "asr-match"
+  },
+  {
+    "text": "করে",
+    "line": 107,
+    "start": 353.36,
+    "end": 353.64,
+    "method": "asr-match"
+  },
+  {
+    "text": "আমাদের",
+    "line": 107,
+    "start": 353.64,
+    "end": 354.12,
+    "method": "asr-match"
+  },
+  {
+    "text": "সঙ্গেই",
+    "line": 107,
+    "start": 354.12,
+    "end": 354.54,
+    "method": "asr-match"
+  },
+  {
+    "text": "থাকো।",
+    "line": 107,
+    "start": 354.54,
+    "end": 354.9,
+    "method": "asr-match"
+  },
+  {
+    "text": "আর",
+    "line": 108,
+    "start": 354.9,
+    "end": 355.38,
+    "method": "asr-match"
+  },
+  {
+    "text": "কমেন্টে",
+    "line": 108,
+    "start": 355.38,
+    "end": 355.88,
+    "method": "asr-match"
+  },
+  {
+    "text": "জানাও,",
+    "line": 108,
+    "start": 355.88,
+    "end": 356.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "তোমার",
+    "line": 108,
+    "start": 356.22,
+    "end": 356.82,
+    "method": "asr-match"
+  },
+  {
+    "text": "ফোনে",
+    "line": 108,
+    "start": 356.82,
+    "end": 357.2,
+    "method": "asr-match"
+  },
+  {
+    "text": "১০০",
+    "line": 108,
+    "start": 357.48,
+    "end": 357.76,
+    "method": "interpolated"
+  },
+  {
+    "text": "পার্সেন্ট",
+    "line": 108,
+    "start": 357.76,
+    "end": 358.18,
+    "method": "asr-match"
+  },
+  {
+    "text": "চার্জ",
+    "line": 108,
+    "start": 358.18,
+    "end": 358.58,
+    "method": "asr-match"
+  },
+  {
+    "text": "কতক্ষণ",
+    "line": 108,
+    "start": 358.58,
+    "end": 359.22,
+    "method": "asr-match"
+  },
+  {
+    "text": "চলে?",
+    "line": 108,
+    "start": 359.22,
+    "end": 359.56,
+    "method": "asr-match"
+  }
+]
