@@ -20,6 +20,8 @@ For new technology topics, use the [approved battery revision 03 direction](../.
 
 Read the [thumbnail and title guide](../.agents/skills/byteversetoon-video/thumbnails-and-titles.md). Create topic-related bright high-contrast artwork, oversized bold mobile-readable text and genuinely distinct alternatives when requested. Use the selected yellow/blue battery comparison as a design reference, while the video keeps its separately approved navy style. Write an accurate curiosity-led title that complements the thumbnail. Preserve the user's chosen pair; workflow updates do not authorize altering published metadata. Generated artwork remains in the media workspace; Git carries the portable guidance.
 
+Before a final delivery render, show animated previews with actual narration and caption timing and wait for explicit user approval of the current versions. A batch requires previews of every episode; approval of a background still or an older film is insufficient. Revise and re-preview requested changes. Browser previews or lightweight review exports are allowed; no final render batch before approval. This applies to tech explainers, Shorts and Reels unless the user explicitly waives it for the current job.
+
 ## Current phone/interface direction
 
 Use an original concrete example and show its mechanism. A phone action causes the next visual: tap a setting, change a charge threshold, expand an explanation, compare behavior, then return to the phone with the answer. Change framing at meaningful beats, usually every 2–4 seconds within a longer narrated scene. Avoid replacing scene progression with one tilted phone, a floating percentage and decorative motion.

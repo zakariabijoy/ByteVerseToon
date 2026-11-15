@@ -66,6 +66,10 @@ For thumbnails, cover alternatives or titles, read [thumbnails-and-titles.md](th
 - **3D prop/motion graphics:** use the approved [3d-motion-graphics.md](3d-motion-graphics.md) route for spatial technology explanations. Preserve glassmorphism and animate the causal mechanism.
 - **Actual 3D character animation:** use only for an explicit request, with [3d-production.md](3d-production.md). The rejected USB-C pilot was removed; do not resume or reconstruct it. Verify modeling/rendering capability and follow applicable look/acting review stages without repeating approvals already recorded.
 
+## Preview approval before final rendering (user requirement, 2026-11-15)
+
+For ByteVerseToon tech explainers, Shorts and Reels, show an animated preview with the actual narration, scene actions and caption timing before a final delivery render. For a batch, show every episode's preview and wait for the user's explicit approval of the current versions before final rendering. A background still, technical check, old video approval or general request to create videos does not approve the new motion previews. Fix requested changes and show the changed previews again. A preview may use the browser timeline or a lightweight review export; do not run the final delivery batch early. The user can explicitly waive this stage for a particular job.
+
 ## Produce and review
 
 For an existing storytelling series, continue its current episode/source and recorded review state. Do not discard supplied audio, restart narration in a default voice, or describe maquettes as finished rigged characters. When the brief requests preview review before export, preserve that review boundary. See [storytelling-series.md](storytelling-series.md) for cross-PC source/media handoff.

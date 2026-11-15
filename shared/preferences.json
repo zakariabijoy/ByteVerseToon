@@ -221,5 +221,7 @@
       "publishedReference": "https://www.youtube.com/watch?v=HYJ4dOdBtmM",
       "automaticPublishedMetadataChanges": false
     }
-  }
+  },
+  "previewBeforeFinalRender": true,
+  "batchPreviewRule": "Show animated previews of every episode with actual narration and caption timing; wait for explicit approval of the current versions before final delivery rendering. Background still approval is insufficient."
 }
