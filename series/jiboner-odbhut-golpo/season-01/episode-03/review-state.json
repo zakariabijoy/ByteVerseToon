@@ -7,13 +7,13 @@
   "scriptApproval": "explicit_final_voiceover_and_start_animation",
   "voiceover": "user_supplied_original_recording",
   "animation": "rendered_v1_for_user_review",
-  "publication": "not_requested",
+  "publication": "published_youtube_facebook_instagram",
   "continuity": "Rafi asks directly; Sajid accepts responsibility; Karim observes the dispute; warm humorous ending.",
   "approvalDate": "2026-11-15",
   "voiceSeconds": 83.84,
   "voiceSampleRate": 48000,
   "voiceSha256": "994AEF2DE85FD8F18396C75CFEF5E1513C3EE6F474CEF785104214D7002E0B55",
-  "videoReview": "pending_user_review",
+  "videoReview": "approved_for_publication_by_user_request_2026-11-15",
   "fullListeningReview": "pending",
   "durationFrames": 2516,
   "renderedSeconds": 83.866667,
@@ -46,5 +46,6 @@
   },
   "mouthTiming": "approximate_word_aligned_grapheme_shapes_not_verified_phonemes",
   "mp4Sha256": "204798B8B5B7BFADF522CF803465784D34456812AE92EE3529ABD3DA26FA5CD9",
-  "cleanup": "not_performed"
+  "cleanup": "not_performed",
+  "publicationRecord": "publication.json"
 }

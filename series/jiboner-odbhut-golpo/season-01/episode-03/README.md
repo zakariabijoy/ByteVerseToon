@@ -54,5 +54,7 @@ ASR. Model provenance and exact transcription requirements are recorded.
 Local `exports/v1/` contains the actual MP4, cover, mastering measurements,
 decoded mobile review frames and technical verification. Full listening and
 user creative approval are separate from successful decode/frame inspection.
-No Episode 03 publication is authorized. Cleanup requires an exact-file plan
-and explicit user approval.
+The user explicitly requested publication on 2026-11-15. Version 1 is published
+on YouTube, Facebook and Instagram; public URLs and proof references are in
+`publication.json`. Full listening remains pending. Cleanup requires an exact-file
+plan and explicit user approval.

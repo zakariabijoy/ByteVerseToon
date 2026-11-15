@@ -1,0 +1,58 @@
+{
+  "episode": 3,
+  "title": "১০০ টাকার বন্ধুত্ব",
+  "sourceVersion": 1,
+  "sourceCommit": "7caf286",
+  "sha256": "204798B8B5B7BFADF522CF803465784D34456812AE92EE3529ABD3DA26FA5CD9",
+  "publicationAuthorized": "user_publish_current_episode_to_youtube_facebook_instagram_2026-11-15",
+  "youtube": {
+    "status": "published",
+    "account": "ByteVerseToon",
+    "id": "n7SyEkK9tMM",
+    "url": "https://www.youtube.com/shorts/n7SyEkK9tMM",
+    "audience": "not_made_for_kids",
+    "visibility": "public",
+    "language": "Bangla",
+    "category": "Film & Animation",
+    "subtitles": "uploaded_captions.bn.srt",
+    "cover": "uploaded_cover.png",
+    "paidPromotion": false,
+    "aiDisclosure": true,
+    "checks": "copyright_and_community_guidelines_no_issues",
+    "proof": "youtube-published.jpg"
+  },
+  "facebook": {
+    "status": "published",
+    "account": "Byte Verse Toon",
+    "pageAssetId": "1379834225219247",
+    "id": "1127652983575495",
+    "url": "https://www.facebook.com/reel/1127652983575495/",
+    "businessContentId": "122110777569522982",
+    "caption": "verified_full_caption_in_public_reel",
+    "visibility": "public",
+    "cover": "uploaded_cover.png",
+    "checks": "no_copyright_issues_found",
+    "proof": "facebook-published.jpg"
+  },
+  "instagram": {
+    "status": "published",
+    "account": "byteversetoon",
+    "id": "DfwmG55ICIk",
+    "url": "https://www.instagram.com/byteversetoon/reel/DfwmG55ICIk/",
+    "caption": "verified_full_caption_in_public_post",
+    "visibility": "public",
+    "cover": "uploaded_cover.png",
+    "proof": "instagram-published.jpg"
+  },
+  "crop": "original_9:16_no_reframe",
+  "confirmedOn": "2026-11-15",
+  "timezone": "Asia/Dhaka",
+  "verifiedAt": "2026-11-15T16:46:05+06:00",
+  "notes": [
+    "One YouTube upload and one combined Meta upload; all three public results verified.",
+    "Native paste used for Meta caption; full captions verified on Facebook and Instagram without correction.",
+    "AI-assisted artwork and supplied synthetic narration disclosed. Original locally synthesized music and sound effects.",
+    "Full listening review remains pending; publication follows explicit user instruction."
+  ],
+  "localFile": "local_episode_03/exports/v1/video.mp4"
+}
