@@ -1,0 +1,261 @@
+[
+  {
+    "text": "চাচা, আগে টাকা নেন।",
+    "startMs": 0,
+    "endMs": 1680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এই লোক কিন্তু বিল দেবে না!",
+    "startMs": 1680,
+    "endMs": 3160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ছেঁড়া জামার মানুষটার সামনেই কথাটা বলল সাজিদ।",
+    "startMs": 3850,
+    "endMs": 6330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লোকটা চায়ের কাপ নামিয়ে রাখলেন।",
+    "startMs": 6650,
+    "endMs": 8490,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এক কাপ চায়ের টাকা আছে, বাবা।",
+    "startMs": 9100,
+    "endMs": 10740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করিম চাচার দোকানের কোণে বসেছিলেন তিনি।",
+    "startMs": 11600,
+    "endMs": 13780,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পাশে পুরোনো একটা কাপড়ের ব্যাগ।",
+    "startMs": 14160,
+    "endMs": 15980,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ রাফির দিকে তাকিয়ে মুচকি হাসল।",
+    "startMs": 16400,
+    "endMs": 18640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ঠিক তখনই ব্যাগ থেকে কয়েকটা খাতা মাটিতে পড়ে",
+    "startMs": 19020,
+    "endMs": 21480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গেল।",
+    "startMs": 21480,
+    "endMs": 21720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি তুলে দিতে গিয়ে দেখল—",
+    "startMs": 22000,
+    "endMs": 23520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লাল কালিতে অঙ্ক ঠিক করা।",
+    "startMs": 23780,
+    "endMs": 25640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এক পাতায় লেখা,",
+    "startMs": 25830,
+    "endMs": 26890,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আবার চেষ্টা করো।",
+    "startMs": 27220,
+    "endMs": 28260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পারবে।",
+    "startMs": 28260,
+    "endMs": 28980,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি জিজ্ঞেস করল,",
+    "startMs": 29250,
+    "endMs": 30270,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আপনি পড়ান?",
+    "startMs": 30480,
+    "endMs": 31060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লোকটা উত্তর দেওয়ার আগেই করিম চাচা এগিয়ে এলেন।",
+    "startMs": 31620,
+    "endMs": 34120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "স্যার!",
+    "startMs": 34250,
+    "endMs": 34710,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আপনি?",
+    "startMs": 34930,
+    "endMs": 35390,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চাচা তাড়াতাড়ি পাশের চেয়ারটা টেনে দিলেন।",
+    "startMs": 36060,
+    "endMs": 38240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমার মেয়েটা যখন পড়া ছেড়ে দিচ্ছিল, এই মানুষটাই",
+    "startMs": 38810,
+    "endMs": 41750,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বিনা টাকায় পড়িয়েছেন।",
+    "startMs": 41750,
+    "endMs": 42850,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদের হাসি মিলিয়ে গেল।",
+    "startMs": 43300,
+    "endMs": 44740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লোকটা বললেন,",
+    "startMs": 45030,
+    "endMs": 45810,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এখন রেললাইনের পাশের কয়েকটা বাচ্চাকে পড়াই।",
+    "startMs": 46000,
+    "endMs": 48460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ওদের খাতাগুলো দেখে ফিরছিলাম।",
+    "startMs": 48570,
+    "endMs": 50210,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ নিচু স্বরে বলল,",
+    "startMs": 50810,
+    "endMs": 52070,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "স্যার, বুঝতে পারিনি।",
+    "startMs": 52740,
+    "endMs": 54340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চায়ের বিলটা আমি দিই?",
+    "startMs": 54480,
+    "endMs": 55540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লোকটা পকেট থেকে টাকা বের করলেন।",
+    "startMs": 56090,
+    "endMs": 57850,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বিল আমি দেব, বাবা।",
+    "startMs": 58230,
+    "endMs": 59310,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তারপর একটু হেসে বললেন,",
+    "startMs": 59770,
+    "endMs": 61070,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তবে চেয়ারটা এগিয়ে দিতে পারো।",
+    "startMs": 61580,
+    "endMs": 63020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ চেয়ারটা এগিয়ে দিল।",
+    "startMs": 63600,
+    "endMs": 65000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এবার মানুষটার পরিচয় জানার জন্য নয়—তাঁকে বসতে",
+    "startMs": 65250,
+    "endMs": 68350,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দেওয়ার জন্য।",
+    "startMs": 68350,
+    "endMs": 68970,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

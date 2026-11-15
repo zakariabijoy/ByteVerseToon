@@ -1,0 +1,62 @@
+{
+  "episode": 4,
+  "restoreBase": "${BVT_WORKSPACE}/production/storytelling/jiboner-odbhut-golpo/season-01/episode-04/assets",
+  "mediaInGit": false,
+  "assets": [
+    {
+      "file": "backgrounds.png",
+      "bytes": 2390632,
+      "sha256": "97A4E50E39E5BA4DA1504E01B3CFD44D236C19521D075E4E04B4A6519B8B9F09"
+    },
+    {
+      "file": "byteversetoon-profile.jpg",
+      "bytes": 20199,
+      "sha256": "5C0597E0600B4E5D9169E95B5B9051A7C4AB6979D815C7B13907F5CEC723941E"
+    },
+    {
+      "file": "foley.wav",
+      "bytes": 12178700,
+      "sha256": "67D80CFEEC9B755C0E98A87A1DBF69599208299D153EFA731426273586C34225"
+    },
+    {
+      "file": "karim.png",
+      "bytes": 1537818,
+      "sha256": "8CB4463D97D9F923A7EF80FA4F5064977591E664BE41B9D1FE5957ECDEE7B960"
+    },
+    {
+      "file": "rafi.png",
+      "bytes": 1642126,
+      "sha256": "76B9EA0FD7A06003D756BD7C70CE118F64F6C86CA6CF8C3B1D0F0A1DC3183D2A"
+    },
+    {
+      "file": "reference-lineup.png",
+      "bytes": 3205778,
+      "sha256": "4BF40903A5D8FD75873D7D10C6778D4AF90F15226BDA3B0271EF56A955D4F333"
+    },
+    {
+      "file": "sajid.png",
+      "bytes": 1488092,
+      "sha256": "20A7CD69668CFF62C6829A10E9015B5B6B744D7A4AE6BAFE2FDAA4D78CB7D500"
+    },
+    {
+      "file": "score.wav",
+      "bytes": 12178700,
+      "sha256": "72C35773E2F684360FAC695A0CD8842E76CF4BB39380E2339BD0987F48F6C4D3"
+    },
+    {
+      "file": "tea-stall.png",
+      "bytes": 2347582,
+      "sha256": "B95DF68A34205CD5570C53AFA9AAC8BB519A362B08A0677E8C2129A7FF963587"
+    },
+    {
+      "file": "teacher-atlas.png",
+      "bytes": 1695055,
+      "sha256": "C468311056D90CA6DD21E8EE0820887ABC36F9C1BC24D4E1C5EF9E6E4B86FB35"
+    },
+    {
+      "file": "voiceover-original.wav",
+      "bytes": 6627884,
+      "sha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B"
+    }
+  ]
+}

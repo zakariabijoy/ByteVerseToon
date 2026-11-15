@@ -1,0 +1,63 @@
+{
+  "episode": 4,
+  "title": "যাকে সবাই গরিব ভাবত",
+  "approvalDate": "2026-11-15",
+  "script": "approved_with_final_user_recording",
+  "voiceover": "user_supplied_original_recording",
+  "voiceSeconds": 69.04,
+  "voiceSampleRate": 48000,
+  "voiceSha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B",
+  "durationFrames": 2072,
+  "renderedSeconds": 69.06666666666666,
+  "animation": "animated_review_preview_ready",
+  "videoReview": "pending_user_review",
+  "finalDeliveryRender": "awaiting_current_preview_approval",
+  "fullListeningReview": "pending",
+  "publication": "not_requested",
+  "cleanup": "not_performed",
+  "opening": "immediate_character_conflict_and_reaction_no_separate_title_intro",
+  "alignment": "31_approved_chunks_162_words_local_cross_attention",
+  "mouthTiming": "approximate_not_verified_phonemes",
+  "sourceVersion": "review-v2",
+  "preview": "local_episode_04/exports/review-v2/preview-safe.mp4",
+  "cover": "local_episode_04/exports/review-v2/cover.png",
+  "guestDesign": "pending_user_preview_review",
+  "typescript": "passed",
+  "visualReview": {
+    "framesInspectedBeforeCorrections": [
+      0,
+      65,
+      800,
+      1060,
+      1400,
+      1770,
+      2000
+    ],
+    "corrections": [
+      "teacher mouth placement and size",
+      "notebook separated from Rafi reaction to avoid face overlap",
+      "chair contact cutaway then seated teacher ending",
+      "foreground tea counter masks half-body cast illustration lower edge"
+    ],
+    "motionPreview": "opening_playback_and_later_dialogue_observed_in_Studio_at_variable_FPS; full_motion_review_pending",
+    "fullListeningReview": "pending",
+    "counterCorrection": "corrected mixed shot observed in Studio at frame 1060",
+    "studioProof": "local_episode_04/exports/review-v2/studio-review.jpg",
+    "decodedMobileFramesInspected": [
+      30,
+      65,
+      800,
+      1060,
+      1400,
+      1770,
+      1925,
+      2071
+    ],
+    "scope": "representative_frames_and_partial_motion_review; full_motion_and_listening_pending_user"
+  },
+  "previewUrl": "http://localhost:3115/Episode04",
+  "technicalChecks": "passed_complete_decode_format_color_range_source_voice_hash_loudness",
+  "mp4Sha256": "6EEE1FB767903CA8860ECCB1588EA10246EB28908BEFDA01C2019BE48A36B881",
+  "loudnessLufs": -16.12,
+  "truePeakDb": -1.28
+}

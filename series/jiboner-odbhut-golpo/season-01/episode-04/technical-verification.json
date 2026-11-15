@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "composition": "Episode04",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "durationFrames": 2072,
+  "durationSeconds": 69.066667,
+  "videoCodec": "h264",
+  "pixelFormat": "yuv420p",
+  "colorRange": "tv",
+  "audioCodec": "aac",
+  "audioSampleRate": 48000,
+  "audioChannels": 2,
+  "completeAudioVideoDecode": "passed",
+  "sourceVoiceSha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B",
+  "sourceVoiceUnchanged": true,
+  "voicePlaybackRate": 1,
+  "loudnessLufs": -16.12,
+  "truePeakDb": -1.28,
+  "mp4Sha256": "6EEE1FB767903CA8860ECCB1588EA10246EB28908BEFDA01C2019BE48A36B881",
+  "mp4Bytes": 38205866,
+  "decodedMobileFrames": [
+    30,
+    65,
+    800,
+    1060,
+    1400,
+    1770,
+    1925,
+    2071
+  ],
+  "fullListeningReview": "pending",
+  "creativeApproval": "pending_user_review",
+  "mouthTiming": "original_cast_word_timed_grapheme_shapes_guest_word_gated_energy; not_verified_phonemes",
+  "publication": "not_requested",
+  "purpose": "animated_review_preview_not_approved_final_delivery",
+  "previewFilename": "preview-safe.mp4"
+}

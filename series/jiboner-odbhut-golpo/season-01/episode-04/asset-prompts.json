@@ -1,0 +1,39 @@
+{
+  "guestTeacher": {
+    "file": "teacher-atlas.png",
+    "tool": "built_in_image_generation",
+    "referenceRole": "existing_series_lineup_style_reference_only",
+    "transparent": true,
+    "description": "Dignified Bangladeshi male teacher around 65; grey hair and small beard, no spectacles; faded sage kurta with modest stitched shoulder tear/frayed cuff; charcoal trousers, worn sandals and old brown cloth shoulder bag. Four intact isolated poses: seated tea-glass contact, open-hand conversation, bending to notebooks, smiling with generic coins. Warm hand-inked illustrated series style.",
+    "dimensions": [
+      1923,
+      818
+    ],
+    "measuredAlphaXSpans": [
+      [
+        0,
+        519
+      ],
+      [
+        580,
+        991
+      ],
+      [
+        1015,
+        1479
+      ],
+      [
+        1551,
+        1847
+      ]
+    ],
+    "appearanceReview": "pending_user_preview_review",
+    "rasterEditedAfterGeneration": false
+  },
+  "nativeProps": [
+    "SVG tea-glass and connected sleeve/hand contact",
+    "SVG exercise books with red corrections and encouragement",
+    "SVG chair and connected navy sleeve/hand action",
+    "Native tea counter foreground masks original half-body cast bounds"
+  ]
+}

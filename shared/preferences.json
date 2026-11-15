@@ -181,7 +181,19 @@
     "collaboration": "One episode story draft -> user review/revisions and final story approval -> user supplies voiceover -> animation -> user video review",
     "automaticVoiceGeneration": false,
     "automaticPublishing": false,
-    "mediaSync": "Separate verified media handoff; Git contains curated authored source only"
+    "mediaSync": "Separate verified media handoff; Git contains curated authored source only",
+    "openingRetention": {
+      "approvedOn": "2026-11-15",
+      "scope": "Future জীবনের অদ্ভুত গল্প episodes, starting Episode 04",
+      "direction": [
+        "Begin with character dialogue and visible conflict in the first 1–3 seconds",
+        "No separate title intro before the incident; retain small series branding",
+        "Use short mobile-readable dialogue captions and purposeful reactions/prop actions",
+        "Cut repeated setup and repeated full conflict; move the story forward"
+      ],
+      "measurement": "Compare early retention and stayed-to-watch with prior similar episodes when analytics are available; no guaranteed improvement",
+      "publishedEpisodeChanges": "Not authorized by this preference"
+    }
   },
   "techExplainer": {
     "approvedOn": "2026-11-14",
