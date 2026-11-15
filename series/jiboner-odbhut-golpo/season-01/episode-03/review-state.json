@@ -3,10 +3,48 @@
   "title": "১০০ টাকার বন্ধুত্ব",
   "draftDate": "2026-11-15",
   "timezone": "Asia/Dhaka",
-  "script": "first_draft_for_user_review",
-  "scriptApproval": "pending",
-  "voiceover": "awaiting_user_supplied_recording_after_story_approval",
-  "animation": "not_started",
+  "script": "approved_with_final_user_recording",
+  "scriptApproval": "explicit_final_voiceover_and_start_animation",
+  "voiceover": "user_supplied_original_recording",
+  "animation": "rendered_v1_for_user_review",
   "publication": "not_requested",
-  "continuity": "Rafi asks directly; Sajid accepts responsibility; Karim observes the dispute; warm humorous ending."
+  "continuity": "Rafi asks directly; Sajid accepts responsibility; Karim observes the dispute; warm humorous ending.",
+  "approvalDate": "2026-11-15",
+  "voiceSeconds": 83.84,
+  "voiceSampleRate": 48000,
+  "voiceSha256": "994AEF2DE85FD8F18396C75CFEF5E1513C3EE6F474CEF785104214D7002E0B55",
+  "videoReview": "pending_user_review",
+  "fullListeningReview": "pending",
+  "durationFrames": 2516,
+  "renderedSeconds": 83.866667,
+  "export": "local_episode_03/exports/v1/video.mp4",
+  "cover": "local_episode_03/exports/v1/cover.png",
+  "technicalChecks": "passed_complete_decode_format_color_range_loudness_source_hash",
+  "typescript": "passed",
+  "timingChecks": "approved_script_matches_all_200_words_33_chunks_and_10_contiguous_scenes",
+  "visualReview": {
+    "fullResolutionFramesInspected": [
+      510,
+      970,
+      1220,
+      1455,
+      1860,
+      2110,
+      2430
+    ],
+    "cover": "inspected",
+    "decodedMobileFramesInspected": [
+      80,
+      510,
+      1455,
+      1860,
+      2110,
+      2515
+    ],
+    "motionPreview": "opening_observed_exchange_playback_started_then_browser_tool_timed_out",
+    "scope": "representative_frame_review_complete_full_motion_review_and_full_listening_pending_user"
+  },
+  "mouthTiming": "approximate_word_aligned_grapheme_shapes_not_verified_phonemes",
+  "mp4Sha256": "204798B8B5B7BFADF522CF803465784D34456812AE92EE3529ABD3DA26FA5CD9",
+  "cleanup": "not_performed"
 }
