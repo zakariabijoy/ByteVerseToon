@@ -17,9 +17,9 @@ export const continuousField = (
   const data = ctx.createImageData(canvas.width, canvas.height);
   const face = faces[who][pose];
   const angle =
-    ((Math.sin(frame * 0.039) * 0.65 +
-      Math.sin(frame * 0.113) * level(frame) * 0.35 +
-      lean * 0.25) *
+    ((Math.sin(frame * 0.039) * 1.35 +
+      Math.sin(frame * 0.113) * level(frame) * 1.1 +
+      lean * 0.75) *
       Math.PI) /
     180;
   const arms = pose === 1 ? speakingArms[who] : [];
@@ -35,7 +35,7 @@ export const continuousField = (
         const weight =
           Math.exp(-(((x - ax) / 155) ** 2 + ((y - ay) / 175) ** 2) * 1.8) *
           smooth((y - 290) / 110);
-        const bend = Math.sin(frame * 0.045 + ax) * 0.013 * gesture;
+        const bend = Math.sin(frame * 0.045 + ax) * 0.043 * gesture;
         dx += -(y - ay) * bend * weight;
         dy += (x - ax) * bend * weight;
       }

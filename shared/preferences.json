@@ -193,6 +193,25 @@
       ],
       "measurement": "Compare early retention and stayed-to-watch with prior similar episodes when analytics are available; no guaranteed improvement",
       "publishedEpisodeChanges": "Not authorized by this preference"
+    },
+    "motionDirection": {
+      "updatedOn": "2026-11-16",
+      "feedback": "Episode 04 review-v2 rejected as static, with too little movement and weak visual attention",
+      "direction": [
+        "Stage visible character and prop actions that change the scene, not only floating whole images",
+        "Use closer framing, listening reactions and purposeful camera cuts; avoid large empty areas",
+        "Keep limbs and neck continuous; no detached rotating atlas parts",
+        "Use concise narration-aligned captions and synchronized original action sounds",
+        "Review rendered movement; technical checks and stills do not prove engaging animation"
+      ],
+      "approval": "Every new current preview still needs user review; no guaranteed viewer retention"
+    },
+    "referenceDirection": {
+      "savedOn": "2026-11-16",
+      "url": "https://www.youtube.com/shorts/aFjoQ4d2avw",
+      "scope": "Opening, middle and ending visual samples; not a full transcript or listening review",
+      "direction": "Immediate visible conflict, purposeful character actions and reactions, a complication and an earned payoff that reframes the opening. Preserve original cast and stories. Plan acting alongside scripts before recording.",
+      "measurement": "Compare stayed-to-watch, early retention and viewing duration against the series own baseline; no guaranteed virality or universal thresholds."
     }
   },
   "techExplainer": {

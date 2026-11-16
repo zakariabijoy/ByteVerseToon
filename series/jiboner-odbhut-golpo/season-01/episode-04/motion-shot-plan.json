@@ -1,0 +1,153 @@
+{
+  "revision": 3,
+  "fps": 30,
+  "durationFrames": 2072,
+  "shots": [
+    {
+      "fromFrame": 0,
+      "untilFrame": 48,
+      "action": "Sajid direct accusation"
+    },
+    {
+      "fromFrame": 48,
+      "untilFrame": 102,
+      "action": "Teacher reaction"
+    },
+    {
+      "fromFrame": 102,
+      "untilFrame": 195,
+      "action": "Over-shoulder teacher and Sajid"
+    },
+    {
+      "fromFrame": 195,
+      "untilFrame": 265,
+      "action": "Cup lowers, releases and hand withdraws"
+    },
+    {
+      "fromFrame": 265,
+      "untilFrame": 336,
+      "action": "Teacher close answer"
+    },
+    {
+      "fromFrame": 336,
+      "untilFrame": 429,
+      "action": "Tea-stall corner"
+    },
+    {
+      "fromFrame": 429,
+      "untilFrame": 492,
+      "action": "Bag detail"
+    },
+    {
+      "fromFrame": 492,
+      "untilFrame": 535,
+      "action": "Sajid smile"
+    },
+    {
+      "fromFrame": 535,
+      "untilFrame": 570,
+      "action": "Rafi reaction"
+    },
+    {
+      "fromFrame": 570,
+      "untilFrame": 660,
+      "action": "Notebooks fall with bounce"
+    },
+    {
+      "fromFrame": 660,
+      "untilFrame": 730,
+      "action": "Blue sleeve reaches, grasps and lifts notebooks"
+    },
+    {
+      "fromFrame": 730,
+      "untilFrame": 805,
+      "action": "Held page with red correction"
+    },
+    {
+      "fromFrame": 805,
+      "untilFrame": 878,
+      "action": "Encouragement appears on the page"
+    },
+    {
+      "fromFrame": 878,
+      "untilFrame": 948,
+      "action": "Rafi asks"
+    },
+    {
+      "fromFrame": 948,
+      "untilFrame": 1027,
+      "action": "Karim enters"
+    },
+    {
+      "fromFrame": 1027,
+      "untilFrame": 1080,
+      "action": "Karim recognition close-up"
+    },
+    {
+      "fromFrame": 1080,
+      "untilFrame": 1164,
+      "action": "Cream sleeve grips and pulls chair"
+    },
+    {
+      "fromFrame": 1164,
+      "untilFrame": 1243,
+      "action": "Karim gratitude close-up"
+    },
+    {
+      "fromFrame": 1243,
+      "untilFrame": 1296,
+      "action": "Teacher listens"
+    },
+    {
+      "fromFrame": 1296,
+      "untilFrame": 1350,
+      "action": "Sajid expression changes"
+    },
+    {
+      "fromFrame": 1350,
+      "untilFrame": 1455,
+      "action": "Teacher explains"
+    },
+    {
+      "fromFrame": 1455,
+      "untilFrame": 1524,
+      "action": "Rafi listens and nods"
+    },
+    {
+      "fromFrame": 1524,
+      "untilFrame": 1581,
+      "action": "Sajid and teacher"
+    },
+    {
+      "fromFrame": 1581,
+      "untilFrame": 1680,
+      "action": "Sajid apology with concerned pose"
+    },
+    {
+      "fromFrame": 1680,
+      "untilFrame": 1744,
+      "action": "Hand draws coins from pocket"
+    },
+    {
+      "fromFrame": 1744,
+      "untilFrame": 1837,
+      "action": "Teacher pays for his tea"
+    },
+    {
+      "fromFrame": 1837,
+      "untilFrame": 1908,
+      "action": "Teacher invites chair gesture"
+    },
+    {
+      "fromFrame": 1908,
+      "untilFrame": 1990,
+      "action": "Navy sleeve grips, pushes chair and releases"
+    },
+    {
+      "fromFrame": 1990,
+      "untilFrame": 2072,
+      "action": "Teacher seated; warm ending"
+    }
+  ],
+  "kind": "frame_driven_2d_illustration_and_svg_contact_actions_not_full_skeletal_animation"
+}

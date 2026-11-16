@@ -27,3 +27,7 @@ The existing recurring cast, outfits, tea-stall setting and continuous-surface m
 Inspect opening, mouth/neck/hand continuity, notebook readability, teacher dialogue, chair contact and ending at full/mobile sizes. Technical checks do not imply full listening or user creative approval. Deliver an animated review preview first; await the current-version review before final delivery rendering. Publication has not been requested.
 
 Review revision 2: tea-counter foreground masks the original recurring cast half-body lower edges in mixed shots. Notebook cutaway and Rafi reaction are separate shots. Prior draft output remains local and is not the current preview.
+
+## Revision 3 after user feedback — 2026-11-16
+
+The user rejected review-v2 as static and insufficiently eye-catching. The original table above documents that prior staging; current direction is MotionScenes.tsx and motion-shot-plan.json. Closer faces replace wide empty holds, listener reactions interrupt long speeches, and cup/books/coins/chair actions now have explicit reach/contact/release phases. Camera pushes and lateral offsets are restrained and paired with those beats. The page reveal at frame 805 is an in-shot action, not a camera cut. Full listening/user approval remain pending.

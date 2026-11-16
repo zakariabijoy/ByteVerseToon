@@ -37,7 +37,7 @@ require("./loopback-only.cjs");
         frame,
         puppeteerInstance: browser,
         output: dest,
-        scale: process.argv[3] ? 1 : 0.5,
+        scale: Number(process.argv[5] || (process.argv[3] ? 1 : 0.5)),
         overwrite: false,
       });
       console.log(dest);

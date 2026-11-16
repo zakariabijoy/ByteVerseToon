@@ -14,4 +14,12 @@ From `animation/`: prepare_episode.py -> analyze_voice.py -> align_recording.py 
 
 `render_episode.cjs <fresh-output-directory> <fresh-bundle-tag>` generates a review render and cover. The mastering and verification scripts write/check `preview-safe.mp4` for this review stage. Preserve earlier outputs. Guest atlas bounds and mouth coordinates are authored in Scenes.tsx; measured original cast bounds remain in pose-bounds.ts. No detached heads or wrists are reintroduced.
 
-Current preview: `local_episode_04/exports/review-v2/preview-safe.mp4` (69.0667 seconds, 1080×1920 at 30 fps). Complete decode, original voice hash, limited-range video and measured audio checks passed. See technical-verification.json. Superseded local drafts are preserved.
+Current preview revision: review-v3, exported and technically verified across the complete 69.0667-second timeline after the user rejected review-v2 as static on 2026-11-16. Native opening playback and representative decoded frames were sampled. Full listening and user creative approval remain pending. Superseded previews remain local.
+
+## Motion revision 3
+
+`MotionScenes.tsx` now directs tighter reaction shots and full-frame SVG prop actions: glass lowers and hand releases, notebooks fall and bounce, a blue sleeve/hand grasps and lifts them, a held page reveals corrections/encouragement, a hand draws coins from a pocket, and a navy sleeve grips/pushes/releases the chair. Planned cuts and in-shot beats are in motion-shot-plan.json.
+
+The recurring cast uses the same intact illustrations with larger continuous head/arm deformation and selected speech poses. `GuestMotion.ts` deforms the complete guest surface and face overlay together. Original pose bounds remain in use. This is illustrated 2D motion with editable contact actions, not full skeletal or frame-by-frame body animation. Retention improvement has not been measured or guaranteed.
+
+Short word-aligned captions now cover narration and dialogue. `make_motion_foley.py` writes a new non-destructive Foley asset for these actions; the source recording, 162 approved words, original score, 69.04-second narration and 2072-frame timeline remain unchanged. Keep the exact pinned dependency versions.

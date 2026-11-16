@@ -8,6 +8,7 @@ import { poseBounds } from "./pose-bounds";
 type Props = {
   who: Cast;
   pose?: number;
+  talkPose?: number;
   x: number;
   y?: number;
   w?: number;
@@ -24,6 +25,7 @@ type Props = {
 export const Puppet: React.FC<Props> = ({
   who,
   pose = 0,
+  talkPose = 1,
   x,
   y = 1640,
   w = 700,
@@ -38,7 +40,7 @@ export const Puppet: React.FC<Props> = ({
 }) => {
   const f = useCurrentFrame();
   const id = useId().replace(/:/g, "");
-  const index = talk ? 1 : pose;
+  const index = talk ? talkPose : pose;
   const face = faces[who][index];
   const src = staticFile(`${who}.png`);
   const speech = vocal(who, absolute);
@@ -216,7 +218,7 @@ export const Puppet: React.FC<Props> = ({
                 ) : null}
               </g>
             ))}
-            {index === 1 && (
+            {(talk || index === 1) && (
               <>
                 <ellipse
                   cx={mx}

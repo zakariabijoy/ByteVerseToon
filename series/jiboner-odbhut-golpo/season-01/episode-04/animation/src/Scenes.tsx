@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useMemo, useId } from "react";
+import { guestField } from "./GuestMotion";
 import { AbsoluteFill, staticFile, useCurrentFrame } from "remotion";
 import { Actor, Backdrop, Dialogue, ease } from "./Stage";
 import timing from "./dialogue-timing.json";
@@ -52,6 +53,11 @@ export const Teacher = ({
   const h = (w * 818) / cw,
     talking = active("teacher", a),
     energy = envelope[Math.min(a, envelope.length - 1)] || 0;
+  const gid = useId().replace(/:/g, "");
+  const field = useMemo(
+    () => guestField(pose, a, talking ? energy : 0),
+    [pose, a, talking, energy],
+  );
   return (
     <div
       style={{
@@ -60,7 +66,7 @@ export const Teacher = ({
         top: y - h,
         width: w,
         height: h,
-        transform: `translateY(${Math.sin(a / 37) * 1.6}px) rotate(${Math.sin(a / 75) * 0.22}deg)`,
+        transform: `translateY(${Math.sin(a / 37) * 1.6}px) rotate(${Math.sin(a / 75) * 0.35}deg)`,
         transformOrigin: "50% 95%",
       }}
     >
@@ -70,22 +76,52 @@ export const Teacher = ({
         viewBox={`${left} 0 ${cw} 818`}
         style={{ overflow: "hidden" }}
       >
-        <image
-          href={staticFile("teacher-atlas.png")}
-          width={1923}
-          height={818}
-        />
-        {talking && energy > 0.04 ? (
-          <ellipse
-            cx={mx}
-            cy={my}
-            rx={rx * (0.7 + energy * 0.3)}
-            ry={ry + Math.min(3, energy * 4)}
-            fill="#583b2d"
-            stroke="#795a40"
-            strokeWidth={0.6}
+        <defs>
+          <filter
+            id={`${gid}-guest`}
+            x={left - 20}
+            y={0}
+            width={cw + 40}
+            height={818}
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feImage
+              href={field}
+              x={left}
+              y={0}
+              width={cw}
+              height={818}
+              preserveAspectRatio="none"
+              result="map"
+            />
+            <feDisplacementMap
+              in="SourceGraphic"
+              in2="map"
+              scale={56}
+              xChannelSelector="R"
+              yChannelSelector="G"
+            />
+          </filter>
+        </defs>
+        <g filter={`url(#${gid}-guest)`}>
+          <image
+            href={staticFile("teacher-atlas.png")}
+            width={1923}
+            height={818}
           />
-        ) : null}
+          {talking && energy > 0.04 ? (
+            <ellipse
+              cx={mx}
+              cy={my}
+              rx={rx * (0.7 + energy * 0.3)}
+              ry={ry + Math.min(3, energy * 4)}
+              fill="#583b2d"
+              stroke="#795a40"
+              strokeWidth={0.6}
+            />
+          ) : null}
+        </g>
       </svg>
     </div>
   );

@@ -11,6 +11,7 @@ import {
 } from "remotion";
 import { Branding } from "./Stage";
 import {
+  MotionPaint,
   Hook,
   Hurt,
   Corner,
@@ -23,7 +24,7 @@ import {
   Apology,
   Dignity,
   Respect,
-} from "./Scenes";
+} from "./MotionScenes";
 import { Cover } from "./Cover";
 export const Episode = () => {
   const { fps } = useVideoConfig();
@@ -31,7 +32,8 @@ export const Episode = () => {
     <AbsoluteFill style={{ background: "#172b45" }}>
       <Audio src={staticFile("voiceover-original.wav")} />
       <Audio src={staticFile("score.wav")} volume={0.9} />
-      <Audio src={staticFile("foley.wav")} volume={0.8} />
+      <Audio src={staticFile("foley-motion-v3.wav")} volume={0.8} />
+      <MotionPaint />
       <Sequence
         name="01 Direct conflict"
         from={0}
