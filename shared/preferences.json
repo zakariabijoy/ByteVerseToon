@@ -222,7 +222,14 @@
         "Plan suspense with information and sound contrast, not camera movement alone",
         "Show changed sound and text together in an animated review preview; never describe meters or stills as full listening approval"
       ],
-      "scope": "Storytelling series; preserve the approved recording and cast; no automatic publication"
+      "scope": "Storytelling series; preserve the approved recording and cast; no automatic publication",
+      "acceptedExample": {
+        "episode": 4,
+        "version": "review-v4",
+        "date": "2026-11-17",
+        "userMessage": "ok continue",
+        "reuse": "Use as an editorial sound/highlight baseline; adapt each episode’s actions and cues, and retain per-episode preview review."
+      }
     }
   },
   "techExplainer": {

@@ -9,9 +9,9 @@
   "voiceSha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B",
   "durationFrames": 2072,
   "renderedSeconds": 69.06666666666666,
-  "animation": "drama_revision_4_preview_ready",
-  "videoReview": "pending_user_review_of_drama_revision_4",
-  "finalDeliveryRender": "awaiting_current_preview_approval",
+  "animation": "drama_revision_4_delivery_ready",
+  "videoReview": "accepted_to_continue_by_user",
+  "finalDeliveryRender": "verified_approved_master_promoted_without_reencoding",
   "fullListeningReview": "pending",
   "publication": "not_requested",
   "cleanup": "not_performed",
@@ -21,7 +21,7 @@
   "sourceVersion": "review-v4",
   "preview": "local_episode_04/exports/review-v4-refined/preview-safe.mp4",
   "cover": "local_episode_04/exports/review-v4-refined/cover.png",
-  "guestDesign": "pending_user_preview_review",
+  "guestDesign": "accepted_as_part_of_current_video_review",
   "typescript": "passed",
   "visualReview": {
     "representativeRevision4FramesInspected": [
@@ -42,7 +42,8 @@
       "Final clause held together"
     ],
     "motionPreview": "Native opening playback sampled; complete 18-second evidence/recognition sample reached its end with no video error. Representative decoded frames inspected. Full listening remains pending.",
-    "fullListeningReview": "pending"
+    "fullListeningReview": "pending",
+    "userReview": "Accepted to continue after review-v4 on 2026-11-17; agent full listening remains pending"
   },
   "previewUrl": "http://127.0.0.1:3118/review.html",
   "technicalChecks": "passed_complete_decode_format_color_range_source_voice_hash_loudness",
@@ -64,5 +65,8 @@
       "reason": "static; insufficient movement; not eye-catching"
     }
   ],
-  "revealSample": "local_episode_04/exports/review-v4-refined/evidence-reveal-18s.mp4"
+  "revealSample": "local_episode_04/exports/review-v4-refined/evidence-reveal-18s.mp4",
+  "videoApprovalDate": "2026-11-17",
+  "videoApprovalMessage": "ok continue",
+  "finalDelivery": "local_episode_04/exports/final-v4/Episode_04_Final.mp4"
 }

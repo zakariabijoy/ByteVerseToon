@@ -34,7 +34,10 @@
     2071
   ],
   "fullListeningReview": "pending",
-  "creativeApproval": "pending_user_review",
+  "creativeApproval": "user_accepted_current_review_to_continue",
   "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
-  "publication": "not_requested"
+  "publication": "not_requested",
+  "approvalDate": "2026-11-17",
+  "deliveryFilename": "Episode_04_Final.mp4",
+  "deliveryMethod": "Byte-identical copy of the approved, technically verified review-v4 master; no re-encoding"
 }
