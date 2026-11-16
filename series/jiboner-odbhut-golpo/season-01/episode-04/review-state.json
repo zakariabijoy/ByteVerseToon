@@ -13,7 +13,7 @@
   "videoReview": "accepted_to_continue_by_user",
   "finalDeliveryRender": "verified_approved_master_promoted_without_reencoding",
   "fullListeningReview": "pending",
-  "publication": "not_requested",
+  "publication": "scheduled_youtube_facebook_instagram",
   "cleanup": "not_performed",
   "opening": "immediate_character_conflict_and_reaction_no_separate_title_intro",
   "alignment": "31_approved_chunks_162_words_local_cross_attention",
@@ -68,5 +68,7 @@
   "revealSample": "local_episode_04/exports/review-v4-refined/evidence-reveal-18s.mp4",
   "videoApprovalDate": "2026-11-17",
   "videoApprovalMessage": "ok continue",
-  "finalDelivery": "local_episode_04/exports/final-v4/Episode_04_Final.mp4"
+  "finalDelivery": "local_episode_04/exports/final-v4/Episode_04_Final.mp4",
+  "scheduledRelease": "2026-11-17T20:00:00+06:00",
+  "publicationRecord": "publication.json"
 }

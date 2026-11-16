@@ -1,0 +1,23 @@
+{
+  "episode": 4,
+  "sourceVersion": "final-v4",
+  "title": "যাকে সবাই গরিব ভাবত | জীবনের অদ্ভুত গল্প • পর্ব ০৪",
+  "status": "scheduled",
+  "scheduledFor": "2026-11-17T20:00:00+06:00",
+  "timezone": "Asia/Dhaka",
+  "confirmedOn": "2026-11-17",
+  "youtube": "https://www.youtube.com/shorts/a3wxo3shqHg",
+  "facebook": {
+    "account": "Byte Verse Toon",
+    "status": "scheduled",
+    "publicUrl": "not_yet_available"
+  },
+  "instagram": {
+    "account": "byteversetoon",
+    "status": "scheduled",
+    "publicUrl": "not_yet_available"
+  },
+  "mediaSha256": "DDB740E133FB37BBF7312FF398EE1B731FAEC7023EE6D7B84DAC72267C640BCF",
+  "evidence": "local social-setup/jiboner-episode-04-v4 schedule manifest and confirmation screenshots",
+  "notes": "Native platform schedules confirmed; not a claim that the posts are already public. Meta automatic captions remain enabled."
+}

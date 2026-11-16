@@ -33,3 +33,5 @@ The render is a review preview; technical validation is not a full listening rev
 Current preview: review-v4, local exports/review-v4-refined/preview-safe.mp4. Full decode, 1080×1920 / 2072 frames / 30 fps, unchanged voice hash and mastered -16.11 LUFS / -1.39 dBTP passed. Native opening and evidence sample playback were sampled, and selected decoded frames inspected. Full listening and user creative review remain pending.
 
 On 2026-11-17 the user accepted the current review with “ok continue”. Delivery is local exports/final-v4/Episode_04_Final.mp4, byte-identical to the approved verified master, with cover, SRT, upload text and checksums. No re-encoding was necessary. Agent full listening remains pending; publication and cleanup were not requested.
+
+Publication update: user requested YouTube, Facebook and Instagram scheduling for 2026-11-17 at 20:00 Asia/Dhaka. All three native schedules were confirmed. See publication.json. Scheduled is not yet published. No cleanup performed.
