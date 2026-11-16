@@ -54,3 +54,17 @@ audio-mastering and export-verification scripts with a fresh version directory;
 deliver limited-range H.264/yuv420p with AAC. Record new technical results and
 return each episode for user review. Episode 01's visual acceptance does not
 approve future stories, recordings, videos, publication or a full listening QA.
+
+## Approved dramatic edit baseline — Episode 04 review-v4 (2026-11-17)
+
+The user accepted review-v4 with “ok continue” after rejecting review-v2 as static and review-v3 as lacking sound effects, boldness, highlights and suspense. Preserve Episode 01's intact cast/wardrobe and continuous-surface motion; use Episode 04 review-v4 as the current editorial emphasis and sound baseline for this series. This scope does not replace the technology explainer style.
+
+Read Episode 04's storyboard.md, reference-direction.md, review-state.json and animation/src/MotionScenes.tsx, DramaDirection.tsx and animation/scripts/make_drama_audio.py when adapting the approach. The master is local media, declared separately; Git contains portable authored sources. The reference was visually sampled, not fully listened to, and no causal viral-performance claim is supported.
+
+- Write visible conflict and purposeful acting alongside the script before the user records. Enter the incident immediately, vary reactions and information, and earn the ending through a character action. Zooms and floating poses alone do not create drama.
+- Use large mobile-readable Bengali phrases with a strong navy outline, selective yellow/amber/cyan/lime keyword blocks, quick entrances and timed underlines. Episode 04 used 76px regular captions and 80–96px dramatic phrases at 1080×1920; adapt size and wrapping to each shot. Keep faces, action and platform controls clear. Highlights should match spoken emphasis; avoid orphan final words.
+- Build an audible sound arc: action-contact sounds, selected short impacts, anticipation risers, score dips before questions/reveals, then an earned reveal or warm resolution. Preserve intelligible narration at original playback speed. Re-author cues for each recording rather than copying Episode 04's timestamps or stem gains.
+- Make evidence highlights appear only when the evidence is visible. Use contrast/vignette sparingly and avoid decorative effects that obscure acting. Preserve continuous necks, shoulders, arms and wrists.
+- Show a sound-enabled opening sample and a representative suspense/reveal sample, plus the full current review preview. Still frames, audio meters and a successful decode do not prove compelling sound or acting. Record actual motion/listening scope honestly. Each new episode still requires its own current preview approval.
+
+Reuse the principles and editable components, not the exact plot, action schedule or soundtrack. Keep the user-supplied approved narration. Measure retention against the series own baseline when data exists; no guaranteed virality or universal numeric targets.

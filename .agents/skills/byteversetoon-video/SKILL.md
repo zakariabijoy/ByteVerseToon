@@ -57,6 +57,10 @@ For technology explainers, regular videos, Reels and Shorts, read [approved-navy
 
 For thumbnails, cover alternatives or titles, read [thumbnails-and-titles.md](thumbnails-and-titles.md). Use topic-related backgrounds, bright colors, high contrast and very large bold text that remains readable on mobile. The selected yellow/blue overnight comparison is a reference for design principles, not fixed copy for every topic. Pair an accurate curiosity-led title with concise thumbnail text. This thumbnail direction does not replace the approved navy video style. Preserve user selections; skill maintenance does not authorize changing published metadata.
 
+## Storytelling dramatic edit baseline (2026-11-17)
+
+For জীবনের অদ্ভুত গল্প, read the approved Episode 04 review-v4 section in [storytelling-series.md](storytelling-series.md). Reuse its bold Bengali emphasis, purposeful action, audible effect cues, suspense/score contrast and sound-enabled review approach while preserving the established cast and supplied narration. This applies to the storytelling series; other production modes retain their own approved style.
+
 ## Select the visual mode
 
 - **Recurring storytelling series:** read [storytelling-series.md](storytelling-series.md). Draft one story at a time for user review, revise it until final story approval, then wait for the user's voiceover before animation. Establish the new series and consistent cast with the user; do not reuse a retired series or assume a title, protagonist or narrator. GitHub sync does not authorize platform publication or paid generation.
