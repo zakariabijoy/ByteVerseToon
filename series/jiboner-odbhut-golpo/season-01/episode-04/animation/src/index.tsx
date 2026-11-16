@@ -25,14 +25,15 @@ import {
   Dignity,
   Respect,
 } from "./MotionScenes";
+import { DramaDirection } from "./DramaDirection";
 import { Cover } from "./Cover";
 export const Episode = () => {
   const { fps } = useVideoConfig();
   return (
     <AbsoluteFill style={{ background: "#172b45" }}>
       <Audio src={staticFile("voiceover-original.wav")} />
-      <Audio src={staticFile("score.wav")} volume={0.9} />
-      <Audio src={staticFile("foley-motion-v3.wav")} volume={0.8} />
+      <Audio src={staticFile("drama-score-v4.wav")} volume={3.2} />
+      <Audio src={staticFile("drama-effects-v4.wav")} volume={1} />
       <MotionPaint />
       <Sequence
         name="01 Direct conflict"
@@ -130,6 +131,7 @@ export const Episode = () => {
       >
         <Respect />
       </Sequence>
+      <DramaDirection />
       <Branding />
     </AbsoluteFill>
   );

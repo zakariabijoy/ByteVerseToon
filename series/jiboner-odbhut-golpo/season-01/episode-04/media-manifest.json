@@ -62,6 +62,16 @@
       "file": "voiceover-original.wav",
       "bytes": 6627884,
       "sha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B"
+    },
+    {
+      "file": "drama-score-v4.wav",
+      "bytes": 12178700,
+      "sha256": "366C57EDC4D1C996051C6D8E1FE362C6DBB8932DEF4F12F9D861BB720630536F"
+    },
+    {
+      "file": "drama-effects-v4.wav",
+      "bytes": 12178700,
+      "sha256": "DFA23BC7AFAE5B25AF6C85A6F380785B9662ED66EF7B18113CF5ECA095E9908D"
     }
   ]
 }

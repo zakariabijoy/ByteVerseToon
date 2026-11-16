@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "composition": "Episode04",
   "dimensions": [
     1080,
@@ -18,27 +18,23 @@
   "sourceVoiceSha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B",
   "sourceVoiceUnchanged": true,
   "voicePlaybackRate": 1,
-  "loudnessLufs": -16.13,
-  "truePeakDb": -1.26,
-  "mp4Sha256": "24E4527E8CE9AB93C6179D3B4E9C1E9C4E25926682DC1679453BF1482816DED6",
-  "mp4Bytes": 44150851,
+  "loudnessLufs": -16.11,
+  "truePeakDb": -1.39,
+  "mp4Sha256": "DDB740E133FB37BBF7312FF398EE1B731FAEC7023EE6D7B84DAC72267C640BCF",
+  "mp4Bytes": 39991083,
   "decodedMobileFrames": [
-    24,
-    65,
-    224,
-    705,
+    40,
+    75,
+    742,
     810,
-    1045,
-    1410,
-    1605,
-    1710,
-    1950,
+    825,
+    1040,
+    1315,
+    2065,
     2071
   ],
   "fullListeningReview": "pending",
   "creativeApproval": "pending_user_review",
-  "mouthTiming": "original_cast_word_timed_grapheme_shapes_guest_word_gated_energy; not_verified_phonemes",
-  "publication": "not_requested",
-  "purpose": "animated_motion_revision_3_review_preview",
-  "previewFilename": "preview-safe.mp4"
+  "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
+  "publication": "not_requested"
 }

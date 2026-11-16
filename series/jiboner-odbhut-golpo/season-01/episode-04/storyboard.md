@@ -31,3 +31,11 @@ Review revision 2: tea-counter foreground masks the original recurring cast half
 ## Revision 3 after user feedback — 2026-11-16
 
 The user rejected review-v2 as static and insufficiently eye-catching. The original table above documents that prior staging; current direction is MotionScenes.tsx and motion-shot-plan.json. Closer faces replace wide empty holds, listener reactions interrupt long speeches, and cup/books/coins/chair actions now have explicit reach/contact/release phases. Camera pushes and lateral offsets are restrained and paired with those beats. The page reveal at frame 805 is an in-shot action, not a camera cut. Full listening/user approval remain pending.
+
+## Revision 4 — sound, suspense and bold emphasis
+
+Review-v3 was rejected for insufficient sound effects, suspense, boldness and text highlights. Revision 4 preserves the narration and action staging, but replaces the editorial layer. Large 76px captions use current-word yellow chips; selected spoken phrases use 80–96px white type, heavy navy outline, amber/cyan/lime keyword blocks and a quick entrance/underline. The final clause stays together rather than ending on an orphan word. Notebook evidence gets an animated yellow ring. Selective vignettes and brief single impact accents add contrast without recurring strobe effects.
+
+Sound: original action Foley is raised approximately threefold before speech-aware ducking; separate original bass impacts accompany the accusation, dropped notebook, recognition and changed reaction. Short noise/tone risers precede falling evidence and recognition. Score gain falls around the teacher's reply, question, recognition and dignity beats, then returns. Original synthesized chimes support encouragement, recognition and the respectful ending. The new score stem plays at 3.2 gain in the composition; the approved narration remains unity playback at original speed. Mastering sets a bounded delivery mix. New stems do not replace earlier assets.
+
+Review the opening 0–12 seconds and evidence/recognition 19–36 seconds together with sound. Full listening and user approval remain distinct from waveform checks, inspected frames and successful rendering.

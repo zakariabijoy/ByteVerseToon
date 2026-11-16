@@ -9,8 +9,8 @@
   "voiceSha256": "C11B0895EB52864B9B72D39CDF35C19A37E403C8B125DF5F69BF6012CB7C974B",
   "durationFrames": 2072,
   "renderedSeconds": 69.06666666666666,
-  "animation": "motion_revision_3_preview_ready",
-  "videoReview": "pending_user_review_of_motion_revision_3",
+  "animation": "drama_revision_4_preview_ready",
+  "videoReview": "pending_user_review_of_drama_revision_4",
   "finalDeliveryRender": "awaiting_current_preview_approval",
   "fullListeningReview": "pending",
   "publication": "not_requested",
@@ -18,41 +18,51 @@
   "opening": "immediate_character_conflict_and_reaction_no_separate_title_intro",
   "alignment": "31_approved_chunks_162_words_local_cross_attention",
   "mouthTiming": "approximate_not_verified_phonemes",
-  "sourceVersion": "review-v3",
-  "preview": "local_episode_04/exports/review-v3/preview-safe.mp4",
-  "cover": "local_episode_04/exports/review-v3/cover.png",
+  "sourceVersion": "review-v4",
+  "preview": "local_episode_04/exports/review-v4-refined/preview-safe.mp4",
+  "cover": "local_episode_04/exports/review-v4-refined/cover.png",
   "guestDesign": "pending_user_preview_review",
   "typescript": "passed",
   "visualReview": {
-    "representativeRevision3FramesInspected": [
-      24,
-      65,
-      224,
-      705,
-      810,
-      1045,
-      1605
+    "representativeRevision4FramesInspected": [
+      40,
+      75,
+      742,
+      825,
+      1040,
+      1315,
+      2065,
+      2071
     ],
     "changes": [
-      "Tighter face/action framing and planned shot changes",
-      "Continuous larger head/arm deformation and concerned speech poses",
-      "Cup contact, grasp/lift notebooks, page reveal, pocket/coins and chair grip/push/release",
-      "Short word-aligned captions for narration and dialogue",
-      "New synchronized original Foley"
+      "76px bold captions and 80–96px selected spoken phrases",
+      "Yellow/amber/cyan/lime keyword blocks, entrance pops and timed underlines",
+      "Evidence ring timed after the notebook message appears",
+      "Stronger original effects, anticipation risers, recognition impacts/chimes, score dips",
+      "Final clause held together"
     ],
-    "motionPreview": "Studio and native MP4 opening playback sampled; representative decoded frames inspected; not full-timeline listening or creative approval",
+    "motionPreview": "Native opening playback sampled; complete 18-second evidence/recognition sample reached its end with no video error. Representative decoded frames inspected. Full listening remains pending.",
     "fullListeningReview": "pending"
   },
-  "previewUrl": "http://127.0.0.1:3117/review.html",
+  "previewUrl": "http://127.0.0.1:3118/review.html",
   "technicalChecks": "passed_complete_decode_format_color_range_source_voice_hash_loudness",
   "previousPreviewFeedback": {
-    "version": "review-v2",
+    "version": "review-v3",
     "date": "2026-11-16",
     "status": "rejected_by_user",
-    "reason": "static; insufficient movement; not eye-catching"
+    "reason": "Reference improvement not evident; lacks sound effects, highlights, suspense and boldness"
   },
-  "mp4Sha256": "24E4527E8CE9AB93C6179D3B4E9C1E9C4E25926682DC1679453BF1482816DED6",
-  "loudnessLufs": -16.13,
-  "truePeakDb": -1.26,
-  "openingSample": "local_episode_04/exports/review-v3/opening-12s.mp4"
+  "mp4Sha256": "DDB740E133FB37BBF7312FF398EE1B731FAEC7023EE6D7B84DAC72267C640BCF",
+  "loudnessLufs": -16.11,
+  "truePeakDb": -1.39,
+  "openingSample": "local_episode_04/exports/review-v4-refined/opening-12s.mp4",
+  "reviewHistory": [
+    {
+      "version": "review-v2",
+      "date": "2026-11-16",
+      "status": "rejected_by_user",
+      "reason": "static; insufficient movement; not eye-catching"
+    }
+  ],
+  "revealSample": "local_episode_04/exports/review-v4-refined/evidence-reveal-18s.mp4"
 }

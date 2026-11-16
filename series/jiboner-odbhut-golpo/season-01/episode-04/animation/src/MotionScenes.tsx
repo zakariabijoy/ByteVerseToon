@@ -48,42 +48,164 @@ for (const segment of timing.segments) {
   }
   emit();
 }
+const punches = [
+  {
+    start: 0.64,
+    end: 1.68,
+    text: "আগে টাকা নেন।",
+    accent: "টাকা",
+    tone: "#ffd12d",
+  },
+  {
+    start: 2.1,
+    end: 3.48,
+    text: "বিল দেবে না!",
+    accent: "না!",
+    tone: "#ffb145",
+  },
+  {
+    start: 9.1,
+    end: 11.2,
+    text: "এক কাপ চায়ের টাকা আছে, বাবা।",
+    accent: "আছে,",
+    tone: "#a6f51c",
+  },
+  {
+    start: 27.22,
+    end: 29.1,
+    text: "আবার চেষ্টা করো। পারবে।",
+    accent: "পারবে।",
+    tone: "#27dcef",
+  },
+  {
+    start: 30.48,
+    end: 31.42,
+    text: "আপনি পড়ান?",
+    accent: "পড়ান?",
+    tone: "#ffd12d",
+  },
+  {
+    start: 34.25,
+    end: 35.83,
+    text: "স্যার! আপনি?",
+    accent: "স্যার!",
+    tone: "#ffd12d",
+  },
+  {
+    start: 43.3,
+    end: 45.0,
+    text: "সাজিদের হাসি মিলিয়ে গেল।",
+    accent: "মিলিয়ে",
+    tone: "#ffd12d",
+  },
+  {
+    start: 52.74,
+    end: 54.44,
+    text: "স্যার, বুঝতে পারিনি।",
+    accent: "বুঝতে",
+    tone: "#27dcef",
+  },
+  {
+    start: 58.23,
+    end: 59.6,
+    text: "বিল আমি দেব, বাবা।",
+    accent: "আমি",
+    tone: "#a6f51c",
+  },
+  {
+    start: 67.21,
+    end: 69.07,
+    text: "তাঁকে বসতে দেওয়ার জন্য।",
+    accent: "বসতে",
+    tone: "#a6f51c",
+  },
+];
 const Captions = ({ a }: { a: number }) => {
-  const t = a / 30,
-    c = chunks.find(
-      (x, i) =>
-        t >= x.start && t < Math.min(x.end + 0.17, chunks[i + 1]?.start ?? 99),
-    );
-  if (!c) return null;
+  const t = a / 30;
+  const punch = punches.find((x) => t >= x.start && t < x.end);
+  const c = chunks.find(
+    (x, i) =>
+      t >= x.start && t < Math.min(x.end + 0.17, chunks[i + 1]?.start ?? 99),
+  );
+  if (!c && !punch) return null;
+  const age = (t - (punch?.start ?? c!.start)) * 30;
+  const pop = interpolate(age, [0, 3, 7], [0.9, 1.045, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+  const words = punch
+    ? punch.text.split(" ").map((text) => ({ text, start: 0, end: 0 }))
+    : c!.words;
   return (
     <div
       style={{
         position: "absolute",
-        left: 68,
+        left: 58,
         right: 112,
-        bottom: 292,
+        bottom: 284,
         fontFamily: "Nirmala UI",
-        textShadow: "-2px -2px 0 #172b45,2px 2px 0 #172b45,0 4px 18px #071523",
-        fontWeight: 800,
+        fontWeight: 900,
+        transform: `translateY(${interpolate(age, [0, 6], [18, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })}px) scale(${pop})`,
+        transformOrigin: "50% 100%",
       }}
     >
-      {names[c.who] ? (
-        <div style={{ fontSize: 27, marginBottom: 13, color: "#ffd071" }}>
-          {names[c.who]}
+      {!punch && names[c!.who] ? (
+        <div
+          style={{
+            fontSize: 28,
+            marginBottom: 16,
+            color: "#fff3c7",
+            textShadow: "0 2px 6px #000",
+          }}
+        >
+          {names[c!.who]}
         </div>
       ) : null}
-      <div style={{ fontSize: a < 102 ? 78 : 64, lineHeight: 1.33 }}>
-        {c.words.map((w, i) => (
-          <span
-            key={i}
-            style={{
-              color: t >= w.start && t <= w.end ? "#ffd16f" : "#fff9e8",
-            }}
-          >
-            {w.text}{" "}
-          </span>
-        ))}
+      <div
+        style={{
+          fontSize: punch ? (punch.text.length < 18 ? 96 : 80) : 76,
+          lineHeight: 1.44,
+          textShadow:
+            "-3px -3px 0 #071323,3px -3px 0 #071323,-3px 3px 0 #071323,3px 3px 0 #071323,0 7px 15px #000",
+          filter: "drop-shadow(0 3px 0 #071323)",
+          color: "#fff",
+        }}
+      >
+        {words.map((w, i) => {
+          const marked = punch
+            ? w.text === punch.accent
+            : t >= w.start && t <= w.end;
+          return (
+            <span
+              key={i}
+              style={{
+                display: "inline-block",
+                padding: marked ? "0 13px" : "0 2px",
+                marginRight: 10,
+                borderRadius: 8,
+                background: marked ? (punch?.tone ?? "#ffd12d") : "transparent",
+                color: marked ? "#071323" : "#fff",
+                textShadow: marked ? "none" : undefined,
+                transform: marked ? "rotate(-2deg)" : "none",
+                boxShadow: marked ? "0 6px 0 #071323" : "none",
+              }}
+            >
+              {w.text}
+            </span>
+          );
+        })}
       </div>
+      {punch ? (
+        <div
+          style={{
+            height: 7,
+            marginTop: 14,
+            width: `${Math.min(100, (age / 7) * 100)}%`,
+            background: punch.tone,
+            boxShadow: "0 3px 0 #071323",
+          }}
+        />
+      ) : null}
     </div>
   );
 };
