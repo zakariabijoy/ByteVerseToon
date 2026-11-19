@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "composition": "Episode05",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "durationFrames": 2525,
+  "durationSeconds": 84.166667,
+  "videoCodec": "h264",
+  "pixelFormat": "yuv420p",
+  "colorRange": "tv",
+  "audioCodec": "aac",
+  "audioSampleRate": 48000,
+  "audioChannels": 2,
+  "completeAudioVideoDecode": "passed",
+  "sourceVoiceSha256": "6A2AE7186487008E8622158766D90C43D6E950D84164FD5614C85F634A15B1FA",
+  "sourceVoiceUnchanged": true,
+  "voicePlaybackRate": 1,
+  "loudnessLufs": -16.12,
+  "truePeakDb": -1.38,
+  "mp4Sha256": "D9BC08C78A625FD53FA50CEE7EFBCCE641A7DA1BDC74297328FA076BCA4B4576",
+  "mp4Bytes": 30370018,
+  "decodedMobileFrames": [
+    30,
+    1120,
+    2524
+  ],
+  "fullListeningReview": "pending",
+  "creativeApproval": "pending_user_review",
+  "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
+  "publication": "not_requested",
+  "purpose": "1080p_animated_review_not_final_delivery"
+}

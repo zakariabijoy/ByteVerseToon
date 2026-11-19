@@ -1,0 +1,77 @@
+{
+  "episode": 5,
+  "title": "প্রমোশন পেল অন্যজন",
+  "createdOn": "2026-11-17",
+  "script": "approved_with_final_user_recording",
+  "voiceover": "user_supplied_final_approved_recording",
+  "animation": "story_rewrite_requested_existing_work_preserved",
+  "publication": "not_requested",
+  "continuity": "Maya owns the recognition conflict; Rafi receives a promotion and takes responsibility for his silence; no instant reversal of promotion",
+  "recording": "Confirmed supplied recording takes precedence over revision-2 text; keep audio unchanged",
+  "scriptRevision": 2,
+  "voiceoverScript": "voiceover.bn.txt",
+  "reviewedOn": "2026-11-17",
+  "storyReview": [
+    "Fixed phone ownership and added a physical reaction instead of a narrated lesson",
+    "Clarified that Rafi handled clients while Maya delivered the blocked project work",
+    "Made the contribution report omission concrete and Rafi responsible for correcting it",
+    "Retained a reassessment rather than instant promotion reversal; ending asks for named credit"
+  ],
+  "approvalDate": "2026-11-17",
+  "voiceSeconds": 84.16,
+  "durationFrames": 2525,
+  "voiceSha256": "6A2AE7186487008E8622158766D90C43D6E950D84164FD5614C85F634A15B1FA",
+  "sourceVersion": "review-v2-sound",
+  "videoReview": "pending_user_review",
+  "fullListeningReview": "pending",
+  "recordingVariant": "original_draft_1_confirmed_after_discrepancy_question",
+  "recordingVariantApproval": "এই রেকর্ডিংটাই চূড়ান্ত—এটির কথামতো অ্যানিমেশন করো",
+  "spokenScript": "recorded-script.bn.txt",
+  "preview": "local_episode_05/exports/review-v2-sound/preview-safe.mp4",
+  "previewUrl": "http://127.0.0.1:3121/review.html",
+  "openingSample": "local_episode_05/exports/review-v2-sound/opening-12s.mp4",
+  "evidenceSample": "local_episode_05/exports/review-v2-sound/message-choice.mp4",
+  "technicalChecks": "passed_complete_decode_format_color_range_unchanged_voice_hash_sound_levels",
+  "mp4Sha256": "D9BC08C78A625FD53FA50CEE7EFBCCE641A7DA1BDC74297328FA076BCA4B4576",
+  "loudnessLufs": -16.12,
+  "truePeakDb": -1.38,
+  "typescript": "passed",
+  "finalDeliveryRender": "awaiting_current_preview_approval",
+  "reviewFeedback": {
+    "version": "review-v1b",
+    "feedback": "sound effect o maybe miss ache",
+    "action": "Rebuilt effects with brighter tap, notification, paper and pen transients; remixed from the original voice and stems; copied video stream intact"
+  },
+  "visualReview": {
+    "representativeFramesInspected": [
+      30,
+      155,
+      330,
+      570,
+      1120,
+      1350,
+      1620,
+      1670,
+      1889,
+      2075,
+      2470,
+      2524
+    ],
+    "motionScope": "Studio playback advanced and native MP4 samples checked; full listening pending",
+    "corrections": [
+      "Phone tapping finger withdraws outside the message",
+      "Maya uses a neutral arm pose in the manager two-shot to avoid crossing his shoulder"
+    ],
+    "representation": "Illustrated intact-surface motion and original SVG action cutaways, not full skeletal animation",
+    "nativeSoundSample": "Complete 15.766-second message/choice excerpt played to its end, unmuted, with no native video error; this is playback verification, not a claimed full subjective listening review."
+  },
+  "latestStoryDraft": "story-rewrite-v3.bn.md",
+  "storyRewrite": "pending_user_review",
+  "newNarrationForRewrite": "not_supplied",
+  "currentRecordingScope": "Approved for original draft 1 only; preserved unchanged",
+  "newFeedback": {
+    "hands": "Rejected inserts at 00:05, 00:17, 00:32 and 01:18; restaged locally without synthetic drawn hands",
+    "dramaticDirection": "Stronger suspense, mystery, boldness and purposeful animation",
+    "story": "Current plot judged too plain; user requested layered corporate/software drama, conflict, comedy, moral choice, psychological twist and light romance"
+  }
+}

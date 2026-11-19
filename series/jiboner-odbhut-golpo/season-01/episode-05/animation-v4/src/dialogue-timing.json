@@ -1,0 +1,4020 @@
+{
+  "method": "local_cross_attention_reference_alignment",
+  "phonemeTiming": "approximate_not_verified",
+  "segments": [
+    {
+      "id": "0",
+      "who": "sajid",
+      "start": 0.0,
+      "end": 3.72,
+      "text": "প্রমোশনের কাগজে সই করিস না। আগে শেষ পাতাটা পড়।",
+      "kind": "warning",
+      "words": [
+        {
+          "text": "প্রমোশনের",
+          "start": 0.0,
+          "end": 0.66,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "কাগজে",
+          "start": 0.66,
+          "end": 1.0,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "সই",
+          "start": 1.0,
+          "end": 1.18,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "করিস",
+          "start": 1.18,
+          "end": 1.5,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "না।",
+          "start": 1.5,
+          "end": 1.84,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "আগে",
+          "start": 1.84,
+          "end": 2.14,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "শেষ",
+          "start": 2.14,
+          "end": 2.38,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "পাতাটা",
+          "start": 2.38,
+          "end": 2.74,
+          "who": "sajid",
+          "segment": "0"
+        },
+        {
+          "text": "পড়।",
+          "start": 2.74,
+          "end": 3.72,
+          "who": "sajid",
+          "segment": "0"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "who": "narrator",
+      "start": 3.72,
+      "end": 5.34,
+      "text": "সাজিদের কথায় রাফি থামল।",
+      "kind": "reaction",
+      "words": [
+        {
+          "text": "সাজিদের",
+          "start": 3.72,
+          "end": 4.3,
+          "who": "narrator",
+          "segment": "1"
+        },
+        {
+          "text": "কথায়",
+          "start": 4.3,
+          "end": 4.56,
+          "who": "narrator",
+          "segment": "1"
+        },
+        {
+          "text": "রাফি",
+          "start": 4.56,
+          "end": 4.86,
+          "who": "narrator",
+          "segment": "1"
+        },
+        {
+          "text": "থামল।",
+          "start": 4.86,
+          "end": 5.34,
+          "who": "narrator",
+          "segment": "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "who": "rafi",
+      "start": 5.34,
+      "end": 7.38,
+      "text": "আবার কী চাল চালছিস?",
+      "kind": "rafi",
+      "words": [
+        {
+          "text": "আবার",
+          "start": 5.34,
+          "end": 6.56,
+          "who": "rafi",
+          "segment": "2"
+        },
+        {
+          "text": "কী",
+          "start": 6.56,
+          "end": 6.66,
+          "who": "rafi",
+          "segment": "2"
+        },
+        {
+          "text": "চাল",
+          "start": 6.66,
+          "end": 6.86,
+          "who": "rafi",
+          "segment": "2"
+        },
+        {
+          "text": "চালছিস?",
+          "start": 6.86,
+          "end": 7.38,
+          "who": "rafi",
+          "segment": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "who": "sajid",
+      "start": 7.38,
+      "end": 8.96,
+      "text": "চালটা আমার না।",
+      "kind": "sajid",
+      "words": [
+        {
+          "text": "চালটা",
+          "start": 7.38,
+          "end": 8.36,
+          "who": "sajid",
+          "segment": "3"
+        },
+        {
+          "text": "আমার",
+          "start": 8.36,
+          "end": 8.66,
+          "who": "sajid",
+          "segment": "3"
+        },
+        {
+          "text": "না।",
+          "start": 8.66,
+          "end": 8.96,
+          "who": "sajid",
+          "segment": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "who": "narrator",
+      "start": 9.48,
+      "end": 11.76,
+      "text": "সকালে রাফি টিম লিড হয়েছে।",
+      "kind": "promotion",
+      "words": [
+        {
+          "text": "সকালে",
+          "start": 9.48,
+          "end": 10.24,
+          "who": "narrator",
+          "segment": "4"
+        },
+        {
+          "text": "রাফি",
+          "start": 10.24,
+          "end": 10.5,
+          "who": "narrator",
+          "segment": "4"
+        },
+        {
+          "text": "টিম",
+          "start": 10.5,
+          "end": 10.72,
+          "who": "narrator",
+          "segment": "4"
+        },
+        {
+          "text": "লিড",
+          "start": 10.72,
+          "end": 10.98,
+          "who": "narrator",
+          "segment": "4"
+        },
+        {
+          "text": "হয়েছে।",
+          "start": 10.98,
+          "end": 11.76,
+          "who": "narrator",
+          "segment": "4"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "who": "narrator",
+      "start": 11.76,
+      "end": 15.1,
+      "text": "অথচ প্রজেক্টের আটকে থাকা কাজগুলো শেষ করেছিল মায়া।",
+      "kind": "mayaWork",
+      "words": [
+        {
+          "text": "অথচ",
+          "start": 11.76,
+          "end": 12.12,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "প্রজেক্টের",
+          "start": 12.12,
+          "end": 12.72,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "আটকে",
+          "start": 12.72,
+          "end": 13.04,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "থাকা",
+          "start": 13.04,
+          "end": 13.24,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "কাজগুলো",
+          "start": 13.24,
+          "end": 13.76,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "শেষ",
+          "start": 13.76,
+          "end": 14.02,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "করেছিল",
+          "start": 14.02,
+          "end": 14.44,
+          "who": "narrator",
+          "segment": "5"
+        },
+        {
+          "text": "মায়া।",
+          "start": 14.44,
+          "end": 15.1,
+          "who": "narrator",
+          "segment": "5"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "who": "narrator",
+      "start": 15.1,
+      "end": 16.76,
+      "text": "রাফি কাগজের শেষ পাতা খুলল।",
+      "kind": "turn",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 15.1,
+          "end": 15.46,
+          "who": "narrator",
+          "segment": "6"
+        },
+        {
+          "text": "কাগজের",
+          "start": 15.46,
+          "end": 15.84,
+          "who": "narrator",
+          "segment": "6"
+        },
+        {
+          "text": "শেষ",
+          "start": 15.84,
+          "end": 16.06,
+          "who": "narrator",
+          "segment": "6"
+        },
+        {
+          "text": "পাতা",
+          "start": 16.06,
+          "end": 16.34,
+          "who": "narrator",
+          "segment": "6"
+        },
+        {
+          "text": "খুলল।",
+          "start": 16.34,
+          "end": 16.76,
+          "who": "narrator",
+          "segment": "6"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "who": "narrator",
+      "start": 16.76,
+      "end": 21.34,
+      "text": "লেখা—সব টেস্ট পাস। লাইভ রিলিজের অনুমোদন দেবেন রাফি আহমেদ।",
+      "kind": "approval",
+      "words": [
+        {
+          "text": "লেখা—সব",
+          "start": 16.76,
+          "end": 17.9,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "টেস্ট",
+          "start": 17.9,
+          "end": 18.22,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "পাস।",
+          "start": 18.22,
+          "end": 18.86,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "লাইভ",
+          "start": 18.86,
+          "end": 19.34,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "রিলিজের",
+          "start": 19.34,
+          "end": 19.74,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "অনুমোদন",
+          "start": 19.74,
+          "end": 20.2,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "দেবেন",
+          "start": 20.2,
+          "end": 20.5,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "রাফি",
+          "start": 20.5,
+          "end": 20.96,
+          "who": "narrator",
+          "segment": "7"
+        },
+        {
+          "text": "আহমেদ।",
+          "start": 20.96,
+          "end": 21.34,
+          "who": "narrator",
+          "segment": "7"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "who": "narrator",
+      "start": 21.36,
+      "end": 23.16,
+      "text": "মায়ার কাছে গিয়ে সে বলল,",
+      "kind": "two",
+      "words": [
+        {
+          "text": "মায়ার",
+          "start": 21.36,
+          "end": 22.32,
+          "who": "narrator",
+          "segment": "8"
+        },
+        {
+          "text": "কাছে",
+          "start": 22.32,
+          "end": 22.54,
+          "who": "narrator",
+          "segment": "8"
+        },
+        {
+          "text": "গিয়ে",
+          "start": 22.54,
+          "end": 22.74,
+          "who": "narrator",
+          "segment": "8"
+        },
+        {
+          "text": "সে",
+          "start": 22.74,
+          "end": 22.88,
+          "who": "narrator",
+          "segment": "8"
+        },
+        {
+          "text": "বলল,",
+          "start": 22.88,
+          "end": 23.16,
+          "who": "narrator",
+          "segment": "8"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "who": "rafi",
+      "start": 23.16,
+      "end": 24.6,
+      "text": "টেস্টগুলো পাস করেছে?",
+      "kind": "rafi",
+      "words": [
+        {
+          "text": "টেস্টগুলো",
+          "start": 23.16,
+          "end": 24.04,
+          "who": "rafi",
+          "segment": "9"
+        },
+        {
+          "text": "পাস",
+          "start": 24.04,
+          "end": 24.22,
+          "who": "rafi",
+          "segment": "9"
+        },
+        {
+          "text": "করেছে?",
+          "start": 24.22,
+          "end": 24.6,
+          "who": "rafi",
+          "segment": "9"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "who": "narrator",
+      "start": 24.6,
+      "end": 26.52,
+      "text": "মায়া ল্যাপটপ ঘুরিয়ে দিল।",
+      "kind": "laptopTurn",
+      "words": [
+        {
+          "text": "মায়া",
+          "start": 24.6,
+          "end": 25.54,
+          "who": "narrator",
+          "segment": "10"
+        },
+        {
+          "text": "ল্যাপটপ",
+          "start": 25.54,
+          "end": 25.94,
+          "who": "narrator",
+          "segment": "10"
+        },
+        {
+          "text": "ঘুরিয়ে",
+          "start": 25.94,
+          "end": 26.24,
+          "who": "narrator",
+          "segment": "10"
+        },
+        {
+          "text": "দিল।",
+          "start": 26.24,
+          "end": 26.52,
+          "who": "narrator",
+          "segment": "10"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "who": "narrator",
+      "start": 26.52,
+      "end": 29.02,
+      "text": "একবার পেমেন্ট। দুবার টাকা কাটা।",
+      "kind": "payment",
+      "words": [
+        {
+          "text": "একবার",
+          "start": 26.52,
+          "end": 27.12,
+          "who": "narrator",
+          "segment": "11"
+        },
+        {
+          "text": "পেমেন্ট।",
+          "start": 27.12,
+          "end": 27.76,
+          "who": "narrator",
+          "segment": "11"
+        },
+        {
+          "text": "দুবার",
+          "start": 27.76,
+          "end": 28.2,
+          "who": "narrator",
+          "segment": "11"
+        },
+        {
+          "text": "টাকা",
+          "start": 28.2,
+          "end": 28.44,
+          "who": "narrator",
+          "segment": "11"
+        },
+        {
+          "text": "কাটা।",
+          "start": 28.44,
+          "end": 29.02,
+          "who": "narrator",
+          "segment": "11"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "who": "narrator",
+      "start": 29.02,
+      "end": 30.04,
+      "text": "রাফি তাকিয়ে রইল।",
+      "kind": "reaction",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 29.02,
+          "end": 29.44,
+          "who": "narrator",
+          "segment": "12"
+        },
+        {
+          "text": "তাকিয়ে",
+          "start": 29.44,
+          "end": 29.72,
+          "who": "narrator",
+          "segment": "12"
+        },
+        {
+          "text": "রইল।",
+          "start": 29.72,
+          "end": 30.04,
+          "who": "narrator",
+          "segment": "12"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "who": "rafi",
+      "start": 30.06,
+      "end": 31.66,
+      "text": "রিপোর্টে তো সবুজ দেখাচ্ছে!",
+      "kind": "reportGreen",
+      "words": [
+        {
+          "text": "রিপোর্টে",
+          "start": 30.06,
+          "end": 30.8,
+          "who": "rafi",
+          "segment": "13"
+        },
+        {
+          "text": "তো",
+          "start": 30.8,
+          "end": 30.88,
+          "who": "rafi",
+          "segment": "13"
+        },
+        {
+          "text": "সবুজ",
+          "start": 30.88,
+          "end": 31.18,
+          "who": "rafi",
+          "segment": "13"
+        },
+        {
+          "text": "দেখাচ্ছে!",
+          "start": 31.18,
+          "end": 31.66,
+          "who": "rafi",
+          "segment": "13"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "who": "maya",
+      "start": 31.66,
+      "end": 32.865,
+      "text": "আমার রিপোর্টে লালই ছিল।",
+      "kind": "reportRed",
+      "words": [
+        {
+          "text": "আমার",
+          "start": 31.66,
+          "end": 32.24,
+          "who": "maya",
+          "segment": "14"
+        },
+        {
+          "text": "রিপোর্টে",
+          "start": 32.24,
+          "end": 32.6,
+          "who": "maya",
+          "segment": "14"
+        },
+        {
+          "text": "লালই",
+          "start": 32.6,
+          "end": 32.84,
+          "who": "maya",
+          "segment": "14"
+        },
+        {
+          "text": "ছিল।",
+          "start": 32.84,
+          "end": 32.865,
+          "who": "maya",
+          "segment": "14"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "who": "narrator",
+      "start": 32.86,
+      "end": 35.22,
+      "text": "ঠিক তখন ম্যানেজারের মেসেজ এল।",
+      "kind": "notification",
+      "words": [
+        {
+          "text": "ঠিক",
+          "start": 32.86,
+          "end": 33.84,
+          "who": "narrator",
+          "segment": "15"
+        },
+        {
+          "text": "তখন",
+          "start": 33.84,
+          "end": 34.14,
+          "who": "narrator",
+          "segment": "15"
+        },
+        {
+          "text": "ম্যানেজারের",
+          "start": 34.14,
+          "end": 34.62,
+          "who": "narrator",
+          "segment": "15"
+        },
+        {
+          "text": "মেসেজ",
+          "start": 34.62,
+          "end": 34.96,
+          "who": "narrator",
+          "segment": "15"
+        },
+        {
+          "text": "এল।",
+          "start": 34.96,
+          "end": 35.22,
+          "who": "narrator",
+          "segment": "15"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "who": "manager",
+      "start": 35.22,
+      "end": 39.12,
+      "text": "ক্লায়েন্ট আজই লাইভ চায়। ছোট বাগটা পরে ঠিক করো। আগে সই করো।",
+      "kind": "message",
+      "words": [
+        {
+          "text": "ক্লায়েন্ট",
+          "start": 35.22,
+          "end": 36.02,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "আজই",
+          "start": 36.02,
+          "end": 36.28,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "লাইভ",
+          "start": 36.28,
+          "end": 36.5,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "চায়।",
+          "start": 36.5,
+          "end": 36.86,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "ছোট",
+          "start": 36.86,
+          "end": 37.22,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "বাগটা",
+          "start": 37.22,
+          "end": 37.48,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "পরে",
+          "start": 37.48,
+          "end": 37.74,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "ঠিক",
+          "start": 37.74,
+          "end": 37.92,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "করো।",
+          "start": 37.92,
+          "end": 38.28,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "আগে",
+          "start": 38.28,
+          "end": 38.5,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "সই",
+          "start": 38.5,
+          "end": 38.7,
+          "who": "manager",
+          "segment": "16"
+        },
+        {
+          "text": "করো।",
+          "start": 38.7,
+          "end": 39.12,
+          "who": "manager",
+          "segment": "16"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "who": "narrator",
+      "start": 39.12,
+      "end": 41.5,
+      "text": "রাফি আবার নিজের নামটার দিকে তাকাল।",
+      "kind": "name",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 39.12,
+          "end": 39.7,
+          "who": "narrator",
+          "segment": "17"
+        },
+        {
+          "text": "আবার",
+          "start": 39.7,
+          "end": 40.0,
+          "who": "narrator",
+          "segment": "17"
+        },
+        {
+          "text": "নিজের",
+          "start": 40.0,
+          "end": 40.28,
+          "who": "narrator",
+          "segment": "17"
+        },
+        {
+          "text": "নামটার",
+          "start": 40.28,
+          "end": 40.62,
+          "who": "narrator",
+          "segment": "17"
+        },
+        {
+          "text": "দিকে",
+          "start": 40.62,
+          "end": 40.84,
+          "who": "narrator",
+          "segment": "17"
+        },
+        {
+          "text": "তাকাল।",
+          "start": 40.84,
+          "end": 41.5,
+          "who": "narrator",
+          "segment": "17"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "who": "rafi",
+      "start": 41.5,
+      "end": 43.08,
+      "text": "এই সমস্যার কথা আগে বলিসনি কেন?",
+      "kind": "rafi",
+      "words": [
+        {
+          "text": "এই",
+          "start": 41.5,
+          "end": 41.76,
+          "who": "rafi",
+          "segment": "18"
+        },
+        {
+          "text": "সমস্যার",
+          "start": 41.76,
+          "end": 42.16,
+          "who": "rafi",
+          "segment": "18"
+        },
+        {
+          "text": "কথা",
+          "start": 42.16,
+          "end": 42.38,
+          "who": "rafi",
+          "segment": "18"
+        },
+        {
+          "text": "আগে",
+          "start": 42.38,
+          "end": 42.54,
+          "who": "rafi",
+          "segment": "18"
+        },
+        {
+          "text": "বলিসনি",
+          "start": 42.54,
+          "end": 42.88,
+          "who": "rafi",
+          "segment": "18"
+        },
+        {
+          "text": "কেন?",
+          "start": 42.88,
+          "end": 43.08,
+          "who": "rafi",
+          "segment": "18"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "who": "narrator",
+      "start": 43.08,
+      "end": 44.16,
+      "text": "মায়া বলল,",
+      "kind": "maya",
+      "words": [
+        {
+          "text": "মায়া",
+          "start": 43.08,
+          "end": 43.86,
+          "who": "narrator",
+          "segment": "19"
+        },
+        {
+          "text": "বলল,",
+          "start": 43.86,
+          "end": 44.16,
+          "who": "narrator",
+          "segment": "19"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "who": "maya",
+      "start": 44.16,
+      "end": 47.44,
+      "text": "এই অনুমোদনটা কাল আমার কাছে এসেছিল। আমি সই করিনি।",
+      "kind": "refusal",
+      "words": [
+        {
+          "text": "এই",
+          "start": 44.16,
+          "end": 44.86,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "অনুমোদনটা",
+          "start": 44.86,
+          "end": 45.44,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "কাল",
+          "start": 45.44,
+          "end": 45.64,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "আমার",
+          "start": 45.64,
+          "end": 45.84,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "কাছে",
+          "start": 45.84,
+          "end": 46.06,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "এসেছিল।",
+          "start": 46.06,
+          "end": 46.56,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "আমি",
+          "start": 46.56,
+          "end": 46.88,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "সই",
+          "start": 46.88,
+          "end": 47.06,
+          "who": "maya",
+          "segment": "20"
+        },
+        {
+          "text": "করিনি।",
+          "start": 47.06,
+          "end": 47.44,
+          "who": "maya",
+          "segment": "20"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "who": "narrator",
+      "start": 47.46,
+      "end": 49.12,
+      "text": "রাফি চুপ হয়ে গেল।",
+      "kind": "reaction",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 47.46,
+          "end": 48.4,
+          "who": "narrator",
+          "segment": "21"
+        },
+        {
+          "text": "চুপ",
+          "start": 48.4,
+          "end": 48.66,
+          "who": "narrator",
+          "segment": "21"
+        },
+        {
+          "text": "হয়ে",
+          "start": 48.66,
+          "end": 48.8,
+          "who": "narrator",
+          "segment": "21"
+        },
+        {
+          "text": "গেল।",
+          "start": 48.8,
+          "end": 49.12,
+          "who": "narrator",
+          "segment": "21"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "who": "narrator",
+      "start": 49.12,
+      "end": 51.16,
+      "text": "মায়া প্রমোশন পায়নি।",
+      "kind": "maya",
+      "words": [
+        {
+          "text": "মায়া",
+          "start": 49.12,
+          "end": 49.86,
+          "who": "narrator",
+          "segment": "22"
+        },
+        {
+          "text": "প্রমোশন",
+          "start": 49.86,
+          "end": 50.32,
+          "who": "narrator",
+          "segment": "22"
+        },
+        {
+          "text": "পায়নি।",
+          "start": 50.32,
+          "end": 51.16,
+          "who": "narrator",
+          "segment": "22"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "who": "narrator",
+      "start": 51.16,
+      "end": 54.14,
+      "text": "আর তাকে দেওয়া হয়েছে সেই একই অনুমোদনের কাগজ।",
+      "kind": "trap",
+      "words": [
+        {
+          "text": "আর",
+          "start": 51.16,
+          "end": 51.38,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "তাকে",
+          "start": 51.38,
+          "end": 51.66,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "দেওয়া",
+          "start": 51.66,
+          "end": 51.9,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "হয়েছে",
+          "start": 51.9,
+          "end": 52.28,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "সেই",
+          "start": 52.28,
+          "end": 52.64,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "একই",
+          "start": 52.64,
+          "end": 53.0,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "অনুমোদনের",
+          "start": 53.0,
+          "end": 53.56,
+          "who": "narrator",
+          "segment": "23"
+        },
+        {
+          "text": "কাগজ।",
+          "start": 53.56,
+          "end": 54.14,
+          "who": "narrator",
+          "segment": "23"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "who": "narrator",
+      "start": 54.14,
+      "end": 56.64,
+      "text": "ফোন বেজে উঠল। ম্যানেজার।",
+      "kind": "ring",
+      "words": [
+        {
+          "text": "ফোন",
+          "start": 54.14,
+          "end": 54.6,
+          "who": "narrator",
+          "segment": "24"
+        },
+        {
+          "text": "বেজে",
+          "start": 54.6,
+          "end": 54.86,
+          "who": "narrator",
+          "segment": "24"
+        },
+        {
+          "text": "উঠল।",
+          "start": 54.86,
+          "end": 55.26,
+          "who": "narrator",
+          "segment": "24"
+        },
+        {
+          "text": "ম্যানেজার।",
+          "start": 55.26,
+          "end": 56.64,
+          "who": "narrator",
+          "segment": "24"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "who": "manager",
+      "start": 56.64,
+      "end": 60.58,
+      "text": "একটা সই করতে এত সময়? দায়িত্ব নিতে না পারলে টিম লিড হবে কীভাবে?",
+      "kind": "manager",
+      "words": [
+        {
+          "text": "একটা",
+          "start": 56.64,
+          "end": 56.98,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "সই",
+          "start": 56.98,
+          "end": 57.2,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "করতে",
+          "start": 57.2,
+          "end": 57.56,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "এত",
+          "start": 57.56,
+          "end": 57.72,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "সময়?",
+          "start": 57.72,
+          "end": 58.14,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "দায়িত্ব",
+          "start": 58.14,
+          "end": 58.84,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "নিতে",
+          "start": 58.84,
+          "end": 59.06,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "না",
+          "start": 59.06,
+          "end": 59.22,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "পারলে",
+          "start": 59.22,
+          "end": 59.54,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "টিম",
+          "start": 59.54,
+          "end": 59.8,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "লিড",
+          "start": 59.8,
+          "end": 60.0,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "হবে",
+          "start": 60.0,
+          "end": 60.2,
+          "who": "manager",
+          "segment": "25"
+        },
+        {
+          "text": "কীভাবে?",
+          "start": 60.2,
+          "end": 60.58,
+          "who": "manager",
+          "segment": "25"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "who": "narrator",
+      "start": 60.6,
+      "end": 62.76,
+      "text": "রাফি অনুমোদনের ফর্মটা খুলল।",
+      "kind": "form",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 60.6,
+          "end": 61.4,
+          "who": "narrator",
+          "segment": "26"
+        },
+        {
+          "text": "অনুমোদনের",
+          "start": 61.4,
+          "end": 61.96,
+          "who": "narrator",
+          "segment": "26"
+        },
+        {
+          "text": "ফর্মটা",
+          "start": 61.96,
+          "end": 62.34,
+          "who": "narrator",
+          "segment": "26"
+        },
+        {
+          "text": "খুলল।",
+          "start": 62.34,
+          "end": 62.76,
+          "who": "narrator",
+          "segment": "26"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "who": "narrator",
+      "start": 62.76,
+      "end": 64.3,
+      "text": "মায়া কিছু বলল না।",
+      "kind": "maya",
+      "words": [
+        {
+          "text": "মায়া",
+          "start": 62.76,
+          "end": 63.36,
+          "who": "narrator",
+          "segment": "27"
+        },
+        {
+          "text": "কিছু",
+          "start": 63.36,
+          "end": 63.6,
+          "who": "narrator",
+          "segment": "27"
+        },
+        {
+          "text": "বলল",
+          "start": 63.6,
+          "end": 63.9,
+          "who": "narrator",
+          "segment": "27"
+        },
+        {
+          "text": "না।",
+          "start": 63.9,
+          "end": 64.3,
+          "who": "narrator",
+          "segment": "27"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "who": "narrator",
+      "start": 64.3,
+      "end": 65.22,
+      "text": "রাফি লিখল—",
+      "kind": "decision",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 64.3,
+          "end": 64.66,
+          "who": "narrator",
+          "segment": "28"
+        },
+        {
+          "text": "লিখল—",
+          "start": 64.66,
+          "end": 65.22,
+          "who": "narrator",
+          "segment": "28"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "who": "rafi",
+      "start": 65.22,
+      "end": 70.14,
+      "text": "পেমেন্ট টেস্ট ব্যর্থ। লাইভ রিলিজ স্থগিত রাখার সুপারিশ করছি।",
+      "kind": "write",
+      "words": [
+        {
+          "text": "পেমেন্ট",
+          "start": 65.22,
+          "end": 66.46,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "টেস্ট",
+          "start": 66.46,
+          "end": 66.7,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "ব্যর্থ।",
+          "start": 66.7,
+          "end": 67.32,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "লাইভ",
+          "start": 67.32,
+          "end": 67.74,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "রিলিজ",
+          "start": 67.74,
+          "end": 68.1,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "স্থগিত",
+          "start": 68.1,
+          "end": 68.6,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "রাখার",
+          "start": 68.6,
+          "end": 68.88,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "সুপারিশ",
+          "start": 68.88,
+          "end": 69.28,
+          "who": "rafi",
+          "segment": "29"
+        },
+        {
+          "text": "করছি।",
+          "start": 69.28,
+          "end": 70.14,
+          "who": "rafi",
+          "segment": "29"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "who": "narrator",
+      "start": 70.14,
+      "end": 71.28,
+      "text": "তার নিচে নিজের নাম।",
+      "kind": "sign",
+      "words": [
+        {
+          "text": "তার",
+          "start": 70.14,
+          "end": 70.44,
+          "who": "narrator",
+          "segment": "30"
+        },
+        {
+          "text": "নিচে",
+          "start": 70.44,
+          "end": 70.74,
+          "who": "narrator",
+          "segment": "30"
+        },
+        {
+          "text": "নিজের",
+          "start": 70.74,
+          "end": 71.06,
+          "who": "narrator",
+          "segment": "30"
+        },
+        {
+          "text": "নাম।",
+          "start": 71.06,
+          "end": 71.28,
+          "who": "narrator",
+          "segment": "30"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "who": "rafi",
+      "start": 71.3,
+      "end": 76.58,
+      "text": "স্যার, টেস্ট ডেটা দিয়ে ডেমো করতে পারি। আসল পেমেন্ট চালু করব সমস্যাটা ঠিক হওয়ার পর।",
+      "kind": "solution",
+      "words": [
+        {
+          "text": "স্যার,",
+          "start": 71.3,
+          "end": 72.06,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "টেস্ট",
+          "start": 72.06,
+          "end": 72.76,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "ডেটা",
+          "start": 72.76,
+          "end": 72.94,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "দিয়ে",
+          "start": 72.94,
+          "end": 73.12,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "ডেমো",
+          "start": 73.12,
+          "end": 73.36,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "করতে",
+          "start": 73.36,
+          "end": 73.62,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "পারি।",
+          "start": 73.62,
+          "end": 74.06,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "আসল",
+          "start": 74.06,
+          "end": 74.38,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "পেমেন্ট",
+          "start": 74.38,
+          "end": 74.74,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "চালু",
+          "start": 74.74,
+          "end": 74.96,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "করব",
+          "start": 74.96,
+          "end": 75.18,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "সমস্যাটা",
+          "start": 75.18,
+          "end": 75.72,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "ঠিক",
+          "start": 75.72,
+          "end": 75.96,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "হওয়ার",
+          "start": 75.96,
+          "end": 76.16,
+          "who": "rafi",
+          "segment": "31"
+        },
+        {
+          "text": "পর।",
+          "start": 76.16,
+          "end": 76.58,
+          "who": "rafi",
+          "segment": "31"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "who": "narrator",
+      "start": 76.58,
+      "end": 77.96,
+      "text": "ওপাশ থেকে উত্তর এল—",
+      "kind": "ring",
+      "words": [
+        {
+          "text": "ওপাশ",
+          "start": 76.58,
+          "end": 77.1,
+          "who": "narrator",
+          "segment": "32"
+        },
+        {
+          "text": "থেকে",
+          "start": 77.1,
+          "end": 77.32,
+          "who": "narrator",
+          "segment": "32"
+        },
+        {
+          "text": "উত্তর",
+          "start": 77.32,
+          "end": 77.64,
+          "who": "narrator",
+          "segment": "32"
+        },
+        {
+          "text": "এল—",
+          "start": 77.64,
+          "end": 77.96,
+          "who": "narrator",
+          "segment": "32"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "who": "manager",
+      "start": 77.96,
+      "end": 80.26,
+      "text": "তোমার সিদ্ধান্তটা মেইল করো।",
+      "kind": "manager",
+      "words": [
+        {
+          "text": "তোমার",
+          "start": 77.96,
+          "end": 78.7,
+          "who": "manager",
+          "segment": "33"
+        },
+        {
+          "text": "সিদ্ধান্তটা",
+          "start": 78.7,
+          "end": 79.24,
+          "who": "manager",
+          "segment": "33"
+        },
+        {
+          "text": "মেইল",
+          "start": 79.24,
+          "end": 79.46,
+          "who": "manager",
+          "segment": "33"
+        },
+        {
+          "text": "করো।",
+          "start": 79.46,
+          "end": 80.26,
+          "who": "manager",
+          "segment": "33"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "who": "narrator",
+      "start": 80.26,
+      "end": 82.96,
+      "text": "সেদিন ডেমো হলো। লাইভ রিলিজ হলো না।",
+      "kind": "demo",
+      "words": [
+        {
+          "text": "সেদিন",
+          "start": 80.26,
+          "end": 80.64,
+          "who": "narrator",
+          "segment": "34"
+        },
+        {
+          "text": "ডেমো",
+          "start": 80.64,
+          "end": 80.94,
+          "who": "narrator",
+          "segment": "34"
+        },
+        {
+          "text": "হলো।",
+          "start": 80.94,
+          "end": 81.36,
+          "who": "narrator",
+          "segment": "34"
+        },
+        {
+          "text": "লাইভ",
+          "start": 81.36,
+          "end": 81.76,
+          "who": "narrator",
+          "segment": "34"
+        },
+        {
+          "text": "রিলিজ",
+          "start": 81.76,
+          "end": 82.1,
+          "who": "narrator",
+          "segment": "34"
+        },
+        {
+          "text": "হলো",
+          "start": 82.1,
+          "end": 82.34,
+          "who": "narrator",
+          "segment": "34"
+        },
+        {
+          "text": "না।",
+          "start": 82.34,
+          "end": 82.96,
+          "who": "narrator",
+          "segment": "34"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "who": "narrator",
+      "start": 82.96,
+      "end": 85.18,
+      "text": "পরদিন রাফির প্রমোশন স্থগিতের মেইল এল।",
+      "kind": "rollback",
+      "words": [
+        {
+          "text": "পরদিন",
+          "start": 82.96,
+          "end": 83.34,
+          "who": "narrator",
+          "segment": "35"
+        },
+        {
+          "text": "রাফির",
+          "start": 83.34,
+          "end": 83.72,
+          "who": "narrator",
+          "segment": "35"
+        },
+        {
+          "text": "প্রমোশন",
+          "start": 83.72,
+          "end": 84.14,
+          "who": "narrator",
+          "segment": "35"
+        },
+        {
+          "text": "স্থগিতের",
+          "start": 84.14,
+          "end": 84.64,
+          "who": "narrator",
+          "segment": "35"
+        },
+        {
+          "text": "মেইল",
+          "start": 84.64,
+          "end": 84.96,
+          "who": "narrator",
+          "segment": "35"
+        },
+        {
+          "text": "এল।",
+          "start": 84.96,
+          "end": 85.18,
+          "who": "narrator",
+          "segment": "35"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "who": "narrator",
+      "start": 85.18,
+      "end": 86.42,
+      "text": "সাজিদ উঁকি দিল।",
+      "kind": "sajid",
+      "words": [
+        {
+          "text": "সাজিদ",
+          "start": 85.18,
+          "end": 85.9,
+          "who": "narrator",
+          "segment": "36"
+        },
+        {
+          "text": "উঁকি",
+          "start": 85.9,
+          "end": 86.1,
+          "who": "narrator",
+          "segment": "36"
+        },
+        {
+          "text": "দিল।",
+          "start": 86.1,
+          "end": 86.42,
+          "who": "narrator",
+          "segment": "36"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "who": "sajid",
+      "start": 86.42,
+      "end": 87.74,
+      "text": "টিম লিডের ট্রিটটা?",
+      "kind": "sajid",
+      "words": [
+        {
+          "text": "টিম",
+          "start": 86.42,
+          "end": 87.0,
+          "who": "sajid",
+          "segment": "37"
+        },
+        {
+          "text": "লিডের",
+          "start": 87.0,
+          "end": 87.32,
+          "who": "sajid",
+          "segment": "37"
+        },
+        {
+          "text": "ট্রিটটা?",
+          "start": 87.32,
+          "end": 87.74,
+          "who": "sajid",
+          "segment": "37"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "who": "narrator",
+      "start": 87.74,
+      "end": 89.64,
+      "text": "রাফি মেইলটা দেখাল।",
+      "kind": "twoSajid",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 87.74,
+          "end": 88.58,
+          "who": "narrator",
+          "segment": "38"
+        },
+        {
+          "text": "মেইলটা",
+          "start": 88.58,
+          "end": 88.94,
+          "who": "narrator",
+          "segment": "38"
+        },
+        {
+          "text": "দেখাল।",
+          "start": 88.94,
+          "end": 89.64,
+          "who": "narrator",
+          "segment": "38"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "who": "rafi",
+      "start": 89.64,
+      "end": 91.98,
+      "text": "প্রমোশন রোলব্যাক হয়েছে। বিস্কুট চলবে?",
+      "kind": "joke",
+      "words": [
+        {
+          "text": "প্রমোশন",
+          "start": 89.64,
+          "end": 90.28,
+          "who": "rafi",
+          "segment": "39"
+        },
+        {
+          "text": "রোলব্যাক",
+          "start": 90.28,
+          "end": 90.68,
+          "who": "rafi",
+          "segment": "39"
+        },
+        {
+          "text": "হয়েছে।",
+          "start": 90.68,
+          "end": 91.26,
+          "who": "rafi",
+          "segment": "39"
+        },
+        {
+          "text": "বিস্কুট",
+          "start": 91.26,
+          "end": 91.66,
+          "who": "rafi",
+          "segment": "39"
+        },
+        {
+          "text": "চলবে?",
+          "start": 91.66,
+          "end": 91.98,
+          "who": "rafi",
+          "segment": "39"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "who": "narrator",
+      "start": 91.98,
+      "end": 94.94,
+      "text": "মায়া এসে তার পাশে এক কাপ কফি রাখল।",
+      "kind": "coffee",
+      "words": [
+        {
+          "text": "মায়া",
+          "start": 91.98,
+          "end": 93.12,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "এসে",
+          "start": 93.12,
+          "end": 93.42,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "তার",
+          "start": 93.42,
+          "end": 93.58,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "পাশে",
+          "start": 93.58,
+          "end": 93.9,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "এক",
+          "start": 93.9,
+          "end": 94.08,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "কাপ",
+          "start": 94.08,
+          "end": 94.22,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "কফি",
+          "start": 94.22,
+          "end": 94.54,
+          "who": "narrator",
+          "segment": "40"
+        },
+        {
+          "text": "রাখল।",
+          "start": 94.54,
+          "end": 94.94,
+          "who": "narrator",
+          "segment": "40"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "who": "narrator",
+      "start": 94.96,
+      "end": 96.96,
+      "text": "রাফি চুমুক দিয়ে তাকাল।",
+      "kind": "warmRafi",
+      "words": [
+        {
+          "text": "রাফি",
+          "start": 94.96,
+          "end": 95.72,
+          "who": "narrator",
+          "segment": "41"
+        },
+        {
+          "text": "চুমুক",
+          "start": 95.72,
+          "end": 96.02,
+          "who": "narrator",
+          "segment": "41"
+        },
+        {
+          "text": "দিয়ে",
+          "start": 96.02,
+          "end": 96.34,
+          "who": "narrator",
+          "segment": "41"
+        },
+        {
+          "text": "তাকাল।",
+          "start": 96.34,
+          "end": 96.96,
+          "who": "narrator",
+          "segment": "41"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "who": "rafi",
+      "start": 96.96,
+      "end": 98.5,
+      "text": "চিনি ছাড়া? মনে রেখেছিস?",
+      "kind": "warmRafi",
+      "words": [
+        {
+          "text": "চিনি",
+          "start": 96.96,
+          "end": 97.3,
+          "who": "rafi",
+          "segment": "42"
+        },
+        {
+          "text": "ছাড়া?",
+          "start": 97.3,
+          "end": 97.56,
+          "who": "rafi",
+          "segment": "42"
+        },
+        {
+          "text": "মনে",
+          "start": 97.56,
+          "end": 98.08,
+          "who": "rafi",
+          "segment": "42"
+        },
+        {
+          "text": "রেখেছিস?",
+          "start": 98.08,
+          "end": 98.5,
+          "who": "rafi",
+          "segment": "42"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "who": "narrator",
+      "start": 98.78,
+      "end": 100.3,
+      "text": "মায়া হেসে বলল—",
+      "kind": "warmMaya",
+      "words": [
+        {
+          "text": "মায়া",
+          "start": 98.78,
+          "end": 99.6,
+          "who": "narrator",
+          "segment": "44"
+        },
+        {
+          "text": "হেসে",
+          "start": 99.6,
+          "end": 99.92,
+          "who": "narrator",
+          "segment": "44"
+        },
+        {
+          "text": "বলল—",
+          "start": 99.92,
+          "end": 100.3,
+          "who": "narrator",
+          "segment": "44"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "who": "maya",
+      "start": 100.3,
+      "end": 103.0,
+      "text": "সব খবর তো আর টিমের গ্রুপে দিই না।",
+      "kind": "warmMaya",
+      "words": [
+        {
+          "text": "সব",
+          "start": 100.3,
+          "end": 101.44,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "খবর",
+          "start": 101.44,
+          "end": 101.76,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "তো",
+          "start": 101.76,
+          "end": 101.92,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "আর",
+          "start": 101.92,
+          "end": 102.04,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "টিমের",
+          "start": 102.04,
+          "end": 102.3,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "গ্রুপে",
+          "start": 102.3,
+          "end": 102.58,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "দিই",
+          "start": 102.58,
+          "end": 102.82,
+          "who": "maya",
+          "segment": "45"
+        },
+        {
+          "text": "না।",
+          "start": 102.82,
+          "end": 103.0,
+          "who": "maya",
+          "segment": "45"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "text": "প্রমোশনের",
+      "start": 0.0,
+      "end": 0.66,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "কাগজে",
+      "start": 0.66,
+      "end": 1.0,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "সই",
+      "start": 1.0,
+      "end": 1.18,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "করিস",
+      "start": 1.18,
+      "end": 1.5,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "না।",
+      "start": 1.5,
+      "end": 1.84,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "আগে",
+      "start": 1.84,
+      "end": 2.14,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "শেষ",
+      "start": 2.14,
+      "end": 2.38,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "পাতাটা",
+      "start": 2.38,
+      "end": 2.74,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "পড়।",
+      "start": 2.74,
+      "end": 3.72,
+      "who": "sajid",
+      "segment": "0"
+    },
+    {
+      "text": "সাজিদের",
+      "start": 3.72,
+      "end": 4.3,
+      "who": "narrator",
+      "segment": "1"
+    },
+    {
+      "text": "কথায়",
+      "start": 4.3,
+      "end": 4.56,
+      "who": "narrator",
+      "segment": "1"
+    },
+    {
+      "text": "রাফি",
+      "start": 4.56,
+      "end": 4.86,
+      "who": "narrator",
+      "segment": "1"
+    },
+    {
+      "text": "থামল।",
+      "start": 4.86,
+      "end": 5.34,
+      "who": "narrator",
+      "segment": "1"
+    },
+    {
+      "text": "আবার",
+      "start": 5.34,
+      "end": 6.56,
+      "who": "rafi",
+      "segment": "2"
+    },
+    {
+      "text": "কী",
+      "start": 6.56,
+      "end": 6.66,
+      "who": "rafi",
+      "segment": "2"
+    },
+    {
+      "text": "চাল",
+      "start": 6.66,
+      "end": 6.86,
+      "who": "rafi",
+      "segment": "2"
+    },
+    {
+      "text": "চালছিস?",
+      "start": 6.86,
+      "end": 7.38,
+      "who": "rafi",
+      "segment": "2"
+    },
+    {
+      "text": "চালটা",
+      "start": 7.38,
+      "end": 8.36,
+      "who": "sajid",
+      "segment": "3"
+    },
+    {
+      "text": "আমার",
+      "start": 8.36,
+      "end": 8.66,
+      "who": "sajid",
+      "segment": "3"
+    },
+    {
+      "text": "না।",
+      "start": 8.66,
+      "end": 8.96,
+      "who": "sajid",
+      "segment": "3"
+    },
+    {
+      "text": "সকালে",
+      "start": 9.48,
+      "end": 10.24,
+      "who": "narrator",
+      "segment": "4"
+    },
+    {
+      "text": "রাফি",
+      "start": 10.24,
+      "end": 10.5,
+      "who": "narrator",
+      "segment": "4"
+    },
+    {
+      "text": "টিম",
+      "start": 10.5,
+      "end": 10.72,
+      "who": "narrator",
+      "segment": "4"
+    },
+    {
+      "text": "লিড",
+      "start": 10.72,
+      "end": 10.98,
+      "who": "narrator",
+      "segment": "4"
+    },
+    {
+      "text": "হয়েছে।",
+      "start": 10.98,
+      "end": 11.76,
+      "who": "narrator",
+      "segment": "4"
+    },
+    {
+      "text": "অথচ",
+      "start": 11.76,
+      "end": 12.12,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "প্রজেক্টের",
+      "start": 12.12,
+      "end": 12.72,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "আটকে",
+      "start": 12.72,
+      "end": 13.04,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "থাকা",
+      "start": 13.04,
+      "end": 13.24,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "কাজগুলো",
+      "start": 13.24,
+      "end": 13.76,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "শেষ",
+      "start": 13.76,
+      "end": 14.02,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "করেছিল",
+      "start": 14.02,
+      "end": 14.44,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "মায়া।",
+      "start": 14.44,
+      "end": 15.1,
+      "who": "narrator",
+      "segment": "5"
+    },
+    {
+      "text": "রাফি",
+      "start": 15.1,
+      "end": 15.46,
+      "who": "narrator",
+      "segment": "6"
+    },
+    {
+      "text": "কাগজের",
+      "start": 15.46,
+      "end": 15.84,
+      "who": "narrator",
+      "segment": "6"
+    },
+    {
+      "text": "শেষ",
+      "start": 15.84,
+      "end": 16.06,
+      "who": "narrator",
+      "segment": "6"
+    },
+    {
+      "text": "পাতা",
+      "start": 16.06,
+      "end": 16.34,
+      "who": "narrator",
+      "segment": "6"
+    },
+    {
+      "text": "খুলল।",
+      "start": 16.34,
+      "end": 16.76,
+      "who": "narrator",
+      "segment": "6"
+    },
+    {
+      "text": "লেখা—সব",
+      "start": 16.76,
+      "end": 17.9,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "টেস্ট",
+      "start": 17.9,
+      "end": 18.22,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "পাস।",
+      "start": 18.22,
+      "end": 18.86,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "লাইভ",
+      "start": 18.86,
+      "end": 19.34,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "রিলিজের",
+      "start": 19.34,
+      "end": 19.74,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "অনুমোদন",
+      "start": 19.74,
+      "end": 20.2,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "দেবেন",
+      "start": 20.2,
+      "end": 20.5,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "রাফি",
+      "start": 20.5,
+      "end": 20.96,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "আহমেদ।",
+      "start": 20.96,
+      "end": 21.34,
+      "who": "narrator",
+      "segment": "7"
+    },
+    {
+      "text": "মায়ার",
+      "start": 21.36,
+      "end": 22.32,
+      "who": "narrator",
+      "segment": "8"
+    },
+    {
+      "text": "কাছে",
+      "start": 22.32,
+      "end": 22.54,
+      "who": "narrator",
+      "segment": "8"
+    },
+    {
+      "text": "গিয়ে",
+      "start": 22.54,
+      "end": 22.74,
+      "who": "narrator",
+      "segment": "8"
+    },
+    {
+      "text": "সে",
+      "start": 22.74,
+      "end": 22.88,
+      "who": "narrator",
+      "segment": "8"
+    },
+    {
+      "text": "বলল,",
+      "start": 22.88,
+      "end": 23.16,
+      "who": "narrator",
+      "segment": "8"
+    },
+    {
+      "text": "টেস্টগুলো",
+      "start": 23.16,
+      "end": 24.04,
+      "who": "rafi",
+      "segment": "9"
+    },
+    {
+      "text": "পাস",
+      "start": 24.04,
+      "end": 24.22,
+      "who": "rafi",
+      "segment": "9"
+    },
+    {
+      "text": "করেছে?",
+      "start": 24.22,
+      "end": 24.6,
+      "who": "rafi",
+      "segment": "9"
+    },
+    {
+      "text": "মায়া",
+      "start": 24.6,
+      "end": 25.54,
+      "who": "narrator",
+      "segment": "10"
+    },
+    {
+      "text": "ল্যাপটপ",
+      "start": 25.54,
+      "end": 25.94,
+      "who": "narrator",
+      "segment": "10"
+    },
+    {
+      "text": "ঘুরিয়ে",
+      "start": 25.94,
+      "end": 26.24,
+      "who": "narrator",
+      "segment": "10"
+    },
+    {
+      "text": "দিল।",
+      "start": 26.24,
+      "end": 26.52,
+      "who": "narrator",
+      "segment": "10"
+    },
+    {
+      "text": "একবার",
+      "start": 26.52,
+      "end": 27.12,
+      "who": "narrator",
+      "segment": "11"
+    },
+    {
+      "text": "পেমেন্ট।",
+      "start": 27.12,
+      "end": 27.76,
+      "who": "narrator",
+      "segment": "11"
+    },
+    {
+      "text": "দুবার",
+      "start": 27.76,
+      "end": 28.2,
+      "who": "narrator",
+      "segment": "11"
+    },
+    {
+      "text": "টাকা",
+      "start": 28.2,
+      "end": 28.44,
+      "who": "narrator",
+      "segment": "11"
+    },
+    {
+      "text": "কাটা।",
+      "start": 28.44,
+      "end": 29.02,
+      "who": "narrator",
+      "segment": "11"
+    },
+    {
+      "text": "রাফি",
+      "start": 29.02,
+      "end": 29.44,
+      "who": "narrator",
+      "segment": "12"
+    },
+    {
+      "text": "তাকিয়ে",
+      "start": 29.44,
+      "end": 29.72,
+      "who": "narrator",
+      "segment": "12"
+    },
+    {
+      "text": "রইল।",
+      "start": 29.72,
+      "end": 30.04,
+      "who": "narrator",
+      "segment": "12"
+    },
+    {
+      "text": "রিপোর্টে",
+      "start": 30.06,
+      "end": 30.8,
+      "who": "rafi",
+      "segment": "13"
+    },
+    {
+      "text": "তো",
+      "start": 30.8,
+      "end": 30.88,
+      "who": "rafi",
+      "segment": "13"
+    },
+    {
+      "text": "সবুজ",
+      "start": 30.88,
+      "end": 31.18,
+      "who": "rafi",
+      "segment": "13"
+    },
+    {
+      "text": "দেখাচ্ছে!",
+      "start": 31.18,
+      "end": 31.66,
+      "who": "rafi",
+      "segment": "13"
+    },
+    {
+      "text": "আমার",
+      "start": 31.66,
+      "end": 32.24,
+      "who": "maya",
+      "segment": "14"
+    },
+    {
+      "text": "রিপোর্টে",
+      "start": 32.24,
+      "end": 32.6,
+      "who": "maya",
+      "segment": "14"
+    },
+    {
+      "text": "লালই",
+      "start": 32.6,
+      "end": 32.84,
+      "who": "maya",
+      "segment": "14"
+    },
+    {
+      "text": "ছিল।",
+      "start": 32.84,
+      "end": 32.865,
+      "who": "maya",
+      "segment": "14"
+    },
+    {
+      "text": "ঠিক",
+      "start": 32.86,
+      "end": 33.84,
+      "who": "narrator",
+      "segment": "15"
+    },
+    {
+      "text": "তখন",
+      "start": 33.84,
+      "end": 34.14,
+      "who": "narrator",
+      "segment": "15"
+    },
+    {
+      "text": "ম্যানেজারের",
+      "start": 34.14,
+      "end": 34.62,
+      "who": "narrator",
+      "segment": "15"
+    },
+    {
+      "text": "মেসেজ",
+      "start": 34.62,
+      "end": 34.96,
+      "who": "narrator",
+      "segment": "15"
+    },
+    {
+      "text": "এল।",
+      "start": 34.96,
+      "end": 35.22,
+      "who": "narrator",
+      "segment": "15"
+    },
+    {
+      "text": "ক্লায়েন্ট",
+      "start": 35.22,
+      "end": 36.02,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "আজই",
+      "start": 36.02,
+      "end": 36.28,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "লাইভ",
+      "start": 36.28,
+      "end": 36.5,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "চায়।",
+      "start": 36.5,
+      "end": 36.86,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "ছোট",
+      "start": 36.86,
+      "end": 37.22,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "বাগটা",
+      "start": 37.22,
+      "end": 37.48,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "পরে",
+      "start": 37.48,
+      "end": 37.74,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "ঠিক",
+      "start": 37.74,
+      "end": 37.92,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "করো।",
+      "start": 37.92,
+      "end": 38.28,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "আগে",
+      "start": 38.28,
+      "end": 38.5,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "সই",
+      "start": 38.5,
+      "end": 38.7,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "করো।",
+      "start": 38.7,
+      "end": 39.12,
+      "who": "manager",
+      "segment": "16"
+    },
+    {
+      "text": "রাফি",
+      "start": 39.12,
+      "end": 39.7,
+      "who": "narrator",
+      "segment": "17"
+    },
+    {
+      "text": "আবার",
+      "start": 39.7,
+      "end": 40.0,
+      "who": "narrator",
+      "segment": "17"
+    },
+    {
+      "text": "নিজের",
+      "start": 40.0,
+      "end": 40.28,
+      "who": "narrator",
+      "segment": "17"
+    },
+    {
+      "text": "নামটার",
+      "start": 40.28,
+      "end": 40.62,
+      "who": "narrator",
+      "segment": "17"
+    },
+    {
+      "text": "দিকে",
+      "start": 40.62,
+      "end": 40.84,
+      "who": "narrator",
+      "segment": "17"
+    },
+    {
+      "text": "তাকাল।",
+      "start": 40.84,
+      "end": 41.5,
+      "who": "narrator",
+      "segment": "17"
+    },
+    {
+      "text": "এই",
+      "start": 41.5,
+      "end": 41.76,
+      "who": "rafi",
+      "segment": "18"
+    },
+    {
+      "text": "সমস্যার",
+      "start": 41.76,
+      "end": 42.16,
+      "who": "rafi",
+      "segment": "18"
+    },
+    {
+      "text": "কথা",
+      "start": 42.16,
+      "end": 42.38,
+      "who": "rafi",
+      "segment": "18"
+    },
+    {
+      "text": "আগে",
+      "start": 42.38,
+      "end": 42.54,
+      "who": "rafi",
+      "segment": "18"
+    },
+    {
+      "text": "বলিসনি",
+      "start": 42.54,
+      "end": 42.88,
+      "who": "rafi",
+      "segment": "18"
+    },
+    {
+      "text": "কেন?",
+      "start": 42.88,
+      "end": 43.08,
+      "who": "rafi",
+      "segment": "18"
+    },
+    {
+      "text": "মায়া",
+      "start": 43.08,
+      "end": 43.86,
+      "who": "narrator",
+      "segment": "19"
+    },
+    {
+      "text": "বলল,",
+      "start": 43.86,
+      "end": 44.16,
+      "who": "narrator",
+      "segment": "19"
+    },
+    {
+      "text": "এই",
+      "start": 44.16,
+      "end": 44.86,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "অনুমোদনটা",
+      "start": 44.86,
+      "end": 45.44,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "কাল",
+      "start": 45.44,
+      "end": 45.64,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "আমার",
+      "start": 45.64,
+      "end": 45.84,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "কাছে",
+      "start": 45.84,
+      "end": 46.06,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "এসেছিল।",
+      "start": 46.06,
+      "end": 46.56,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "আমি",
+      "start": 46.56,
+      "end": 46.88,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "সই",
+      "start": 46.88,
+      "end": 47.06,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "করিনি।",
+      "start": 47.06,
+      "end": 47.44,
+      "who": "maya",
+      "segment": "20"
+    },
+    {
+      "text": "রাফি",
+      "start": 47.46,
+      "end": 48.4,
+      "who": "narrator",
+      "segment": "21"
+    },
+    {
+      "text": "চুপ",
+      "start": 48.4,
+      "end": 48.66,
+      "who": "narrator",
+      "segment": "21"
+    },
+    {
+      "text": "হয়ে",
+      "start": 48.66,
+      "end": 48.8,
+      "who": "narrator",
+      "segment": "21"
+    },
+    {
+      "text": "গেল।",
+      "start": 48.8,
+      "end": 49.12,
+      "who": "narrator",
+      "segment": "21"
+    },
+    {
+      "text": "মায়া",
+      "start": 49.12,
+      "end": 49.86,
+      "who": "narrator",
+      "segment": "22"
+    },
+    {
+      "text": "প্রমোশন",
+      "start": 49.86,
+      "end": 50.32,
+      "who": "narrator",
+      "segment": "22"
+    },
+    {
+      "text": "পায়নি।",
+      "start": 50.32,
+      "end": 51.16,
+      "who": "narrator",
+      "segment": "22"
+    },
+    {
+      "text": "আর",
+      "start": 51.16,
+      "end": 51.38,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "তাকে",
+      "start": 51.38,
+      "end": 51.66,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "দেওয়া",
+      "start": 51.66,
+      "end": 51.9,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "হয়েছে",
+      "start": 51.9,
+      "end": 52.28,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "সেই",
+      "start": 52.28,
+      "end": 52.64,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "একই",
+      "start": 52.64,
+      "end": 53.0,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "অনুমোদনের",
+      "start": 53.0,
+      "end": 53.56,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "কাগজ।",
+      "start": 53.56,
+      "end": 54.14,
+      "who": "narrator",
+      "segment": "23"
+    },
+    {
+      "text": "ফোন",
+      "start": 54.14,
+      "end": 54.6,
+      "who": "narrator",
+      "segment": "24"
+    },
+    {
+      "text": "বেজে",
+      "start": 54.6,
+      "end": 54.86,
+      "who": "narrator",
+      "segment": "24"
+    },
+    {
+      "text": "উঠল।",
+      "start": 54.86,
+      "end": 55.26,
+      "who": "narrator",
+      "segment": "24"
+    },
+    {
+      "text": "ম্যানেজার।",
+      "start": 55.26,
+      "end": 56.64,
+      "who": "narrator",
+      "segment": "24"
+    },
+    {
+      "text": "একটা",
+      "start": 56.64,
+      "end": 56.98,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "সই",
+      "start": 56.98,
+      "end": 57.2,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "করতে",
+      "start": 57.2,
+      "end": 57.56,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "এত",
+      "start": 57.56,
+      "end": 57.72,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "সময়?",
+      "start": 57.72,
+      "end": 58.14,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "দায়িত্ব",
+      "start": 58.14,
+      "end": 58.84,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "নিতে",
+      "start": 58.84,
+      "end": 59.06,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "না",
+      "start": 59.06,
+      "end": 59.22,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "পারলে",
+      "start": 59.22,
+      "end": 59.54,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "টিম",
+      "start": 59.54,
+      "end": 59.8,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "লিড",
+      "start": 59.8,
+      "end": 60.0,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "হবে",
+      "start": 60.0,
+      "end": 60.2,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "কীভাবে?",
+      "start": 60.2,
+      "end": 60.58,
+      "who": "manager",
+      "segment": "25"
+    },
+    {
+      "text": "রাফি",
+      "start": 60.6,
+      "end": 61.4,
+      "who": "narrator",
+      "segment": "26"
+    },
+    {
+      "text": "অনুমোদনের",
+      "start": 61.4,
+      "end": 61.96,
+      "who": "narrator",
+      "segment": "26"
+    },
+    {
+      "text": "ফর্মটা",
+      "start": 61.96,
+      "end": 62.34,
+      "who": "narrator",
+      "segment": "26"
+    },
+    {
+      "text": "খুলল।",
+      "start": 62.34,
+      "end": 62.76,
+      "who": "narrator",
+      "segment": "26"
+    },
+    {
+      "text": "মায়া",
+      "start": 62.76,
+      "end": 63.36,
+      "who": "narrator",
+      "segment": "27"
+    },
+    {
+      "text": "কিছু",
+      "start": 63.36,
+      "end": 63.6,
+      "who": "narrator",
+      "segment": "27"
+    },
+    {
+      "text": "বলল",
+      "start": 63.6,
+      "end": 63.9,
+      "who": "narrator",
+      "segment": "27"
+    },
+    {
+      "text": "না।",
+      "start": 63.9,
+      "end": 64.3,
+      "who": "narrator",
+      "segment": "27"
+    },
+    {
+      "text": "রাফি",
+      "start": 64.3,
+      "end": 64.66,
+      "who": "narrator",
+      "segment": "28"
+    },
+    {
+      "text": "লিখল—",
+      "start": 64.66,
+      "end": 65.22,
+      "who": "narrator",
+      "segment": "28"
+    },
+    {
+      "text": "পেমেন্ট",
+      "start": 65.22,
+      "end": 66.46,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "টেস্ট",
+      "start": 66.46,
+      "end": 66.7,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "ব্যর্থ।",
+      "start": 66.7,
+      "end": 67.32,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "লাইভ",
+      "start": 67.32,
+      "end": 67.74,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "রিলিজ",
+      "start": 67.74,
+      "end": 68.1,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "স্থগিত",
+      "start": 68.1,
+      "end": 68.6,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "রাখার",
+      "start": 68.6,
+      "end": 68.88,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "সুপারিশ",
+      "start": 68.88,
+      "end": 69.28,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "করছি।",
+      "start": 69.28,
+      "end": 70.14,
+      "who": "rafi",
+      "segment": "29"
+    },
+    {
+      "text": "তার",
+      "start": 70.14,
+      "end": 70.44,
+      "who": "narrator",
+      "segment": "30"
+    },
+    {
+      "text": "নিচে",
+      "start": 70.44,
+      "end": 70.74,
+      "who": "narrator",
+      "segment": "30"
+    },
+    {
+      "text": "নিজের",
+      "start": 70.74,
+      "end": 71.06,
+      "who": "narrator",
+      "segment": "30"
+    },
+    {
+      "text": "নাম।",
+      "start": 71.06,
+      "end": 71.28,
+      "who": "narrator",
+      "segment": "30"
+    },
+    {
+      "text": "স্যার,",
+      "start": 71.3,
+      "end": 72.06,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "টেস্ট",
+      "start": 72.06,
+      "end": 72.76,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "ডেটা",
+      "start": 72.76,
+      "end": 72.94,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "দিয়ে",
+      "start": 72.94,
+      "end": 73.12,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "ডেমো",
+      "start": 73.12,
+      "end": 73.36,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "করতে",
+      "start": 73.36,
+      "end": 73.62,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "পারি।",
+      "start": 73.62,
+      "end": 74.06,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "আসল",
+      "start": 74.06,
+      "end": 74.38,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "পেমেন্ট",
+      "start": 74.38,
+      "end": 74.74,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "চালু",
+      "start": 74.74,
+      "end": 74.96,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "করব",
+      "start": 74.96,
+      "end": 75.18,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "সমস্যাটা",
+      "start": 75.18,
+      "end": 75.72,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "ঠিক",
+      "start": 75.72,
+      "end": 75.96,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "হওয়ার",
+      "start": 75.96,
+      "end": 76.16,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "পর।",
+      "start": 76.16,
+      "end": 76.58,
+      "who": "rafi",
+      "segment": "31"
+    },
+    {
+      "text": "ওপাশ",
+      "start": 76.58,
+      "end": 77.1,
+      "who": "narrator",
+      "segment": "32"
+    },
+    {
+      "text": "থেকে",
+      "start": 77.1,
+      "end": 77.32,
+      "who": "narrator",
+      "segment": "32"
+    },
+    {
+      "text": "উত্তর",
+      "start": 77.32,
+      "end": 77.64,
+      "who": "narrator",
+      "segment": "32"
+    },
+    {
+      "text": "এল—",
+      "start": 77.64,
+      "end": 77.96,
+      "who": "narrator",
+      "segment": "32"
+    },
+    {
+      "text": "তোমার",
+      "start": 77.96,
+      "end": 78.7,
+      "who": "manager",
+      "segment": "33"
+    },
+    {
+      "text": "সিদ্ধান্তটা",
+      "start": 78.7,
+      "end": 79.24,
+      "who": "manager",
+      "segment": "33"
+    },
+    {
+      "text": "মেইল",
+      "start": 79.24,
+      "end": 79.46,
+      "who": "manager",
+      "segment": "33"
+    },
+    {
+      "text": "করো।",
+      "start": 79.46,
+      "end": 80.26,
+      "who": "manager",
+      "segment": "33"
+    },
+    {
+      "text": "সেদিন",
+      "start": 80.26,
+      "end": 80.64,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "ডেমো",
+      "start": 80.64,
+      "end": 80.94,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "হলো।",
+      "start": 80.94,
+      "end": 81.36,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "লাইভ",
+      "start": 81.36,
+      "end": 81.76,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "রিলিজ",
+      "start": 81.76,
+      "end": 82.1,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "হলো",
+      "start": 82.1,
+      "end": 82.34,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "না।",
+      "start": 82.34,
+      "end": 82.96,
+      "who": "narrator",
+      "segment": "34"
+    },
+    {
+      "text": "পরদিন",
+      "start": 82.96,
+      "end": 83.34,
+      "who": "narrator",
+      "segment": "35"
+    },
+    {
+      "text": "রাফির",
+      "start": 83.34,
+      "end": 83.72,
+      "who": "narrator",
+      "segment": "35"
+    },
+    {
+      "text": "প্রমোশন",
+      "start": 83.72,
+      "end": 84.14,
+      "who": "narrator",
+      "segment": "35"
+    },
+    {
+      "text": "স্থগিতের",
+      "start": 84.14,
+      "end": 84.64,
+      "who": "narrator",
+      "segment": "35"
+    },
+    {
+      "text": "মেইল",
+      "start": 84.64,
+      "end": 84.96,
+      "who": "narrator",
+      "segment": "35"
+    },
+    {
+      "text": "এল।",
+      "start": 84.96,
+      "end": 85.18,
+      "who": "narrator",
+      "segment": "35"
+    },
+    {
+      "text": "সাজিদ",
+      "start": 85.18,
+      "end": 85.9,
+      "who": "narrator",
+      "segment": "36"
+    },
+    {
+      "text": "উঁকি",
+      "start": 85.9,
+      "end": 86.1,
+      "who": "narrator",
+      "segment": "36"
+    },
+    {
+      "text": "দিল।",
+      "start": 86.1,
+      "end": 86.42,
+      "who": "narrator",
+      "segment": "36"
+    },
+    {
+      "text": "টিম",
+      "start": 86.42,
+      "end": 87.0,
+      "who": "sajid",
+      "segment": "37"
+    },
+    {
+      "text": "লিডের",
+      "start": 87.0,
+      "end": 87.32,
+      "who": "sajid",
+      "segment": "37"
+    },
+    {
+      "text": "ট্রিটটা?",
+      "start": 87.32,
+      "end": 87.74,
+      "who": "sajid",
+      "segment": "37"
+    },
+    {
+      "text": "রাফি",
+      "start": 87.74,
+      "end": 88.58,
+      "who": "narrator",
+      "segment": "38"
+    },
+    {
+      "text": "মেইলটা",
+      "start": 88.58,
+      "end": 88.94,
+      "who": "narrator",
+      "segment": "38"
+    },
+    {
+      "text": "দেখাল।",
+      "start": 88.94,
+      "end": 89.64,
+      "who": "narrator",
+      "segment": "38"
+    },
+    {
+      "text": "প্রমোশন",
+      "start": 89.64,
+      "end": 90.28,
+      "who": "rafi",
+      "segment": "39"
+    },
+    {
+      "text": "রোলব্যাক",
+      "start": 90.28,
+      "end": 90.68,
+      "who": "rafi",
+      "segment": "39"
+    },
+    {
+      "text": "হয়েছে।",
+      "start": 90.68,
+      "end": 91.26,
+      "who": "rafi",
+      "segment": "39"
+    },
+    {
+      "text": "বিস্কুট",
+      "start": 91.26,
+      "end": 91.66,
+      "who": "rafi",
+      "segment": "39"
+    },
+    {
+      "text": "চলবে?",
+      "start": 91.66,
+      "end": 91.98,
+      "who": "rafi",
+      "segment": "39"
+    },
+    {
+      "text": "মায়া",
+      "start": 91.98,
+      "end": 93.12,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "এসে",
+      "start": 93.12,
+      "end": 93.42,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "তার",
+      "start": 93.42,
+      "end": 93.58,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "পাশে",
+      "start": 93.58,
+      "end": 93.9,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "এক",
+      "start": 93.9,
+      "end": 94.08,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "কাপ",
+      "start": 94.08,
+      "end": 94.22,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "কফি",
+      "start": 94.22,
+      "end": 94.54,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "রাখল।",
+      "start": 94.54,
+      "end": 94.94,
+      "who": "narrator",
+      "segment": "40"
+    },
+    {
+      "text": "রাফি",
+      "start": 94.96,
+      "end": 95.72,
+      "who": "narrator",
+      "segment": "41"
+    },
+    {
+      "text": "চুমুক",
+      "start": 95.72,
+      "end": 96.02,
+      "who": "narrator",
+      "segment": "41"
+    },
+    {
+      "text": "দিয়ে",
+      "start": 96.02,
+      "end": 96.34,
+      "who": "narrator",
+      "segment": "41"
+    },
+    {
+      "text": "তাকাল।",
+      "start": 96.34,
+      "end": 96.96,
+      "who": "narrator",
+      "segment": "41"
+    },
+    {
+      "text": "চিনি",
+      "start": 96.96,
+      "end": 97.3,
+      "who": "rafi",
+      "segment": "42"
+    },
+    {
+      "text": "ছাড়া?",
+      "start": 97.3,
+      "end": 97.56,
+      "who": "rafi",
+      "segment": "42"
+    },
+    {
+      "text": "মনে",
+      "start": 97.56,
+      "end": 98.08,
+      "who": "rafi",
+      "segment": "42"
+    },
+    {
+      "text": "রেখেছিস?",
+      "start": 98.08,
+      "end": 98.5,
+      "who": "rafi",
+      "segment": "42"
+    },
+    {
+      "text": "মায়া",
+      "start": 98.78,
+      "end": 99.6,
+      "who": "narrator",
+      "segment": "44"
+    },
+    {
+      "text": "হেসে",
+      "start": 99.6,
+      "end": 99.92,
+      "who": "narrator",
+      "segment": "44"
+    },
+    {
+      "text": "বলল—",
+      "start": 99.92,
+      "end": 100.3,
+      "who": "narrator",
+      "segment": "44"
+    },
+    {
+      "text": "সব",
+      "start": 100.3,
+      "end": 101.44,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "খবর",
+      "start": 101.44,
+      "end": 101.76,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "তো",
+      "start": 101.76,
+      "end": 101.92,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "আর",
+      "start": 101.92,
+      "end": 102.04,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "টিমের",
+      "start": 102.04,
+      "end": 102.3,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "গ্রুপে",
+      "start": 102.3,
+      "end": 102.58,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "দিই",
+      "start": 102.58,
+      "end": 102.82,
+      "who": "maya",
+      "segment": "45"
+    },
+    {
+      "text": "না।",
+      "start": 102.82,
+      "end": 103.0,
+      "who": "maya",
+      "segment": "45"
+    }
+  ],
+  "cues": [
+    {
+      "who": "sajid",
+      "start": 0.0,
+      "end": 3.72,
+      "text": "প্রমোশনের কাগজে সই করিস না। আগে শেষ পাতাটা পড়।"
+    },
+    {
+      "who": "rafi",
+      "start": 5.34,
+      "end": 7.38,
+      "text": "আবার কী চাল চালছিস?"
+    },
+    {
+      "who": "sajid",
+      "start": 7.38,
+      "end": 8.96,
+      "text": "চালটা আমার না।"
+    },
+    {
+      "who": "rafi",
+      "start": 23.16,
+      "end": 24.6,
+      "text": "টেস্টগুলো পাস করেছে?"
+    },
+    {
+      "who": "rafi",
+      "start": 30.06,
+      "end": 31.66,
+      "text": "রিপোর্টে তো সবুজ দেখাচ্ছে!"
+    },
+    {
+      "who": "maya",
+      "start": 31.66,
+      "end": 32.865,
+      "text": "আমার রিপোর্টে লালই ছিল।"
+    },
+    {
+      "who": "manager",
+      "start": 35.22,
+      "end": 39.12,
+      "text": "ক্লায়েন্ট আজই লাইভ চায়। ছোট বাগটা পরে ঠিক করো। আগে সই করো।"
+    },
+    {
+      "who": "rafi",
+      "start": 41.5,
+      "end": 43.08,
+      "text": "এই সমস্যার কথা আগে বলিসনি কেন?"
+    },
+    {
+      "who": "maya",
+      "start": 44.16,
+      "end": 47.44,
+      "text": "এই অনুমোদনটা কাল আমার কাছে এসেছিল। আমি সই করিনি।"
+    },
+    {
+      "who": "manager",
+      "start": 56.64,
+      "end": 60.58,
+      "text": "একটা সই করতে এত সময়? দায়িত্ব নিতে না পারলে টিম লিড হবে কীভাবে?"
+    },
+    {
+      "who": "rafi",
+      "start": 65.22,
+      "end": 70.14,
+      "text": "পেমেন্ট টেস্ট ব্যর্থ। লাইভ রিলিজ স্থগিত রাখার সুপারিশ করছি।"
+    },
+    {
+      "who": "rafi",
+      "start": 71.3,
+      "end": 76.58,
+      "text": "স্যার, টেস্ট ডেটা দিয়ে ডেমো করতে পারি। আসল পেমেন্ট চালু করব সমস্যাটা ঠিক হওয়ার পর।"
+    },
+    {
+      "who": "manager",
+      "start": 77.96,
+      "end": 80.26,
+      "text": "তোমার সিদ্ধান্তটা মেইল করো।"
+    },
+    {
+      "who": "sajid",
+      "start": 86.42,
+      "end": 87.74,
+      "text": "টিম লিডের ট্রিটটা?"
+    },
+    {
+      "who": "rafi",
+      "start": 89.64,
+      "end": 91.98,
+      "text": "প্রমোশন রোলব্যাক হয়েছে। বিস্কুট চলবে?"
+    },
+    {
+      "who": "rafi",
+      "start": 96.96,
+      "end": 98.5,
+      "text": "চিনি ছাড়া? মনে রেখেছিস?"
+    },
+    {
+      "who": "maya",
+      "start": 100.3,
+      "end": 103.0,
+      "text": "সব খবর তো আর টিমের গ্রুপে দিই না।"
+    }
+  ]
+}

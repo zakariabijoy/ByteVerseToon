@@ -1,0 +1,88 @@
+{
+  "origin": "original_local_synthesis",
+  "narration": "user_recording_only",
+  "cues": [
+    {
+      "at": 0.04,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 1.62,
+      "type": "paper_turn"
+    },
+    {
+      "at": 15.15,
+      "type": "paper_turn"
+    },
+    {
+      "at": 16.76,
+      "type": "paper_turn"
+    },
+    {
+      "at": 20.5,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 27.76,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 27.110000000000003,
+      "length": 0.65,
+      "type": "anticipation_riser"
+    },
+    {
+      "at": 33.11,
+      "type": "notification"
+    },
+    {
+      "at": 38.28,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 44.61,
+      "length": 1.2,
+      "type": "anticipation_riser"
+    },
+    {
+      "at": 46.56,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 51.279999999999994,
+      "type": "paper_turn"
+    },
+    {
+      "at": 64.22,
+      "length": 1,
+      "type": "anticipation_riser"
+    },
+    {
+      "at": 65.22,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 83.02,
+      "type": "notification"
+    },
+    {
+      "at": 83.41,
+      "type": "low_impact",
+      "purpose": "evidence or consequence"
+    },
+    {
+      "at": 87.86,
+      "type": "paper_turn"
+    },
+    {
+      "at": 92.81,
+      "type": "ceramic_cup_contact"
+    }
+  ]
+}

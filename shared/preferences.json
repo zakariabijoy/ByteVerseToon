@@ -230,6 +230,22 @@
         "userMessage": "ok continue",
         "reuse": "Use as an editorial sound/highlight baseline; adapt each episode’s actions and cues, and retain per-episode preview review."
       }
+    },
+    "storyDirection": {
+      "requestedOn": "2026-11-17",
+      "core": [
+        "Corporate politics and software-engineering stakes",
+        "Character clashes, psychological twists and fair mystery reveals",
+        "Emotion, suspense and a consequential moral choice"
+      ],
+      "tone": [
+        "Situational comedy and memorable dialogue",
+        "Light romantic subtext without reducing Maya to a romance role"
+      ],
+      "craft": "A concrete character goal, evidence and competing choices; earned reversals and a complete episode payoff. Avoid repetitive moral lectures and guaranteed-viral claims.",
+      "currentEpisode": "Episode 05 new story and review-v5 phone-call correction approved on 2026-11-19; original and revised recordings preserved separately",
+      "approvedOn": "2026-11-19",
+      "reference": "series/jiboner-odbhut-golpo/season-01/episode-05/animation-v4/README.md"
     }
   },
   "techExplainer": {

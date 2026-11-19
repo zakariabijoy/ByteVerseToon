@@ -1,0 +1,310 @@
+[
+  {
+    "text": "তোর প্রমোশন হয়েছে।",
+    "startMs": 0,
+    "endMs": 1420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমার কাজগুলোও কি তোর হয়ে গেল?",
+    "startMs": 1420,
+    "endMs": 3080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়ার কথায় রাফির হাতের মিষ্টির বাক্সটা থেমে",
+    "startMs": 3840,
+    "endMs": 6880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গেল।",
+    "startMs": 6880,
+    "endMs": 7140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কিছুক্ষণ আগেই ম্যানেজার ঘোষণা করেছেন, নতুন টিম",
+    "startMs": 7600,
+    "endMs": 11280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লিড রাফি।",
+    "startMs": 11280,
+    "endMs": 11940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তারপর বলেছেন,",
+    "startMs": 11960,
+    "endMs": 13180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গত প্রজেক্টটা রাফি একাই সামলেছে।",
+    "startMs": 13200,
+    "endMs": 15860,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি কিছু বলেনি।",
+    "startMs": 15880,
+    "endMs": 17460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "অথচ তিন রাত জেগে আটকে থাকা কাজটা শেষ করেছিল",
+    "startMs": 17480,
+    "endMs": 21000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া।",
+    "startMs": 21000,
+    "endMs": 21320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি ক্লায়েন্টের সামনে সেটাই দেখিয়েছিল।",
+    "startMs": 21340,
+    "endMs": 23960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি নিচু স্বরে বলল,",
+    "startMs": 23980,
+    "endMs": 25840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমি তো বলিনি, সব কাজ আমার।",
+    "startMs": 25920,
+    "endMs": 28100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া তাকিয়ে রইল।",
+    "startMs": 28120,
+    "endMs": 29760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তাহলে স্যার যখন বললেন, তুই চুপ ছিলি কেন?",
+    "startMs": 29780,
+    "endMs": 32560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফির ফোনে একটা পুরোনো মেসেজ খুলল মায়া।",
+    "startMs": 32640,
+    "endMs": 35580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফিই লিখেছিল,",
+    "startMs": 35600,
+    "endMs": 36900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তুই না থাকলে এবার প্রজেক্টটাই জমা দিতে পারতাম",
+    "startMs": 36980,
+    "endMs": 39920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না।",
+    "startMs": 39920,
+    "endMs": 40060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি বলল,",
+    "startMs": 40080,
+    "endMs": 41200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এটা স্যারকে পাঠাবি?",
+    "startMs": 41220,
+    "endMs": 42400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া ফোনটা নামিয়ে রাখল।",
+    "startMs": 42420,
+    "endMs": 44500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না।",
+    "startMs": 44520,
+    "endMs": 45580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তোর প্রমোশন আটকাতে চাই না।",
+    "startMs": 45580,
+    "endMs": 47020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমার কাজের মূল্যায়ন চাই।",
+    "startMs": 47020,
+    "endMs": 48380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সে নিজের কাজের ফাইল আর তারিখগুলো নিয়ে",
+    "startMs": 48400,
+    "endMs": 51140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ম্যানেজারের ঘরে ঢুকল।",
+    "startMs": 51140,
+    "endMs": 52240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "স্যার, রাফি ক্লায়েন্ট সামলেছে।",
+    "startMs": 52260,
+    "endMs": 54740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এই অংশগুলো করেছি আমি।",
+    "startMs": 54740,
+    "endMs": 56360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সিদ্ধান্তটা নেওয়ার সময় দুটোই কি দেখা হয়েছিল?",
+    "startMs": 56360,
+    "endMs": 58660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ম্যানেজার ফাইল উল্টে চুপ করলেন।",
+    "startMs": 58740,
+    "endMs": 60940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দরজায় দাঁড়িয়ে ছিল রাফি।",
+    "startMs": 60960,
+    "endMs": 62700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "স্যার, মায়া ঠিক বলছে।",
+    "startMs": 62720,
+    "endMs": 65180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মিটিংয়ে আমারই কথাটা বলা উচিত ছিল।",
+    "startMs": 65180,
+    "endMs": 67060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সেদিন মায়ার প্রমোশন হয়নি।",
+    "startMs": 67080,
+    "endMs": 69700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তবে তার আপত্তি নথিভুক্ত হলো; কাজের মূল্যায়ন",
+    "startMs": 69700,
+    "endMs": 72500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আবার দেখার দিনও ঠিক হলো।",
+    "startMs": 72500,
+    "endMs": 74020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বিকেলে রাফি নতুন প্রজেক্টের দায়িত্বের তালিকা",
+    "startMs": 74040,
+    "endMs": 76420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "নিয়ে এল।",
+    "startMs": 76420,
+    "endMs": 76880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একবার দেখে দিবি?",
+    "startMs": 76900,
+    "endMs": 77960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া কলম তুলে একটা ফাঁকা ঘর দেখাল।",
+    "startMs": 77980,
+    "endMs": 80560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দেখব।",
+    "startMs": 80580,
+    "endMs": 81200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আগে এখানে লিখ—কোন কাজটা কার।",
+    "startMs": 81200,
+    "endMs": 84100,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

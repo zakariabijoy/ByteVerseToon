@@ -1,0 +1,118 @@
+{
+  "episode": 5,
+  "title": "প্রমোশন পেল অন্যজন",
+  "updatedOn": "2026-11-18",
+  "story": "new_corporate_payment_release_story_approved_with_recording",
+  "script": "animation-v4/recorded-script-v4.bn.txt",
+  "recording": "user_final_2026-11-17T18_06_39Z",
+  "originalVoiceSha256": "500a653fc8790c7cc9e5f62a45e8b45a7b9cfd1e0325a4efea34c50e88d5be3d",
+  "originalSeconds": 108.4,
+  "voiceEdit": {
+    "approval": "User explicitly approved removing spoken directions only on 2026-11-18",
+    "removedSourceSeconds": [
+      98.72,
+      104.0
+    ],
+    "removedText": "ছোট বিরতি। মায়া মৃদু হাসি একটু দুষ্টুমি খুব স্বাভাবিক।",
+    "sourceSha256": "500a653fc8790c7cc9e5f62a45e8b45a7b9cfd1e0325a4efea34c50e88d5be3d",
+    "editedSha256": "d64ad95dc64b99d14f094e7643610badb22ac23f54c82542fd763cc9a8ec6e01",
+    "retainedPcmSamplesIdentical": true,
+    "duration": 103.12,
+    "speedChanged": false,
+    "narrationRegenerated": false
+  },
+  "voicePlaybackRate": 1,
+  "durationFrames": 3094,
+  "fps": 30,
+  "sourceVersion": "animation-v4",
+  "previewVersion": "review-v4-new-story",
+  "animation": "current_preview_ready",
+  "videoApproval": "pending_current_preview",
+  "finalDeliveryRender": "awaiting_current_preview_approval",
+  "publication": "not_requested",
+  "gitPush": "not_attempted_prior_review_requires_explicit_authorization",
+  "technicalChecks": {
+    "typescript": "passed",
+    "retainedPcm": "sample_identical",
+    "completeDecode": "passed"
+  },
+  "visualReview": {
+    "frames": [
+      15,
+      75,
+      180,
+      390,
+      600,
+      840,
+      970,
+      1140,
+      1415,
+      1730,
+      2010,
+      2130,
+      2515,
+      2700,
+      2820,
+      3025
+    ],
+    "scope": "16 representative frames inspected; manager subsequently changed to stern intact pose",
+    "representation": "intact illustrated surfaces and native prop inserts; approximate word-timed mouths",
+    "motion": "Studio opening and evidence through frame 1540 advanced unmuted without overlay error; additional decision and closing source playback inspected. Native 9-second payment and 11.166-second closing MP4 excerpts reached end unmuted, error=null. This is playback verification, not full subjective listening.",
+    "decodedExportFramesInspected": [
+      1730,
+      3093
+    ]
+  },
+  "fullListeningReview": "pending_not_inferred_from_playback_or_meters",
+  "preservation": "all prior scripts, recordings, source and rejected reviews retained",
+  "verification": {
+    "version": 4,
+    "composition": "Episode05",
+    "dimensions": [
+      540,
+      960
+    ],
+    "fps": 30,
+    "durationFrames": 3094,
+    "durationSeconds": 103.133333,
+    "videoCodec": "h264",
+    "pixelFormat": "yuv420p",
+    "colorRange": "tv",
+    "audioCodec": "aac",
+    "audioSampleRate": 48000,
+    "audioChannels": 2,
+    "completeAudioVideoDecode": "passed",
+    "sourceVoiceSha256": "500A653FC8790C7CC9E5F62A45E8B45A7B9CFD1E0325A4EFEA34C50E88D5BE3D",
+    "sourceOriginalPreserved": true,
+    "spokenDirectionCutApproved": true,
+    "retainedSpeechPcmUnchanged": true,
+    "voicePlaybackRate": 1,
+    "loudnessLufs": -16.08,
+    "truePeakDb": -1.49,
+    "mp4Sha256": "888D244602434409AD1530710664F9E2BE7A8017E1BBAA6E0045DDA7BA64FAD9",
+    "mp4Bytes": 16651659,
+    "decodedMobileFrames": [
+      30,
+      840,
+      1730,
+      2010,
+      2820,
+      2990,
+      3093
+    ],
+    "fullListeningReview": "pending",
+    "creativeApproval": "pending_user_review",
+    "mouthTiming": "approximate_word_timed_grapheme_shapes_not_verified_phonemes",
+    "publication": "not_requested",
+    "purpose": "540p_animated_review_not_final_delivery"
+  },
+  "preview": "E:\\ByteVerseToon\\production\\storytelling\\jiboner-odbhut-golpo\\season-01\\episode-05\\exports\\review-v4-new-story\\preview-safe.mp4",
+  "previewUrl": "http://127.0.0.1:3123/review.html",
+  "reviewSamples": [
+    "opening-12s.mp4",
+    "payment-twist.mp4",
+    "decision.mp4",
+    "closing.mp4"
+  ],
+  "nativeReviewScreenshot": "native-review.jpg"
+}

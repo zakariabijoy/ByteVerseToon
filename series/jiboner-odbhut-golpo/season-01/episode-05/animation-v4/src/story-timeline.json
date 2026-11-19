@@ -1,0 +1,272 @@
+[
+  {
+    "id": "0",
+    "start": 0,
+    "end": 3.72,
+    "kind": "warning"
+  },
+  {
+    "id": "1",
+    "start": 3.72,
+    "end": 5.34,
+    "kind": "reaction"
+  },
+  {
+    "id": "2",
+    "start": 5.34,
+    "end": 7.38,
+    "kind": "rafi"
+  },
+  {
+    "id": "3",
+    "start": 7.38,
+    "end": 9.48,
+    "kind": "sajid"
+  },
+  {
+    "id": "4",
+    "start": 9.48,
+    "end": 11.76,
+    "kind": "promotion"
+  },
+  {
+    "id": "5",
+    "start": 11.76,
+    "end": 15.1,
+    "kind": "mayaWork"
+  },
+  {
+    "id": "6",
+    "start": 15.1,
+    "end": 16.76,
+    "kind": "turn"
+  },
+  {
+    "id": "7",
+    "start": 16.76,
+    "end": 21.36,
+    "kind": "approval"
+  },
+  {
+    "id": "8",
+    "start": 21.36,
+    "end": 23.16,
+    "kind": "two"
+  },
+  {
+    "id": "9",
+    "start": 23.16,
+    "end": 24.6,
+    "kind": "rafi"
+  },
+  {
+    "id": "10",
+    "start": 24.6,
+    "end": 26.52,
+    "kind": "laptopTurn"
+  },
+  {
+    "id": "11",
+    "start": 26.52,
+    "end": 29.02,
+    "kind": "payment"
+  },
+  {
+    "id": "12",
+    "start": 29.02,
+    "end": 30.06,
+    "kind": "reaction"
+  },
+  {
+    "id": "13",
+    "start": 30.06,
+    "end": 31.66,
+    "kind": "reportGreen"
+  },
+  {
+    "id": "14",
+    "start": 31.66,
+    "end": 32.86,
+    "kind": "reportRed"
+  },
+  {
+    "id": "15",
+    "start": 32.86,
+    "end": 35.22,
+    "kind": "notification"
+  },
+  {
+    "id": "16",
+    "start": 35.22,
+    "end": 39.12,
+    "kind": "message"
+  },
+  {
+    "id": "17",
+    "start": 39.12,
+    "end": 41.5,
+    "kind": "name"
+  },
+  {
+    "id": "18",
+    "start": 41.5,
+    "end": 43.08,
+    "kind": "rafi"
+  },
+  {
+    "id": "19",
+    "start": 43.08,
+    "end": 44.16,
+    "kind": "maya"
+  },
+  {
+    "id": "20",
+    "start": 44.16,
+    "end": 47.46,
+    "kind": "refusal"
+  },
+  {
+    "id": "21",
+    "start": 47.46,
+    "end": 49.12,
+    "kind": "reaction"
+  },
+  {
+    "id": "22",
+    "start": 49.12,
+    "end": 51.16,
+    "kind": "maya"
+  },
+  {
+    "id": "23",
+    "start": 51.16,
+    "end": 54.14,
+    "kind": "trap"
+  },
+  {
+    "id": "24",
+    "start": 54.14,
+    "end": 56.64,
+    "kind": "ring"
+  },
+  {
+    "id": "25",
+    "start": 56.64,
+    "end": 60.6,
+    "kind": "manager"
+  },
+  {
+    "id": "26",
+    "start": 60.6,
+    "end": 62.76,
+    "kind": "form"
+  },
+  {
+    "id": "27",
+    "start": 62.76,
+    "end": 64.3,
+    "kind": "maya"
+  },
+  {
+    "id": "28",
+    "start": 64.3,
+    "end": 65.22,
+    "kind": "decision"
+  },
+  {
+    "id": "29",
+    "start": 65.22,
+    "end": 70.14,
+    "kind": "write"
+  },
+  {
+    "id": "30",
+    "start": 70.14,
+    "end": 71.3,
+    "kind": "sign"
+  },
+  {
+    "id": "31",
+    "start": 71.3,
+    "end": 76.58,
+    "kind": "solution"
+  },
+  {
+    "id": "32",
+    "start": 76.58,
+    "end": 77.96,
+    "kind": "ring"
+  },
+  {
+    "id": "33",
+    "start": 77.96,
+    "end": 80.26,
+    "kind": "manager"
+  },
+  {
+    "id": "34",
+    "start": 80.26,
+    "end": 82.96,
+    "kind": "demo"
+  },
+  {
+    "id": "35",
+    "start": 82.96,
+    "end": 85.18,
+    "kind": "rollback"
+  },
+  {
+    "id": "36",
+    "start": 85.18,
+    "end": 86.42,
+    "kind": "sajid"
+  },
+  {
+    "id": "37",
+    "start": 86.42,
+    "end": 87.74,
+    "kind": "sajid"
+  },
+  {
+    "id": "38",
+    "start": 87.74,
+    "end": 89.64,
+    "kind": "twoSajid"
+  },
+  {
+    "id": "39",
+    "start": 89.64,
+    "end": 91.98,
+    "kind": "joke"
+  },
+  {
+    "id": "40",
+    "start": 91.98,
+    "end": 94.96,
+    "kind": "coffee"
+  },
+  {
+    "id": "41",
+    "start": 94.96,
+    "end": 96.96,
+    "kind": "warmRafi"
+  },
+  {
+    "id": "42",
+    "start": 96.96,
+    "end": 98.78,
+    "kind": "warmRafi"
+  },
+  {
+    "id": "44",
+    "start": 98.78,
+    "end": 100.3,
+    "kind": "warmMaya"
+  },
+  {
+    "id": "45",
+    "start": 100.3,
+    "end": 103.13333333333334,
+    "kind": "warmMaya"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "version": "story-v4",
+  "assets": [
+    {
+      "path": "backgrounds.png",
+      "bytes": 2390632,
+      "sha256": "97a4e50e39e5ba4da1504e01b3cfd44d236c19521d075e4e04b4a6519b8b9f09"
+    },
+    {
+      "path": "byteversetoon-profile.jpg",
+      "bytes": 20199,
+      "sha256": "5c0597e0600b4e5d9169e95b5b9051a7c4ab6979d815c7b13907f5cec723941e"
+    },
+    {
+      "path": "manager.png",
+      "bytes": 1415851,
+      "sha256": "06657ac88081629ab01df576b4ab5bf5c00d7fdb978c7f3f3c571719b98216d1"
+    },
+    {
+      "path": "maya.png",
+      "bytes": 1877777,
+      "sha256": "ceb13ef4ff90f768e3513e406aaff9246d4201262799d5824a824d8969f6280d"
+    },
+    {
+      "path": "rafi.png",
+      "bytes": 1642126,
+      "sha256": "76b9ea0fd7a06003d756bd7c70ce118f64f6c86ca6cf8c3b1d0f0a1dc3183d2a"
+    },
+    {
+      "path": "sajid.png",
+      "bytes": 1488092,
+      "sha256": "20a7cd69668cff62c6829a10e9015b5b6b744d7a4ae6bafe2fdaa4d78cb7d500"
+    },
+    {
+      "path": "story-effects-v4.wav",
+      "bytes": 19801644,
+      "sha256": "93d252997dffc0ac200b857c3b948136da26062eb0d87a8167efdfe5de23ccd5"
+    },
+    {
+      "path": "story-score-v4.wav",
+      "bytes": 19801644,
+      "sha256": "03694309f1a43d76b15d5f5ad21d7361c280041220a0717c3cf164be81140151"
+    },
+    {
+      "path": "voiceover-edited.wav",
+      "bytes": 9899564,
+      "sha256": "d64ad95dc64b99d14f094e7643610badb22ac23f54c82542fd763cc9a8ec6e01"
+    },
+    {
+      "path": "voiceover-original.wav",
+      "bytes": 10406444,
+      "sha256": "500a653fc8790c7cc9e5f62a45e8b45a7b9cfd1e0325a4efea34c50e88d5be3d"
+    }
+  ]
+}

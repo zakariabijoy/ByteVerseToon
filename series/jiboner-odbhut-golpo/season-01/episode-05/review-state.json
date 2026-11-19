@@ -1,0 +1,127 @@
+{
+  "episode": 5,
+  "title": "প্রমোশন পেল অন্যজন",
+  "updatedOn": "2026-11-19",
+  "story": "new_corporate_payment_release_story_approved_with_recording",
+  "script": "animation-v4/recorded-script-v4.bn.txt",
+  "recording": "user_final_2026-11-17T18_06_39Z",
+  "originalVoiceSha256": "500a653fc8790c7cc9e5f62a45e8b45a7b9cfd1e0325a4efea34c50e88d5be3d",
+  "originalSeconds": 108.4,
+  "voiceEdit": {
+    "approval": "User explicitly approved removing spoken directions only on 2026-11-18",
+    "removedSourceSeconds": [
+      98.72,
+      104.0
+    ],
+    "removedText": "ছোট বিরতি। মায়া মৃদু হাসি একটু দুষ্টুমি খুব স্বাভাবিক।",
+    "sourceSha256": "500a653fc8790c7cc9e5f62a45e8b45a7b9cfd1e0325a4efea34c50e88d5be3d",
+    "editedSha256": "d64ad95dc64b99d14f094e7643610badb22ac23f54c82542fd763cc9a8ec6e01",
+    "retainedPcmSamplesIdentical": true,
+    "duration": 103.12,
+    "speedChanged": false,
+    "narrationRegenerated": false
+  },
+  "voicePlaybackRate": 1,
+  "durationFrames": 3094,
+  "fps": 30,
+  "sourceVersion": "animation-v4",
+  "previewVersion": "review-v5-calls",
+  "animation": "phone_call_revision_preview_ready",
+  "videoApproval": "approved",
+  "finalDeliveryRender": "authorized_after_current_preview_approval",
+  "publication": "authorized_youtube_facebook_instagram_after_github_sync",
+  "gitPush": "explicitly_authorized_2026-11-19",
+  "technicalChecks": {
+    "typescript": "passed",
+    "retainedPcm": "sample_identical",
+    "completeDecode": "passed",
+    "audioPacketsIdenticalToV4": true,
+    "constantFrameRate": "30/1"
+  },
+  "visualReview": {
+    "frames": [
+      15,
+      75,
+      180,
+      390,
+      600,
+      840,
+      970,
+      1140,
+      1415,
+      1730,
+      2010,
+      2130,
+      2515,
+      2700,
+      2820,
+      3025
+    ],
+    "scope": "16 representative frames inspected; manager subsequently changed to stern intact pose",
+    "representation": "intact illustrated surfaces and native prop inserts; approximate word-timed mouths",
+    "motion": "Studio opening and evidence through frame 1540 advanced unmuted without overlay error; additional decision and closing source playback inspected. Native 9-second payment and 11.166-second closing MP4 excerpts reached end unmuted, error=null. This is playback verification, not full subjective listening.",
+    "decodedExportFramesInspected": [
+      1730,
+      3093
+    ]
+  },
+  "fullListeningReview": "pending",
+  "preservation": "all prior scripts, recordings, source and rejected reviews retained",
+  "verification": {
+    "version": 5,
+    "revision": "phone_call_continuity",
+    "frames": 3094,
+    "duration": 103.133333,
+    "dimensions": [
+      540,
+      960
+    ],
+    "fps": 30,
+    "fullDecode": "passed",
+    "audioPacketsUnchanged": true,
+    "audioPacketHash": "SHA256=4616bb8ef394d740ea366c26c5caf73c3a20243596bfae72185346ee7820efbc",
+    "base": "review-v4-new-story",
+    "replacedFrames": [
+      1624,
+      2407
+    ],
+    "sha256": "da2918bc8d08524cb4bab83c209232a9b2f662fa6b8cde23cd7344b3a803528e",
+    "creativeApproval": "pending_current_preview",
+    "fullListeningReview": "pending",
+    "finalDelivery": "not_rendered",
+    "publication": "not_requested"
+  },
+  "preview": "E:\\ByteVerseToon\\production\\storytelling\\jiboner-odbhut-golpo\\season-01\\episode-05\\exports\\review-v5-calls\\preview-safe.mp4",
+  "previewUrl": "http://127.0.0.1:3124/review.html",
+  "reviewSamples": [
+    "opening-12s.mp4",
+    "payment-twist.mp4",
+    "decision.mp4",
+    "closing.mp4"
+  ],
+  "nativeReviewScreenshot": "native-review.jpg",
+  "phoneCallRevision": {
+    "date": "2026-11-19",
+    "feedback": "phone call er scene gulor animation thik hoi ni",
+    "version": "review-v5-calls",
+    "source": "animation-v4/src/PhoneCall.tsx",
+    "corrections": [
+      "Incoming call appears only once, at the original ring cue",
+      "Connected speakerphone remains active through the approval-paper cutaways",
+      "Rafi and manager appear in separate office panels; speech/reaction indicators follow narration cues",
+      "The later reply stays on the same connection and does not ring again",
+      "Intact concerned character poses avoid detached phone-holding hands and unwanted smile changes"
+    ],
+    "audio": "copy approved review-v4 AAC packet stream unchanged",
+    "pictureInterval": [
+      1624,
+      2407
+    ],
+    "review": "ready_for_user_review",
+    "creativeApproval": "pending_user_review",
+    "fullListeningReview": "pending",
+    "nativeMotion": "Full 26.133-second revised call excerpt reached ended=true, muted=false, error=null in native browser player. Playback verification, not full subjective listening approval."
+  },
+  "approvalDate": "2026-11-19",
+  "approvalMessage": "perfect. update skill and synced with github. after that publish youtube, facebook, instagram"
+}

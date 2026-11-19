@@ -61,6 +61,8 @@ For thumbnails, cover alternatives or titles, read [thumbnails-and-titles.md](th
 
 For জীবনের অদ্ভুত গল্প, read the approved Episode 04 review-v4 section in [storytelling-series.md](storytelling-series.md). Reuse its bold Bengali emphasis, purposeful action, audible effect cues, suspense/score contrast and sound-enabled review approach while preserving the established cast and supplied narration. This applies to the storytelling series; other production modes retain their own approved style.
 
+The same reference now includes the approved Episode 05 story and phone-call direction: consequential corporate/software conflicts where appropriate, layered character choices, comedy and restrained romance, plus continuous call states and supported prop contact. Use that section for new stories and phone scenes; retain per-episode story/audio/preview approval.
+
 ## Select the visual mode
 
 - **Recurring storytelling series:** read [storytelling-series.md](storytelling-series.md). Draft one story at a time for user review, revise it until final story approval, then wait for the user's voiceover before animation. Establish the new series and consistent cast with the user; do not reuse a retired series or assume a title, protagonist or narrator. GitHub sync does not authorize platform publication or paid generation.

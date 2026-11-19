@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "feedback": "phone call er scene gulor animation thik hoi ni",
+  "version": "review-v5-calls",
+  "source": "animation-v4/src/PhoneCall.tsx",
+  "corrections": [
+    "Incoming call appears only once, at the original ring cue",
+    "Connected speakerphone remains active through the approval-paper cutaways",
+    "Rafi and manager appear in separate office panels; speech/reaction indicators follow narration cues",
+    "The later reply stays on the same connection and does not ring again",
+    "Intact concerned character poses avoid detached phone-holding hands and unwanted smile changes"
+  ],
+  "audio": "copy approved review-v4 AAC packet stream unchanged",
+  "pictureInterval": [
+    1624,
+    2407
+  ],
+  "review": "pending_render_and_motion_check",
+  "creativeApproval": "pending_user_review",
+  "fullListeningReview": "pending"
+}

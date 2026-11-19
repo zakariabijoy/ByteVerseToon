@@ -1,0 +1,11 @@
+{
+  "processing": "local_only",
+  "model": {
+    "repository": "dropbox-dash/faster-whisper-large-v3-turbo",
+    "revision": "0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf"
+  },
+  "alignment": "Reference-text cross-attention over 29 ASR-informed speech chunks; canonical spelling retained",
+  "words": 193,
+  "mouthTiming": "approximate word-timed grapheme shapes, not verified phoneme sync",
+  "recordingVariant": "User explicitly selected the supplied first-draft recording over revision-2 text after discrepancy was reported"
+}

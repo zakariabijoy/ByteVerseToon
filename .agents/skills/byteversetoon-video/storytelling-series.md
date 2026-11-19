@@ -68,3 +68,59 @@ Read Episode 04's storyboard.md, reference-direction.md, review-state.json and a
 - Show a sound-enabled opening sample and a representative suspense/reveal sample, plus the full current review preview. Still frames, audio meters and a successful decode do not prove compelling sound or acting. Record actual motion/listening scope honestly. Each new episode still requires its own current preview approval.
 
 Reuse the principles and editable components, not the exact plot, action schedule or soundtrack. Keep the user-supplied approved narration. Measure retention against the series own baseline when data exists; no guaranteed virality or universal numeric targets.
+
+## Approved story and call direction — Episode 05 review-v5 (2026-11-19)
+
+The user accepted the new story and corrected phone-call preview with “perfect”.
+Read Episode 05's `animation-v4/README.md`, `storyboard-v4.md`,
+`animation-v4/src/PhoneCall.tsx` and `phone-call-revision-v5.json` for this example.
+The active composition is `animation-v4/src/NewEpisode.tsx`; `animation/` and
+older scripts are preserved superseded work. Media remains separate from Git.
+This acceptance is a reusable series reference, not approval of future episodes.
+
+### Story craft
+
+The user wants stronger twists, character clashes, corporate politics and real
+software-engineering stakes, mixed with suspense, emotion, situational comedy,
+psychological reversals, moral choices and light romantic subtext. Vary their
+weight across episodes instead of forcing every device into every story or
+turning neighborhood/family episodes into office plots. Make evidence change a
+character's understanding, give competing choices a believable cost, and earn
+the payoff through action rather than a closing moral lecture. Maya acts on her
+own convictions; romance does not replace her goals. Sajid can surprise the
+audience without erasing his earlier mistakes. Memorable dialogue is a craft
+goal, not a promise of viral reach.
+
+### Phone calls and prop contact
+
+Author a call as one continuous state: incoming ring, answer, connected
+conversation, then end. An “opposite end replied” narration is not a second
+incoming call. Keep connection cues consistent through document or reaction
+cutaways, and synchronize speaking/listening reactions to the actual dialogue.
+Keep office geography clear when callers are apart. The approved example uses
+two office panels and supported speakerphones; adapt the staging rather than
+requiring split screen for every call.
+
+Use a plausible contact pose when artwork supports it. With the established
+intact cast, a supported speakerphone is preferable to attaching a detached
+hand or floating phone to the illustration. Check device support, shoulders,
+wrists and head continuity in motion. Avoid happy pose changes during coercion
+or anxious dialogue. Connection labels, timers and speaker indicators support
+the acting; they do not substitute for it.
+
+### Supplied narration and revision verification
+
+Check that performance notes have not accidentally been spoken. Preserve the
+original; obtain a concrete edit decision before cutting approved narration.
+For Episode 05 the user authorized removing only the spoken directions; all
+retained PCM samples were identical and playback speed stayed unchanged.
+Rebuild timing after an authorized cut. Never generalize that permission to
+future recordings.
+
+For a picture-only revision, retain the approved mix and verify copied audio
+when practical. After joining rendered intervals, verify constant frame rate,
+frame count, duration and the join in motion; the first Episode 05 join exposed
+a fractional average frame rate until CFR was explicitly set. Deliver a current
+sound-enabled changed-section preview plus the full updated review. Playback,
+technical validation, user creative approval and full subjective listening are
+distinct records.

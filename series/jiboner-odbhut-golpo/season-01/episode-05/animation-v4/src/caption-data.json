@@ -1,0 +1,415 @@
+[
+  {
+    "text": "প্রমোশনের কাগজে সই করিস না।",
+    "startMs": 0,
+    "endMs": 1840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আগে শেষ পাতাটা পড়।",
+    "startMs": 1840,
+    "endMs": 3720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদের কথায় রাফি থামল।",
+    "startMs": 3720,
+    "endMs": 5340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আবার কী চাল চালছিস?",
+    "startMs": 5340,
+    "endMs": 7380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চালটা আমার না।",
+    "startMs": 7380,
+    "endMs": 8960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সকালে রাফি টিম লিড হয়েছে।",
+    "startMs": 9480,
+    "endMs": 11760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "অথচ প্রজেক্টের আটকে থাকা কাজগুলো শেষ করেছিল",
+    "startMs": 11760,
+    "endMs": 14440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া।",
+    "startMs": 14440,
+    "endMs": 15100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি কাগজের শেষ পাতা খুলল।",
+    "startMs": 15100,
+    "endMs": 16760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লেখা—সব টেস্ট পাস।",
+    "startMs": 16760,
+    "endMs": 18860,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লাইভ রিলিজের অনুমোদন দেবেন রাফি আহমেদ।",
+    "startMs": 18860,
+    "endMs": 21340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়ার কাছে গিয়ে সে বলল,",
+    "startMs": 21360,
+    "endMs": 23160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টেস্টগুলো পাস করেছে?",
+    "startMs": 23160,
+    "endMs": 24600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া ল্যাপটপ ঘুরিয়ে দিল।",
+    "startMs": 24600,
+    "endMs": 26520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একবার পেমেন্ট।",
+    "startMs": 26520,
+    "endMs": 27760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দুবার টাকা কাটা।",
+    "startMs": 27760,
+    "endMs": 29020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি তাকিয়ে রইল।",
+    "startMs": 29020,
+    "endMs": 30040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রিপোর্টে তো সবুজ দেখাচ্ছে!",
+    "startMs": 30060,
+    "endMs": 31660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমার রিপোর্টে লালই ছিল।",
+    "startMs": 31660,
+    "endMs": 32865,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ঠিক তখন ম্যানেজারের মেসেজ এল।",
+    "startMs": 32860,
+    "endMs": 35220,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ক্লায়েন্ট আজই লাইভ চায়।",
+    "startMs": 35220,
+    "endMs": 36860,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ছোট বাগটা পরে ঠিক করো।",
+    "startMs": 36860,
+    "endMs": 38280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আগে সই করো।",
+    "startMs": 38280,
+    "endMs": 39120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি আবার নিজের নামটার দিকে তাকাল।",
+    "startMs": 39120,
+    "endMs": 41500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এই সমস্যার কথা আগে বলিসনি কেন?",
+    "startMs": 41500,
+    "endMs": 43080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া বলল,",
+    "startMs": 43080,
+    "endMs": 44160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এই অনুমোদনটা কাল আমার কাছে এসেছিল।",
+    "startMs": 44160,
+    "endMs": 46560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমি সই করিনি।",
+    "startMs": 46560,
+    "endMs": 47440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি চুপ হয়ে গেল।",
+    "startMs": 47460,
+    "endMs": 49120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া প্রমোশন পায়নি।",
+    "startMs": 49120,
+    "endMs": 51160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আর তাকে দেওয়া হয়েছে সেই একই অনুমোদনের কাগজ।",
+    "startMs": 51160,
+    "endMs": 54140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোন বেজে উঠল।",
+    "startMs": 54140,
+    "endMs": 55260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ম্যানেজার।",
+    "startMs": 55260,
+    "endMs": 56640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একটা সই করতে এত সময়?",
+    "startMs": 56640,
+    "endMs": 58140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দায়িত্ব নিতে না পারলে টিম লিড হবে কীভাবে?",
+    "startMs": 58140,
+    "endMs": 60580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি অনুমোদনের ফর্মটা খুলল।",
+    "startMs": 60600,
+    "endMs": 62760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া কিছু বলল না।",
+    "startMs": 62760,
+    "endMs": 64300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি লিখল—",
+    "startMs": 64300,
+    "endMs": 65220,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পেমেন্ট টেস্ট ব্যর্থ।",
+    "startMs": 65220,
+    "endMs": 67320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লাইভ রিলিজ স্থগিত রাখার সুপারিশ করছি।",
+    "startMs": 67320,
+    "endMs": 70140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তার নিচে নিজের নাম।",
+    "startMs": 70140,
+    "endMs": 71280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "স্যার, টেস্ট ডেটা দিয়ে ডেমো করতে পারি।",
+    "startMs": 71300,
+    "endMs": 74060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আসল পেমেন্ট চালু করব সমস্যাটা ঠিক হওয়ার পর।",
+    "startMs": 74060,
+    "endMs": 76580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ওপাশ থেকে উত্তর এল—",
+    "startMs": 76580,
+    "endMs": 77960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তোমার সিদ্ধান্তটা মেইল করো।",
+    "startMs": 77960,
+    "endMs": 80260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সেদিন ডেমো হলো।",
+    "startMs": 80260,
+    "endMs": 81360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লাইভ রিলিজ হলো না।",
+    "startMs": 81360,
+    "endMs": 82960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পরদিন রাফির প্রমোশন স্থগিতের মেইল এল।",
+    "startMs": 82960,
+    "endMs": 85180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ উঁকি দিল।",
+    "startMs": 85180,
+    "endMs": 86420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টিম লিডের ট্রিটটা?",
+    "startMs": 86420,
+    "endMs": 87740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি মেইলটা দেখাল।",
+    "startMs": 87740,
+    "endMs": 89640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "প্রমোশন রোলব্যাক হয়েছে।",
+    "startMs": 89640,
+    "endMs": 91260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বিস্কুট চলবে?",
+    "startMs": 91260,
+    "endMs": 91980,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া এসে তার পাশে এক কাপ কফি রাখল।",
+    "startMs": 91980,
+    "endMs": 94940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি চুমুক দিয়ে তাকাল।",
+    "startMs": 94960,
+    "endMs": 96960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চিনি ছাড়া?",
+    "startMs": 96960,
+    "endMs": 97560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মনে রেখেছিস?",
+    "startMs": 97560,
+    "endMs": 98500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়া হেসে বলল—",
+    "startMs": 98780,
+    "endMs": 100300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সব খবর তো আর টিমের গ্রুপে দিই না।",
+    "startMs": 100300,
+    "endMs": 103000,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

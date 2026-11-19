@@ -1,0 +1,52 @@
+{
+  "episode": 5,
+  "restoreBase": "${BVT_WORKSPACE}/production/storytelling/jiboner-odbhut-golpo/season-01/episode-05/assets",
+  "mediaInGit": false,
+  "assets": [
+    {
+      "file": "backgrounds.png",
+      "bytes": 2390632,
+      "sha256": "97A4E50E39E5BA4DA1504E01B3CFD44D236C19521D075E4E04B4A6519B8B9F09"
+    },
+    {
+      "file": "byteversetoon-profile.jpg",
+      "bytes": 20199,
+      "sha256": "5C0597E0600B4E5D9169E95B5B9051A7C4AB6979D815C7B13907F5CEC723941E"
+    },
+    {
+      "file": "drama-effects.wav",
+      "bytes": 14845868,
+      "sha256": "47B10442B0A3548CDAF99BD2C1CB745B5E36D64CBCA76ED18DDAF15CFB3CA0D2"
+    },
+    {
+      "file": "drama-score.wav",
+      "bytes": 14845868,
+      "sha256": "86B653D1BA0F08E8932DE9E72C51FAF14C2D3E107A9C092124AF71BB40470BFE"
+    },
+    {
+      "file": "manager.png",
+      "bytes": 1415851,
+      "sha256": "06657AC88081629AB01DF576B4AB5BF5C00D7FDB978C7F3F3C571719B98216D1"
+    },
+    {
+      "file": "maya.png",
+      "bytes": 1877777,
+      "sha256": "CEB13EF4FF90F768E3513E406AAFF9246D4201262799D5824A824D8969F6280D"
+    },
+    {
+      "file": "rafi.png",
+      "bytes": 1642126,
+      "sha256": "76B9EA0FD7A06003D756BD7C70CE118F64F6C86CA6CF8C3B1D0F0A1DC3183D2A"
+    },
+    {
+      "file": "voiceover-original.wav",
+      "bytes": 8079404,
+      "sha256": "6A2AE7186487008E8622158766D90C43D6E950D84164FD5614C85F634A15B1FA"
+    },
+    {
+      "file": "clear-effects-v2.wav",
+      "bytes": 16158764,
+      "sha256": "1194E708160A439856B0F57B0CE460F0F777AD6FB362118F134C90BEA414F297"
+    }
+  ]
+}
