@@ -1,0 +1,1633 @@
+[
+  {
+    "text": "স্যার,",
+    "startMs": 0,
+    "endMs": 500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আপনার",
+    "startMs": 740,
+    "endMs": 1040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 1040,
+    "endMs": 1260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "নিচে",
+    "startMs": 1260,
+    "endMs": 1620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এসেছিলেন।",
+    "startMs": 1620,
+    "endMs": 2360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলে",
+    "startMs": 2360,
+    "endMs": 2700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গেছেন—আপনাকে",
+    "startMs": 2700,
+    "endMs": 3720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "যেন",
+    "startMs": 3720,
+    "endMs": 3880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না",
+    "startMs": 3880,
+    "endMs": 4120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ডাকি।",
+    "startMs": 4120,
+    "endMs": 4440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 4460,
+    "endMs": 5520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ল্যাপটপ",
+    "startMs": 5520,
+    "endMs": 5900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "থেকে",
+    "startMs": 5900,
+    "endMs": 6120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চোখ",
+    "startMs": 6120,
+    "endMs": 6360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তুলল।",
+    "startMs": 6360,
+    "endMs": 6680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা?",
+    "startMs": 6700,
+    "endMs": 7520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কখন?",
+    "startMs": 7760,
+    "endMs": 8340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ঘণ্টাখানেক",
+    "startMs": 8350,
+    "endMs": 10070,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আগেও",
+    "startMs": 10070,
+    "endMs": 10470,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোনে",
+    "startMs": 10470,
+    "endMs": 10930,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়ের",
+    "startMs": 10930,
+    "endMs": 11230,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তিনটা",
+    "startMs": 11230,
+    "endMs": 11690,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মিসড",
+    "startMs": 11690,
+    "endMs": 11990,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কল",
+    "startMs": 11990,
+    "endMs": 12170,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দেখে",
+    "startMs": 12170,
+    "endMs": 12410,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বিরক্ত",
+    "startMs": 12410,
+    "endMs": 12770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হয়েছিল",
+    "startMs": 12770,
+    "endMs": 13110,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সে।",
+    "startMs": 13110,
+    "endMs": 13330,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আজ",
+    "startMs": 13340,
+    "endMs": 14200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তার",
+    "startMs": 14200,
+    "endMs": 14380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "প্রথম",
+    "startMs": 14380,
+    "endMs": 14820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বড়",
+    "startMs": 14820,
+    "endMs": 15080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ক্লায়েন্ট",
+    "startMs": 15080,
+    "endMs": 15460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মিটিং।",
+    "startMs": 15460,
+    "endMs": 15760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোন",
+    "startMs": 15780,
+    "endMs": 16840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করতেই",
+    "startMs": 16840,
+    "endMs": 17240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 17240,
+    "endMs": 17400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলেছিলেন,",
+    "startMs": 17400,
+    "endMs": 17880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বাবা,",
+    "startMs": 17900,
+    "endMs": 18800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দুপুরে",
+    "startMs": 18940,
+    "endMs": 19640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একটু—",
+    "startMs": 19640,
+    "endMs": 19760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 19780,
+    "endMs": 20720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মাঝখানে",
+    "startMs": 20720,
+    "endMs": 21140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "থামিয়ে",
+    "startMs": 21140,
+    "endMs": 21580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দিয়েছিল।",
+    "startMs": 21580,
+    "endMs": 21880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা,",
+    "startMs": 22240,
+    "endMs": 22720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দরকারটা",
+    "startMs": 22860,
+    "endMs": 23560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মেসেজ",
+    "startMs": 23560,
+    "endMs": 23880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করো।",
+    "startMs": 23880,
+    "endMs": 24480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একই",
+    "startMs": 24480,
+    "endMs": 24820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কথা",
+    "startMs": 24820,
+    "endMs": 25100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলার",
+    "startMs": 25100,
+    "endMs": 25320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "জন্য",
+    "startMs": 25320,
+    "endMs": 25580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বারবার",
+    "startMs": 25580,
+    "endMs": 25960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোন",
+    "startMs": 25960,
+    "endMs": 26200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দিয়ো",
+    "startMs": 26200,
+    "endMs": 26460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না।",
+    "startMs": 26460,
+    "endMs": 26580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ওপাশে",
+    "startMs": 26600,
+    "endMs": 27480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একটু",
+    "startMs": 27480,
+    "endMs": 27640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "নীরবতা।",
+    "startMs": 27640,
+    "endMs": 28100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আচ্ছা।",
+    "startMs": 28120,
+    "endMs": 29720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কাজ",
+    "startMs": 29720,
+    "endMs": 30020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কর।",
+    "startMs": 30020,
+    "endMs": 30240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এখন",
+    "startMs": 30260,
+    "endMs": 31480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গার্ডের",
+    "startMs": 31480,
+    "endMs": 31920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হাতে",
+    "startMs": 31920,
+    "endMs": 32180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একটা",
+    "startMs": 32180,
+    "endMs": 32460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কাপড়ের",
+    "startMs": 32460,
+    "endMs": 32900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ব্যাগ।",
+    "startMs": 32900,
+    "endMs": 33180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টিফিনটা",
+    "startMs": 33200,
+    "endMs": 34040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রেখে",
+    "startMs": 34040,
+    "endMs": 34240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গেছেন।",
+    "startMs": 34240,
+    "endMs": 35100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করিম",
+    "startMs": 35100,
+    "endMs": 35460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ভাইয়ের",
+    "startMs": 35460,
+    "endMs": 35740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দোকানে",
+    "startMs": 35740,
+    "endMs": 36040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বসেছিলেন।",
+    "startMs": 36040,
+    "endMs": 36940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বাসের",
+    "startMs": 36940,
+    "endMs": 37320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সময়",
+    "startMs": 37320,
+    "endMs": 37600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হয়ে",
+    "startMs": 37600,
+    "endMs": 37800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গেছে",
+    "startMs": 37800,
+    "endMs": 38020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বোধহয়।",
+    "startMs": 38020,
+    "endMs": 38320,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 38400,
+    "endMs": 39240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ব্যাগটা",
+    "startMs": 39240,
+    "endMs": 39600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "খুলল।",
+    "startMs": 39600,
+    "endMs": 40040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দুটো",
+    "startMs": 40040,
+    "endMs": 40700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টিফিন…",
+    "startMs": 40700,
+    "endMs": 41100,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দুটো",
+    "startMs": 41100,
+    "endMs": 41360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চামচ।",
+    "startMs": 41360,
+    "endMs": 42180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ওপরের",
+    "startMs": 42180,
+    "endMs": 42740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ছোট",
+    "startMs": 42740,
+    "endMs": 42980,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বাটিতে",
+    "startMs": 42980,
+    "endMs": 43360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আলুভর্তা।",
+    "startMs": 43360,
+    "endMs": 44360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সকালের",
+    "startMs": 44380,
+    "endMs": 44940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কথাটা",
+    "startMs": 44940,
+    "endMs": 45280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মনে",
+    "startMs": 45280,
+    "endMs": 45500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পড়ল",
+    "startMs": 45500,
+    "endMs": 45700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তার।",
+    "startMs": 45700,
+    "endMs": 46000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 46020,
+    "endMs": 46680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "জিজ্ঞেস",
+    "startMs": 46680,
+    "endMs": 47040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করেছিলেন,",
+    "startMs": 47040,
+    "endMs": 47540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আজ",
+    "startMs": 47760,
+    "endMs": 48200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কী",
+    "startMs": 48200,
+    "endMs": 48300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "খাবি?",
+    "startMs": 48300,
+    "endMs": 48620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "জুতো",
+    "startMs": 48640,
+    "endMs": 49700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পরতে",
+    "startMs": 49700,
+    "endMs": 50020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পরতে",
+    "startMs": 50020,
+    "endMs": 50300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সে",
+    "startMs": 50300,
+    "endMs": 50440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলেছিল,",
+    "startMs": 50440,
+    "endMs": 50900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তোমার",
+    "startMs": 50960,
+    "endMs": 51800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হাতের",
+    "startMs": 51800,
+    "endMs": 52120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আলুভর্তা।",
+    "startMs": 52120,
+    "endMs": 53120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "অফিসের",
+    "startMs": 53120,
+    "endMs": 53540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "খাবার",
+    "startMs": 53540,
+    "endMs": 53980,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আর",
+    "startMs": 53980,
+    "endMs": 54060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ভালো",
+    "startMs": 54060,
+    "endMs": 54360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লাগে",
+    "startMs": 54360,
+    "endMs": 54600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না।",
+    "startMs": 54600,
+    "endMs": 54720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলেই",
+    "startMs": 54740,
+    "endMs": 55420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ভুলে",
+    "startMs": 55420,
+    "endMs": 55660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "গিয়েছিল।",
+    "startMs": 55660,
+    "endMs": 56120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 56140,
+    "endMs": 56780,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ভোলেননি।",
+    "startMs": 56780,
+    "endMs": 57200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 57220,
+    "endMs": 57960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোন",
+    "startMs": 57960,
+    "endMs": 58140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করল।",
+    "startMs": 58140,
+    "endMs": 58500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা,",
+    "startMs": 58650,
+    "endMs": 59290,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তুমি",
+    "startMs": 59570,
+    "endMs": 59930,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এসেছ",
+    "startMs": 59930,
+    "endMs": 60230,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলোনি",
+    "startMs": 60230,
+    "endMs": 60630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কেন?",
+    "startMs": 60630,
+    "endMs": 60810,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তুই",
+    "startMs": 60900,
+    "endMs": 61760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তো",
+    "startMs": 61760,
+    "endMs": 61860,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দরকারটা",
+    "startMs": 61860,
+    "endMs": 62300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মেসেজ",
+    "startMs": 62300,
+    "endMs": 62580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করতে",
+    "startMs": 62580,
+    "endMs": 62900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বললি।",
+    "startMs": 62900,
+    "endMs": 63180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 63200,
+    "endMs": 64260,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কথা",
+    "startMs": 64260,
+    "endMs": 64520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "খুঁজে",
+    "startMs": 64520,
+    "endMs": 64760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পেল",
+    "startMs": 64760,
+    "endMs": 64940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না।",
+    "startMs": 64940,
+    "endMs": 65160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 65180,
+    "endMs": 66020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আস্তে",
+    "startMs": 66020,
+    "endMs": 66280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বললেন,",
+    "startMs": 66280,
+    "endMs": 66520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তোর",
+    "startMs": 66540,
+    "endMs": 67580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কাছে",
+    "startMs": 67580,
+    "endMs": 67780,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "কিছু",
+    "startMs": 67780,
+    "endMs": 67920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চাইতে",
+    "startMs": 67920,
+    "endMs": 68300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আসিনি",
+    "startMs": 68300,
+    "endMs": 68640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রে…",
+    "startMs": 68640,
+    "endMs": 69000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ভাবলাম,",
+    "startMs": 69000,
+    "endMs": 69820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আজ",
+    "startMs": 70040,
+    "endMs": 70460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একসঙ্গে",
+    "startMs": 70460,
+    "endMs": 70900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "খাই।",
+    "startMs": 70900,
+    "endMs": 71280,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ল্যাপটপে",
+    "startMs": 71400,
+    "endMs": 72440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মিটিং",
+    "startMs": 72440,
+    "endMs": 72700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "শুরুর",
+    "startMs": 72700,
+    "endMs": 73020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সংকেত",
+    "startMs": 73020,
+    "endMs": 73400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বাজল।",
+    "startMs": 73400,
+    "endMs": 73760,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 73780,
+    "endMs": 74600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদকে",
+    "startMs": 74600,
+    "endMs": 75020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলল,",
+    "startMs": 75020,
+    "endMs": 75360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "শুরুর",
+    "startMs": 75380,
+    "endMs": 76240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আপডেটটা",
+    "startMs": 76240,
+    "endMs": 76680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তুই",
+    "startMs": 76680,
+    "endMs": 76800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দিবি?",
+    "startMs": 76800,
+    "endMs": 77040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দশ",
+    "startMs": 77160,
+    "endMs": 77560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মিনিট",
+    "startMs": 77560,
+    "endMs": 77820,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লাগবে।",
+    "startMs": 77820,
+    "endMs": 78560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বাকিটা",
+    "startMs": 78560,
+    "endMs": 79020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফিরে",
+    "startMs": 79020,
+    "endMs": 79240,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এসে",
+    "startMs": 79240,
+    "endMs": 79460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "আমি",
+    "startMs": 79460,
+    "endMs": 79700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "নেব।",
+    "startMs": 79700,
+    "endMs": 79940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাজিদ",
+    "startMs": 79960,
+    "endMs": 81140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ব্যাগের",
+    "startMs": 81140,
+    "endMs": 81460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দুটো",
+    "startMs": 81460,
+    "endMs": 81680,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চামচ",
+    "startMs": 81680,
+    "endMs": 82000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দেখল।",
+    "startMs": 82000,
+    "endMs": 82420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তারপর",
+    "startMs": 82560,
+    "endMs": 83040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বলল,",
+    "startMs": 83040,
+    "endMs": 83300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "যা।",
+    "startMs": 83440,
+    "endMs": 84800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এবার",
+    "startMs": 84800,
+    "endMs": 85020,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোনটা",
+    "startMs": 85020,
+    "endMs": 85340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ধরিস।",
+    "startMs": 85340,
+    "endMs": 85660,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বাসস্ট্যান্ডে",
+    "startMs": 85680,
+    "endMs": 87140,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মাকে",
+    "startMs": 87140,
+    "endMs": 87400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পেল",
+    "startMs": 87400,
+    "endMs": 87580,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি।",
+    "startMs": 87580,
+    "endMs": 87900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পাশে",
+    "startMs": 87920,
+    "endMs": 88800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বসে",
+    "startMs": 88800,
+    "endMs": 89000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টিফিন",
+    "startMs": 89000,
+    "endMs": 89300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "খুলতেই",
+    "startMs": 89300,
+    "endMs": 89720,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 89720,
+    "endMs": 89880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বললেন,",
+    "startMs": 89880,
+    "endMs": 90300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হাত",
+    "startMs": 90320,
+    "endMs": 91120,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ধুয়েছিস?",
+    "startMs": 91120,
+    "endMs": 91480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 91500,
+    "endMs": 92360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হেসে",
+    "startMs": 92360,
+    "endMs": 92640,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফেলল।",
+    "startMs": 92640,
+    "endMs": 92960,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এত",
+    "startMs": 92980,
+    "endMs": 93700,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বড়",
+    "startMs": 93700,
+    "endMs": 93920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টিম",
+    "startMs": 93920,
+    "endMs": 94220,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লিড",
+    "startMs": 94220,
+    "endMs": 94480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হলাম।",
+    "startMs": 94480,
+    "endMs": 95060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এই",
+    "startMs": 95060,
+    "endMs": 95300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "প্রশ্নটা",
+    "startMs": 95300,
+    "endMs": 95740,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বদলাবে",
+    "startMs": 95740,
+    "endMs": 95980,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না?",
+    "startMs": 95980,
+    "endMs": 96000,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মা",
+    "startMs": 96000,
+    "endMs": 97060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "পানির",
+    "startMs": 97060,
+    "endMs": 97480,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "বোতলটা",
+    "startMs": 97480,
+    "endMs": 97880,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এগিয়ে",
+    "startMs": 97880,
+    "endMs": 98160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দিলেন।",
+    "startMs": 98160,
+    "endMs": 98420,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "টিম",
+    "startMs": 98440,
+    "endMs": 99160,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "লিড",
+    "startMs": 99160,
+    "endMs": 99360,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হলে",
+    "startMs": 99360,
+    "endMs": 99540,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হাত",
+    "startMs": 99540,
+    "endMs": 99800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ধুতে",
+    "startMs": 99800,
+    "endMs": 100040,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হয়",
+    "startMs": 100040,
+    "endMs": 100200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "না?",
+    "startMs": 100200,
+    "endMs": 100340,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "এবার",
+    "startMs": 100360,
+    "endMs": 101180,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "রাফি",
+    "startMs": 101180,
+    "endMs": 101460,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "ফোনটা",
+    "startMs": 101460,
+    "endMs": 101800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "সাইলেন্ট",
+    "startMs": 101800,
+    "endMs": 102200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "করল।",
+    "startMs": 102200,
+    "endMs": 102520,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "তারপর",
+    "startMs": 102540,
+    "endMs": 103200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দুটো",
+    "startMs": 103200,
+    "endMs": 103620,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "চামচের",
+    "startMs": 103620,
+    "endMs": 104080,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "একটা",
+    "startMs": 104080,
+    "endMs": 104380,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "মায়ের",
+    "startMs": 104380,
+    "endMs": 104800,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "হাতে",
+    "startMs": 104800,
+    "endMs": 105060,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "দিল।",
+    "startMs": 105060,
+    "endMs": 105320,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

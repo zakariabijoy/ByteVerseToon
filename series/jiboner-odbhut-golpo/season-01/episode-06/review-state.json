@@ -1,0 +1,21 @@
+{
+  "episode": 6,
+  "title": "মায়ের তিনটা মিসড কল",
+  "storyApproved": true,
+  "voiceApproved": true,
+  "voiceEdits": [],
+  "sourceDurationSeconds": 105.52,
+  "frames": 3166,
+  "reviewVersion": 1,
+  "status": "ready_for_user_review",
+  "creativeApproval": "pending_current_preview",
+  "fullListeningReview": "pending",
+  "publication": "not_requested",
+  "sourceOnly": "Media and recordings remain local",
+  "notes": [
+    "ASR independently sampled, then approved reference text aligned using local cross-attention. ASR alone is not a listening approval.",
+    "Mother uses the intact new four-pose art with continuous deformation. Uncalibrated face overlays were removed after visual QA; this is not verified lip synchronization.",
+    "Studio image-wrapper issue worked around using native background drawing. Bundled review uses the equivalent original image layout."
+  ],
+  "technicalVerification": "verification.json"
+}

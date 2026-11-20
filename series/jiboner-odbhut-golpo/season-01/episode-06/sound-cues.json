@@ -1,0 +1,88 @@
+{
+  "origin": "original_local_synthesis",
+  "cues": [
+    {
+      "at": 0.12,
+      "type": "restrained_low_impact"
+    },
+    {
+      "at": 8.5,
+      "type": "screen_contact"
+    },
+    {
+      "at": 15.8,
+      "type": "screen_contact"
+    },
+    {
+      "at": 17.9,
+      "type": "call_connection"
+    },
+    {
+      "at": 31,
+      "type": "cloth_bag_unfold"
+    },
+    {
+      "at": 37.6,
+      "type": "short_anticipation",
+      "duration": 0.8
+    },
+    {
+      "at": 38.45,
+      "type": "cloth_bag_unfold"
+    },
+    {
+      "at": 39.35,
+      "type": "steel_contact"
+    },
+    {
+      "at": 41.2,
+      "type": "steel_contact"
+    },
+    {
+      "at": 42.55,
+      "type": "restrained_low_impact"
+    },
+    {
+      "at": 57.25,
+      "type": "screen_contact"
+    },
+    {
+      "at": 58.65,
+      "type": "call_connection"
+    },
+    {
+      "at": 71.5,
+      "type": "meeting_notification"
+    },
+    {
+      "at": 75.4,
+      "type": "keyboard_contact"
+    },
+    {
+      "at": 78.3,
+      "type": "keyboard_contact"
+    },
+    {
+      "at": 88.1,
+      "type": "cloth_bag_unfold"
+    },
+    {
+      "at": 89.2,
+      "type": "steel_contact"
+    },
+    {
+      "at": 97.8,
+      "type": "bottle_contact"
+    },
+    {
+      "at": 100.9,
+      "type": "screen_contact"
+    },
+    {
+      "at": 103.6,
+      "type": "steel_contact"
+    }
+  ],
+  "fullListeningReview": "pending",
+  "voiceEdits": "none"
+}

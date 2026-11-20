@@ -1,0 +1,57 @@
+{
+  "episode": 6,
+  "mediaSeparateFromGit": true,
+  "voiceOriginalUnedited": true,
+  "files": [
+    {
+      "name": "backgrounds.png",
+      "bytes": 2390632,
+      "sha256": "97a4e50e39e5ba4da1504e01b3cfd44d236c19521d075e4e04b4a6519b8b9f09"
+    },
+    {
+      "name": "byteversetoon-profile.jpg",
+      "bytes": 20199,
+      "sha256": "5c0597e0600b4e5d9169e95b5b9051a7c4ab6979d815c7b13907f5cec723941e"
+    },
+    {
+      "name": "effects.wav",
+      "bytes": 20262444,
+      "sha256": "8e5cd7b2a121349591a695f30869d313bd28b32e885039e9e12c6876f6043420"
+    },
+    {
+      "name": "family-backgrounds.png",
+      "bytes": 2937828,
+      "sha256": "958bfbd21601caf7b8765d1a3c558ebac40d2885433cd28131af636fd823d5bb"
+    },
+    {
+      "name": "mother.png",
+      "bytes": 1758053,
+      "sha256": "8aaac693c6bd4621756d6b8a54c9beb9f493769179a3a556af26404a28748f72"
+    },
+    {
+      "name": "rafi.png",
+      "bytes": 1642126,
+      "sha256": "76b9ea0fd7a06003d756bd7c70ce118f64f6c86ca6cf8c3b1d0f0a1dc3183d2a"
+    },
+    {
+      "name": "sajid.png",
+      "bytes": 1488092,
+      "sha256": "20a7cd69668cff62c6829a10e9015b5b6b744d7a4ae6bafe2fdaa4d78cb7d500"
+    },
+    {
+      "name": "score.wav",
+      "bytes": 20262444,
+      "sha256": "80808e667bc5ca2e1a2963b6bb45761f248901d52de3a7eeaa58a6339e524421"
+    },
+    {
+      "name": "tea-stall.png",
+      "bytes": 2347582,
+      "sha256": "b95df68a34205cd5570c53afa9aac8bb519a362b08a0677e8c2129a7ff963587"
+    },
+    {
+      "name": "voiceover-original.wav",
+      "bytes": 9306908,
+      "sha256": "b949ffd68cbfe429ff070c842f39ca92bf4536d010d8d27f2478bad47c964fde"
+    }
+  ]
+}
